@@ -9,7 +9,6 @@ import json
 import os
 from datetime import datetime, timedelta
 from typing import List, Dict, Any
-from dataclasses import asdict
 
 def load_platform_data(platform: str, data_path: str) -> List[Dict]:
     """加载平台数据"""
@@ -35,37 +34,76 @@ def get_all_events_by_date(target_date: str) -> List[Dict]:
     today = datetime.now().strftime('%Y-%m-%d')
     
     if target_date < today:
-        # 历史数据：从archived目录读取
+        # 历史数据：先尝试从archived目录读取
         target_dt = datetime.strptime(target_date, '%Y-%m-%d')
         year, month = target_dt.year, target_dt.month
-        data_path = f"./data/archived/{year}/{month:02d}月"
+        archived_path = f"./data/archived/{year}/{month:02d}月"
+        
+        # 检查archived目录是否存在
+        if os.path.exists(archived_path):
+            # 有历史数据，从archived读取
+            for platform in platforms:
+                events = load_platform_data(platform, archived_path)
+                date_events = [e for e in events if e.get('event_date') == target_date]
+                all_events.extend(date_events)
+        else:
+            # 没有历史数据，跳过历史日期
+            return []
     else:
         # 活跃数据：从current目录读取
-        data_path = "./data/active/current"
-    
-    for platform in platforms:
-        events = load_platform_data(platform, data_path)
-        # 筛选指定日期的事件
-        date_events = [e for e in events if e.get('event_date') == target_date]
-        all_events.extend(date_events)
+        current_path = "./data/active/current"
+        if os.path.exists(current_path):
+            for platform in platforms:
+                events = load_platform_data(platform, current_path)
+                date_events = [e for e in events if e.get('event_date') == target_date]
+                all_events.extend(date_events)
+        else:
+            return []
     
     return all_events
 
 def get_date_range() -> Dict[str, str]:
     """获取数据日期范围"""
-    # 从活跃数据中获取最大日期
     current_path = "./data/active/current"
     platforms = ['cls', 'jiuyangongshe', 'tonghuashun', 'investing', 'eastmoney']
     
     all_dates = []
-    for platform in platforms:
-        events = load_platform_data(platform, current_path)
-        dates = [e.get('event_date') for e in events if e.get('event_date')]
-        all_dates.extend(dates)
     
-    # 历史数据从2025-01-01开始
-    min_date = "2025-01-01"
-    max_date = max(all_dates) if all_dates else datetime.now().strftime('%Y-%m-%d')
+    # 尝试从活跃数据获取日期
+    if os.path.exists(current_path):
+        for platform in platforms:
+            events = load_platform_data(platform, current_path)
+            dates = [e.get('event_date') for e in events if e.get('event_date')]
+            all_dates.extend(dates)
+    
+    # 尝试从历史数据获取日期范围
+    archived_path = "./data/archived"
+    historical_dates = []
+    
+    if os.path.exists(archived_path):
+        for year_dir in os.listdir(archived_path):
+            if year_dir.isdigit():
+                year_path = os.path.join(archived_path, year_dir)
+                for month_dir in os.listdir(year_path):
+                    if month_dir.endswith('月'):
+                        month_path = os.path.join(year_path, month_dir)
+                        for platform in platforms:
+                            events = load_platform_data(platform, month_path)
+                            dates = [e.get('event_date') for e in events if e.get('event_date')]
+                            historical_dates.extend(dates)
+    
+    # 合并所有日期
+    all_dates.extend(historical_dates)
+    
+    if all_dates:
+        min_date = min(all_dates)
+        max_date = max(all_dates)
+    else:
+        # 如果没有数据，使用默认范围
+        today = datetime.now().strftime('%Y-%m-%d')
+        min_date = today
+        max_date = today
+        print("   ⚠️ 未找到任何数据，使用默认日期范围")
     
     return {"start": min_date, "end": max_date}
 
@@ -111,14 +149,27 @@ def main():
     # 确保输出目录存在
     os.makedirs("./web/data/events", exist_ok=True)
     
+    # 检查数据目录是否存在
+    if not os.path.exists("./data"):
+        print("❌ 数据目录不存在，请先运行数据采集脚本")
+        return
+    
     # 获取日期范围
     date_range = get_date_range()
+    
+    if not date_range["start"]:
+        print("❌ 未找到任何数据")
+        return
+    
     start_date = datetime.strptime(date_range["start"], '%Y-%m-%d')
     end_date = datetime.strptime(date_range["end"], '%Y-%m-%d')
+    
+    print(f"📅 数据日期范围: {date_range['start']} 至 {date_range['end']}")
     
     # 生成每日数据文件
     current_date = start_date
     total_files = 0
+    total_events = 0
     
     while current_date <= end_date:
         date_str = current_date.strftime('%Y-%m-%d')
@@ -135,6 +186,8 @@ def main():
                     json.dump(daily_data, f, ensure_ascii=False, indent=2)
                 
                 total_files += 1
+                total_events += len(events)
+                
                 if total_files % 10 == 0:
                     print(f"   已生成 {total_files} 个日期文件...")
         
@@ -160,11 +213,21 @@ def main():
         }
         with open("./web/data/latest.json", 'w', encoding='utf-8') as f:
             json.dump(latest_data, f, ensure_ascii=False, indent=2)
-    except:
-        pass
+    except Exception as e:
+        print(f"   ⚠️ 生成最新摘要失败: {e}")
+        # 创建空的latest.json
+        empty_latest = {
+            "date": today,
+            "total_events": 0,
+            "new_events": 0,
+            "last_updated": datetime.now().isoformat()
+        }
+        with open("./web/data/latest.json", 'w', encoding='utf-8') as f:
+            json.dump(empty_latest, f, ensure_ascii=False, indent=2)
     
     print(f"✅ 静态数据生成完成！")
     print(f"   📁 生成了 {total_files} 个日期文件")
+    print(f"   📊 总计 {total_events} 个事件")
     print(f"   📊 元数据文件: metadata.json")
     print(f"   🔄 最新摘要: latest.json")
 
