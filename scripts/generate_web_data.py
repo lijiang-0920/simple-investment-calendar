@@ -147,7 +147,7 @@ def main():
     print("🔄 开始生成静态网页数据...")
     
     # 确保输出目录存在
-    os.makedirs("./web/data/events", exist_ok=True)
+    os.makedirs("./docs/data/events", exist_ok=True)
     
     # 检查数据目录是否存在
     if not os.path.exists("./data"):
@@ -181,7 +181,7 @@ def main():
                 daily_data = generate_daily_json(date_str, events)
                 
                 # 保存日期文件
-                file_path = f"./web/data/events/{date_str}.json"
+                file_path = f"./docs/data/events/{date_str}.json"
                 with open(file_path, 'w', encoding='utf-8') as f:
                     json.dump(daily_data, f, ensure_ascii=False, indent=2)
                 
@@ -198,7 +198,7 @@ def main():
     
     # 生成元数据文件
     metadata = generate_metadata()
-    with open("./web/data/metadata.json", 'w', encoding='utf-8') as f:
+    with open("./docs/data/metadata.json", 'w', encoding='utf-8') as f:
         json.dump(metadata, f, ensure_ascii=False, indent=2)
     
     # 生成最新数据摘要
@@ -211,7 +211,7 @@ def main():
             "new_events": len([e for e in today_events if e.get('is_new', False)]),
             "last_updated": datetime.now().isoformat()
         }
-        with open("./web/data/latest.json", 'w', encoding='utf-8') as f:
+        with open("./docs/data/latest.json", 'w', encoding='utf-8') as f:
             json.dump(latest_data, f, ensure_ascii=False, indent=2)
     except Exception as e:
         print(f"   ⚠️ 生成最新摘要失败: {e}")
@@ -222,7 +222,7 @@ def main():
             "new_events": 0,
             "last_updated": datetime.now().isoformat()
         }
-        with open("./web/data/latest.json", 'w', encoding='utf-8') as f:
+        with open("./docs/data/latest.json", 'w', encoding='utf-8') as f:
             json.dump(empty_latest, f, ensure_ascii=False, indent=2)
     
     print(f"✅ 静态数据生成完成！")
