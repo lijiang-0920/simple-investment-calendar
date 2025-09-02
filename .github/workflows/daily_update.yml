@@ -1,0 +1,53 @@
+name: Daily Calendar Update
+
+on:
+  schedule:
+    - cron: '0 2 * * *'  # 每天凌晨2点运行
+  workflow_dispatch:      # 手动触发
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+        
+    - name: Install dependencies
+      run: |
+        pip install requests beautifulsoup4
+        
+    - name: Check if first run
+      id: check_data
+      run: |
+        if [ ! -d "./data/active/current" ] || [ -z "$(ls -A ./data/active/current/ 2>/dev/null)" ]; then
+          echo "first_run=true" >> $GITHUB_OUTPUT
+        else
+          echo "first_run=false" >> $GITHUB_OUTPUT
+        fi
+        
+    - name: Run historical data collection (first time only)
+      if: steps.check_data.outputs.first_run == 'true'
+      run: |
+        python scripts/historical_collector.py
+        
+    - name: Run daily data collection
+      run: |
+        python scripts/daily_calendar.py --daily
+        
+    - name: Generate web data
+      run: |
+        python scripts/generate_web_data.py
+        
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git diff --staged --quiet || git commit -m "Daily update: $(date +'%Y-%m-%d %H:%M')"
+        git push
