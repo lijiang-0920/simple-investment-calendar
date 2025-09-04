@@ -1,14 +1,14 @@
 {
   "date": "2025-10-29",
-  "total_events": 7,
-  "new_events": 0,
+  "total_events": 8,
+  "new_events": 1,
   "platforms": {
-    "eastmoney": 7
+    "eastmoney": 8
   },
   "events": [
     {
       "platform": "eastmoney",
-      "event_id": "em_xsap_20251029_-85778902977175767",
+      "event_id": "em_xsap_20251029_4794586885000350658",
       "original_id": "xsap_港股_2025-10-29",
       "event_date": "2025-10-29",
       "event_time": null,
@@ -24,7 +24,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-03",
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "MKT": "港股",
         "HOLIDAY": "重阳节",
@@ -33,11 +33,11 @@
         "XS": null,
         "FIRST_LETTER": "G"
       },
-      "created_at": "2025-09-03T01:25:25.253712"
+      "created_at": "2025-09-04T00:47:11.058226"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_xsap_20251029_-85778902977175767",
+      "event_id": "em_xsap_20251029_4794586885000350658",
       "original_id": "xsap_沪股通、深股通_2025-10-29",
       "event_date": "2025-10-29",
       "event_time": null,
@@ -53,7 +53,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-03",
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "MKT": "沪股通、深股通",
         "HOLIDAY": "重阳节",
@@ -62,11 +62,11 @@
         "XS": null,
         "FIRST_LETTER": "H"
       },
-      "created_at": "2025-09-03T01:25:25.253719"
+      "created_at": "2025-09-04T00:47:11.058233"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_xsap_20251029_-85778902977175767",
+      "event_id": "em_xsap_20251029_4794586885000350658",
       "original_id": "xsap_港股通(沪)、港股通(深)_2025-10-29",
       "event_date": "2025-10-29",
       "event_time": null,
@@ -82,7 +82,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-03",
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "MKT": "港股通(沪)、港股通(深)",
         "HOLIDAY": "重阳节",
@@ -91,11 +91,36 @@
         "XS": null,
         "FIRST_LETTER": "G"
       },
-      "created_at": "2025-09-03T01:25:25.253727"
+      "created_at": "2025-09-04T00:47:11.058240"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251029093000_8976611888709525312",
+      "event_id": "em_jjsj_20251029000000_6723967674296035771",
+      "original_id": "2025-10-29 00:00:00_马来西亚：PPI：同比(报告期:2025年09月)",
+      "event_date": "2025-10-29",
+      "event_time": null,
+      "event_datetime": "2025-10-29 00:00:00",
+      "title": "马来西亚：PPI：同比(报告期:2025年09月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "马来西亚",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-04",
+      "raw_data": {
+        "Name": "马来西亚：PPI：同比(报告期:2025年09月)",
+        "City": "马来西亚"
+      },
+      "created_at": "2025-09-04T00:47:11.061354"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251029093000_4148679186608693980",
       "original_id": "2025-10-29 09:30:00_澳大利亚：CPI：同比(报告期:2025年09月)",
       "event_date": "2025-10-29",
       "event_time": "09:30:00",
@@ -111,16 +136,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-03",
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "Name": "澳大利亚：CPI：同比(报告期:2025年09月)",
         "City": "澳大利亚"
       },
-      "created_at": "2025-09-03T01:25:25.256743"
+      "created_at": "2025-09-04T00:47:11.061361"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251029093000_6161903524945413537",
+      "event_id": "em_jjsj_20251029093000_-8262022497344184625",
       "original_id": "2025-10-29 09:30:00_澳大利亚：CPI：环比(报告期:2025年09月)",
       "event_date": "2025-10-29",
       "event_time": "09:30:00",
@@ -136,16 +161,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-03",
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "Name": "澳大利亚：CPI：环比(报告期:2025年09月)",
         "City": "澳大利亚"
       },
-      "created_at": "2025-09-03T01:25:25.256750"
+      "created_at": "2025-09-04T00:47:11.061368"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251029214500_5171270621033243613",
+      "event_id": "em_jjsj_20251029214500_-4342276339142072964",
       "original_id": "2025-10-29 21:45:00_加拿大：央行公布利率决议(报告期:2025年10月)",
       "event_date": "2025-10-29",
       "event_time": "21:45:00",
@@ -161,16 +186,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-03",
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "Name": "加拿大：央行公布利率决议(报告期:2025年10月)",
         "City": "加拿大"
       },
-      "created_at": "2025-09-03T01:25:25.256757"
+      "created_at": "2025-09-04T00:47:11.061376"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251029220000_2875952476192318430",
+      "event_id": "em_jjsj_20251029220000_-2513619342191830259",
       "original_id": "2025-10-29 22:00:00_美国：成屋签约销售指数(报告期:2025年09月)",
       "event_date": "2025-10-29",
       "event_time": "22:00:00",
@@ -186,12 +211,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-03",
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "Name": "美国：成屋签约销售指数(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-09-03T01:25:25.256765"
+      "created_at": "2025-09-04T00:47:11.061384"
     }
   ]
 }

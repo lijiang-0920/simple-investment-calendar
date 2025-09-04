@@ -1,12 +1,42 @@
 {
   "date": "2025-09-13",
-  "total_events": 6,
-  "new_events": 0,
+  "total_events": 7,
+  "new_events": 1,
   "platforms": {
-    "investing": 2,
+    "investing": 3,
     "eastmoney": 4
   },
   "events": [
+    {
+      "platform": "investing",
+      "event_id": "inv__20250913000000",
+      "original_id": "eventRowId_531167",
+      "event_date": "2025-09-13",
+      "event_time": "00:00",
+      "event_datetime": "2025/09/13 00:00:00",
+      "title": "美国农业部世界农产品供需预测报告",
+      "content": null,
+      "category": null,
+      "importance": 2,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-04",
+      "raw_data": {
+        "event_id": "eventRowId_531167",
+        "event_attr_id": "",
+        "datetime": "2025/09/13 00:00:00",
+        "time": "00:00",
+        "country": "美国",
+        "importance": 2,
+        "event_name": "美国农业部世界农产品供需预测报告"
+      },
+      "created_at": "2025-09-04T00:46:54.597323"
+    },
     {
       "platform": "investing",
       "event_id": "inv__20250913010000",
@@ -25,7 +55,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-03",
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "event_id": "eventRowId_531014",
         "event_attr_id": "",
@@ -35,7 +65,7 @@
         "importance": 2,
         "event_name": "美国当周贝克休斯石油钻井总数(口)"
       },
-      "created_at": "2025-09-03T01:25:07.900610"
+      "created_at": "2025-09-04T00:46:54.597454"
     },
     {
       "platform": "investing",
@@ -55,7 +85,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-03",
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "event_id": "eventRowId_531015",
         "event_attr_id": "",
@@ -65,11 +95,11 @@
         "importance": 2,
         "event_name": "美国当周贝克休斯总钻井总数(口)"
       },
-      "created_at": "2025-09-03T01:25:07.900769"
+      "created_at": "2025-09-04T00:46:54.597573"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20250913000000_-8368813036282991355",
+      "event_id": "em_jjsj_20250913000000_-6100796520551102138",
       "original_id": "2025-09-13 00:00:00_美国：预测年度:大豆:产量(报告期:2025年09月)",
       "event_date": "2025-09-13",
       "event_time": null,
@@ -85,16 +115,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-03",
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "Name": "美国：预测年度:大豆:产量(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-09-03T01:25:25.254661"
+      "created_at": "2025-09-04T00:47:11.059160"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20250913000000_8118967264682643959",
+      "event_id": "em_jjsj_20250913000000_-3387633726269570940",
       "original_id": "2025-09-13 00:00:00_美国：预测年度:棉花:产量(报告期:2025年09月)",
       "event_date": "2025-09-13",
       "event_time": null,
@@ -110,16 +140,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-03",
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "Name": "美国：预测年度:棉花:产量(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-09-03T01:25:25.254670"
+      "created_at": "2025-09-04T00:47:11.059167"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20250913000000_-2816168341370287026",
+      "event_id": "em_jjsj_20250913000000_866572411229762180",
       "original_id": "2025-09-13 00:00:00_美国：预测年度:小麦:产量(报告期:2025年09月)",
       "event_date": "2025-09-13",
       "event_time": null,
@@ -135,16 +165,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-03",
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "Name": "美国：预测年度:小麦:产量(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-09-03T01:25:25.254677"
+      "created_at": "2025-09-04T00:47:11.059174"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20250913000000_-6646098709584182625",
+      "event_id": "em_jjsj_20250913000000_8833705798960085945",
       "original_id": "2025-09-13 00:00:00_美国：预测年度:玉米:产量(报告期:2025年09月)",
       "event_date": "2025-09-13",
       "event_time": null,
@@ -160,12 +190,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-03",
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "Name": "美国：预测年度:玉米:产量(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-09-03T01:25:25.254685"
+      "created_at": "2025-09-04T00:47:11.059182"
     }
   ]
 }

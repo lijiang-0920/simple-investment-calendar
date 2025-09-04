@@ -1,14 +1,46 @@
 {
   "date": "2025-10-03",
-  "total_events": 14,
-  "new_events": 0,
+  "total_events": 17,
+  "new_events": 3,
   "platforms": {
-    "eastmoney": 14
+    "investing": 1,
+    "eastmoney": 16
   },
   "events": [
     {
+      "platform": "investing",
+      "event_id": "inv__20251003151500",
+      "original_id": "eventRowId_531214",
+      "event_date": "2025-10-03",
+      "event_time": "15:15",
+      "event_datetime": "2025/10/03 15:15:00",
+      "title": "南非汇丰综合PMI  (七月)",
+      "content": "前值: 50.3",
+      "category": null,
+      "importance": 1,
+      "country": "南非",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-04",
+      "raw_data": {
+        "event_id": "eventRowId_531214",
+        "event_attr_id": "",
+        "datetime": "2025/10/03 15:15:00",
+        "time": "15:15",
+        "country": "南非",
+        "importance": 1,
+        "event_name": "南非汇丰综合PMI  (七月)",
+        "previous": "50.3"
+      },
+      "created_at": "2025-09-04T00:46:57.441876"
+    },
+    {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251003000000_3806779742364377660",
+      "event_id": "em_jjsj_20251003000000_-5938002586892758099",
       "original_id": "2025-10-03 00:00:00_中国澳门：M2(报告期:2025年08月)",
       "event_date": "2025-10-03",
       "event_time": null,
@@ -24,16 +56,66 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-03",
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "Name": "中国澳门：M2(报告期:2025年08月)",
         "City": "中国澳门"
       },
-      "created_at": "2025-09-03T01:25:25.255713"
+      "created_at": "2025-09-04T00:47:11.060260"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251003163000_669272026719144951",
+      "event_id": "em_jjsj_20251003000000_-919291618193266363",
+      "original_id": "2025-10-03 00:00:00_日本：失业率：季调(报告期:2025年08月)",
+      "event_date": "2025-10-03",
+      "event_time": null,
+      "event_datetime": "2025-10-03 00:00:00",
+      "title": "日本：失业率：季调(报告期:2025年08月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-04",
+      "raw_data": {
+        "Name": "日本：失业率：季调(报告期:2025年08月)",
+        "City": "日本"
+      },
+      "created_at": "2025-09-04T00:47:11.060267"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251003000000_-1925654011757730538",
+      "original_id": "2025-10-03 00:00:00_日本：失业率(报告期:2025年08月)",
+      "event_date": "2025-10-03",
+      "event_time": null,
+      "event_datetime": "2025-10-03 00:00:00",
+      "title": "日本：失业率(报告期:2025年08月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-04",
+      "raw_data": {
+        "Name": "日本：失业率(报告期:2025年08月)",
+        "City": "日本"
+      },
+      "created_at": "2025-09-04T00:47:11.060274"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251003163000_2105425276053609057",
       "original_id": "2025-10-03 16:30:00_英国：央行外币储备(报告期:2025年09月)",
       "event_date": "2025-10-03",
       "event_time": "16:30:00",
@@ -49,16 +131,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-03",
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "Name": "英国：央行外币储备(报告期:2025年09月)",
         "City": "英国"
       },
-      "created_at": "2025-09-03T01:25:25.255720"
+      "created_at": "2025-09-04T00:47:11.060282"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251003170000_-8524180753762335623",
+      "event_id": "em_jjsj_20251003170000_6171965125805311150",
       "original_id": "2025-10-03 17:00:00_欧盟:PPI:当月同比(报告期:2025年08月)",
       "event_date": "2025-10-03",
       "event_time": "17:00:00",
@@ -74,16 +156,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-03",
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "Name": "欧盟:PPI:当月同比(报告期:2025年08月)",
         "City": "欧盟"
       },
-      "created_at": "2025-09-03T01:25:25.255728"
+      "created_at": "2025-09-04T00:47:11.060290"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251003203000_7546267348092250510",
+      "event_id": "em_jjsj_20251003203000_3220334711654033936",
       "original_id": "2025-10-03 20:30:00_美国：新增非农就业人数：当月值：季调(报告期:2025年09月)",
       "event_date": "2025-10-03",
       "event_time": "20:30:00",
@@ -99,16 +181,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-03",
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "Name": "美国：新增非农就业人数：当月值：季调(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-09-03T01:25:25.255736"
+      "created_at": "2025-09-04T00:47:11.060298"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251003203000_-1201550911229861339",
+      "event_id": "em_jjsj_20251003203000_8034325794637387803",
       "original_id": "2025-10-03 20:30:00_美国：失业率：季调(报告期:2025年09月)",
       "event_date": "2025-10-03",
       "event_time": "20:30:00",
@@ -124,16 +206,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-03",
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "Name": "美国：失业率：季调(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-09-03T01:25:25.255744"
+      "created_at": "2025-09-04T00:47:11.060305"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251003203000_5315606558220864287",
+      "event_id": "em_jjsj_20251003203000_6554813035351521590",
       "original_id": "2025-10-03 20:30:00_美国：新增就业人数：季调(报告期:2025年09月)",
       "event_date": "2025-10-03",
       "event_time": "20:30:00",
@@ -149,16 +231,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-03",
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "Name": "美国：新增就业人数：季调(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-09-03T01:25:25.255751"
+      "created_at": "2025-09-04T00:47:11.060312"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251003203000_3894510200412529946",
+      "event_id": "em_jjsj_20251003203000_7064546000195631896",
       "original_id": "2025-10-03 20:30:00_美国：制造业平均小时工资(报告期:2025年09月)",
       "event_date": "2025-10-03",
       "event_time": "20:30:00",
@@ -174,16 +256,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-03",
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "Name": "美国：制造业平均小时工资(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-09-03T01:25:25.255758"
+      "created_at": "2025-09-04T00:47:11.060319"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251003203000_2176617491284314233",
+      "event_id": "em_jjsj_20251003203000_6910469421369504551",
       "original_id": "2025-10-03 20:30:00_美国：平均每周制造业工作时间：季调(报告期:2025年09月)",
       "event_date": "2025-10-03",
       "event_time": "20:30:00",
@@ -199,16 +281,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-03",
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "Name": "美国：平均每周制造业工作时间：季调(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-09-03T01:25:25.255765"
+      "created_at": "2025-09-04T00:47:11.060326"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251003220000_6607482331943221971",
+      "event_id": "em_jjsj_20251003220000_9062597063464887021",
       "original_id": "2025-10-03 22:00:00_美国：ISM：非制造业PMI：新订单(报告期:2025年09月)",
       "event_date": "2025-10-03",
       "event_time": "22:00:00",
@@ -224,16 +306,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-03",
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "Name": "美国：ISM：非制造业PMI：新订单(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-09-03T01:25:25.255773"
+      "created_at": "2025-09-04T00:47:11.060334"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251003220000_85366097552856028",
+      "event_id": "em_jjsj_20251003220000_-3090984991997006047",
       "original_id": "2025-10-03 22:00:00_美国：ISM：非制造业PMI：就业(报告期:2025年09月)",
       "event_date": "2025-10-03",
       "event_time": "22:00:00",
@@ -249,16 +331,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-03",
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "Name": "美国：ISM：非制造业PMI：就业(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-09-03T01:25:25.255780"
+      "created_at": "2025-09-04T00:47:11.060341"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251003220000_4683883368161340770",
+      "event_id": "em_jjsj_20251003220000_2934509735913538328",
       "original_id": "2025-10-03 22:00:00_美国：ISM：服务业PMI(报告期:2025年09月)",
       "event_date": "2025-10-03",
       "event_time": "22:00:00",
@@ -274,16 +356,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-03",
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "Name": "美国：ISM：服务业PMI(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-09-03T01:25:25.255787"
+      "created_at": "2025-09-04T00:47:11.060349"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251003220000_1889030369891947011",
+      "event_id": "em_jjsj_20251003220000_-497605002742556894",
       "original_id": "2025-10-03 22:00:00_美国：ISM：非制造业PMI：库存(报告期:2025年09月)",
       "event_date": "2025-10-03",
       "event_time": "22:00:00",
@@ -299,16 +381,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-03",
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "Name": "美国：ISM：非制造业PMI：库存(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-09-03T01:25:25.255794"
+      "created_at": "2025-09-04T00:47:11.060356"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251003220000_-8380502774655807116",
+      "event_id": "em_jjsj_20251003220000_-544308180161655539",
       "original_id": "2025-10-03 22:00:00_美国：ISM：非制造业PMI：供应商交付(报告期:2025年09月)",
       "event_date": "2025-10-03",
       "event_time": "22:00:00",
@@ -324,16 +406,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-03",
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "Name": "美国：ISM：非制造业PMI：供应商交付(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-09-03T01:25:25.255802"
+      "created_at": "2025-09-04T00:47:11.060363"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251003220000_-5343067120902429943",
+      "event_id": "em_jjsj_20251003220000_-6717885312356949032",
       "original_id": "2025-10-03 22:00:00_美国：ISM：非制造业PMI：物价(报告期:2025年09月)",
       "event_date": "2025-10-03",
       "event_time": "22:00:00",
@@ -349,12 +431,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-03",
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "Name": "美国：ISM：非制造业PMI：物价(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-09-03T01:25:25.255809"
+      "created_at": "2025-09-04T00:47:11.060370"
     }
   ]
 }

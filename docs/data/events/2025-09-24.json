@@ -1,13 +1,13 @@
 {
   "date": "2025-09-24",
-  "total_events": 15,
-  "new_events": 5,
+  "total_events": 24,
+  "new_events": 10,
   "platforms": {
     "cls": 3,
     "jiuyangongshe": 2,
-    "tonghuashun": 2,
-    "investing": 5,
-    "eastmoney": 3
+    "tonghuashun": 1,
+    "investing": 13,
+    "eastmoney": 5
   },
   "events": [
     {
@@ -28,7 +28,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-03",
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "id": 313800,
         "calendar_time": "2025-09-24 00:00:00",
@@ -44,7 +44,7 @@
         "holiday": null,
         "title": "2025云栖大会将于9月24日至26日举办"
       },
-      "created_at": "2025-09-03T01:24:51.279524"
+      "created_at": "2025-09-04T00:46:40.738655"
     },
     {
       "platform": "cls",
@@ -64,7 +64,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-03",
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "id": 313787,
         "calendar_time": "2025-09-24 18:30:00",
@@ -80,7 +80,7 @@
         "holiday": null,
         "title": "俄罗斯央行公布货币政策会议纪要"
       },
-      "created_at": "2025-09-03T01:24:51.279533"
+      "created_at": "2025-09-04T00:46:40.738664"
     },
     {
       "platform": "cls",
@@ -100,7 +100,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-03",
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "id": 313758,
         "calendar_time": "2025-09-24 22:30:00",
@@ -125,7 +125,7 @@
         "holiday": null,
         "title": "美国至9月19日当周EIA原油库存(万桶)"
       },
-      "created_at": "2025-09-03T01:24:51.279543"
+      "created_at": "2025-09-04T00:46:40.738674"
     },
     {
       "platform": "jiuyangongshe",
@@ -145,7 +145,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-03",
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "article_id": "10tpmr15cfm",
         "user_id": "00525773fe47467cac470afac1e73909",
@@ -170,7 +170,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-09-03T01:24:53.262388"
+      "created_at": "2025-09-04T00:46:42.523106"
     },
     {
       "platform": "jiuyangongshe",
@@ -190,7 +190,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-03",
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "article_id": "0ff0326c642b4fe89123513d11dd18a7",
         "user_id": "1",
@@ -215,7 +215,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-09-03T01:24:53.262395"
+      "created_at": "2025-09-04T00:46:42.523112"
     },
     {
       "platform": "tonghuashun",
@@ -240,7 +240,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-03",
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "event": [
           "2025云栖大会将于9月24日至26日举办",
@@ -256,48 +256,7 @@
           }
         ]
       },
-      "created_at": "2025-09-03T01:25:01.088181"
-    },
-    {
-      "platform": "tonghuashun",
-      "event_id": "ths_20250924_1_28527de1",
-      "original_id": "2025-09-24_1",
-      "event_date": "2025-09-24",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "2025云栖大会将于9月24日至26日举办",
-      "content": null,
-      "category": null,
-      "importance": 3,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [
-        {
-          "code": "885728",
-          "name": "人工智能"
-        }
-      ],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-03",
-      "raw_data": {
-        "event": [
-          "2025云栖大会将于9月24日至26日举办",
-          "",
-          "",
-          ""
-        ],
-        "concept": [
-          {
-            "code": "885728",
-            "name": "人工智能",
-            "py": "rgzn"
-          }
-        ]
-      },
-      "created_at": "2025-09-03T01:25:01.088190"
+      "created_at": "2025-09-04T00:46:48.849575"
     },
     {
       "platform": "investing",
@@ -316,8 +275,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-03",
+      "is_new": false,
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "event_id": "eventRowId_531095",
         "event_attr_id": "",
@@ -328,7 +287,7 @@
         "event_name": "韩国消费者信心指数  (九月)",
         "previous": "111.4"
       },
-      "created_at": "2025-09-03T01:25:09.500472"
+      "created_at": "2025-09-04T00:46:56.346796"
     },
     {
       "platform": "investing",
@@ -347,8 +306,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-03",
+      "is_new": false,
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "event_id": "eventRowId_531096",
         "event_attr_id": "",
@@ -359,7 +318,7 @@
         "event_name": "澳大利亚RBA加权中值CPI季率(%) (同比)  (八月)",
         "previous": "2.80%"
       },
-      "created_at": "2025-09-03T01:25:09.500604"
+      "created_at": "2025-09-04T00:46:56.346955"
     },
     {
       "platform": "investing",
@@ -378,8 +337,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-03",
+      "is_new": false,
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "event_id": "eventRowId_531097",
         "event_attr_id": "",
@@ -390,7 +349,7 @@
         "event_name": "Manufacturing & Services PMI (月度环比)  (九月)",
         "previous": "52.00%"
       },
-      "created_at": "2025-09-03T01:25:09.500740"
+      "created_at": "2025-09-04T00:46:56.347076"
     },
     {
       "platform": "investing",
@@ -409,8 +368,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-03",
+      "is_new": false,
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "event_id": "eventRowId_531099",
         "event_attr_id": "",
@@ -421,7 +380,7 @@
         "event_name": "日本日经/Markit制造业PMI  (九月)",
         "previous": "49.7"
       },
-      "created_at": "2025-09-03T01:25:09.500861"
+      "created_at": "2025-09-04T00:46:56.347190"
     },
     {
       "platform": "investing",
@@ -440,8 +399,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-03",
+      "is_new": false,
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "event_id": "eventRowId_531098",
         "event_attr_id": "",
@@ -452,11 +411,309 @@
         "event_name": "日本服务业PMI  (九月)",
         "previous": "53.1"
       },
-      "created_at": "2025-09-03T01:25:09.500976"
+      "created_at": "2025-09-04T00:46:56.347304"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20250924160000",
+      "original_id": "eventRowId_531189",
+      "event_date": "2025-09-24",
+      "event_time": "16:00",
+      "event_datetime": "2025/09/24 16:00:00",
+      "title": "瑞士ZEW投资者信心指数  (九月)",
+      "content": "前值: -53.8",
+      "category": null,
+      "importance": 1,
+      "country": "瑞士",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-04",
+      "raw_data": {
+        "event_id": "eventRowId_531189",
+        "event_attr_id": "",
+        "datetime": "2025/09/24 16:00:00",
+        "time": "16:00",
+        "country": "瑞士",
+        "importance": 1,
+        "event_name": "瑞士ZEW投资者信心指数  (九月)",
+        "previous": "-53.8"
+      },
+      "created_at": "2025-09-04T00:46:56.347416"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20250924160000",
+      "original_id": "eventRowId_531190",
+      "event_date": "2025-09-24",
+      "event_time": "16:00",
+      "event_datetime": "2025/09/24 16:00:00",
+      "title": "德国IFO商业预期指数  (九月)",
+      "content": "前值: 91.6",
+      "category": null,
+      "importance": 2,
+      "country": "德国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-04",
+      "raw_data": {
+        "event_id": "eventRowId_531190",
+        "event_attr_id": "",
+        "datetime": "2025/09/24 16:00:00",
+        "time": "16:00",
+        "country": "德国",
+        "importance": 2,
+        "event_name": "德国IFO商业预期指数  (九月)",
+        "previous": "91.6"
+      },
+      "created_at": "2025-09-04T00:46:56.347527"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20250924160000",
+      "original_id": "eventRowId_531191",
+      "event_date": "2025-09-24",
+      "event_time": "16:00",
+      "event_datetime": "2025/09/24 16:00:00",
+      "title": "德国IFO商业现况指数  (九月)",
+      "content": "前值: 86.4",
+      "category": null,
+      "importance": 2,
+      "country": "德国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-04",
+      "raw_data": {
+        "event_id": "eventRowId_531191",
+        "event_attr_id": "",
+        "datetime": "2025/09/24 16:00:00",
+        "time": "16:00",
+        "country": "德国",
+        "importance": 2,
+        "event_name": "德国IFO商业现况指数  (九月)",
+        "previous": "86.4"
+      },
+      "created_at": "2025-09-04T00:46:56.347663"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20250924160000",
+      "original_id": "eventRowId_531192",
+      "event_date": "2025-09-24",
+      "event_time": "16:00",
+      "event_datetime": "2025/09/24 16:00:00",
+      "title": "德国IFO商业景气指数  (九月)",
+      "content": "前值: 89.0",
+      "category": null,
+      "importance": 2,
+      "country": "德国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-04",
+      "raw_data": {
+        "event_id": "eventRowId_531192",
+        "event_attr_id": "",
+        "datetime": "2025/09/24 16:00:00",
+        "time": "16:00",
+        "country": "德国",
+        "importance": 2,
+        "event_name": "德国IFO商业景气指数  (九月)",
+        "previous": "89.0"
+      },
+      "created_at": "2025-09-04T00:46:56.347785"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20250924160000",
+      "original_id": "eventRowId_531193",
+      "event_date": "2025-09-24",
+      "event_time": "16:00",
+      "event_datetime": "2025/09/24 16:00:00",
+      "title": "中国台湾地区工业产出指数年率(%) (同比)  (八月)",
+      "content": "前值: 18.11%",
+      "category": null,
+      "importance": 1,
+      "country": "中国台湾",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-04",
+      "raw_data": {
+        "event_id": "eventRowId_531193",
+        "event_attr_id": "",
+        "datetime": "2025/09/24 16:00:00",
+        "time": "16:00",
+        "country": "中国台湾",
+        "importance": 1,
+        "event_name": "中国台湾地区工业产出指数年率(%) (同比)  (八月)",
+        "previous": "18.11%"
+      },
+      "created_at": "2025-09-04T00:46:56.347906"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20250924190000",
+      "original_id": "eventRowId_531197",
+      "event_date": "2025-09-24",
+      "event_time": "19:00",
+      "event_datetime": "2025/09/24 19:00:00",
+      "title": "巴西瓦加斯基金会(FGV)消费者信心  (九月)",
+      "content": "前值: 86.2",
+      "category": null,
+      "importance": 1,
+      "country": "巴西",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-04",
+      "raw_data": {
+        "event_id": "eventRowId_531197",
+        "event_attr_id": "",
+        "datetime": "2025/09/24 19:00:00",
+        "time": "19:00",
+        "country": "巴西",
+        "importance": 1,
+        "event_name": "巴西瓦加斯基金会(FGV)消费者信心  (九月)",
+        "previous": "86.2"
+      },
+      "created_at": "2025-09-04T00:46:56.348019"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20250924220000",
+      "original_id": "eventRowId_531210",
+      "event_date": "2025-09-24",
+      "event_time": "22:00",
+      "event_datetime": "2025/09/24 22:00:00",
+      "title": "美国季调后新屋销售年化总数(户)  (八月)",
+      "content": "前值: 652K",
+      "category": null,
+      "importance": 3,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-04",
+      "raw_data": {
+        "event_id": "eventRowId_531210",
+        "event_attr_id": "",
+        "datetime": "2025/09/24 22:00:00",
+        "time": "22:00",
+        "country": "美国",
+        "importance": 3,
+        "event_name": "美国季调后新屋销售年化总数(户)  (八月)",
+        "previous": "652K"
+      },
+      "created_at": "2025-09-04T00:46:56.348135"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20250924220000",
+      "original_id": "eventRowId_531211",
+      "event_date": "2025-09-24",
+      "event_time": "22:00",
+      "event_datetime": "2025/09/24 22:00:00",
+      "title": "美国季调后新屋销售年化月率(%) (月度环比)  (八月)",
+      "content": "前值: -0.6%",
+      "category": null,
+      "importance": 2,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-04",
+      "raw_data": {
+        "event_id": "eventRowId_531211",
+        "event_attr_id": "",
+        "datetime": "2025/09/24 22:00:00",
+        "time": "22:00",
+        "country": "美国",
+        "importance": 2,
+        "event_name": "美国季调后新屋销售年化月率(%) (月度环比)  (八月)",
+        "previous": "-0.6%"
+      },
+      "created_at": "2025-09-04T00:46:56.348247"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20250924220000_8778706614800809461",
+      "event_id": "em_jjsj_20250924163000_1551474235088195364",
+      "original_id": "2025-09-24 16:30:00_德国：Ifo商业景气指数(报告期:2025年09月)",
+      "event_date": "2025-09-24",
+      "event_time": "16:30:00",
+      "event_datetime": "2025-09-24 16:30:00",
+      "title": "德国：Ifo商业景气指数(报告期:2025年09月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "德国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-04",
+      "raw_data": {
+        "Name": "德国：Ifo商业景气指数(报告期:2025年09月)",
+        "City": "德国"
+      },
+      "created_at": "2025-09-04T00:47:11.059894"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20250924163000_895247573987567630",
+      "original_id": "2025-09-24 16:30:00_德国：Ifo现况指数(报告期:2025年09月)",
+      "event_date": "2025-09-24",
+      "event_time": "16:30:00",
+      "event_datetime": "2025-09-24 16:30:00",
+      "title": "德国：Ifo现况指数(报告期:2025年09月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "德国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-04",
+      "raw_data": {
+        "Name": "德国：Ifo现况指数(报告期:2025年09月)",
+        "City": "德国"
+      },
+      "created_at": "2025-09-04T00:47:11.059901"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20250924220000_-3779069958374215693",
       "original_id": "2025-09-24 22:00:00_美国：新建住房销售(报告期:2025年08月)",
       "event_date": "2025-09-24",
       "event_time": "22:00:00",
@@ -472,16 +729,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-03",
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "Name": "美国：新建住房销售(报告期:2025年08月)",
         "City": "美国"
       },
-      "created_at": "2025-09-03T01:25:25.255357"
+      "created_at": "2025-09-04T00:47:11.059909"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20250924220000_-355980978255983720",
+      "event_id": "em_jjsj_20250924220000_7005415539350104226",
       "original_id": "2025-09-24 22:00:00_美国：新建住房销售：环比(报告期:2025年08月)",
       "event_date": "2025-09-24",
       "event_time": "22:00:00",
@@ -497,12 +754,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-03",
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "Name": "美国：新建住房销售：环比(报告期:2025年08月)",
         "City": "美国"
       },
-      "created_at": "2025-09-03T01:25:25.255364"
+      "created_at": "2025-09-04T00:47:11.059916"
     },
     {
       "platform": "eastmoney",
@@ -522,7 +779,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-03",
+      "discovery_date": "2025-09-04",
       "raw_data": {
         "fe_code": "10864712",
         "fe_name": "2025云栖大会",
@@ -533,7 +790,7 @@
         "city": "杭州",
         "content": "2025云栖大会是由阿里云主办的科技会议,于2025年9月24日至26日在杭州云栖小镇国际会展中心举办。"
       },
-      "created_at": "2025-09-03T01:25:25.258100"
+      "created_at": "2025-09-04T00:47:11.062662"
     }
   ]
 }
