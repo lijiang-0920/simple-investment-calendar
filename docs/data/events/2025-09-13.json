@@ -1,12 +1,58 @@
 {
   "date": "2025-09-13",
-  "total_events": 7,
+  "total_events": 8,
   "new_events": 1,
   "platforms": {
+    "jiuyangongshe": 1,
     "investing": 3,
     "eastmoney": 4
   },
   "events": [
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_933286784998428980866379c0e9b401_38a0684686e44309be612aaa457992b4_20250913",
+      "original_id": "933286784998428980866379c0e9b401",
+      "event_date": "2025-09-13",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025新鸥鹏重庆城市足球超级联赛",
+      "content": "“新韵重庆 渝超同行”2025新鸥鹏重庆城市足球超级联赛将于9月13日正式拉开帷幕。",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-05",
+      "raw_data": {
+        "article_id": "933286784998428980866379c0e9b401",
+        "user_id": "1",
+        "title": "2025新鸥鹏重庆城市足球超级联赛",
+        "content": "“新韵重庆 渝超同行”2025新鸥鹏重庆城市足球超级联赛将于9月13日正式拉开帷幕。",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "933286784998428980866379c0e9b401",
+          "timeline_id": "38a0684686e44309be612aaa457992b4",
+          "date": "2025-09-13",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-09-04 22:41:54",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-09-05T00:48:08.442812"
+    },
     {
       "platform": "investing",
       "event_id": "inv__20250913000000",
@@ -24,8 +70,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-04",
+      "is_new": false,
+      "discovery_date": "2025-09-05",
       "raw_data": {
         "event_id": "eventRowId_531167",
         "event_attr_id": "",
@@ -35,7 +81,7 @@
         "importance": 2,
         "event_name": "美国农业部世界农产品供需预测报告"
       },
-      "created_at": "2025-09-04T00:46:54.597323"
+      "created_at": "2025-09-05T00:48:22.391627"
     },
     {
       "platform": "investing",
@@ -55,7 +101,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-04",
+      "discovery_date": "2025-09-05",
       "raw_data": {
         "event_id": "eventRowId_531014",
         "event_attr_id": "",
@@ -65,7 +111,7 @@
         "importance": 2,
         "event_name": "美国当周贝克休斯石油钻井总数(口)"
       },
-      "created_at": "2025-09-04T00:46:54.597454"
+      "created_at": "2025-09-05T00:48:22.391761"
     },
     {
       "platform": "investing",
@@ -85,7 +131,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-04",
+      "discovery_date": "2025-09-05",
       "raw_data": {
         "event_id": "eventRowId_531015",
         "event_attr_id": "",
@@ -95,11 +141,11 @@
         "importance": 2,
         "event_name": "美国当周贝克休斯总钻井总数(口)"
       },
-      "created_at": "2025-09-04T00:46:54.597573"
+      "created_at": "2025-09-05T00:48:22.391874"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20250913000000_-6100796520551102138",
+      "event_id": "em_jjsj_20250913000000_3144528758179925038",
       "original_id": "2025-09-13 00:00:00_美国：预测年度:大豆:产量(报告期:2025年09月)",
       "event_date": "2025-09-13",
       "event_time": null,
@@ -115,16 +161,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-04",
+      "discovery_date": "2025-09-05",
       "raw_data": {
         "Name": "美国：预测年度:大豆:产量(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-09-04T00:47:11.059160"
+      "created_at": "2025-09-05T00:48:41.294552"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20250913000000_-3387633726269570940",
+      "event_id": "em_jjsj_20250913000000_5009190300102640916",
       "original_id": "2025-09-13 00:00:00_美国：预测年度:棉花:产量(报告期:2025年09月)",
       "event_date": "2025-09-13",
       "event_time": null,
@@ -140,16 +186,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-04",
+      "discovery_date": "2025-09-05",
       "raw_data": {
         "Name": "美国：预测年度:棉花:产量(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-09-04T00:47:11.059167"
+      "created_at": "2025-09-05T00:48:41.294573"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20250913000000_866572411229762180",
+      "event_id": "em_jjsj_20250913000000_384245564668666139",
       "original_id": "2025-09-13 00:00:00_美国：预测年度:小麦:产量(报告期:2025年09月)",
       "event_date": "2025-09-13",
       "event_time": null,
@@ -165,16 +211,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-04",
+      "discovery_date": "2025-09-05",
       "raw_data": {
         "Name": "美国：预测年度:小麦:产量(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-09-04T00:47:11.059174"
+      "created_at": "2025-09-05T00:48:41.294582"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20250913000000_8833705798960085945",
+      "event_id": "em_jjsj_20250913000000_-5489756167519720309",
       "original_id": "2025-09-13 00:00:00_美国：预测年度:玉米:产量(报告期:2025年09月)",
       "event_date": "2025-09-13",
       "event_time": null,
@@ -190,12 +236,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-04",
+      "discovery_date": "2025-09-05",
       "raw_data": {
         "Name": "美国：预测年度:玉米:产量(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-09-04T00:47:11.059182"
+      "created_at": "2025-09-05T00:48:41.294589"
     }
   ]
 }
