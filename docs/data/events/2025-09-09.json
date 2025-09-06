@@ -1,13 +1,49 @@
 {
   "date": "2025-09-09",
-  "total_events": 28,
-  "new_events": 2,
+  "total_events": 33,
+  "new_events": 4,
   "platforms": {
-    "cls": 1,
-    "investing": 24,
+    "cls": 2,
+    "investing": 28,
     "eastmoney": 3
   },
   "events": [
+    {
+      "platform": "cls",
+      "event_id": "cls_319384_20250909_2",
+      "original_id": "319384",
+      "event_date": "2025-09-09",
+      "event_time": "10:00:00",
+      "event_datetime": "2025-09-09 10:00:00",
+      "title": "国务院新闻办公室将于9月9日举行“高质量完成‘十四五’规划”系列主题新闻发布会，介绍“十四五”时期大力推进新型工业化，巩固壮大实体经济根基有关情况",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-06",
+      "raw_data": {
+        "id": 319384,
+        "calendar_time": "2025-09-09 10:00:00",
+        "data_id": 19084,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "国务院新闻办公室将于9月9日举行“高质量完成‘十四五’规划”系列主题新闻发布会，介绍“十四五”时期大力推进新型工业化，巩固壮大实体经济根基有关情况",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "国务院新闻办公室将于9月9日举行“高质量完成‘十四五’规划”系列主题新闻发布会，介绍“十四五”时期大力推进新型工业化，巩固壮大实体经济根基有关情况"
+      },
+      "created_at": "2025-09-06T00:46:20.177705"
+    },
     {
       "platform": "cls",
       "event_id": "cls_310164_20250909_1",
@@ -26,7 +62,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-05",
+      "discovery_date": "2025-09-06",
       "raw_data": {
         "id": 310164,
         "calendar_time": "2025-09-09 18:00:00",
@@ -51,7 +87,7 @@
         "holiday": null,
         "title": "美国8月NFIB小型企业信心指数"
       },
-      "created_at": "2025-09-05T00:48:06.131177"
+      "created_at": "2025-09-06T00:46:20.177716"
     },
     {
       "platform": "investing",
@@ -71,7 +107,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-05",
+      "discovery_date": "2025-09-06",
       "raw_data": {
         "event_id": "eventRowId_530173",
         "event_attr_id": "",
@@ -82,7 +118,7 @@
         "event_name": "美国消费信贷(美元)  (七月)",
         "previous": "7.37B"
       },
-      "created_at": "2025-09-05T00:48:21.806815"
+      "created_at": "2025-09-06T00:46:33.677687"
     },
     {
       "platform": "investing",
@@ -102,7 +138,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-05",
+      "discovery_date": "2025-09-06",
       "raw_data": {
         "event_id": "eventRowId_530174",
         "event_attr_id": "",
@@ -113,7 +149,7 @@
         "event_name": "新西兰季调后制造业活动量季率(%) (季度环比)  (第二季度)",
         "previous": "2.4%"
       },
-      "created_at": "2025-09-05T00:48:21.807024"
+      "created_at": "2025-09-06T00:46:33.677829"
     },
     {
       "platform": "investing",
@@ -133,7 +169,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-05",
+      "discovery_date": "2025-09-06",
       "raw_data": {
         "event_id": "eventRowId_530175",
         "event_attr_id": "",
@@ -144,7 +180,7 @@
         "event_name": "英国BRC零售销售监控数据年率 (同比)  (八月)",
         "previous": "1.8%"
       },
-      "created_at": "2025-09-05T00:48:21.807164"
+      "created_at": "2025-09-06T00:46:33.677954"
     },
     {
       "platform": "investing",
@@ -164,7 +200,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-05",
+      "discovery_date": "2025-09-06",
       "raw_data": {
         "event_id": "eventRowId_530221",
         "event_attr_id": "",
@@ -175,7 +211,38 @@
         "event_name": "澳大利亚西太平洋/墨尔本消费者信心指数月率(%)  (九月)",
         "previous": "5.7%"
       },
-      "created_at": "2025-09-05T00:48:21.807289"
+      "created_at": "2025-09-06T00:46:33.678072"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20250909075000",
+      "original_id": "eventRowId_531345",
+      "event_date": "2025-09-09",
+      "event_time": "07:50",
+      "event_datetime": "2025/09/09 07:50:00",
+      "title": "日本M2货币供应年率(%) (同比)",
+      "content": "前值: 1.0%",
+      "category": null,
+      "importance": 1,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-09-06",
+      "raw_data": {
+        "event_id": "eventRowId_531345",
+        "event_attr_id": "",
+        "datetime": "2025/09/09 07:50:00",
+        "time": "07:50",
+        "country": "日本",
+        "importance": 1,
+        "event_name": "日本M2货币供应年率(%) (同比)",
+        "previous": "1.0%"
+      },
+      "created_at": "2025-09-06T00:46:33.678189"
     },
     {
       "platform": "investing",
@@ -195,7 +262,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-05",
+      "discovery_date": "2025-09-06",
       "raw_data": {
         "event_id": "eventRowId_530176",
         "event_attr_id": "",
@@ -206,7 +273,38 @@
         "event_name": "欧元区M3货币供应量(欧元)  (八月)",
         "previous": "2,211.9B"
       },
-      "created_at": "2025-09-05T00:48:21.807401"
+      "created_at": "2025-09-06T00:46:33.678385"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20250909083000",
+      "original_id": "eventRowId_531346",
+      "event_date": "2025-09-09",
+      "event_time": "08:30",
+      "event_datetime": "2025/09/09 08:30:00",
+      "title": "澳大利亚西太平洋/墨尔本消费者信心指数月率(%)",
+      "content": "前值: 5.7%",
+      "category": null,
+      "importance": 1,
+      "country": "澳大利亚",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-06",
+      "raw_data": {
+        "event_id": "eventRowId_531346",
+        "event_attr_id": "",
+        "datetime": "2025/09/09 08:30:00",
+        "time": "08:30",
+        "country": "澳大利亚",
+        "importance": 1,
+        "event_name": "澳大利亚西太平洋/墨尔本消费者信心指数月率(%)",
+        "previous": "5.7%"
+      },
+      "created_at": "2025-09-06T00:46:33.678550"
     },
     {
       "platform": "investing",
@@ -226,7 +324,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-05",
+      "discovery_date": "2025-09-06",
       "raw_data": {
         "event_id": "eventRowId_530177",
         "event_attr_id": "",
@@ -237,7 +335,7 @@
         "event_name": "澳大利亚NAB商业信心指数  (八月)",
         "previous": "7"
       },
-      "created_at": "2025-09-05T00:48:21.807517"
+      "created_at": "2025-09-06T00:46:33.678687"
     },
     {
       "platform": "investing",
@@ -257,7 +355,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-05",
+      "discovery_date": "2025-09-06",
       "raw_data": {
         "event_id": "eventRowId_530178",
         "event_attr_id": "",
@@ -268,7 +366,7 @@
         "event_name": "澳大利亚NAB商业景气指数  (八月)",
         "previous": "5"
       },
-      "created_at": "2025-09-05T00:48:21.807656"
+      "created_at": "2025-09-06T00:46:33.678804"
     },
     {
       "platform": "investing",
@@ -288,7 +386,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-05",
+      "discovery_date": "2025-09-06",
       "raw_data": {
         "event_id": "eventRowId_531130",
         "event_attr_id": "",
@@ -299,7 +397,39 @@
         "event_name": "印度尼西亚摩托车销售量年率(%) (同比)  (八月)",
         "previous": "-2.00%"
       },
-      "created_at": "2025-09-05T00:48:21.807771"
+      "created_at": "2025-09-06T00:46:33.678917"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20250909140000",
+      "original_id": "eventRowId_531136",
+      "event_date": "2025-09-09",
+      "event_time": "14:00",
+      "event_datetime": "2025/09/09 14:00:00",
+      "title": "日本机械订单年率(%) (同比)  (八月)",
+      "content": "预测值: 3.6% | 前值: -0.5%",
+      "category": null,
+      "importance": 1,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-09-06",
+      "raw_data": {
+        "event_id": "eventRowId_531136",
+        "event_attr_id": "",
+        "datetime": "2025/09/09 14:00:00",
+        "time": "14:00",
+        "country": "日本",
+        "importance": 1,
+        "event_name": "日本机械订单年率(%) (同比)  (八月)",
+        "forecast": "3.6%",
+        "previous": "-0.5%"
+      },
+      "created_at": "2025-09-06T00:46:33.679092"
     },
     {
       "platform": "investing",
@@ -319,7 +449,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-05",
+      "discovery_date": "2025-09-06",
       "raw_data": {
         "event_id": "eventRowId_531131",
         "event_attr_id": "",
@@ -330,7 +460,7 @@
         "event_name": "印度尼西亚汽车销售量年率(%) (同比)  (八月)",
         "previous": "-18.40%"
       },
-      "created_at": "2025-09-05T00:48:21.807894"
+      "created_at": "2025-09-06T00:46:33.679214"
     },
     {
       "platform": "investing",
@@ -350,7 +480,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-05",
+      "discovery_date": "2025-09-06",
       "raw_data": {
         "event_id": "eventRowId_530188",
         "event_attr_id": "",
@@ -361,7 +491,7 @@
         "event_name": "法国工业产出月率(%) (月度环比)  (七月)",
         "previous": "3.8%"
       },
-      "created_at": "2025-09-05T00:48:21.808014"
+      "created_at": "2025-09-06T00:46:33.679328"
     },
     {
       "platform": "investing",
@@ -381,7 +511,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-05",
+      "discovery_date": "2025-09-06",
       "raw_data": {
         "event_id": "eventRowId_531185",
         "event_attr_id": "",
@@ -392,7 +522,7 @@
         "event_name": "马来西亚外汇储备(美元)",
         "previous": "122.0B"
       },
-      "created_at": "2025-09-05T00:48:21.808133"
+      "created_at": "2025-09-06T00:46:33.679439"
     },
     {
       "platform": "investing",
@@ -402,7 +532,7 @@
       "event_time": "16:00",
       "event_datetime": "2025/09/09 16:00:00",
       "title": "中国台湾出口年率(%) (同比)  (八月)",
-      "content": "前值: 42.0%",
+      "content": "预测值: 22.3% | 前值: 42.0%",
       "category": null,
       "importance": 1,
       "country": "中国台湾",
@@ -412,7 +542,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-05",
+      "discovery_date": "2025-09-06",
       "raw_data": {
         "event_id": "eventRowId_530190",
         "event_attr_id": "",
@@ -421,9 +551,10 @@
         "country": "中国台湾",
         "importance": 1,
         "event_name": "中国台湾出口年率(%) (同比)  (八月)",
+        "forecast": "22.3%",
         "previous": "42.0%"
       },
-      "created_at": "2025-09-05T00:48:21.808251"
+      "created_at": "2025-09-06T00:46:33.679551"
     },
     {
       "platform": "investing",
@@ -433,7 +564,7 @@
       "event_time": "16:00",
       "event_datetime": "2025/09/09 16:00:00",
       "title": "中国台湾进口年率(%) (同比)  (八月)",
-      "content": "前值: 20.80%",
+      "content": "预测值: 25.75% | 前值: 20.80%",
       "category": null,
       "importance": 1,
       "country": "中国台湾",
@@ -443,7 +574,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-05",
+      "discovery_date": "2025-09-06",
       "raw_data": {
         "event_id": "eventRowId_530191",
         "event_attr_id": "",
@@ -452,9 +583,10 @@
         "country": "中国台湾",
         "importance": 1,
         "event_name": "中国台湾进口年率(%) (同比)  (八月)",
+        "forecast": "25.75%",
         "previous": "20.80%"
       },
-      "created_at": "2025-09-05T00:48:21.808365"
+      "created_at": "2025-09-06T00:46:33.679687"
     },
     {
       "platform": "investing",
@@ -464,7 +596,7 @@
       "event_time": "16:00",
       "event_datetime": "2025/09/09 16:00:00",
       "title": "中国台湾地区贸易帐(新台币)  (八月)",
-      "content": "前值: 14.34B",
+      "content": "预测值: 12.80B | 前值: 14.34B",
       "category": null,
       "importance": 1,
       "country": "中国台湾",
@@ -474,7 +606,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-05",
+      "discovery_date": "2025-09-06",
       "raw_data": {
         "event_id": "eventRowId_530193",
         "event_attr_id": "",
@@ -483,9 +615,10 @@
         "country": "中国台湾",
         "importance": 1,
         "event_name": "中国台湾地区贸易帐(新台币)  (八月)",
+        "forecast": "12.80B",
         "previous": "14.34B"
       },
-      "created_at": "2025-09-05T00:48:21.808477"
+      "created_at": "2025-09-06T00:46:33.679802"
     },
     {
       "platform": "investing",
@@ -505,7 +638,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-05",
+      "discovery_date": "2025-09-06",
       "raw_data": {
         "event_id": "eventRowId_531125",
         "event_attr_id": "",
@@ -516,69 +649,7 @@
         "event_name": "西班牙3个月期国债拍卖平均收益率(%)",
         "previous": "1.929%"
       },
-      "created_at": "2025-09-05T00:48:21.808610"
-    },
-    {
-      "platform": "investing",
-      "event_id": "inv__20250909170000",
-      "original_id": "eventRowId_531126",
-      "event_date": "2025-09-09",
-      "event_time": "17:00",
-      "event_datetime": "2025/09/09 17:00:00",
-      "title": "新加坡外汇储备(美元) (月度环比)  (八月)",
-      "content": "前值: 397.3B",
-      "category": null,
-      "importance": 1,
-      "country": "新加坡",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-05",
-      "raw_data": {
-        "event_id": "eventRowId_531126",
-        "event_attr_id": "",
-        "datetime": "2025/09/09 17:00:00",
-        "time": "17:00",
-        "country": "新加坡",
-        "importance": 1,
-        "event_name": "新加坡外汇储备(美元) (月度环比)  (八月)",
-        "previous": "397.3B"
-      },
-      "created_at": "2025-09-05T00:48:21.808725"
-    },
-    {
-      "platform": "investing",
-      "event_id": "inv__20250909173000",
-      "original_id": "eventRowId_531127",
-      "event_date": "2025-09-09",
-      "event_time": "17:30",
-      "event_datetime": "2025/09/09 17:30:00",
-      "title": "南非GDP年化季率(%) (季度环比)  (第二季度)",
-      "content": "前值: 0.1%",
-      "category": null,
-      "importance": 2,
-      "country": "南非",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-05",
-      "raw_data": {
-        "event_id": "eventRowId_531127",
-        "event_attr_id": "",
-        "datetime": "2025/09/09 17:30:00",
-        "time": "17:30",
-        "country": "南非",
-        "importance": 2,
-        "event_name": "南非GDP年化季率(%) (季度环比)  (第二季度)",
-        "previous": "0.1%"
-      },
-      "created_at": "2025-09-05T00:48:21.808837"
+      "created_at": "2025-09-06T00:46:33.679912"
     },
     {
       "platform": "investing",
@@ -598,7 +669,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-05",
+      "discovery_date": "2025-09-06",
       "raw_data": {
         "event_id": "eventRowId_530950",
         "event_attr_id": "",
@@ -609,7 +680,38 @@
         "event_name": "南非GDP年率(%) (同比)  (第二季度)",
         "previous": "0.8%"
       },
-      "created_at": "2025-09-05T00:48:21.808947"
+      "created_at": "2025-09-06T00:46:33.680024"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20250909173000",
+      "original_id": "eventRowId_531127",
+      "event_date": "2025-09-09",
+      "event_time": "17:30",
+      "event_datetime": "2025/09/09 17:30:00",
+      "title": "南非GDP年化季率(%) (季度环比)  (第二季度)",
+      "content": "前值: 0.1%",
+      "category": null,
+      "importance": 2,
+      "country": "南非",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-09-06",
+      "raw_data": {
+        "event_id": "eventRowId_531127",
+        "event_attr_id": "",
+        "datetime": "2025/09/09 17:30:00",
+        "time": "17:30",
+        "country": "南非",
+        "importance": 2,
+        "event_name": "南非GDP年化季率(%) (季度环比)  (第二季度)",
+        "previous": "0.1%"
+      },
+      "created_at": "2025-09-06T00:46:33.680144"
     },
     {
       "platform": "investing",
@@ -629,7 +731,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-05",
+      "discovery_date": "2025-09-06",
       "raw_data": {
         "event_id": "eventRowId_530196",
         "event_attr_id": "",
@@ -640,7 +742,7 @@
         "event_name": "美国NFIB小型企业信心指数  (八月)",
         "previous": "100.3"
       },
-      "created_at": "2025-09-05T00:48:21.809055"
+      "created_at": "2025-09-06T00:46:33.680256"
     },
     {
       "platform": "investing",
@@ -660,7 +762,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-05",
+      "discovery_date": "2025-09-06",
       "raw_data": {
         "event_id": "eventRowId_531254",
         "event_attr_id": "",
@@ -670,7 +772,7 @@
         "importance": 2,
         "event_name": "欧元区财长会议"
       },
-      "created_at": "2025-09-05T00:48:21.809167"
+      "created_at": "2025-09-06T00:46:33.680369"
     },
     {
       "platform": "investing",
@@ -689,8 +791,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-05",
+      "is_new": false,
+      "discovery_date": "2025-09-06",
       "raw_data": {
         "event_id": "eventRowId_531255",
         "event_attr_id": "",
@@ -700,7 +802,7 @@
         "importance": 2,
         "event_name": "德国央行行长纳格尔(Joachim Nagel)讲话"
       },
-      "created_at": "2025-09-05T00:48:21.809275"
+      "created_at": "2025-09-06T00:46:33.680479"
     },
     {
       "platform": "investing",
@@ -719,8 +821,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-05",
+      "is_new": false,
+      "discovery_date": "2025-09-06",
       "raw_data": {
         "event_id": "eventRowId_531256",
         "event_attr_id": "",
@@ -730,7 +832,7 @@
         "importance": 1,
         "event_name": "瑞士央行副主席施莱格尔讲话"
       },
-      "created_at": "2025-09-05T00:48:21.809383"
+      "created_at": "2025-09-06T00:46:33.680590"
     },
     {
       "platform": "investing",
@@ -750,7 +852,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-05",
+      "discovery_date": "2025-09-06",
       "raw_data": {
         "event_id": "eventRowId_531128",
         "event_attr_id": "",
@@ -761,7 +863,69 @@
         "event_name": "美国红皮书商业零售销售年率(%) (同比)",
         "previous": "6.5%"
       },
-      "created_at": "2025-09-05T00:48:21.809493"
+      "created_at": "2025-09-06T00:46:33.680728"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20250909210000",
+      "original_id": "eventRowId_530070",
+      "event_date": "2025-09-09",
+      "event_time": "21:00",
+      "event_datetime": "2025/09/09 21:00:00",
+      "title": "巴西汽车产量月率(%) (月度环比)  (八月)",
+      "content": "前值: 15.7%",
+      "category": null,
+      "importance": 1,
+      "country": "巴西",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-06",
+      "raw_data": {
+        "event_id": "eventRowId_530070",
+        "event_attr_id": "",
+        "datetime": "2025/09/09 21:00:00",
+        "time": "21:00",
+        "country": "巴西",
+        "importance": 1,
+        "event_name": "巴西汽车产量月率(%) (月度环比)  (八月)",
+        "previous": "15.7%"
+      },
+      "created_at": "2025-09-06T00:46:33.680841"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20250909210000",
+      "original_id": "eventRowId_530071",
+      "event_date": "2025-09-09",
+      "event_time": "21:00",
+      "event_datetime": "2025/09/09 21:00:00",
+      "title": "巴西汽车销售月率(%) (月度环比)  (八月)",
+      "content": "前值: 14.2%",
+      "category": null,
+      "importance": 1,
+      "country": "巴西",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-06",
+      "raw_data": {
+        "event_id": "eventRowId_530071",
+        "event_attr_id": "",
+        "datetime": "2025/09/09 21:00:00",
+        "time": "21:00",
+        "country": "巴西",
+        "importance": 1,
+        "event_name": "巴西汽车销售月率(%) (月度环比)  (八月)",
+        "previous": "14.2%"
+      },
+      "created_at": "2025-09-06T00:46:33.680957"
     },
     {
       "platform": "investing",
@@ -781,7 +945,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-05",
+      "discovery_date": "2025-09-06",
       "raw_data": {
         "event_id": "eventRowId_530215",
         "event_attr_id": "",
@@ -792,11 +956,11 @@
         "event_name": "美国未季调就业基准(千人)",
         "previous": "-598.00K"
       },
-      "created_at": "2025-09-05T00:48:21.809641"
+      "created_at": "2025-09-06T00:46:33.681072"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20250909030000_8455568065833613193",
+      "event_id": "em_jjsj_20250909030000_-3871372350657913150",
       "original_id": "2025-09-09 03:00:00_美国：消费信贷总计：折年率：季调(报告期:2025年07月)",
       "event_date": "2025-09-09",
       "event_time": "03:00:00",
@@ -812,16 +976,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-05",
+      "discovery_date": "2025-09-06",
       "raw_data": {
         "Name": "美国：消费信贷总计：折年率：季调(报告期:2025年07月)",
         "City": "美国"
       },
-      "created_at": "2025-09-05T00:48:41.294355"
+      "created_at": "2025-09-06T00:46:52.545405"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20250909075000_8149342328669690140",
+      "event_id": "em_jjsj_20250909075000_-3804316311352402047",
       "original_id": "2025-09-09 07:50:00_日本：M2：实值(报告期:2025年08月)",
       "event_date": "2025-09-09",
       "event_time": "07:50:00",
@@ -837,16 +1001,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-05",
+      "discovery_date": "2025-09-06",
       "raw_data": {
         "Name": "日本：M2：实值(报告期:2025年08月)",
         "City": "日本"
       },
-      "created_at": "2025-09-05T00:48:41.294363"
+      "created_at": "2025-09-06T00:46:52.545413"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20250909160000_1020353959594322565",
+      "event_id": "em_jjsj_20250909160000_2958561758713106412",
       "original_id": "2025-09-09 16:00:00_中国台湾：进口总额：同比：美元(报告期:2025年08月)",
       "event_date": "2025-09-09",
       "event_time": "16:00:00",
@@ -862,12 +1026,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-05",
+      "discovery_date": "2025-09-06",
       "raw_data": {
         "Name": "中国台湾：进口总额：同比：美元(报告期:2025年08月)",
         "City": "中国台湾"
       },
-      "created_at": "2025-09-05T00:48:41.294371"
+      "created_at": "2025-09-06T00:46:52.545421"
     }
   ]
 }
