@@ -1,11 +1,11 @@
 {
   "date": "2025-09-07",
-  "total_events": 4,
-  "new_events": 0,
+  "total_events": 12,
+  "new_events": 9,
   "platforms": {
     "jiuyangongshe": 2,
     "investing": 1,
-    "eastmoney": 1
+    "eastmoney": 9
   },
   "events": [
     {
@@ -26,13 +26,13 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-06",
+      "discovery_date": "2025-09-07",
       "raw_data": {
         "article_id": "10upm8ag8mm",
         "user_id": "eeeb3a852b5c4a99b6dea21c22f08bde",
         "title": "2025海洋合作发展论坛将于9月7日在青岛启幕",
         "content": "人民网济南8月28日电 （乔姝）海洋经济作为全球经济增长的“蓝色引擎”，其可持续发展关乎人类共同未来。8月28日，山东省政府新闻办召开的新闻发布会上公布，经国务院批准，2025海洋合作发展论坛将于9月7日至9日在青岛西海岸新区举办，该论坛由山东省人民政府与自然资源部共同主办。",
-        "like_count": 2,
+        "like_count": 3,
         "comment_count": 1,
         "forward_count": 0,
         "is_like": 0,
@@ -51,7 +51,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-09-06T00:46:22.076477"
+      "created_at": "2025-09-07T00:53:12.950320"
     },
     {
       "platform": "jiuyangongshe",
@@ -71,7 +71,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-06",
+      "discovery_date": "2025-09-07",
       "raw_data": {
         "article_id": "76f6c7e4938d40b9b5c9efac2fac63bb",
         "user_id": "1",
@@ -96,15 +96,15 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-09-06T00:46:22.076491"
+      "created_at": "2025-09-07T00:53:12.950351"
     },
     {
       "platform": "investing",
-      "event_id": "inv__20250907231003",
+      "event_id": "inv__20250907225334",
       "original_id": "eventRowId_530106",
       "event_date": "2025-09-07",
-      "event_time": "23:10",
-      "event_datetime": "2025/09/07 23:10:03",
+      "event_time": "22:53",
+      "event_datetime": "2025/09/07 22:53:34",
       "title": "中国外汇储备(美元)  (八月)",
       "content": "前值: 3.292T",
       "category": null,
@@ -115,23 +115,247 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-06",
+      "is_new": true,
+      "discovery_date": "2025-09-07",
       "raw_data": {
         "event_id": "eventRowId_530106",
         "event_attr_id": "",
-        "datetime": "2025/09/07 23:10:03",
-        "time": "23:10",
+        "datetime": "2025/09/07 22:53:34",
+        "time": "22:53",
         "country": "中国",
         "importance": 2,
         "event_name": "中国外汇储备(美元)  (八月)",
         "previous": "3.292T"
       },
-      "created_at": "2025-09-06T00:46:33.721360"
+      "created_at": "2025-09-07T00:53:26.191986"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20250907000000_3210660282298159323",
+      "event_id": "em_tfpxx_688981_20250907_0",
+      "original_id": "688981",
+      "event_date": "2025-09-07",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "中芯国际停复牌",
+      "content": "股票代码: 688981, 股票名称: 中芯国际",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "688981"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-07",
+      "raw_data": {
+        "stock_code": "688981",
+        "stock_name": "中芯国际",
+        "date": "2025-09-07"
+      },
+      "created_at": "2025-09-07T00:53:45.988895"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_688478_20250907_1",
+      "original_id": "688478",
+      "event_date": "2025-09-07",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "晶升股份停复牌",
+      "content": "股票代码: 688478, 股票名称: 晶升股份",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "688478"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-07",
+      "raw_data": {
+        "stock_code": "688478",
+        "stock_name": "晶升股份",
+        "date": "2025-09-07"
+      },
+      "created_at": "2025-09-07T00:53:45.988903"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_000627_20250907_2",
+      "original_id": "000627",
+      "event_date": "2025-09-07",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "*ST天茂停复牌",
+      "content": "股票代码: 000627, 股票名称: *ST天茂",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "000627"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-07",
+      "raw_data": {
+        "stock_code": "000627",
+        "stock_name": "*ST天茂",
+        "date": "2025-09-07"
+      },
+      "created_at": "2025-09-07T00:53:45.988912"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_603359_20250907_3",
+      "original_id": "603359",
+      "event_date": "2025-09-07",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "东珠生态停复牌",
+      "content": "股票代码: 603359, 股票名称: 东珠生态",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "603359"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-07",
+      "raw_data": {
+        "stock_code": "603359",
+        "stock_name": "东珠生态",
+        "date": "2025-09-07"
+      },
+      "created_at": "2025-09-07T00:53:45.988922"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_688521_20250907_4",
+      "original_id": "688521",
+      "event_date": "2025-09-07",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "芯原股份停复牌",
+      "content": "股票代码: 688521, 股票名称: 芯原股份",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "688521"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-07",
+      "raw_data": {
+        "stock_code": "688521",
+        "stock_name": "芯原股份",
+        "date": "2025-09-07"
+      },
+      "created_at": "2025-09-07T00:53:45.988929"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_839680_20250907_5",
+      "original_id": "839680",
+      "event_date": "2025-09-07",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "*ST广道停复牌",
+      "content": "股票代码: 839680, 股票名称: *ST广道",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "839680"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-07",
+      "raw_data": {
+        "stock_code": "839680",
+        "stock_name": "*ST广道",
+        "date": "2025-09-07"
+      },
+      "created_at": "2025-09-07T00:53:45.988936"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_300280_20250907_6",
+      "original_id": "300280",
+      "event_date": "2025-09-07",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "*ST紫天停复牌",
+      "content": "股票代码: 300280, 股票名称: *ST紫天",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "300280"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-07",
+      "raw_data": {
+        "stock_code": "300280",
+        "stock_name": "*ST紫天",
+        "date": "2025-09-07"
+      },
+      "created_at": "2025-09-07T00:53:45.988942"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_605255_20250907_7",
+      "original_id": "605255",
+      "event_date": "2025-09-07",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "天普股份停复牌",
+      "content": "股票代码: 605255, 股票名称: 天普股份",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "605255"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-07",
+      "raw_data": {
+        "stock_code": "605255",
+        "stock_name": "天普股份",
+        "date": "2025-09-07"
+      },
+      "created_at": "2025-09-07T00:53:45.988948"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20250907000000_-3659743544891953352",
       "original_id": "2025-09-07 00:00:00_中国：外汇储备(报告期:2025年08月)",
       "event_date": "2025-09-07",
       "event_time": null,
@@ -147,12 +371,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-06",
+      "discovery_date": "2025-09-07",
       "raw_data": {
         "Name": "中国：外汇储备(报告期:2025年08月)",
         "City": "中国"
       },
-      "created_at": "2025-09-06T00:46:52.545346"
+      "created_at": "2025-09-07T00:53:45.988968"
     }
   ]
 }
