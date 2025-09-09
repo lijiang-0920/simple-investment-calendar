@@ -1,14 +1,60 @@
 {
   "date": "2025-10-10",
-  "total_events": 7,
-  "new_events": 0,
+  "total_events": 8,
+  "new_events": 1,
   "platforms": {
+    "jiuyangongshe": 1,
     "eastmoney": 7
   },
   "events": [
     {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_31d6b5d7d4844bf2a732a5edecb915a2_3153e3a584684a02b6f6f6e7e47d840c_20251010",
+      "original_id": "31d6b5d7d4844bf2a732a5edecb915a2",
+      "event_date": "2025-10-10",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "世界自由区组织大会",
+      "content": "世界自由区组织大会将于10月10日至12日在海南举办，来自全球多个国家的嘉宾将出席大会。",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-09",
+      "raw_data": {
+        "article_id": "31d6b5d7d4844bf2a732a5edecb915a2",
+        "user_id": "1",
+        "title": "世界自由区组织大会",
+        "content": "世界自由区组织大会将于10月10日至12日在海南举办，来自全球多个国家的嘉宾将出席大会。",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "31d6b5d7d4844bf2a732a5edecb915a2",
+          "timeline_id": "3153e3a584684a02b6f6f6e7e47d840c",
+          "date": "2025-10-10",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-09-08 23:44:13",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-09-09T00:49:17.578778"
+    },
+    {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251010000000_7416316210509510768",
+      "event_id": "em_jjsj_20251010000000_7507723376654431934",
       "original_id": "2025-10-10 00:00:00_美国：预测年度:大豆:产量(报告期:2025年10月)",
       "event_date": "2025-10-10",
       "event_time": null,
@@ -24,16 +70,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "Name": "美国：预测年度:大豆:产量(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-09-08T00:52:40.435756"
+      "created_at": "2025-09-09T00:49:46.456263"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251010000000_251115321125259334",
+      "event_id": "em_jjsj_20251010000000_1906136876210006724",
       "original_id": "2025-10-10 00:00:00_美国：预测年度:玉米:产量(报告期:2025年10月)",
       "event_date": "2025-10-10",
       "event_time": null,
@@ -49,16 +95,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "Name": "美国：预测年度:玉米:产量(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-09-08T00:52:40.435763"
+      "created_at": "2025-09-09T00:49:46.456271"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251010000000_-7369439173130328751",
+      "event_id": "em_jjsj_20251010000000_2250064977777620134",
       "original_id": "2025-10-10 00:00:00_美国：预测年度:小麦:产量(报告期:2025年10月)",
       "event_date": "2025-10-10",
       "event_time": null,
@@ -74,16 +120,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "Name": "美国：预测年度:小麦:产量(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-09-08T00:52:40.435771"
+      "created_at": "2025-09-09T00:49:46.456278"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251010000000_7122119295887770301",
+      "event_id": "em_jjsj_20251010000000_-6666627716089348487",
       "original_id": "2025-10-10 00:00:00_美国：预测年度:棉花:产量(报告期:2025年10月)",
       "event_date": "2025-10-10",
       "event_time": null,
@@ -99,16 +145,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "Name": "美国：预测年度:棉花:产量(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-09-08T00:52:40.435780"
+      "created_at": "2025-09-09T00:49:46.456285"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251010203000_1456799153288376615",
+      "event_id": "em_jjsj_20251010203000_7638605674239622847",
       "original_id": "2025-10-10 20:30:00_加拿大：就业人口(报告期:2025年09月)",
       "event_date": "2025-10-10",
       "event_time": "20:30:00",
@@ -124,16 +170,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "Name": "加拿大：就业人口(报告期:2025年09月)",
         "City": "加拿大"
       },
-      "created_at": "2025-09-08T00:52:40.435788"
+      "created_at": "2025-09-09T00:49:46.456292"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251010203000_-6154533340230812569",
+      "event_id": "em_jjsj_20251010203000_-1097312569065455098",
       "original_id": "2025-10-10 20:30:00_加拿大：就业率(报告期:2025年09月)",
       "event_date": "2025-10-10",
       "event_time": "20:30:00",
@@ -149,16 +195,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "Name": "加拿大：就业率(报告期:2025年09月)",
         "City": "加拿大"
       },
-      "created_at": "2025-09-08T00:52:40.435795"
+      "created_at": "2025-09-09T00:49:46.456300"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251010203000_-2598617920076470205",
+      "event_id": "em_jjsj_20251010203000_1256976654842151",
       "original_id": "2025-10-10 20:30:00_加拿大：失业率(报告期:2025年09月)",
       "event_date": "2025-10-10",
       "event_time": "20:30:00",
@@ -174,12 +220,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "Name": "加拿大：失业率(报告期:2025年09月)",
         "City": "加拿大"
       },
-      "created_at": "2025-09-08T00:52:40.435802"
+      "created_at": "2025-09-09T00:49:46.456307"
     }
   ]
 }

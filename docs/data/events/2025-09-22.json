@@ -1,13 +1,51 @@
 {
   "date": "2025-09-22",
-  "total_events": 18,
-  "new_events": 0,
+  "total_events": 21,
+  "new_events": 3,
   "platforms": {
-    "cls": 2,
+    "cls": 3,
+    "jiuyangongshe": 1,
+    "tonghuashun": 1,
     "investing": 11,
     "eastmoney": 5
   },
   "events": [
+    {
+      "platform": "cls",
+      "event_id": "cls_320015_20250922_2",
+      "original_id": "320015",
+      "event_date": "2025-09-22",
+      "event_time": "00:00:00",
+      "event_datetime": "2025-09-22 00:00:00",
+      "title": "2025年国际半导体高管峰会中国峰会（I.S.E.S. China）将于9月22日至23日在上海举办",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-09",
+      "raw_data": {
+        "id": 320015,
+        "calendar_time": "2025-09-22 00:00:00",
+        "data_id": 19135,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "2025年国际半导体高管峰会中国峰会（I.S.E.S. China）将于9月22日至23日在上海举办",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "2025年国际半导体高管峰会中国峰会（I.S.E.S. China）将于9月22日至23日在上海举办"
+      },
+      "created_at": "2025-09-09T00:49:13.842926"
+    },
     {
       "platform": "cls",
       "event_id": "cls_313637_20250922_1",
@@ -26,7 +64,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "id": 313637,
         "calendar_time": "2025-09-22 09:00:00",
@@ -51,7 +89,7 @@
         "holiday": null,
         "title": "中国至9月22日五年期贷款市场报价利率"
       },
-      "created_at": "2025-09-08T00:52:11.020800"
+      "created_at": "2025-09-09T00:49:13.842935"
     },
     {
       "platform": "cls",
@@ -71,7 +109,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "id": 313638,
         "calendar_time": "2025-09-22 09:00:00",
@@ -96,7 +134,100 @@
         "holiday": null,
         "title": "中国至9月22日一年期贷款市场报价利率"
       },
-      "created_at": "2025-09-08T00:52:11.020809"
+      "created_at": "2025-09-09T00:49:13.842945"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_4e936f57d5804d74b1b8211beee11f20_bbc19f79795e46db9dfb84a8aa20a045_20250922",
+      "original_id": "4e936f57d5804d74b1b8211beee11f20",
+      "event_date": "2025-09-22",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025年国际半导体高管峰会中国峰会",
+      "content": "2025年国际半导体高管峰会中国峰会(1S.E.S.China)将于9月22日至23日在上海举办。",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [
+        "半导体"
+      ],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-09",
+      "raw_data": {
+        "article_id": "4e936f57d5804d74b1b8211beee11f20",
+        "user_id": "1",
+        "title": "2025年国际半导体高管峰会中国峰会",
+        "content": "2025年国际半导体高管峰会中国峰会(1S.E.S.China)将于9月22日至23日在上海举办。",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "4e936f57d5804d74b1b8211beee11f20",
+          "timeline_id": "bbc19f79795e46db9dfb84a8aa20a045",
+          "date": "2025-09-22",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-09-08 23:43:06",
+          "theme_list": [
+            {
+              "timeline_theme_id": "8a4e7ad3f35f431389e2d7dd4511bb98",
+              "name": "半导体"
+            }
+          ]
+        }
+      },
+      "created_at": "2025-09-09T00:49:15.956176"
+    },
+    {
+      "platform": "tonghuashun",
+      "event_id": "ths_20250922_0_08a2987e",
+      "original_id": "2025-09-22_0",
+      "event_date": "2025-09-22",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025年国际半导体高管峰会中国峰会（I.S.E.S. China）将于9月22日至23日在上海举办",
+      "content": null,
+      "category": null,
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [
+        {
+          "code": "885756",
+          "name": "芯片概念"
+        }
+      ],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-09",
+      "raw_data": {
+        "event": [
+          "2025年国际半导体高管峰会中国峰会（I.S.E.S. China）将于9月22日至23日在上海举办",
+          "",
+          "",
+          ""
+        ],
+        "concept": [
+          {
+            "code": "885756",
+            "name": "芯片概念",
+            "py": "xpgn"
+          }
+        ]
+      },
+      "created_at": "2025-09-09T00:49:22.610390"
     },
     {
       "platform": "investing",
@@ -116,7 +247,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "event_id": "eventRowId_530990",
         "event_attr_id": "",
@@ -127,7 +258,7 @@
         "event_name": "中国央行贷款市场报价利率(LPR)  (九月)",
         "previous": "3.50%"
       },
-      "created_at": "2025-09-08T00:52:25.498470"
+      "created_at": "2025-09-09T00:49:29.603985"
     },
     {
       "platform": "investing",
@@ -147,7 +278,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "event_id": "eventRowId_530995",
         "event_attr_id": "",
@@ -158,7 +289,7 @@
         "event_name": "欧元区货币供应M3年率(%)  (八月)",
         "previous": "1,193,413.0B"
       },
-      "created_at": "2025-09-08T00:52:25.498603"
+      "created_at": "2025-09-09T00:49:29.604112"
     },
     {
       "platform": "investing",
@@ -178,7 +309,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "event_id": "eventRowId_531000",
         "event_attr_id": "",
@@ -189,7 +320,7 @@
         "event_name": "中国台湾失业率(%)  (八月)",
         "previous": "3.33%"
       },
-      "created_at": "2025-09-08T00:52:25.498734"
+      "created_at": "2025-09-09T00:49:29.604224"
     },
     {
       "platform": "investing",
@@ -209,7 +340,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "event_id": "eventRowId_531002",
         "event_attr_id": "",
@@ -220,7 +351,7 @@
         "event_name": "英国CPI年率(%) (月度环比)  (八月)",
         "previous": "0.60%"
       },
-      "created_at": "2025-09-08T00:52:25.498849"
+      "created_at": "2025-09-09T00:49:29.604335"
     },
     {
       "platform": "investing",
@@ -240,7 +371,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "event_id": "eventRowId_531003",
         "event_attr_id": "",
@@ -251,7 +382,7 @@
         "event_name": "中国香港综合CPI年率(%) (同比)  (八月)",
         "previous": "1.00%"
       },
-      "created_at": "2025-09-08T00:52:25.498966"
+      "created_at": "2025-09-09T00:49:29.604443"
     },
     {
       "platform": "investing",
@@ -271,7 +402,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "event_id": "eventRowId_531030",
         "event_attr_id": "",
@@ -282,38 +413,7 @@
         "event_name": "美国芝加哥联储全国活动指数  (八月)",
         "previous": "-0.19"
       },
-      "created_at": "2025-09-08T00:52:25.499077"
-    },
-    {
-      "platform": "investing",
-      "event_id": "inv__20250922203000",
-      "original_id": "eventRowId_531031",
-      "event_date": "2025-09-22",
-      "event_time": "20:30",
-      "event_datetime": "2025/09/22 20:30:00",
-      "title": "加拿大工业品物价指数月率(%) (月度环比)  (八月)",
-      "content": "前值: 0.7%",
-      "category": null,
-      "importance": 1,
-      "country": "加拿大",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-08",
-      "raw_data": {
-        "event_id": "eventRowId_531031",
-        "event_attr_id": "",
-        "datetime": "2025/09/22 20:30:00",
-        "time": "20:30",
-        "country": "加拿大",
-        "importance": 1,
-        "event_name": "加拿大工业品物价指数月率(%) (月度环比)  (八月)",
-        "previous": "0.7%"
-      },
-      "created_at": "2025-09-08T00:52:25.499187"
+      "created_at": "2025-09-09T00:49:29.604568"
     },
     {
       "platform": "investing",
@@ -333,7 +433,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "event_id": "eventRowId_531028",
         "event_attr_id": "",
@@ -344,17 +444,17 @@
         "event_name": "加拿大工业品物价指数年率(%) (同比)  (八月)",
         "previous": "2.6%"
       },
-      "created_at": "2025-09-08T00:52:25.499307"
+      "created_at": "2025-09-09T00:49:29.604683"
     },
     {
       "platform": "investing",
       "event_id": "inv__20250922203000",
-      "original_id": "eventRowId_531027",
+      "original_id": "eventRowId_531031",
       "event_date": "2025-09-22",
       "event_time": "20:30",
       "event_datetime": "2025/09/22 20:30:00",
-      "title": "加拿大原材料价格指数年率(%) (同比)  (八月)",
-      "content": "前值: 0.8%",
+      "title": "加拿大工业品物价指数月率(%) (月度环比)  (八月)",
+      "content": "前值: 0.7%",
       "category": null,
       "importance": 1,
       "country": "加拿大",
@@ -364,18 +464,18 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
-        "event_id": "eventRowId_531027",
+        "event_id": "eventRowId_531031",
         "event_attr_id": "",
         "datetime": "2025/09/22 20:30:00",
         "time": "20:30",
         "country": "加拿大",
         "importance": 1,
-        "event_name": "加拿大原材料价格指数年率(%) (同比)  (八月)",
-        "previous": "0.8%"
+        "event_name": "加拿大工业品物价指数月率(%) (月度环比)  (八月)",
+        "previous": "0.7%"
       },
-      "created_at": "2025-09-08T00:52:25.499424"
+      "created_at": "2025-09-09T00:49:29.604790"
     },
     {
       "platform": "investing",
@@ -395,7 +495,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "event_id": "eventRowId_531029",
         "event_attr_id": "",
@@ -406,7 +506,38 @@
         "event_name": "加拿大原材料价格指数月率(%) (月度环比)  (八月)",
         "previous": "0.3%"
       },
-      "created_at": "2025-09-08T00:52:25.499536"
+      "created_at": "2025-09-09T00:49:29.604897"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20250922203000",
+      "original_id": "eventRowId_531027",
+      "event_date": "2025-09-22",
+      "event_time": "20:30",
+      "event_datetime": "2025/09/22 20:30:00",
+      "title": "加拿大原材料价格指数年率(%) (同比)  (八月)",
+      "content": "前值: 0.8%",
+      "category": null,
+      "importance": 1,
+      "country": "加拿大",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-09-09",
+      "raw_data": {
+        "event_id": "eventRowId_531027",
+        "event_attr_id": "",
+        "datetime": "2025/09/22 20:30:00",
+        "time": "20:30",
+        "country": "加拿大",
+        "importance": 1,
+        "event_name": "加拿大原材料价格指数年率(%) (同比)  (八月)",
+        "previous": "0.8%"
+      },
+      "created_at": "2025-09-09T00:49:29.605004"
     },
     {
       "platform": "investing",
@@ -426,7 +557,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "event_id": "eventRowId_531034",
         "event_attr_id": "",
@@ -437,11 +568,11 @@
         "event_name": "欧元区消费者信心指数  (九月)",
         "previous": "-15.5"
       },
-      "created_at": "2025-09-08T00:52:25.499650"
+      "created_at": "2025-09-09T00:49:29.605111"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20250922000000_-622903110093026747",
+      "event_id": "em_jjsj_20250922000000_-4729484801268246130",
       "original_id": "2025-09-22 00:00:00_俄罗斯：M2(报告期:2025年09月)",
       "event_date": "2025-09-22",
       "event_time": null,
@@ -457,16 +588,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "Name": "俄罗斯：M2(报告期:2025年09月)",
         "City": "俄罗斯"
       },
-      "created_at": "2025-09-08T00:52:40.434048"
+      "created_at": "2025-09-09T00:49:46.455413"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20250922090000_-866362759996784507",
+      "event_id": "em_jjsj_20250922090000_-8323424115204899499",
       "original_id": "2025-09-22 09:00:00_中国：贷款市场报价利率(LPR):1年:月(报告期:2025年09月)",
       "event_date": "2025-09-22",
       "event_time": "09:00:00",
@@ -482,16 +613,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "Name": "中国：贷款市场报价利率(LPR):1年:月(报告期:2025年09月)",
         "City": "中国"
       },
-      "created_at": "2025-09-08T00:52:40.434056"
+      "created_at": "2025-09-09T00:49:46.455420"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20250922090000_-2363910021199177215",
+      "event_id": "em_jjsj_20250922090000_5247977349148303108",
       "original_id": "2025-09-22 09:00:00_中国：贷款市场报价利率(LPR):5年:月(报告期:2025年09月)",
       "event_date": "2025-09-22",
       "event_time": "09:00:00",
@@ -507,16 +638,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "Name": "中国：贷款市场报价利率(LPR):5年:月(报告期:2025年09月)",
         "City": "中国"
       },
-      "created_at": "2025-09-08T00:52:40.434063"
+      "created_at": "2025-09-09T00:49:46.455428"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20250922163000_-4036735133744396094",
+      "event_id": "em_jjsj_20250922163000_-1164759888447083425",
       "original_id": "2025-09-22 16:30:00_中国香港：CPI:综合类:当月同比(报告期:2025年08月)",
       "event_date": "2025-09-22",
       "event_time": "16:30:00",
@@ -532,16 +663,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "Name": "中国香港：CPI:综合类:当月同比(报告期:2025年08月)",
         "City": "中国香港"
       },
-      "created_at": "2025-09-08T00:52:40.434071"
+      "created_at": "2025-09-09T00:49:46.455436"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20250922163000_3506291292568669802",
+      "event_id": "em_jjsj_20250922163000_-2974127169912147159",
       "original_id": "2025-09-22 16:30:00_中国香港：CPI:综合类(报告期:2025年08月)",
       "event_date": "2025-09-22",
       "event_time": "16:30:00",
@@ -557,12 +688,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "Name": "中国香港：CPI:综合类(报告期:2025年08月)",
         "City": "中国香港"
       },
-      "created_at": "2025-09-08T00:52:40.434078"
+      "created_at": "2025-09-09T00:49:46.455443"
     }
   ]
 }

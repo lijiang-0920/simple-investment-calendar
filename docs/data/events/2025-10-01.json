@@ -1,10 +1,10 @@
 {
   "date": "2025-10-01",
-  "total_events": 7,
-  "new_events": 0,
+  "total_events": 14,
+  "new_events": 7,
   "platforms": {
     "jiuyangongshe": 2,
-    "eastmoney": 5
+    "eastmoney": 12
   },
   "events": [
     {
@@ -25,7 +25,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "article_id": "f3f4626b8e044b8dbf838ceada5ab2e4",
         "user_id": "1",
@@ -50,7 +50,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-09-08T00:52:14.343120"
+      "created_at": "2025-09-09T00:49:17.578725"
     },
     {
       "platform": "jiuyangongshe",
@@ -72,7 +72,7 @@
       ],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "article_id": "0f054980a968431c94d5686cd894b41c",
         "user_id": "1",
@@ -102,11 +102,11 @@
           ]
         }
       },
-      "created_at": "2025-09-08T00:52:14.343150"
+      "created_at": "2025-09-09T00:49:17.578748"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_xsap_20251001_4234953775157638371",
+      "event_id": "em_xsap_20251001_7942427470363486912",
       "original_id": "xsap_A股_2025-10-01",
       "event_date": "2025-10-01",
       "event_time": null,
@@ -122,7 +122,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "MKT": "A股",
         "HOLIDAY": "国庆节",
@@ -131,11 +131,11 @@
         "XS": null,
         "FIRST_LETTER": "A"
       },
-      "created_at": "2025-09-08T00:52:40.432862"
+      "created_at": "2025-09-09T00:49:46.454320"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_xsap_20251001_4234953775157638371",
+      "event_id": "em_xsap_20251001_7942427470363486912",
       "original_id": "xsap_港股通(沪)、港股通(深)_2025-10-01",
       "event_date": "2025-10-01",
       "event_time": null,
@@ -151,7 +151,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "MKT": "港股通(沪)、港股通(深)",
         "HOLIDAY": "国庆节",
@@ -160,11 +160,11 @@
         "XS": null,
         "FIRST_LETTER": "G"
       },
-      "created_at": "2025-09-08T00:52:40.432872"
+      "created_at": "2025-09-09T00:49:46.454328"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_xsap_20251001_4234953775157638371",
+      "event_id": "em_xsap_20251001_7942427470363486912",
       "original_id": "xsap_沪股通、深股通_2025-10-01",
       "event_date": "2025-10-01",
       "event_time": null,
@@ -180,7 +180,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "MKT": "沪股通、深股通",
         "HOLIDAY": "国庆节",
@@ -189,11 +189,11 @@
         "XS": null,
         "FIRST_LETTER": "H"
       },
-      "created_at": "2025-09-08T00:52:40.432882"
+      "created_at": "2025-09-09T00:49:46.454336"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_xsap_20251001_4234953775157638371",
+      "event_id": "em_xsap_20251001_7942427470363486912",
       "original_id": "xsap_港股_2025-10-01",
       "event_date": "2025-10-01",
       "event_time": null,
@@ -209,7 +209,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "MKT": "港股",
         "HOLIDAY": "国庆节",
@@ -218,11 +218,11 @@
         "XS": null,
         "FIRST_LETTER": "G"
       },
-      "created_at": "2025-09-08T00:52:40.432890"
+      "created_at": "2025-09-09T00:49:46.454343"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251001075000_-487935776673007882",
+      "event_id": "em_jjsj_20251001075000_7233319519002677614",
       "original_id": "2025-10-01 07:50:00_日本：短观预测指数(报告期:2025年09月)",
       "event_date": "2025-10-01",
       "event_time": "07:50:00",
@@ -238,12 +238,187 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-08",
+      "discovery_date": "2025-09-09",
       "raw_data": {
         "Name": "日本：短观预测指数(报告期:2025年09月)",
         "City": "日本"
       },
-      "created_at": "2025-09-08T00:52:40.435431"
+      "created_at": "2025-09-09T00:49:46.455882"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251001220000_8562189516816021081",
+      "original_id": "2025-10-01 22:00:00_美国：ISM：制造业PMI：产出(报告期:2025年09月)",
+      "event_date": "2025-10-01",
+      "event_time": "22:00:00",
+      "event_datetime": "2025-10-01 22:00:00",
+      "title": "美国：ISM：制造业PMI：产出(报告期:2025年09月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-09",
+      "raw_data": {
+        "Name": "美国：ISM：制造业PMI：产出(报告期:2025年09月)",
+        "City": "美国"
+      },
+      "created_at": "2025-09-09T00:49:46.455890"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251001220000_8956595673922050073",
+      "original_id": "2025-10-01 22:00:00_美国：ISM：制造业PMI：就业(报告期:2025年09月)",
+      "event_date": "2025-10-01",
+      "event_time": "22:00:00",
+      "event_datetime": "2025-10-01 22:00:00",
+      "title": "美国：ISM：制造业PMI：就业(报告期:2025年09月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-09",
+      "raw_data": {
+        "Name": "美国：ISM：制造业PMI：就业(报告期:2025年09月)",
+        "City": "美国"
+      },
+      "created_at": "2025-09-09T00:49:46.455898"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251001220000_-1769132584004002190",
+      "original_id": "2025-10-01 22:00:00_美国：ISM：制造业PMI：自有库存(报告期:2025年09月)",
+      "event_date": "2025-10-01",
+      "event_time": "22:00:00",
+      "event_datetime": "2025-10-01 22:00:00",
+      "title": "美国：ISM：制造业PMI：自有库存(报告期:2025年09月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-09",
+      "raw_data": {
+        "Name": "美国：ISM：制造业PMI：自有库存(报告期:2025年09月)",
+        "City": "美国"
+      },
+      "created_at": "2025-09-09T00:49:46.455905"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251001220000_-7299650438799373822",
+      "original_id": "2025-10-01 22:00:00_美国：ISM:制造业PMI(报告期:2025年09月)",
+      "event_date": "2025-10-01",
+      "event_time": "22:00:00",
+      "event_datetime": "2025-10-01 22:00:00",
+      "title": "美国：ISM:制造业PMI(报告期:2025年09月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-09",
+      "raw_data": {
+        "Name": "美国：ISM:制造业PMI(报告期:2025年09月)",
+        "City": "美国"
+      },
+      "created_at": "2025-09-09T00:49:46.455913"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251001220000_6411832315903537014",
+      "original_id": "2025-10-01 22:00:00_美国：ISM：制造业PMI：供应商交付(报告期:2025年09月)",
+      "event_date": "2025-10-01",
+      "event_time": "22:00:00",
+      "event_datetime": "2025-10-01 22:00:00",
+      "title": "美国：ISM：制造业PMI：供应商交付(报告期:2025年09月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-09",
+      "raw_data": {
+        "Name": "美国：ISM：制造业PMI：供应商交付(报告期:2025年09月)",
+        "City": "美国"
+      },
+      "created_at": "2025-09-09T00:49:46.455920"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251001220000_-231109992164084558",
+      "original_id": "2025-10-01 22:00:00_美国：ISM：制造业PMI：新订单(报告期:2025年09月)",
+      "event_date": "2025-10-01",
+      "event_time": "22:00:00",
+      "event_datetime": "2025-10-01 22:00:00",
+      "title": "美国：ISM：制造业PMI：新订单(报告期:2025年09月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-09",
+      "raw_data": {
+        "Name": "美国：ISM：制造业PMI：新订单(报告期:2025年09月)",
+        "City": "美国"
+      },
+      "created_at": "2025-09-09T00:49:46.455927"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251001220000_-2671126814420820615",
+      "original_id": "2025-10-01 22:00:00_美国：ISM：制造业PMI：物价(报告期:2025年09月)",
+      "event_date": "2025-10-01",
+      "event_time": "22:00:00",
+      "event_datetime": "2025-10-01 22:00:00",
+      "title": "美国：ISM：制造业PMI：物价(报告期:2025年09月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-09",
+      "raw_data": {
+        "Name": "美国：ISM：制造业PMI：物价(报告期:2025年09月)",
+        "City": "美国"
+      },
+      "created_at": "2025-09-09T00:49:46.455934"
     }
   ]
 }
