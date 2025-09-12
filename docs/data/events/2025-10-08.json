@@ -1,14 +1,14 @@
 {
   "date": "2025-10-08",
-  "total_events": 4,
-  "new_events": 4,
+  "total_events": 5,
+  "new_events": 1,
   "platforms": {
-    "eastmoney": 4
+    "eastmoney": 5
   },
   "events": [
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251008000000_-4133342111430632871",
+      "event_id": "em_jjsj_20251008000000_-8096487928207393537",
       "original_id": "2025-10-08 00:00:00_中国香港：楼宇买卖合约：成交金额：当月值(报告期:2025年09月)",
       "event_date": "2025-10-08",
       "event_time": null,
@@ -23,17 +23,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-11",
+      "is_new": false,
+      "discovery_date": "2025-09-12",
       "raw_data": {
         "Name": "中国香港：楼宇买卖合约：成交金额：当月值(报告期:2025年09月)",
         "City": "中国香港"
       },
-      "created_at": "2025-09-11T00:49:08.880682"
+      "created_at": "2025-09-12T00:47:13.989366"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251008000000_-501071132202643293",
+      "event_id": "em_jjsj_20251008000000_-3499255582316157075",
       "original_id": "2025-10-08 00:00:00_中国香港：楼宇买卖合约：数量：当月值(报告期:2025年09月)",
       "event_date": "2025-10-08",
       "event_time": null,
@@ -48,17 +48,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-11",
+      "is_new": false,
+      "discovery_date": "2025-09-12",
       "raw_data": {
         "Name": "中国香港：楼宇买卖合约：数量：当月值(报告期:2025年09月)",
         "City": "中国香港"
       },
-      "created_at": "2025-09-11T00:49:08.880702"
+      "created_at": "2025-09-12T00:47:13.989374"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251008030000_4284896640390856729",
+      "event_id": "em_jjsj_20251008030000_574300358666161581",
       "original_id": "2025-10-08 03:00:00_美国：消费信贷总计：折年率：季调(报告期:2025年08月)",
       "event_date": "2025-10-08",
       "event_time": "03:00:00",
@@ -73,17 +73,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-11",
+      "is_new": false,
+      "discovery_date": "2025-09-12",
       "raw_data": {
         "Name": "美国：消费信贷总计：折年率：季调(报告期:2025年08月)",
         "City": "美国"
       },
-      "created_at": "2025-09-11T00:49:08.880710"
+      "created_at": "2025-09-12T00:47:13.989382"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251008075000_-2685223152822611690",
+      "event_id": "em_jjsj_20251008075000_3960789398478455266",
       "original_id": "2025-10-08 07:50:00_日本：经常项目差额(报告期:2025年08月)",
       "event_date": "2025-10-08",
       "event_time": "07:50:00",
@@ -98,13 +98,38 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-11",
+      "is_new": false,
+      "discovery_date": "2025-09-12",
       "raw_data": {
         "Name": "日本：经常项目差额(报告期:2025年08月)",
         "City": "日本"
       },
-      "created_at": "2025-09-11T00:49:08.880717"
+      "created_at": "2025-09-12T00:47:13.989389"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251008160000_813233337234179974",
+      "original_id": "2025-10-08 16:00:00_中国台湾：CPI：同比(报告期:2025年09月)",
+      "event_date": "2025-10-08",
+      "event_time": "16:00:00",
+      "event_datetime": "2025-10-08 16:00:00",
+      "title": "中国台湾：CPI：同比(报告期:2025年09月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "中国台湾",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-12",
+      "raw_data": {
+        "Name": "中国台湾：CPI：同比(报告期:2025年09月)",
+        "City": "中国台湾"
+      },
+      "created_at": "2025-09-12T00:47:13.989397"
     }
   ]
 }

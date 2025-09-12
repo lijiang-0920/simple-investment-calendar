@@ -1,14 +1,14 @@
 {
   "date": "2025-12-31",
   "total_events": 2,
-  "new_events": 2,
+  "new_events": 0,
   "platforms": {
     "eastmoney": 2
   },
   "events": [
     {
       "platform": "eastmoney",
-      "event_id": "em_xsap_20251231_8456064838452885149",
+      "event_id": "em_xsap_20251231_2868607477381908660",
       "original_id": "xsap_港股通(沪)、港股通(深)_2025-12-31",
       "event_date": "2025-12-31",
       "event_time": null,
@@ -23,8 +23,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-11",
+      "is_new": false,
+      "discovery_date": "2025-09-12",
       "raw_data": {
         "MKT": "港股通(沪)、港股通(深)",
         "HOLIDAY": "新年前夕半日市",
@@ -33,11 +33,11 @@
         "XS": null,
         "FIRST_LETTER": "G"
       },
-      "created_at": "2025-09-11T00:49:08.878042"
+      "created_at": "2025-09-12T00:47:13.987454"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_xsap_20251231_-4685693454521881340",
+      "event_id": "em_xsap_20251231_5633259449291247441",
       "original_id": "xsap_港股_2025-12-31",
       "event_date": "2025-12-31",
       "event_time": null,
@@ -52,8 +52,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-11",
+      "is_new": false,
+      "discovery_date": "2025-09-12",
       "raw_data": {
         "MKT": "港股",
         "HOLIDAY": "元旦前夕(13:00收市)",
@@ -62,7 +62,7 @@
         "XS": "1",
         "FIRST_LETTER": "G"
       },
-      "created_at": "2025-09-11T00:49:08.878073"
+      "created_at": "2025-09-12T00:47:13.987487"
     }
   ]
 }
