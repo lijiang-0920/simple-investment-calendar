@@ -1,14 +1,93 @@
 {
   "date": "2025-10-21",
-  "total_events": 5,
-  "new_events": 0,
+  "total_events": 7,
+  "new_events": 2,
   "platforms": {
+    "cls": 1,
+    "tonghuashun": 1,
     "eastmoney": 5
   },
   "events": [
     {
+      "platform": "cls",
+      "event_id": "cls_321542_20251021_2",
+      "original_id": "321542",
+      "event_date": "2025-10-21",
+      "event_time": "00:00:00",
+      "event_datetime": "2025-10-21 00:00:00",
+      "title": "美联储将于10月21日举办“支付创新”会议，会议上将讨论稳定币、人工智能和代币化",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-17",
+      "raw_data": {
+        "id": 321542,
+        "calendar_time": "2025-10-21 00:00:00",
+        "data_id": 19210,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "美联储将于10月21日举办“支付创新”会议，会议上将讨论稳定币、人工智能和代币化",
+          "country": "美国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "美联储将于10月21日举办“支付创新”会议，会议上将讨论稳定币、人工智能和代币化"
+      },
+      "created_at": "2025-09-17T00:47:31.794745"
+    },
+    {
+      "platform": "tonghuashun",
+      "event_id": "ths_20251021_0_d9a8270b",
+      "original_id": "2025-10-21_0",
+      "event_date": "2025-10-21",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "美联储将于10月21日举办“支付创新”会议，会议上将讨论稳定币、人工智能和代币化",
+      "content": null,
+      "category": null,
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [
+        {
+          "code": "885757",
+          "name": "区块链"
+        }
+      ],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-17",
+      "raw_data": {
+        "event": [
+          "美联储将于10月21日举办“支付创新”会议，会议上将讨论稳定币、人工智能和代币化",
+          "",
+          "",
+          ""
+        ],
+        "concept": [
+          {
+            "code": "885757",
+            "name": "区块链",
+            "py": "qkl"
+          }
+        ]
+      },
+      "created_at": "2025-09-17T00:47:41.731701"
+    },
+    {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251021140000_1421990862995460558",
+      "event_id": "em_jjsj_20251021140000_6826590045301330239",
       "original_id": "2025-10-21 14:00:00_英国：政府净借款(报告期:2025年09月)",
       "event_date": "2025-10-21",
       "event_time": "14:00:00",
@@ -24,16 +103,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-16",
+      "discovery_date": "2025-09-17",
       "raw_data": {
         "Name": "英国：政府净借款(报告期:2025年09月)",
         "City": "英国"
       },
-      "created_at": "2025-09-16T00:47:17.271473"
+      "created_at": "2025-09-17T00:48:01.065368"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251021140000_-7722674580321291597",
+      "event_id": "em_jjsj_20251021140000_5298017672687411864",
       "original_id": "2025-10-21 14:00:00_英国：政府经常账预算(报告期:2025年09月)",
       "event_date": "2025-10-21",
       "event_time": "14:00:00",
@@ -49,16 +128,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-16",
+      "discovery_date": "2025-09-17",
       "raw_data": {
         "Name": "英国：政府经常账预算(报告期:2025年09月)",
         "City": "英国"
       },
-      "created_at": "2025-09-16T00:47:17.271482"
+      "created_at": "2025-09-17T00:48:01.065375"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251021203000_-9062050776721003525",
+      "event_id": "em_jjsj_20251021203000_-968620376072742759",
       "original_id": "2025-10-21 20:30:00_加拿大：核心CPI：同比(报告期:2025年09月)",
       "event_date": "2025-10-21",
       "event_time": "20:30:00",
@@ -74,16 +153,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-16",
+      "discovery_date": "2025-09-17",
       "raw_data": {
         "Name": "加拿大：核心CPI：同比(报告期:2025年09月)",
         "City": "加拿大"
       },
-      "created_at": "2025-09-16T00:47:17.271490"
+      "created_at": "2025-09-17T00:48:01.065383"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251021203000_699386783509721081",
+      "event_id": "em_jjsj_20251021203000_5815806717442540716",
       "original_id": "2025-10-21 20:30:00_加拿大：核心CPI：环比(报告期:2025年09月)",
       "event_date": "2025-10-21",
       "event_time": "20:30:00",
@@ -99,16 +178,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-16",
+      "discovery_date": "2025-09-17",
       "raw_data": {
         "Name": "加拿大：核心CPI：环比(报告期:2025年09月)",
         "City": "加拿大"
       },
-      "created_at": "2025-09-16T00:47:17.271497"
+      "created_at": "2025-09-17T00:48:01.065390"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251021203000_-4433841382751868426",
+      "event_id": "em_jjsj_20251021203000_-2354941754826408120",
       "original_id": "2025-10-21 20:30:00_加拿大：CPI：同比(报告期:2025年09月)",
       "event_date": "2025-10-21",
       "event_time": "20:30:00",
@@ -124,12 +203,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-16",
+      "discovery_date": "2025-09-17",
       "raw_data": {
         "Name": "加拿大：CPI：同比(报告期:2025年09月)",
         "City": "加拿大"
       },
-      "created_at": "2025-09-16T00:47:17.271504"
+      "created_at": "2025-09-17T00:48:01.065397"
     }
   ]
 }

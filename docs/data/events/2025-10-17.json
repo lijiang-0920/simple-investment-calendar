@@ -1,12 +1,50 @@
 {
   "date": "2025-10-17",
-  "total_events": 18,
+  "total_events": 20,
   "new_events": 2,
   "platforms": {
+    "cls": 1,
     "jiuyangongshe": 3,
+    "tonghuashun": 1,
     "eastmoney": 15
   },
   "events": [
+    {
+      "platform": "cls",
+      "event_id": "cls_321540_20251017_2",
+      "original_id": "321540",
+      "event_date": "2025-10-17",
+      "event_time": "00:00:00",
+      "event_datetime": "2025-10-17 00:00:00",
+      "title": "2025年GT世界挑战赛亚洲杯年度收官战将于10月17日至19日在北京开赛",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-17",
+      "raw_data": {
+        "id": 321540,
+        "calendar_time": "2025-10-17 00:00:00",
+        "data_id": 19208,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "2025年GT世界挑战赛亚洲杯年度收官战将于10月17日至19日在北京开赛",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "2025年GT世界挑战赛亚洲杯年度收官战将于10月17日至19日在北京开赛"
+      },
+      "created_at": "2025-09-17T00:47:31.794735"
+    },
     {
       "platform": "jiuyangongshe",
       "event_id": "jygs_213e834215414c4aa7bdbd705f26039e_b711b99682044bf4a930acec52818571_20251017",
@@ -27,7 +65,7 @@
       ],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-16",
+      "discovery_date": "2025-09-17",
       "raw_data": {
         "article_id": "213e834215414c4aa7bdbd705f26039e",
         "user_id": "1",
@@ -57,7 +95,7 @@
           ]
         }
       },
-      "created_at": "2025-09-16T00:46:49.525864"
+      "created_at": "2025-09-17T00:47:35.577291"
     },
     {
       "platform": "jiuyangongshe",
@@ -76,8 +114,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-16",
+      "is_new": false,
+      "discovery_date": "2025-09-17",
       "raw_data": {
         "article_id": "536975e453c64654b4fb074667bcf70c",
         "user_id": "1",
@@ -102,7 +140,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-09-16T00:46:49.525874"
+      "created_at": "2025-09-17T00:47:35.577301"
     },
     {
       "platform": "jiuyangongshe",
@@ -121,8 +159,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-16",
+      "is_new": false,
+      "discovery_date": "2025-09-17",
       "raw_data": {
         "article_id": "45ab46f4b1ba40d3bd9ee5b39296e234",
         "user_id": "1",
@@ -147,11 +185,52 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-09-16T00:46:49.525882"
+      "created_at": "2025-09-17T00:47:35.577311"
+    },
+    {
+      "platform": "tonghuashun",
+      "event_id": "ths_20251017_0_7bd40fd2",
+      "original_id": "2025-10-17_0",
+      "event_date": "2025-10-17",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025年GT世界挑战赛亚洲杯年度收官战将于10月17日至19日在北京开赛",
+      "content": null,
+      "category": null,
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [
+        {
+          "code": "885662",
+          "name": "车联网(车路协同)"
+        }
+      ],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-17",
+      "raw_data": {
+        "event": [
+          "2025年GT世界挑战赛亚洲杯年度收官战将于10月17日至19日在北京开赛",
+          "",
+          "",
+          ""
+        ],
+        "concept": [
+          {
+            "code": "885662",
+            "name": "车联网(车路协同)",
+            "py": "jlwjlxt"
+          }
+        ]
+      },
+      "created_at": "2025-09-17T00:47:41.731677"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251017120000_2883910720728788010",
+      "event_id": "em_jjsj_20251017120000_2628890110656870031",
       "original_id": "2025-10-17 12:00:00_马来西亚：对外贸易：贸易差额(报告期:2025年09月)",
       "event_date": "2025-10-17",
       "event_time": "12:00:00",
@@ -167,16 +246,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-16",
+      "discovery_date": "2025-09-17",
       "raw_data": {
         "Name": "马来西亚：对外贸易：贸易差额(报告期:2025年09月)",
         "City": "马来西亚"
       },
-      "created_at": "2025-09-16T00:47:17.271227"
+      "created_at": "2025-09-17T00:48:01.065127"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251017170000_2892927280870789816",
+      "event_id": "em_jjsj_20251017170000_799840386870513415",
       "original_id": "2025-10-17 17:00:00_欧元区：CPI：当月同比(报告期:2025年09月)",
       "event_date": "2025-10-17",
       "event_time": "17:00:00",
@@ -192,16 +271,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-16",
+      "discovery_date": "2025-09-17",
       "raw_data": {
         "Name": "欧元区：CPI：当月同比(报告期:2025年09月)",
         "City": "欧盟"
       },
-      "created_at": "2025-09-16T00:47:17.271235"
+      "created_at": "2025-09-17T00:48:01.065135"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251017170000_5787649190414216948",
+      "event_id": "em_jjsj_20251017170000_3601986625383165390",
       "original_id": "2025-10-17 17:00:00_欧元区:CPI:环比(报告期:2025年09月)",
       "event_date": "2025-10-17",
       "event_time": "17:00:00",
@@ -217,16 +296,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-16",
+      "discovery_date": "2025-09-17",
       "raw_data": {
         "Name": "欧元区:CPI:环比(报告期:2025年09月)",
         "City": "欧盟"
       },
-      "created_at": "2025-09-16T00:47:17.271242"
+      "created_at": "2025-09-17T00:48:01.065143"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251017170000_914454385160610768",
+      "event_id": "em_jjsj_20251017170000_6928093052005667062",
       "original_id": "2025-10-17 17:00:00_欧元区：CPI(报告期:2025年09月)",
       "event_date": "2025-10-17",
       "event_time": "17:00:00",
@@ -242,16 +321,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-16",
+      "discovery_date": "2025-09-17",
       "raw_data": {
         "Name": "欧元区：CPI(报告期:2025年09月)",
         "City": "欧盟"
       },
-      "created_at": "2025-09-16T00:47:17.271252"
+      "created_at": "2025-09-17T00:48:01.065150"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251017170000_-5181380379842111388",
+      "event_id": "em_jjsj_20251017170000_1336839730997841439",
       "original_id": "2025-10-17 17:00:00_欧元区：核心CPI：环比(报告期:2025年09月)",
       "event_date": "2025-10-17",
       "event_time": "17:00:00",
@@ -267,16 +346,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-16",
+      "discovery_date": "2025-09-17",
       "raw_data": {
         "Name": "欧元区：核心CPI：环比(报告期:2025年09月)",
         "City": "欧盟"
       },
-      "created_at": "2025-09-16T00:47:17.271259"
+      "created_at": "2025-09-17T00:48:01.065157"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251017170000_4663837757283155556",
+      "event_id": "em_jjsj_20251017170000_8495910230249752945",
       "original_id": "2025-10-17 17:00:00_欧盟：核心CPI：环比(报告期:2025年09月)",
       "event_date": "2025-10-17",
       "event_time": "17:00:00",
@@ -292,16 +371,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-16",
+      "discovery_date": "2025-09-17",
       "raw_data": {
         "Name": "欧盟：核心CPI：环比(报告期:2025年09月)",
         "City": "欧盟"
       },
-      "created_at": "2025-09-16T00:47:17.271267"
+      "created_at": "2025-09-17T00:48:01.065164"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251017170000_-4301910711316640483",
+      "event_id": "em_jjsj_20251017170000_3769419061937724354",
       "original_id": "2025-10-17 17:00:00_欧元区：核心CPI：当月同比(报告期:2025年09月)",
       "event_date": "2025-10-17",
       "event_time": "17:00:00",
@@ -317,16 +396,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-16",
+      "discovery_date": "2025-09-17",
       "raw_data": {
         "Name": "欧元区：核心CPI：当月同比(报告期:2025年09月)",
         "City": "欧盟"
       },
-      "created_at": "2025-09-16T00:47:17.271274"
+      "created_at": "2025-09-17T00:48:01.065171"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251017170000_6816926527116541519",
+      "event_id": "em_jjsj_20251017170000_-7038245576592557359",
       "original_id": "2025-10-17 17:00:00_意大利：HICP：同比(报告期:2025年09月)",
       "event_date": "2025-10-17",
       "event_time": "17:00:00",
@@ -342,16 +421,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-16",
+      "discovery_date": "2025-09-17",
       "raw_data": {
         "Name": "意大利：HICP：同比(报告期:2025年09月)",
         "City": "意大利"
       },
-      "created_at": "2025-09-16T00:47:17.271281"
+      "created_at": "2025-09-17T00:48:01.065179"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251017170000_3450694744119207413",
+      "event_id": "em_jjsj_20251017170000_8395077602768477312",
       "original_id": "2025-10-17 17:00:00_意大利：HICP：环比(报告期:2025年09月)",
       "event_date": "2025-10-17",
       "event_time": "17:00:00",
@@ -367,16 +446,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-16",
+      "discovery_date": "2025-09-17",
       "raw_data": {
         "Name": "意大利：HICP：环比(报告期:2025年09月)",
         "City": "意大利"
       },
-      "created_at": "2025-09-16T00:47:17.271288"
+      "created_at": "2025-09-17T00:48:01.065186"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251017170000_2487994829231806655",
+      "event_id": "em_jjsj_20251017170000_-429671650445106001",
       "original_id": "2025-10-17 17:00:00_德国：HICP：环比(报告期:2025年09月)",
       "event_date": "2025-10-17",
       "event_time": "17:00:00",
@@ -392,16 +471,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-16",
+      "discovery_date": "2025-09-17",
       "raw_data": {
         "Name": "德国：HICP：环比(报告期:2025年09月)",
         "City": "德国"
       },
-      "created_at": "2025-09-16T00:47:17.271295"
+      "created_at": "2025-09-17T00:48:01.065194"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251017170000_-3878758281565091546",
+      "event_id": "em_jjsj_20251017170000_-7511578159266221780",
       "original_id": "2025-10-17 17:00:00_德国：HICP：同比(报告期:2025年09月)",
       "event_date": "2025-10-17",
       "event_time": "17:00:00",
@@ -417,16 +496,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-16",
+      "discovery_date": "2025-09-17",
       "raw_data": {
         "Name": "德国：HICP：同比(报告期:2025年09月)",
         "City": "德国"
       },
-      "created_at": "2025-09-16T00:47:17.271302"
+      "created_at": "2025-09-17T00:48:01.065202"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251017203000_-4338790797872758670",
+      "event_id": "em_jjsj_20251017203000_-1931221305502563654",
       "original_id": "2025-10-17 20:30:00_美国：已开工的新建私人住宅(报告期:2025年09月)",
       "event_date": "2025-10-17",
       "event_time": "20:30:00",
@@ -442,16 +521,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-16",
+      "discovery_date": "2025-09-17",
       "raw_data": {
         "Name": "美国：已开工的新建私人住宅(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-09-16T00:47:17.271309"
+      "created_at": "2025-09-17T00:48:01.065210"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251017203000_-8003925265290473116",
+      "event_id": "em_jjsj_20251017203000_-1245165298469922587",
       "original_id": "2025-10-17 20:30:00_美国：已获得批准的新建私人住宅(报告期:2025年09月)",
       "event_date": "2025-10-17",
       "event_time": "20:30:00",
@@ -467,16 +546,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-16",
+      "discovery_date": "2025-09-17",
       "raw_data": {
         "Name": "美国：已获得批准的新建私人住宅(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-09-16T00:47:17.271316"
+      "created_at": "2025-09-17T00:48:01.065217"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251017203000_22463717769984460",
+      "event_id": "em_jjsj_20251017203000_3101346965864076705",
       "original_id": "2025-10-17 20:30:00_美国：已开工的新建私人住宅：折年数：季调(报告期:2025年09月)",
       "event_date": "2025-10-17",
       "event_time": "20:30:00",
@@ -492,16 +571,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-16",
+      "discovery_date": "2025-09-17",
       "raw_data": {
         "Name": "美国：已开工的新建私人住宅：折年数：季调(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-09-16T00:47:17.271324"
+      "created_at": "2025-09-17T00:48:01.065224"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251017210000_-662407729427664947",
+      "event_id": "em_jjsj_20251017210000_-3853692660979617015",
       "original_id": "2025-10-17 21:00:00_美国：月度国际资本流动：净额(报告期:2025年08月)",
       "event_date": "2025-10-17",
       "event_time": "21:00:00",
@@ -517,12 +596,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-16",
+      "discovery_date": "2025-09-17",
       "raw_data": {
         "Name": "美国：月度国际资本流动：净额(报告期:2025年08月)",
         "City": "美国"
       },
-      "created_at": "2025-09-16T00:47:17.271332"
+      "created_at": "2025-09-17T00:48:01.065232"
     }
   ]
 }
