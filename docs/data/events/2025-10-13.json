@@ -1,13 +1,86 @@
 {
   "date": "2025-10-13",
-  "total_events": 6,
-  "new_events": 0,
+  "total_events": 8,
+  "new_events": 2,
   "platforms": {
+    "cls": 2,
     "jiuyangongshe": 2,
     "investing": 1,
     "eastmoney": 3
   },
   "events": [
+    {
+      "platform": "cls",
+      "event_id": "cls_321768_20251013_2",
+      "original_id": "321768",
+      "event_date": "2025-10-13",
+      "event_time": "00:00:00",
+      "event_datetime": "2025-10-13 00:00:00",
+      "title": "国内成品油将开启新一轮调价窗口",
+      "content": null,
+      "category": "事件公告",
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-18",
+      "raw_data": {
+        "id": 321768,
+        "calendar_time": "2025-10-13 00:00:00",
+        "data_id": 19225,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "国内成品油将开启新一轮调价窗口",
+          "country": "中国",
+          "country_icon": "",
+          "star": 3
+        },
+        "holiday": null,
+        "title": "国内成品油将开启新一轮调价窗口"
+      },
+      "created_at": "2025-09-18T00:46:46.287895"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_321769_20251013_2",
+      "original_id": "321769",
+      "event_date": "2025-10-13",
+      "event_time": "00:00:00",
+      "event_datetime": "2025-10-13 00:00:00",
+      "title": "欧佩克公布月度原油市场报告",
+      "content": null,
+      "category": "事件公告",
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-18",
+      "raw_data": {
+        "id": 321769,
+        "calendar_time": "2025-10-13 00:00:00",
+        "data_id": 19226,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "欧佩克公布月度原油市场报告",
+          "country": "中国",
+          "country_icon": "",
+          "star": 3
+        },
+        "holiday": null,
+        "title": "欧佩克公布月度原油市场报告"
+      },
+      "created_at": "2025-09-18T00:46:46.287904"
+    },
     {
       "platform": "jiuyangongshe",
       "event_id": "jygs_0a0f7f8278d14a1c8f257a4397a29c5e_a6b9a6bbcf4e4c38b9936865cfe8244e_20251013",
@@ -26,7 +99,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-17",
+      "discovery_date": "2025-09-18",
       "raw_data": {
         "article_id": "0a0f7f8278d14a1c8f257a4397a29c5e",
         "user_id": "1",
@@ -51,7 +124,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-09-17T00:47:35.577239"
+      "created_at": "2025-09-18T00:46:51.131903"
     },
     {
       "platform": "jiuyangongshe",
@@ -71,7 +144,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-17",
+      "discovery_date": "2025-09-18",
       "raw_data": {
         "article_id": "5654e6925d9c4d5a8414155b17f2e349",
         "user_id": "1",
@@ -96,7 +169,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-09-17T00:47:35.577249"
+      "created_at": "2025-09-18T00:46:51.131913"
     },
     {
       "platform": "investing",
@@ -116,7 +189,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-17",
+      "discovery_date": "2025-09-18",
       "raw_data": {
         "event_id": "eventRowId_517582",
         "event_attr_id": "",
@@ -126,11 +199,11 @@
         "importance": 2,
         "event_name": "石油输出国组织(OPEC)月报"
       },
-      "created_at": "2025-09-17T00:47:49.071281"
+      "created_at": "2025-09-18T00:47:05.987831"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251013000000_9000241386263471770",
+      "event_id": "em_jjsj_20251013000000_9088634344825461796",
       "original_id": "2025-10-13 00:00:00_中国：出口金额(报告期:2025年09月)",
       "event_date": "2025-10-13",
       "event_time": null,
@@ -146,16 +219,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-17",
+      "discovery_date": "2025-09-18",
       "raw_data": {
         "Name": "中国：出口金额(报告期:2025年09月)",
         "City": "中国"
       },
-      "created_at": "2025-09-17T00:48:01.064876"
+      "created_at": "2025-09-18T00:47:19.214368"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251013000000_-895414775413844062",
+      "event_id": "em_jjsj_20251013000000_-6292954248596265750",
       "original_id": "2025-10-13 00:00:00_中国：进口金额(报告期:2025年09月)",
       "event_date": "2025-10-13",
       "event_time": null,
@@ -171,16 +244,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-17",
+      "discovery_date": "2025-09-18",
       "raw_data": {
         "Name": "中国：进口金额(报告期:2025年09月)",
         "City": "中国"
       },
-      "created_at": "2025-09-17T00:48:01.064883"
+      "created_at": "2025-09-18T00:47:19.214376"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251013000000_-252616600645608994",
+      "event_id": "em_jjsj_20251013000000_-6022687156743771213",
       "original_id": "2025-10-13 00:00:00_中国：进出口金额:当月同比(报告期:2025年09月)",
       "event_date": "2025-10-13",
       "event_time": null,
@@ -196,12 +269,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-17",
+      "discovery_date": "2025-09-18",
       "raw_data": {
         "Name": "中国：进出口金额:当月同比(报告期:2025年09月)",
         "City": "中国"
       },
-      "created_at": "2025-09-17T00:48:01.064891"
+      "created_at": "2025-09-18T00:47:19.214383"
     }
   ]
 }
