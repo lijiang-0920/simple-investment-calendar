@@ -1,14 +1,46 @@
 {
   "date": "2025-11-06",
-  "total_events": 2,
-  "new_events": 0,
+  "total_events": 3,
+  "new_events": 3,
   "platforms": {
+    "investing": 1,
     "eastmoney": 2
   },
   "events": [
     {
+      "platform": "investing",
+      "event_id": "inv__20251106190000",
+      "original_id": "eventRowId_532313",
+      "event_date": "2025-11-06",
+      "event_time": "19:00",
+      "event_datetime": "2025/11/06 19:00:00",
+      "title": "英国央行利率决议",
+      "content": "前值: 4.00%",
+      "category": null,
+      "importance": 3,
+      "country": "英国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-20",
+      "raw_data": {
+        "event_id": "eventRowId_532313",
+        "event_attr_id": "",
+        "datetime": "2025/11/06 19:00:00",
+        "time": "19:00",
+        "country": "英国",
+        "importance": 3,
+        "event_name": "英国央行利率决议",
+        "previous": "4.00%"
+      },
+      "created_at": "2025-09-20T00:45:55.774909"
+    },
+    {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251106180000_7501722459918912038",
+      "event_id": "em_jjsj_20251106180000_4398442846747391677",
       "original_id": "2025-11-06 18:00:00_欧盟:PPI:当月同比(报告期:2025年09月)",
       "event_date": "2025-11-06",
       "event_time": "18:00:00",
@@ -23,17 +55,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-18",
+      "is_new": true,
+      "discovery_date": "2025-09-20",
       "raw_data": {
         "Name": "欧盟:PPI:当月同比(报告期:2025年09月)",
         "City": "欧盟"
       },
-      "created_at": "2025-09-18T00:47:19.215666"
+      "created_at": "2025-09-20T00:46:04.279917"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251106200000_3915001891508209007",
+      "event_id": "em_jjsj_20251106200000_2653591312947985355",
       "original_id": "2025-11-06 20:00:00_英国：央行公布利率决议(报告期:2025年11月)",
       "event_date": "2025-11-06",
       "event_time": "20:00:00",
@@ -48,13 +80,13 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-18",
+      "is_new": true,
+      "discovery_date": "2025-09-20",
       "raw_data": {
         "Name": "英国：央行公布利率决议(报告期:2025年11月)",
         "City": "英国"
       },
-      "created_at": "2025-09-18T00:47:19.215674"
+      "created_at": "2025-09-20T00:46:04.279925"
     }
   ]
 }

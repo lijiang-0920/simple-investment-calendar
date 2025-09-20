@@ -1,14 +1,45 @@
 {
   "date": "2025-12-05",
-  "total_events": 12,
-  "new_events": 12,
+  "total_events": 13,
+  "new_events": 13,
   "platforms": {
+    "investing": 1,
     "eastmoney": 12
   },
   "events": [
     {
+      "platform": "investing",
+      "event_id": "inv__20251205010000",
+      "original_id": "eventRowId_532297",
+      "event_date": "2025-12-05",
+      "event_time": "01:00",
+      "event_datetime": "2025/12/05 01:00:00",
+      "title": "亚特兰大联储GDPNow经济增长预测  (第四季度)",
+      "content": null,
+      "category": null,
+      "importance": 2,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-20",
+      "raw_data": {
+        "event_id": "eventRowId_532297",
+        "event_attr_id": "",
+        "datetime": "2025/12/05 01:00:00",
+        "time": "01:00",
+        "country": "美国",
+        "importance": 2,
+        "event_name": "亚特兰大联储GDPNow经济增长预测  (第四季度)"
+      },
+      "created_at": "2025-09-20T00:45:59.019300"
+    },
+    {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251205090000_6710658004482473401",
+      "event_id": "em_jjsj_20251205090000_6609253212036701690",
       "original_id": "2025-12-05 09:00:00_菲律宾：CPI：同比(报告期:2025年11月)",
       "event_date": "2025-12-05",
       "event_time": "09:00:00",
@@ -24,16 +55,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": true,
-      "discovery_date": "2025-09-18",
+      "discovery_date": "2025-09-20",
       "raw_data": {
         "Name": "菲律宾：CPI：同比(报告期:2025年11月)",
         "City": "菲律宾"
       },
-      "created_at": "2025-09-18T00:47:19.216926"
+      "created_at": "2025-09-20T00:46:04.281224"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251205150000_-7240737079638917292",
+      "event_id": "em_jjsj_20251205150000_-8276923475864972233",
       "original_id": "2025-12-05 15:00:00_英国：Halifax：英国房价指数：季调：同比(报告期:2025年11月)",
       "event_date": "2025-12-05",
       "event_time": "15:00:00",
@@ -49,16 +80,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": true,
-      "discovery_date": "2025-09-18",
+      "discovery_date": "2025-09-20",
       "raw_data": {
         "Name": "英国：Halifax：英国房价指数：季调：同比(报告期:2025年11月)",
         "City": "英国"
       },
-      "created_at": "2025-09-18T00:47:19.216934"
+      "created_at": "2025-09-20T00:46:04.281232"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251205150000_-4556990838956788765",
+      "event_id": "em_jjsj_20251205150000_4955889208634204652",
       "original_id": "2025-12-05 15:00:00_英国：Halifax：英国房价指数：季调：环比(报告期:2025年11月)",
       "event_date": "2025-12-05",
       "event_time": "15:00:00",
@@ -74,16 +105,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": true,
-      "discovery_date": "2025-09-18",
+      "discovery_date": "2025-09-20",
       "raw_data": {
         "Name": "英国：Halifax：英国房价指数：季调：环比(报告期:2025年11月)",
         "City": "英国"
       },
-      "created_at": "2025-09-18T00:47:19.216942"
+      "created_at": "2025-09-20T00:46:04.281239"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251205180000_1912196820104557360",
+      "event_id": "em_jjsj_20251205180000_-4100778181408700474",
       "original_id": "2025-12-05 18:00:00_欧元区:GDP:当季同比:季调(终值)(报告期:2025年09月)",
       "event_date": "2025-12-05",
       "event_time": "18:00:00",
@@ -99,16 +130,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": true,
-      "discovery_date": "2025-09-18",
+      "discovery_date": "2025-09-20",
       "raw_data": {
         "Name": "欧元区:GDP:当季同比:季调(终值)(报告期:2025年09月)",
         "City": "欧盟"
       },
-      "created_at": "2025-09-18T00:47:19.216950"
+      "created_at": "2025-09-20T00:46:04.281247"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251205180000_-8274437626191951590",
+      "event_id": "em_jjsj_20251205180000_3894233926066977702",
       "original_id": "2025-12-05 18:00:00_欧盟：不变价：GDP：当季同比(报告期:2025年09月)",
       "event_date": "2025-12-05",
       "event_time": "18:00:00",
@@ -124,16 +155,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": true,
-      "discovery_date": "2025-09-18",
+      "discovery_date": "2025-09-20",
       "raw_data": {
         "Name": "欧盟：不变价：GDP：当季同比(报告期:2025年09月)",
         "City": "欧盟"
       },
-      "created_at": "2025-09-18T00:47:19.216957"
+      "created_at": "2025-09-20T00:46:04.281255"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251205180000_-2759964491534959596",
+      "event_id": "em_jjsj_20251205180000_-7427008824505363548",
       "original_id": "2025-12-05 18:00:00_欧盟：GDP：同比：季调(报告期:2025年09月)",
       "event_date": "2025-12-05",
       "event_time": "18:00:00",
@@ -149,16 +180,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": true,
-      "discovery_date": "2025-09-18",
+      "discovery_date": "2025-09-20",
       "raw_data": {
         "Name": "欧盟：GDP：同比：季调(报告期:2025年09月)",
         "City": "欧盟"
       },
-      "created_at": "2025-09-18T00:47:19.216964"
+      "created_at": "2025-09-20T00:46:04.281263"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251205213000_-7937112069668605369",
+      "event_id": "em_jjsj_20251205213000_1295427506667521995",
       "original_id": "2025-12-05 21:30:00_美国：新增非农就业人数：当月值：季调(报告期:2025年11月)",
       "event_date": "2025-12-05",
       "event_time": "21:30:00",
@@ -174,16 +205,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": true,
-      "discovery_date": "2025-09-18",
+      "discovery_date": "2025-09-20",
       "raw_data": {
         "Name": "美国：新增非农就业人数：当月值：季调(报告期:2025年11月)",
         "City": "美国"
       },
-      "created_at": "2025-09-18T00:47:19.216972"
+      "created_at": "2025-09-20T00:46:04.281271"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251205213000_2421563613286701316",
+      "event_id": "em_jjsj_20251205213000_780619082021774952",
       "original_id": "2025-12-05 21:30:00_美国：失业率：季调(报告期:2025年11月)",
       "event_date": "2025-12-05",
       "event_time": "21:30:00",
@@ -199,16 +230,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": true,
-      "discovery_date": "2025-09-18",
+      "discovery_date": "2025-09-20",
       "raw_data": {
         "Name": "美国：失业率：季调(报告期:2025年11月)",
         "City": "美国"
       },
-      "created_at": "2025-09-18T00:47:19.216979"
+      "created_at": "2025-09-20T00:46:04.281279"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251205213000_8999065043095355777",
+      "event_id": "em_jjsj_20251205213000_-6415668857743952734",
       "original_id": "2025-12-05 21:30:00_美国：新增就业人数：季调(报告期:2025年11月)",
       "event_date": "2025-12-05",
       "event_time": "21:30:00",
@@ -224,16 +255,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": true,
-      "discovery_date": "2025-09-18",
+      "discovery_date": "2025-09-20",
       "raw_data": {
         "Name": "美国：新增就业人数：季调(报告期:2025年11月)",
         "City": "美国"
       },
-      "created_at": "2025-09-18T00:47:19.216986"
+      "created_at": "2025-09-20T00:46:04.281286"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251205213000_-5887583484120780817",
+      "event_id": "em_jjsj_20251205213000_-5704578599478611214",
       "original_id": "2025-12-05 21:30:00_美国：平均每周制造业工作时间：季调(报告期:2025年11月)",
       "event_date": "2025-12-05",
       "event_time": "21:30:00",
@@ -249,16 +280,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": true,
-      "discovery_date": "2025-09-18",
+      "discovery_date": "2025-09-20",
       "raw_data": {
         "Name": "美国：平均每周制造业工作时间：季调(报告期:2025年11月)",
         "City": "美国"
       },
-      "created_at": "2025-09-18T00:47:19.216994"
+      "created_at": "2025-09-20T00:46:04.281293"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251205213000_443857218677776682",
+      "event_id": "em_jjsj_20251205213000_-4336917673583625533",
       "original_id": "2025-12-05 21:30:00_美国：制造业平均小时工资(报告期:2025年11月)",
       "event_date": "2025-12-05",
       "event_time": "21:30:00",
@@ -274,16 +305,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": true,
-      "discovery_date": "2025-09-18",
+      "discovery_date": "2025-09-20",
       "raw_data": {
         "Name": "美国：制造业平均小时工资(报告期:2025年11月)",
         "City": "美国"
       },
-      "created_at": "2025-09-18T00:47:19.217002"
+      "created_at": "2025-09-20T00:46:04.281300"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251205213000_-5329275328613499928",
+      "event_id": "em_jjsj_20251205213000_8866263516487891599",
       "original_id": "2025-12-05 21:30:00_加拿大：就业人口(报告期:2025年11月)",
       "event_date": "2025-12-05",
       "event_time": "21:30:00",
@@ -299,12 +330,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": true,
-      "discovery_date": "2025-09-18",
+      "discovery_date": "2025-09-20",
       "raw_data": {
         "Name": "加拿大：就业人口(报告期:2025年11月)",
         "City": "加拿大"
       },
-      "created_at": "2025-09-18T00:47:19.217010"
+      "created_at": "2025-09-20T00:46:04.281308"
     }
   ]
 }

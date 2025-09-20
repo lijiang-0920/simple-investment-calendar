@@ -1,14 +1,45 @@
 {
   "date": "2025-11-19",
-  "total_events": 8,
-  "new_events": 0,
+  "total_events": 9,
+  "new_events": 9,
   "platforms": {
+    "investing": 1,
     "eastmoney": 8
   },
   "events": [
     {
+      "platform": "investing",
+      "event_id": "inv__20251119233000",
+      "original_id": "eventRowId_532294",
+      "event_date": "2025-11-19",
+      "event_time": "23:30",
+      "event_datetime": "2025/11/19 23:30:00",
+      "title": "亚特兰大联储GDPNow经济增长预测  (第四季度)",
+      "content": null,
+      "category": null,
+      "importance": 2,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-20",
+      "raw_data": {
+        "event_id": "eventRowId_532294",
+        "event_attr_id": "",
+        "datetime": "2025/11/19 23:30:00",
+        "time": "23:30",
+        "country": "美国",
+        "importance": 2,
+        "event_name": "亚特兰大联储GDPNow经济增长预测  (第四季度)"
+      },
+      "created_at": "2025-09-20T00:45:57.220023"
+    },
+    {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251119000000_-2057582798619731299",
+      "event_id": "em_jjsj_20251119000000_6742268010996704657",
       "original_id": "2025-11-19 00:00:00_阿根廷：进口金额(报告期:2025年10月)",
       "event_date": "2025-11-19",
       "event_time": null,
@@ -23,17 +54,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-18",
+      "is_new": true,
+      "discovery_date": "2025-09-20",
       "raw_data": {
         "Name": "阿根廷：进口金额(报告期:2025年10月)",
         "City": "阿根廷"
       },
-      "created_at": "2025-09-18T00:47:19.216276"
+      "created_at": "2025-09-20T00:46:04.280544"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251119075000_2700465293740977436",
+      "event_id": "em_jjsj_20251119075000_-152061274554846375",
       "original_id": "2025-11-19 07:50:00_日本：进口金额：当月值(报告期:2025年10月)",
       "event_date": "2025-11-19",
       "event_time": "07:50:00",
@@ -48,17 +79,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-18",
+      "is_new": true,
+      "discovery_date": "2025-09-20",
       "raw_data": {
         "Name": "日本：进口金额：当月值(报告期:2025年10月)",
         "City": "日本"
       },
-      "created_at": "2025-09-18T00:47:19.216284"
+      "created_at": "2025-09-20T00:46:04.280553"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251119075000_-4710768976121148001",
+      "event_id": "em_jjsj_20251119075000_-5583910041789257390",
       "original_id": "2025-11-19 07:50:00_日本：贸易差额：当月值(报告期:2025年10月)",
       "event_date": "2025-11-19",
       "event_time": "07:50:00",
@@ -73,17 +104,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-18",
+      "is_new": true,
+      "discovery_date": "2025-09-20",
       "raw_data": {
         "Name": "日本：贸易差额：当月值(报告期:2025年10月)",
         "City": "日本"
       },
-      "created_at": "2025-09-18T00:47:19.216291"
+      "created_at": "2025-09-20T00:46:04.280560"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251119075000_4668180982066381269",
+      "event_id": "em_jjsj_20251119075000_7382268516447849288",
       "original_id": "2025-11-19 07:50:00_日本：出口金额：当月值(报告期:2025年10月)",
       "event_date": "2025-11-19",
       "event_time": "07:50:00",
@@ -98,17 +129,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-18",
+      "is_new": true,
+      "discovery_date": "2025-09-20",
       "raw_data": {
         "Name": "日本：出口金额：当月值(报告期:2025年10月)",
         "City": "日本"
       },
-      "created_at": "2025-09-18T00:47:19.216299"
+      "created_at": "2025-09-20T00:46:04.280568"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251119120000_-1583235208354180233",
+      "event_id": "em_jjsj_20251119120000_-8879310175982401406",
       "original_id": "2025-11-19 12:00:00_马来西亚：对外贸易：贸易差额(报告期:2025年10月)",
       "event_date": "2025-11-19",
       "event_time": "12:00:00",
@@ -123,17 +154,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-18",
+      "is_new": true,
+      "discovery_date": "2025-09-20",
       "raw_data": {
         "Name": "马来西亚：对外贸易：贸易差额(报告期:2025年10月)",
         "City": "马来西亚"
       },
-      "created_at": "2025-09-18T00:47:19.216307"
+      "created_at": "2025-09-20T00:46:04.280576"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251119213000_4327128600063171921",
+      "event_id": "em_jjsj_20251119213000_4311859913229655521",
       "original_id": "2025-11-19 21:30:00_美国：已开工的新建私人住宅(报告期:2025年10月)",
       "event_date": "2025-11-19",
       "event_time": "21:30:00",
@@ -148,17 +179,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-18",
+      "is_new": true,
+      "discovery_date": "2025-09-20",
       "raw_data": {
         "Name": "美国：已开工的新建私人住宅(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-09-18T00:47:19.216315"
+      "created_at": "2025-09-20T00:46:04.280584"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251119213000_7113870031253576861",
+      "event_id": "em_jjsj_20251119213000_-5877763363177540233",
       "original_id": "2025-11-19 21:30:00_美国：已获得批准的新建私人住宅(报告期:2025年10月)",
       "event_date": "2025-11-19",
       "event_time": "21:30:00",
@@ -173,17 +204,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-18",
+      "is_new": true,
+      "discovery_date": "2025-09-20",
       "raw_data": {
         "Name": "美国：已获得批准的新建私人住宅(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-09-18T00:47:19.216322"
+      "created_at": "2025-09-20T00:46:04.280591"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251119213000_-488388906460605480",
+      "event_id": "em_jjsj_20251119213000_-291724801706551428",
       "original_id": "2025-11-19 21:30:00_美国：已开工的新建私人住宅：折年数：季调(报告期:2025年10月)",
       "event_date": "2025-11-19",
       "event_time": "21:30:00",
@@ -198,13 +229,13 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-18",
+      "is_new": true,
+      "discovery_date": "2025-09-20",
       "raw_data": {
         "Name": "美国：已开工的新建私人住宅：折年数：季调(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-09-18T00:47:19.216329"
+      "created_at": "2025-09-20T00:46:04.280599"
     }
   ]
 }
