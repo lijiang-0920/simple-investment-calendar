@@ -1,11 +1,11 @@
 {
   "date": "2025-10-13",
-  "total_events": 8,
-  "new_events": 0,
+  "total_events": 10,
+  "new_events": 2,
   "platforms": {
     "cls": 2,
     "jiuyangongshe": 2,
-    "investing": 1,
+    "investing": 3,
     "eastmoney": 3
   },
   "events": [
@@ -27,7 +27,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-21",
+      "discovery_date": "2025-09-22",
       "raw_data": {
         "id": 321768,
         "calendar_time": "2025-10-13 00:00:00",
@@ -43,7 +43,7 @@
         "holiday": null,
         "title": "国内成品油将开启新一轮调价窗口"
       },
-      "created_at": "2025-09-21T00:53:36.457911"
+      "created_at": "2025-09-22T00:53:30.264195"
     },
     {
       "platform": "cls",
@@ -63,7 +63,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-21",
+      "discovery_date": "2025-09-22",
       "raw_data": {
         "id": 321769,
         "calendar_time": "2025-10-13 00:00:00",
@@ -79,7 +79,7 @@
         "holiday": null,
         "title": "欧佩克公布月度原油市场报告"
       },
-      "created_at": "2025-09-21T00:53:36.457921"
+      "created_at": "2025-09-22T00:53:30.264204"
     },
     {
       "platform": "jiuyangongshe",
@@ -99,7 +99,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-21",
+      "discovery_date": "2025-09-22",
       "raw_data": {
         "article_id": "0a0f7f8278d14a1c8f257a4397a29c5e",
         "user_id": "1",
@@ -124,7 +124,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-09-21T00:53:41.033982"
+      "created_at": "2025-09-22T00:53:34.734039"
     },
     {
       "platform": "jiuyangongshe",
@@ -144,7 +144,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-21",
+      "discovery_date": "2025-09-22",
       "raw_data": {
         "article_id": "5654e6925d9c4d5a8414155b17f2e349",
         "user_id": "1",
@@ -169,7 +169,69 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-09-21T00:53:41.033990"
+      "created_at": "2025-09-22T00:53:34.734049"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251013054500",
+      "original_id": "eventRowId_532385",
+      "event_date": "2025-10-13",
+      "event_time": "05:45",
+      "event_datetime": "2025/10/13 05:45:00",
+      "title": "新西兰外部移民和游客年率(%)  (八月)",
+      "content": "前值: 6.60%",
+      "category": null,
+      "importance": 1,
+      "country": "新西兰",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-22",
+      "raw_data": {
+        "event_id": "eventRowId_532385",
+        "event_attr_id": "",
+        "datetime": "2025/10/13 05:45:00",
+        "time": "05:45",
+        "country": "新西兰",
+        "importance": 1,
+        "event_name": "新西兰外部移民和游客年率(%)  (八月)",
+        "previous": "6.60%"
+      },
+      "created_at": "2025-09-22T00:53:49.951232"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251013054500",
+      "original_id": "eventRowId_532384",
+      "event_date": "2025-10-13",
+      "event_time": "05:45",
+      "event_datetime": "2025/10/13 05:45:00",
+      "title": "新西兰净流入移民人数(人)  (八月)",
+      "content": "前值: 2,060",
+      "category": null,
+      "importance": 1,
+      "country": "新西兰",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-22",
+      "raw_data": {
+        "event_id": "eventRowId_532384",
+        "event_attr_id": "",
+        "datetime": "2025/10/13 05:45:00",
+        "time": "05:45",
+        "country": "新西兰",
+        "importance": 1,
+        "event_name": "新西兰净流入移民人数(人)  (八月)",
+        "previous": "2,060"
+      },
+      "created_at": "2025-09-22T00:53:49.951386"
     },
     {
       "platform": "investing",
@@ -189,7 +251,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-21",
+      "discovery_date": "2025-09-22",
       "raw_data": {
         "event_id": "eventRowId_517582",
         "event_attr_id": "",
@@ -199,11 +261,11 @@
         "importance": 2,
         "event_name": "石油输出国组织(OPEC)月报"
       },
-      "created_at": "2025-09-21T00:53:54.414211"
+      "created_at": "2025-09-22T00:53:49.951502"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251013000000_3217540176110089048",
+      "event_id": "em_jjsj_20251013000000_6837106539143240252",
       "original_id": "2025-10-13 00:00:00_中国：出口金额(报告期:2025年09月)",
       "event_date": "2025-10-13",
       "event_time": null,
@@ -219,16 +281,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-21",
+      "discovery_date": "2025-09-22",
       "raw_data": {
         "Name": "中国：出口金额(报告期:2025年09月)",
         "City": "中国"
       },
-      "created_at": "2025-09-21T00:54:07.673556"
+      "created_at": "2025-09-22T00:54:04.250475"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251013000000_2994960795089916092",
+      "event_id": "em_jjsj_20251013000000_-1146469230192809314",
       "original_id": "2025-10-13 00:00:00_中国：进口金额(报告期:2025年09月)",
       "event_date": "2025-10-13",
       "event_time": null,
@@ -244,16 +306,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-21",
+      "discovery_date": "2025-09-22",
       "raw_data": {
         "Name": "中国：进口金额(报告期:2025年09月)",
         "City": "中国"
       },
-      "created_at": "2025-09-21T00:54:07.673564"
+      "created_at": "2025-09-22T00:54:04.250482"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251013000000_9118499097113607991",
+      "event_id": "em_jjsj_20251013000000_5754626195445203447",
       "original_id": "2025-10-13 00:00:00_中国：进出口金额:当月同比(报告期:2025年09月)",
       "event_date": "2025-10-13",
       "event_time": null,
@@ -269,12 +331,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-21",
+      "discovery_date": "2025-09-22",
       "raw_data": {
         "Name": "中国：进出口金额:当月同比(报告期:2025年09月)",
         "City": "中国"
       },
-      "created_at": "2025-09-21T00:54:07.673571"
+      "created_at": "2025-09-22T00:54:04.250489"
     }
   ]
 }
