@@ -1,11 +1,11 @@
 {
   "date": "2025-10-13",
-  "total_events": 10,
-  "new_events": 2,
+  "total_events": 13,
+  "new_events": 3,
   "platforms": {
     "cls": 2,
-    "jiuyangongshe": 2,
-    "investing": 3,
+    "jiuyangongshe": 3,
+    "investing": 5,
     "eastmoney": 3
   },
   "events": [
@@ -27,7 +27,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-22",
+      "discovery_date": "2025-09-23",
       "raw_data": {
         "id": 321768,
         "calendar_time": "2025-10-13 00:00:00",
@@ -43,7 +43,7 @@
         "holiday": null,
         "title": "国内成品油将开启新一轮调价窗口"
       },
-      "created_at": "2025-09-22T00:53:30.264195"
+      "created_at": "2025-09-23T00:47:46.147968"
     },
     {
       "platform": "cls",
@@ -63,7 +63,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-22",
+      "discovery_date": "2025-09-23",
       "raw_data": {
         "id": 321769,
         "calendar_time": "2025-10-13 00:00:00",
@@ -79,7 +79,7 @@
         "holiday": null,
         "title": "欧佩克公布月度原油市场报告"
       },
-      "created_at": "2025-09-22T00:53:30.264204"
+      "created_at": "2025-09-23T00:47:46.147978"
     },
     {
       "platform": "jiuyangongshe",
@@ -99,7 +99,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-22",
+      "discovery_date": "2025-09-23",
       "raw_data": {
         "article_id": "0a0f7f8278d14a1c8f257a4397a29c5e",
         "user_id": "1",
@@ -124,7 +124,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-09-22T00:53:34.734039"
+      "created_at": "2025-09-23T00:47:50.796681"
     },
     {
       "platform": "jiuyangongshe",
@@ -144,7 +144,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-22",
+      "discovery_date": "2025-09-23",
       "raw_data": {
         "article_id": "5654e6925d9c4d5a8414155b17f2e349",
         "user_id": "1",
@@ -169,7 +169,52 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-09-22T00:53:34.734049"
+      "created_at": "2025-09-23T00:47:50.796690"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_5308c311c40a4d84804fa0de52c3cd01_028aebe3d5d04825a655e2405e2ba63a_20251013",
+      "original_id": "5308c311c40a4d84804fa0de52c3cd01",
+      "event_date": "2025-10-13",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "OCP全球峰会",
+      "content": "",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-23",
+      "raw_data": {
+        "article_id": "5308c311c40a4d84804fa0de52c3cd01",
+        "user_id": "1",
+        "title": "OCP全球峰会",
+        "content": "",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "5308c311c40a4d84804fa0de52c3cd01",
+          "timeline_id": "028aebe3d5d04825a655e2405e2ba63a",
+          "date": "2025-10-13",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-09-23 00:03:16",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-09-23T00:47:50.796698"
     },
     {
       "platform": "investing",
@@ -188,8 +233,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-22",
+      "is_new": false,
+      "discovery_date": "2025-09-23",
       "raw_data": {
         "event_id": "eventRowId_532385",
         "event_attr_id": "",
@@ -200,7 +245,7 @@
         "event_name": "新西兰外部移民和游客年率(%)  (八月)",
         "previous": "6.60%"
       },
-      "created_at": "2025-09-22T00:53:49.951232"
+      "created_at": "2025-09-23T00:48:05.692638"
     },
     {
       "platform": "investing",
@@ -219,8 +264,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-22",
+      "is_new": false,
+      "discovery_date": "2025-09-23",
       "raw_data": {
         "event_id": "eventRowId_532384",
         "event_attr_id": "",
@@ -231,7 +276,38 @@
         "event_name": "新西兰净流入移民人数(人)  (八月)",
         "previous": "2,060"
       },
-      "created_at": "2025-09-22T00:53:49.951386"
+      "created_at": "2025-09-23T00:48:05.692773"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251013183000",
+      "original_id": "eventRowId_532404",
+      "event_date": "2025-10-13",
+      "event_time": "18:30",
+      "event_datetime": "2025/10/13 18:30:00",
+      "title": "印度CPI年率(%) (同比)  (九月)",
+      "content": "前值: 2.07%",
+      "category": null,
+      "importance": 2,
+      "country": "印度",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-23",
+      "raw_data": {
+        "event_id": "eventRowId_532404",
+        "event_attr_id": "",
+        "datetime": "2025/10/13 18:30:00",
+        "time": "18:30",
+        "country": "印度",
+        "importance": 2,
+        "event_name": "印度CPI年率(%) (同比)  (九月)",
+        "previous": "2.07%"
+      },
+      "created_at": "2025-09-23T00:48:05.692889"
     },
     {
       "platform": "investing",
@@ -251,7 +327,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-22",
+      "discovery_date": "2025-09-23",
       "raw_data": {
         "event_id": "eventRowId_517582",
         "event_attr_id": "",
@@ -261,11 +337,42 @@
         "importance": 2,
         "event_name": "石油输出国组织(OPEC)月报"
       },
-      "created_at": "2025-09-22T00:53:49.951502"
+      "created_at": "2025-09-23T00:48:05.693000"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251013200000",
+      "original_id": "eventRowId_532406",
+      "event_date": "2025-10-13",
+      "event_time": "20:00",
+      "event_datetime": "2025/10/13 20:00:00",
+      "title": "德国未经季调经常帐(欧元)  (八月)",
+      "content": "前值: 14.8B",
+      "category": null,
+      "importance": 1,
+      "country": "德国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-23",
+      "raw_data": {
+        "event_id": "eventRowId_532406",
+        "event_attr_id": "",
+        "datetime": "2025/10/13 20:00:00",
+        "time": "20:00",
+        "country": "德国",
+        "importance": 1,
+        "event_name": "德国未经季调经常帐(欧元)  (八月)",
+        "previous": "14.8B"
+      },
+      "created_at": "2025-09-23T00:48:05.693111"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251013000000_6837106539143240252",
+      "event_id": "em_jjsj_20251013000000_-5736477481301081043",
       "original_id": "2025-10-13 00:00:00_中国：出口金额(报告期:2025年09月)",
       "event_date": "2025-10-13",
       "event_time": null,
@@ -281,16 +388,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-22",
+      "discovery_date": "2025-09-23",
       "raw_data": {
         "Name": "中国：出口金额(报告期:2025年09月)",
         "City": "中国"
       },
-      "created_at": "2025-09-22T00:54:04.250475"
+      "created_at": "2025-09-23T00:48:19.512788"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251013000000_-1146469230192809314",
+      "event_id": "em_jjsj_20251013000000_-3554961091235035887",
       "original_id": "2025-10-13 00:00:00_中国：进口金额(报告期:2025年09月)",
       "event_date": "2025-10-13",
       "event_time": null,
@@ -306,16 +413,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-22",
+      "discovery_date": "2025-09-23",
       "raw_data": {
         "Name": "中国：进口金额(报告期:2025年09月)",
         "City": "中国"
       },
-      "created_at": "2025-09-22T00:54:04.250482"
+      "created_at": "2025-09-23T00:48:19.512795"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251013000000_5754626195445203447",
+      "event_id": "em_jjsj_20251013000000_-5441502077167747467",
       "original_id": "2025-10-13 00:00:00_中国：进出口金额:当月同比(报告期:2025年09月)",
       "event_date": "2025-10-13",
       "event_time": null,
@@ -331,12 +438,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-22",
+      "discovery_date": "2025-09-23",
       "raw_data": {
         "Name": "中国：进出口金额:当月同比(报告期:2025年09月)",
         "City": "中国"
       },
-      "created_at": "2025-09-22T00:54:04.250489"
+      "created_at": "2025-09-23T00:48:19.512803"
     }
   ]
 }
