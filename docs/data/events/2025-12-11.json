@@ -1,9 +1,10 @@
 {
   "date": "2025-12-11",
-  "total_events": 4,
-  "new_events": 0,
+  "total_events": 5,
+  "new_events": 1,
   "platforms": {
-    "investing": 4
+    "investing": 4,
+    "eastmoney": 1
   },
   "events": [
     {
@@ -24,7 +25,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-24",
+      "discovery_date": "2025-09-25",
       "raw_data": {
         "event_id": "eventRowId_532299",
         "event_attr_id": "",
@@ -34,7 +35,7 @@
         "importance": 2,
         "event_name": "亚特兰大联储GDPNow经济增长预测  (第四季度)"
       },
-      "created_at": "2025-09-24T00:49:08.570479"
+      "created_at": "2025-09-25T00:49:37.339217"
     },
     {
       "platform": "investing",
@@ -54,7 +55,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-24",
+      "discovery_date": "2025-09-25",
       "raw_data": {
         "event_id": "eventRowId_532137",
         "event_attr_id": "",
@@ -65,7 +66,7 @@
         "event_name": "美国联邦基金利率预测-3年  (第四季度)",
         "previous": "3.1%"
       },
-      "created_at": "2025-09-24T00:49:08.570604"
+      "created_at": "2025-09-25T00:49:37.339351"
     },
     {
       "platform": "investing",
@@ -85,7 +86,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-24",
+      "discovery_date": "2025-09-25",
       "raw_data": {
         "event_id": "eventRowId_514607",
         "event_attr_id": "",
@@ -95,7 +96,7 @@
         "importance": 3,
         "event_name": "美联储利率决议"
       },
-      "created_at": "2025-09-24T00:49:08.570704"
+      "created_at": "2025-09-25T00:49:37.339468"
     },
     {
       "platform": "investing",
@@ -115,7 +116,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-24",
+      "discovery_date": "2025-09-25",
       "raw_data": {
         "event_id": "eventRowId_517584",
         "event_attr_id": "",
@@ -125,7 +126,32 @@
         "importance": 2,
         "event_name": "石油输出国组织(OPEC)月报"
       },
-      "created_at": "2025-09-24T00:49:08.570802"
+      "created_at": "2025-09-25T00:49:37.339579"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251211030000_-6105376919812070260",
+      "original_id": "2025-12-11 03:00:00_美国:联邦基金利率目标:上限(报告期:2025年12月)",
+      "event_date": "2025-12-11",
+      "event_time": "03:00:00",
+      "event_datetime": "2025-12-11 03:00:00",
+      "title": "美国:联邦基金利率目标:上限(报告期:2025年12月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-25",
+      "raw_data": {
+        "Name": "美国:联邦基金利率目标:上限(报告期:2025年12月)",
+        "City": "美国"
+      },
+      "created_at": "2025-09-25T00:49:42.229074"
     }
   ]
 }
