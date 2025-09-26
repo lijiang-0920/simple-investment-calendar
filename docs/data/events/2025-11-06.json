@@ -1,10 +1,10 @@
 {
   "date": "2025-11-06",
-  "total_events": 3,
-  "new_events": 0,
+  "total_events": 4,
+  "new_events": 1,
   "platforms": {
     "investing": 1,
-    "eastmoney": 2
+    "eastmoney": 3
   },
   "events": [
     {
@@ -25,7 +25,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-25",
+      "discovery_date": "2025-09-26",
       "raw_data": {
         "event_id": "eventRowId_532313",
         "event_attr_id": "",
@@ -36,11 +36,36 @@
         "event_name": "英国央行利率决议",
         "previous": "4.00%"
       },
-      "created_at": "2025-09-25T00:49:29.880553"
+      "created_at": "2025-09-26T00:48:21.440914"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251106180000_1592021325474509715",
+      "event_id": "em_jjsj_20251106000000_6572570264043285541",
+      "original_id": "2025-11-06 00:00:00_中国：库存:电解铝:保税区(报告期:2025年11月)",
+      "event_date": "2025-11-06",
+      "event_time": null,
+      "event_datetime": "2025-11-06 00:00:00",
+      "title": "中国：库存:电解铝:保税区(报告期:2025年11月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-26",
+      "raw_data": {
+        "Name": "中国：库存:电解铝:保税区(报告期:2025年11月)",
+        "City": "中国"
+      },
+      "created_at": "2025-09-26T00:48:30.956097"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251106180000_208544767089179964",
       "original_id": "2025-11-06 18:00:00_欧盟:PPI:当月同比(报告期:2025年09月)",
       "event_date": "2025-11-06",
       "event_time": "18:00:00",
@@ -56,16 +81,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-25",
+      "discovery_date": "2025-09-26",
       "raw_data": {
         "Name": "欧盟:PPI:当月同比(报告期:2025年09月)",
         "City": "欧盟"
       },
-      "created_at": "2025-09-25T00:49:42.226399"
+      "created_at": "2025-09-26T00:48:30.956105"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251106200000_-4418350290031470626",
+      "event_id": "em_jjsj_20251106200000_-3970006955465507845",
       "original_id": "2025-11-06 20:00:00_英国：央行公布利率决议(报告期:2025年11月)",
       "event_date": "2025-11-06",
       "event_time": "20:00:00",
@@ -81,12 +106,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-25",
+      "discovery_date": "2025-09-26",
       "raw_data": {
         "Name": "英国：央行公布利率决议(报告期:2025年11月)",
         "City": "英国"
       },
-      "created_at": "2025-09-25T00:49:42.226406"
+      "created_at": "2025-09-26T00:48:30.956113"
     }
   ]
 }

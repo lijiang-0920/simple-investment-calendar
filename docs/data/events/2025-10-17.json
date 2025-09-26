@@ -1,12 +1,12 @@
 {
   "date": "2025-10-17",
-  "total_events": 26,
-  "new_events": 4,
+  "total_events": 31,
+  "new_events": 5,
   "platforms": {
     "cls": 1,
     "jiuyangongshe": 3,
     "tonghuashun": 1,
-    "investing": 1,
+    "investing": 6,
     "eastmoney": 20
   },
   "events": [
@@ -28,7 +28,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-25",
+      "discovery_date": "2025-09-26",
       "raw_data": {
         "id": 321540,
         "calendar_time": "2025-10-17 00:00:00",
@@ -44,7 +44,7 @@
         "holiday": null,
         "title": "2025年GT世界挑战赛亚洲杯年度收官战将于10月17日至19日在北京开赛"
       },
-      "created_at": "2025-09-25T00:49:08.177343"
+      "created_at": "2025-09-26T00:48:00.987811"
     },
     {
       "platform": "jiuyangongshe",
@@ -66,7 +66,7 @@
       ],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-25",
+      "discovery_date": "2025-09-26",
       "raw_data": {
         "article_id": "213e834215414c4aa7bdbd705f26039e",
         "user_id": "1",
@@ -96,7 +96,7 @@
           ]
         }
       },
-      "created_at": "2025-09-25T00:49:12.563998"
+      "created_at": "2025-09-26T00:48:05.241991"
     },
     {
       "platform": "jiuyangongshe",
@@ -116,7 +116,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-25",
+      "discovery_date": "2025-09-26",
       "raw_data": {
         "article_id": "536975e453c64654b4fb074667bcf70c",
         "user_id": "1",
@@ -141,7 +141,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-09-25T00:49:12.564007"
+      "created_at": "2025-09-26T00:48:05.241998"
     },
     {
       "platform": "jiuyangongshe",
@@ -161,7 +161,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-25",
+      "discovery_date": "2025-09-26",
       "raw_data": {
         "article_id": "45ab46f4b1ba40d3bd9ee5b39296e234",
         "user_id": "1",
@@ -186,7 +186,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-09-25T00:49:12.564016"
+      "created_at": "2025-09-26T00:48:05.242006"
     },
     {
       "platform": "tonghuashun",
@@ -211,7 +211,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-25",
+      "discovery_date": "2025-09-26",
       "raw_data": {
         "event": [
           "2025年GT世界挑战赛亚洲杯年度收官战将于10月17日至19日在北京开赛",
@@ -227,7 +227,7 @@
           }
         ]
       },
-      "created_at": "2025-09-25T00:49:19.486389"
+      "created_at": "2025-09-26T00:48:12.531633"
     },
     {
       "platform": "investing",
@@ -247,7 +247,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-25",
+      "discovery_date": "2025-09-26",
       "raw_data": {
         "event_id": "eventRowId_532286",
         "event_attr_id": "",
@@ -257,11 +257,166 @@
         "importance": 2,
         "event_name": "亚特兰大联储GDPNow经济增长预测  (第三季度)"
       },
-      "created_at": "2025-09-25T00:49:26.774791"
+      "created_at": "2025-09-26T00:48:18.815257"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251017050000",
+      "original_id": "eventRowId_532753",
+      "event_date": "2025-10-17",
+      "event_time": "05:00",
+      "event_datetime": "2025/10/17 05:00:00",
+      "title": "韩国出口物价指数年率(%) (同比)  (九月)",
+      "content": "前值: -1.0%",
+      "category": null,
+      "importance": 1,
+      "country": "韩国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-26",
+      "raw_data": {
+        "event_id": "eventRowId_532753",
+        "event_attr_id": "",
+        "datetime": "2025/10/17 05:00:00",
+        "time": "05:00",
+        "country": "韩国",
+        "importance": 1,
+        "event_name": "韩国出口物价指数年率(%) (同比)  (九月)",
+        "previous": "-1.0%"
+      },
+      "created_at": "2025-09-26T00:48:18.815385"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251017050000",
+      "original_id": "eventRowId_532752",
+      "event_date": "2025-10-17",
+      "event_time": "05:00",
+      "event_datetime": "2025/10/17 05:00:00",
+      "title": "韩国进口物价指数年率(%) (同比)  (九月)",
+      "content": "前值: -2.2%",
+      "category": null,
+      "importance": 1,
+      "country": "韩国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-26",
+      "raw_data": {
+        "event_id": "eventRowId_532752",
+        "event_attr_id": "",
+        "datetime": "2025/10/17 05:00:00",
+        "time": "05:00",
+        "country": "韩国",
+        "importance": 1,
+        "event_name": "韩国进口物价指数年率(%) (同比)  (九月)",
+        "previous": "-2.2%"
+      },
+      "created_at": "2025-09-26T00:48:18.815503"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251017070000",
+      "original_id": "eventRowId_532754",
+      "event_date": "2025-10-17",
+      "event_time": "07:00",
+      "event_datetime": "2025/10/17 07:00:00",
+      "title": "韩国失业率  (九月)",
+      "content": "前值: 2.6%",
+      "category": null,
+      "importance": 1,
+      "country": "韩国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-26",
+      "raw_data": {
+        "event_id": "eventRowId_532754",
+        "event_attr_id": "",
+        "datetime": "2025/10/17 07:00:00",
+        "time": "07:00",
+        "country": "韩国",
+        "importance": 1,
+        "event_name": "韩国失业率  (九月)",
+        "previous": "2.6%"
+      },
+      "created_at": "2025-09-26T00:48:18.815617"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251017083000",
+      "original_id": "eventRowId_532755",
+      "event_date": "2025-10-17",
+      "event_time": "08:30",
+      "event_datetime": "2025/10/17 08:30:00",
+      "title": "新加坡非石油出口额月率(%) (月度环比)  (九月)",
+      "content": "前值: -8.90%",
+      "category": null,
+      "importance": 1,
+      "country": "新加坡",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-26",
+      "raw_data": {
+        "event_id": "eventRowId_532755",
+        "event_attr_id": "",
+        "datetime": "2025/10/17 08:30:00",
+        "time": "08:30",
+        "country": "新加坡",
+        "importance": 1,
+        "event_name": "新加坡非石油出口额月率(%) (月度环比)  (九月)",
+        "previous": "-8.90%"
+      },
+      "created_at": "2025-09-26T00:48:18.815749"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251017083000",
+      "original_id": "eventRowId_532756",
+      "event_date": "2025-10-17",
+      "event_time": "08:30",
+      "event_datetime": "2025/10/17 08:30:00",
+      "title": "新加坡非石油出口额年率(%) (同比)  (九月)",
+      "content": "前值: -11.30%",
+      "category": null,
+      "importance": 1,
+      "country": "新加坡",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-26",
+      "raw_data": {
+        "event_id": "eventRowId_532756",
+        "event_attr_id": "",
+        "datetime": "2025/10/17 08:30:00",
+        "time": "08:30",
+        "country": "新加坡",
+        "importance": 1,
+        "event_name": "新加坡非石油出口额年率(%) (同比)  (九月)",
+        "previous": "-11.30%"
+      },
+      "created_at": "2025-09-26T00:48:18.815894"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251017120000_1696731539465646046",
+      "event_id": "em_jjsj_20251017120000_3438096678299557898",
       "original_id": "2025-10-17 12:00:00_马来西亚：对外贸易：贸易差额(报告期:2025年09月)",
       "event_date": "2025-10-17",
       "event_time": "12:00:00",
@@ -277,16 +432,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-25",
+      "discovery_date": "2025-09-26",
       "raw_data": {
         "Name": "马来西亚：对外贸易：贸易差额(报告期:2025年09月)",
         "City": "马来西亚"
       },
-      "created_at": "2025-09-25T00:49:42.225338"
+      "created_at": "2025-09-26T00:48:30.954983"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251017170000_9209727679525893796",
+      "event_id": "em_jjsj_20251017170000_-2739770642428164531",
       "original_id": "2025-10-17 17:00:00_欧元区：CPI：当月同比(报告期:2025年09月)",
       "event_date": "2025-10-17",
       "event_time": "17:00:00",
@@ -302,16 +457,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-25",
+      "discovery_date": "2025-09-26",
       "raw_data": {
         "Name": "欧元区：CPI：当月同比(报告期:2025年09月)",
         "City": "欧盟"
       },
-      "created_at": "2025-09-25T00:49:42.225346"
+      "created_at": "2025-09-26T00:48:30.954991"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251017170000_5492658534582254474",
+      "event_id": "em_jjsj_20251017170000_-3872672035554559556",
       "original_id": "2025-10-17 17:00:00_欧元区:CPI:环比(报告期:2025年09月)",
       "event_date": "2025-10-17",
       "event_time": "17:00:00",
@@ -327,16 +482,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-25",
+      "discovery_date": "2025-09-26",
       "raw_data": {
         "Name": "欧元区:CPI:环比(报告期:2025年09月)",
         "City": "欧盟"
       },
-      "created_at": "2025-09-25T00:49:42.225354"
+      "created_at": "2025-09-26T00:48:30.954998"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251017170000_7473626637824327303",
+      "event_id": "em_jjsj_20251017170000_6199708368107712150",
       "original_id": "2025-10-17 17:00:00_欧元区：CPI(报告期:2025年09月)",
       "event_date": "2025-10-17",
       "event_time": "17:00:00",
@@ -352,16 +507,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-25",
+      "discovery_date": "2025-09-26",
       "raw_data": {
         "Name": "欧元区：CPI(报告期:2025年09月)",
         "City": "欧盟"
       },
-      "created_at": "2025-09-25T00:49:42.225361"
+      "created_at": "2025-09-26T00:48:30.955005"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251017170000_-7547146764045176338",
+      "event_id": "em_jjsj_20251017170000_-3540094163789292910",
       "original_id": "2025-10-17 17:00:00_欧元区：核心CPI：环比(报告期:2025年09月)",
       "event_date": "2025-10-17",
       "event_time": "17:00:00",
@@ -377,16 +532,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-25",
+      "discovery_date": "2025-09-26",
       "raw_data": {
         "Name": "欧元区：核心CPI：环比(报告期:2025年09月)",
         "City": "欧盟"
       },
-      "created_at": "2025-09-25T00:49:42.225368"
+      "created_at": "2025-09-26T00:48:30.955012"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251017170000_-1227570100563167641",
+      "event_id": "em_jjsj_20251017170000_5337719025475845802",
       "original_id": "2025-10-17 17:00:00_欧盟：核心CPI：环比(报告期:2025年09月)",
       "event_date": "2025-10-17",
       "event_time": "17:00:00",
@@ -402,16 +557,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-25",
+      "discovery_date": "2025-09-26",
       "raw_data": {
         "Name": "欧盟：核心CPI：环比(报告期:2025年09月)",
         "City": "欧盟"
       },
-      "created_at": "2025-09-25T00:49:42.225375"
+      "created_at": "2025-09-26T00:48:30.955019"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251017170000_2740957335471873408",
+      "event_id": "em_jjsj_20251017170000_7247793801520787725",
       "original_id": "2025-10-17 17:00:00_欧元区：核心CPI：当月同比(报告期:2025年09月)",
       "event_date": "2025-10-17",
       "event_time": "17:00:00",
@@ -427,16 +582,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-25",
+      "discovery_date": "2025-09-26",
       "raw_data": {
         "Name": "欧元区：核心CPI：当月同比(报告期:2025年09月)",
         "City": "欧盟"
       },
-      "created_at": "2025-09-25T00:49:42.225382"
+      "created_at": "2025-09-26T00:48:30.955027"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251017170000_2120130617086026261",
+      "event_id": "em_jjsj_20251017170000_-6580068923262670768",
       "original_id": "2025-10-17 17:00:00_意大利：HICP：同比(报告期:2025年09月)",
       "event_date": "2025-10-17",
       "event_time": "17:00:00",
@@ -452,16 +607,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-25",
+      "discovery_date": "2025-09-26",
       "raw_data": {
         "Name": "意大利：HICP：同比(报告期:2025年09月)",
         "City": "意大利"
       },
-      "created_at": "2025-09-25T00:49:42.225390"
+      "created_at": "2025-09-26T00:48:30.955034"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251017170000_3169766663844247429",
+      "event_id": "em_jjsj_20251017170000_-4174610942548082580",
       "original_id": "2025-10-17 17:00:00_意大利：HICP：环比(报告期:2025年09月)",
       "event_date": "2025-10-17",
       "event_time": "17:00:00",
@@ -477,16 +632,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-25",
+      "discovery_date": "2025-09-26",
       "raw_data": {
         "Name": "意大利：HICP：环比(报告期:2025年09月)",
         "City": "意大利"
       },
-      "created_at": "2025-09-25T00:49:42.225397"
+      "created_at": "2025-09-26T00:48:30.955042"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251017170000_-4137217033126438943",
+      "event_id": "em_jjsj_20251017170000_8257252178156156617",
       "original_id": "2025-10-17 17:00:00_德国：HICP：环比(报告期:2025年09月)",
       "event_date": "2025-10-17",
       "event_time": "17:00:00",
@@ -502,16 +657,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-25",
+      "discovery_date": "2025-09-26",
       "raw_data": {
         "Name": "德国：HICP：环比(报告期:2025年09月)",
         "City": "德国"
       },
-      "created_at": "2025-09-25T00:49:42.225431"
+      "created_at": "2025-09-26T00:48:30.955049"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251017170000_-6288774856326974681",
+      "event_id": "em_jjsj_20251017170000_1094791914699048625",
       "original_id": "2025-10-17 17:00:00_德国：HICP：同比(报告期:2025年09月)",
       "event_date": "2025-10-17",
       "event_time": "17:00:00",
@@ -527,16 +682,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-25",
+      "discovery_date": "2025-09-26",
       "raw_data": {
         "Name": "德国：HICP：同比(报告期:2025年09月)",
         "City": "德国"
       },
-      "created_at": "2025-09-25T00:49:42.225439"
+      "created_at": "2025-09-26T00:48:30.955057"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251017203000_-5548218649922910658",
+      "event_id": "em_jjsj_20251017203000_8193207180545069915",
       "original_id": "2025-10-17 20:30:00_美国：已开工的新建私人住宅(报告期:2025年09月)",
       "event_date": "2025-10-17",
       "event_time": "20:30:00",
@@ -552,16 +707,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-25",
+      "discovery_date": "2025-09-26",
       "raw_data": {
         "Name": "美国：已开工的新建私人住宅(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-09-25T00:49:42.225447"
+      "created_at": "2025-09-26T00:48:30.955065"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251017203000_-56327407626523173",
+      "event_id": "em_jjsj_20251017203000_-8525510008004521985",
       "original_id": "2025-10-17 20:30:00_美国：已获得批准的新建私人住宅(报告期:2025年09月)",
       "event_date": "2025-10-17",
       "event_time": "20:30:00",
@@ -577,16 +732,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-25",
+      "discovery_date": "2025-09-26",
       "raw_data": {
         "Name": "美国：已获得批准的新建私人住宅(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-09-25T00:49:42.225454"
+      "created_at": "2025-09-26T00:48:30.955072"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251017203000_7043302056321096979",
+      "event_id": "em_jjsj_20251017203000_2936656019626201586",
       "original_id": "2025-10-17 20:30:00_美国：已开工的新建私人住宅：折年数：季调(报告期:2025年09月)",
       "event_date": "2025-10-17",
       "event_time": "20:30:00",
@@ -602,16 +757,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-25",
+      "discovery_date": "2025-09-26",
       "raw_data": {
         "Name": "美国：已开工的新建私人住宅：折年数：季调(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-09-25T00:49:42.225461"
+      "created_at": "2025-09-26T00:48:30.955079"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251017210000_-5934236692935437069",
+      "event_id": "em_jjsj_20251017210000_9190712665358399547",
       "original_id": "2025-10-17 21:00:00_美国：月度国际资本流动：净额(报告期:2025年08月)",
       "event_date": "2025-10-17",
       "event_time": "21:00:00",
@@ -627,16 +782,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-25",
+      "discovery_date": "2025-09-26",
       "raw_data": {
         "Name": "美国：月度国际资本流动：净额(报告期:2025年08月)",
         "City": "美国"
       },
-      "created_at": "2025-09-25T00:49:42.225469"
+      "created_at": "2025-09-26T00:48:30.955087"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251017211500_5757180353564095350",
+      "event_id": "em_jjsj_20251017211500_-5694625905737738767",
       "original_id": "2025-10-17 21:15:00_美国：全部工业产能利用率(报告期:2025年09月)",
       "event_date": "2025-10-17",
       "event_time": "21:15:00",
@@ -651,17 +806,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-25",
+      "is_new": false,
+      "discovery_date": "2025-09-26",
       "raw_data": {
         "Name": "美国：全部工业产能利用率(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-09-25T00:49:42.225478"
+      "created_at": "2025-09-26T00:48:30.955095"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251017211500_-2961533048381912805",
+      "event_id": "em_jjsj_20251017211500_-4566241003372291724",
       "original_id": "2025-10-17 21:15:00_美国：工业总体产出指数：环比(报告期:2025年09月)",
       "event_date": "2025-10-17",
       "event_time": "21:15:00",
@@ -676,17 +831,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-25",
+      "is_new": false,
+      "discovery_date": "2025-09-26",
       "raw_data": {
         "Name": "美国：工业总体产出指数：环比(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-09-25T00:49:42.225485"
+      "created_at": "2025-09-26T00:48:30.955102"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251017211500_-5938335039214517438",
+      "event_id": "em_jjsj_20251017211500_7175109382130035124",
       "original_id": "2025-10-17 21:15:00_美国：产能利用率：制造业(报告期:2025年09月)",
       "event_date": "2025-10-17",
       "event_time": "21:15:00",
@@ -701,17 +856,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-25",
+      "is_new": false,
+      "discovery_date": "2025-09-26",
       "raw_data": {
         "Name": "美国：产能利用率：制造业(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-09-25T00:49:42.225492"
+      "created_at": "2025-09-26T00:48:30.955110"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251017211500_-5268255896293667041",
+      "event_id": "em_jjsj_20251017211500_-8206960463584831774",
       "original_id": "2025-10-17 21:15:00_美国：工业产出指数：制造业：季调：环比(报告期:2025年09月)",
       "event_date": "2025-10-17",
       "event_time": "21:15:00",
@@ -726,13 +881,13 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-25",
+      "is_new": false,
+      "discovery_date": "2025-09-26",
       "raw_data": {
         "Name": "美国：工业产出指数：制造业：季调：环比(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-09-25T00:49:42.225500"
+      "created_at": "2025-09-26T00:48:30.955117"
     },
     {
       "platform": "eastmoney",
@@ -752,7 +907,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-25",
+      "discovery_date": "2025-09-26",
       "raw_data": {
         "fe_code": "10865230",
         "fe_name": "2025年GT世界挑战赛亚洲杯年度收官战",
@@ -763,7 +918,7 @@
         "city": "北京",
         "content": "2025年GT世界挑战赛亚洲杯年度收官战将于10月17日至19日在北京亦庄通明湖区域开赛。作为GT世界挑战赛首次落地北京,这一消息不仅点燃了全国车迷与体育产业从业者的热情,更成为北京践行“国际交往中心”功能、加快建设国际赛事名城的重要里程碑,为首都体育事业高质量发展写下浓墨重彩的一笔。?"
       },
-      "created_at": "2025-09-25T00:49:42.229420"
+      "created_at": "2025-09-26T00:48:30.957907"
     }
   ]
 }
