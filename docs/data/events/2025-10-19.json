@@ -1,10 +1,12 @@
 {
   "date": "2025-10-19",
-  "total_events": 2,
-  "new_events": 0,
+  "total_events": 4,
+  "new_events": 2,
   "platforms": {
     "cls": 1,
-    "tonghuashun": 1
+    "jiuyangongshe": 1,
+    "tonghuashun": 1,
+    "eastmoney": 1
   },
   "events": [
     {
@@ -25,7 +27,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-28",
+      "discovery_date": "2025-09-29",
       "raw_data": {
         "id": 323499,
         "calendar_time": "2025-10-19 00:00:00",
@@ -41,7 +43,59 @@
         "holiday": null,
         "title": "2025世界VR产业大会将于10月19日至20日在南昌举办"
       },
-      "created_at": "2025-09-28T00:54:37.339824"
+      "created_at": "2025-09-29T00:50:46.389227"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_8a89f5350af34b28a023f320efa5eca0_824d51bada664bd58803170e922d92ab_20251019",
+      "original_id": "8a89f5350af34b28a023f320efa5eca0",
+      "event_date": "2025-10-19",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025世界VR产业大会",
+      "content": "2025世界VR产业大会定于10月19日至20日在江西南昌举行主题为“VR 让世界更精彩--VR+A| 开启数智未来”。",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [
+        "VR"
+      ],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-29",
+      "raw_data": {
+        "article_id": "8a89f5350af34b28a023f320efa5eca0",
+        "user_id": "1",
+        "title": "2025世界VR产业大会",
+        "content": "2025世界VR产业大会定于10月19日至20日在江西南昌举行主题为“VR 让世界更精彩--VR+A| 开启数智未来”。",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "8a89f5350af34b28a023f320efa5eca0",
+          "timeline_id": "824d51bada664bd58803170e922d92ab",
+          "date": "2025-10-19",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-09-28 22:24:34",
+          "theme_list": [
+            {
+              "timeline_theme_id": "da59a6593361487290974a9af6015057",
+              "name": "VR"
+            }
+          ]
+        }
+      },
+      "created_at": "2025-09-29T00:50:50.488800"
     },
     {
       "platform": "tonghuashun",
@@ -66,7 +120,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-28",
+      "discovery_date": "2025-09-29",
       "raw_data": {
         "event": [
           "2025世界VR产业大会将于10月19日至20日在南昌举办",
@@ -82,7 +136,38 @@
           }
         ]
       },
-      "created_at": "2025-09-28T00:54:48.406325"
+      "created_at": "2025-09-29T00:50:57.628774"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_hyhy_10865481",
+      "original_id": "10865481",
+      "event_date": "2025-10-19",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025世界VR产业大会",
+      "content": "由江西省人民政府主办,江西省工业和信息化厅、南昌市人民政府、中国电子信息产业发展研究院共同承办的2025世界VR产业大会,将于2025年10月19日至20日在江西省南昌市举办。",
+      "category": "行业会议",
+      "importance": 3,
+      "country": "中国",
+      "city": "南昌市",
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-29",
+      "raw_data": {
+        "fe_code": "10865481",
+        "fe_name": "2025世界VR产业大会",
+        "start_date": "2025-10-19",
+        "end_date": "2025-10-20",
+        "fe_type": "行业会议",
+        "sponsor": "江西省人民政府",
+        "city": "南昌市",
+        "content": "由江西省人民政府主办,江西省工业和信息化厅、南昌市人民政府、中国电子信息产业发展研究院共同承办的2025世界VR产业大会,将于2025年10月19日至20日在江西省南昌市举办。"
+      },
+      "created_at": "2025-09-29T00:51:16.089337"
     }
   ]
 }
