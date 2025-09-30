@@ -1,12 +1,11 @@
 {
   "date": "2025-10-22",
-  "total_events": 14,
-  "new_events": 0,
+  "total_events": 4,
+  "new_events": 1,
   "platforms": {
-    "cls": 1,
+    "cls": 2,
     "jiuyangongshe": 1,
-    "tonghuashun": 1,
-    "eastmoney": 11
+    "tonghuashun": 1
   },
   "events": [
     {
@@ -27,7 +26,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-29",
+      "discovery_date": "2025-09-30",
       "raw_data": {
         "id": 323301,
         "calendar_time": "2025-10-22 00:00:00",
@@ -43,7 +42,43 @@
         "holiday": null,
         "title": "2025年（第七届）中国固态电池技术创新与产业化研讨会将于10月22日至24日举办"
       },
-      "created_at": "2025-09-29T00:50:46.389271"
+      "created_at": "2025-09-30T00:49:22.115437"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_323786_20251022_2",
+      "original_id": "323786",
+      "event_date": "2025-10-22",
+      "event_time": "00:00:00",
+      "event_datetime": "2025-10-22 00:00:00",
+      "title": "《节能与新能源汽车技术路线图3.0》将于10月22日面向全球发布",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-09-30",
+      "raw_data": {
+        "id": 323786,
+        "calendar_time": "2025-10-22 00:00:00",
+        "data_id": 19382,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "《节能与新能源汽车技术路线图3.0》将于10月22日面向全球发布",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "《节能与新能源汽车技术路线图3.0》将于10月22日面向全球发布"
+      },
+      "created_at": "2025-09-30T00:49:22.115447"
     },
     {
       "platform": "jiuyangongshe",
@@ -65,7 +100,7 @@
       ],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-29",
+      "discovery_date": "2025-09-30",
       "raw_data": {
         "article_id": "91758307d13d442eafe82ee14932f4ea",
         "user_id": "1",
@@ -95,7 +130,7 @@
           ]
         }
       },
-      "created_at": "2025-09-29T00:50:50.488841"
+      "created_at": "2025-09-30T00:49:26.647693"
     },
     {
       "platform": "tonghuashun",
@@ -120,7 +155,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-29",
+      "discovery_date": "2025-09-30",
       "raw_data": {
         "event": [
           "2025年（第七届）中国固态电池技术创新与产业化研讨会将于10月22日至24日举办",
@@ -136,282 +171,7 @@
           }
         ]
       },
-      "created_at": "2025-09-29T00:50:57.628826"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251022050000_-5312032169411798007",
-      "original_id": "2025-10-22 05:00:00_韩国：PPI：同比(报告期:2025年09月)",
-      "event_date": "2025-10-22",
-      "event_time": "05:00:00",
-      "event_datetime": "2025-10-22 05:00:00",
-      "title": "韩国：PPI：同比(报告期:2025年09月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "韩国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-29",
-      "raw_data": {
-        "Name": "韩国：PPI：同比(报告期:2025年09月)",
-        "City": "韩国"
-      },
-      "created_at": "2025-09-29T00:51:16.086848"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251022050000_6809415537443759479",
-      "original_id": "2025-10-22 05:00:00_韩国：PPI：环比 (报告期:2025年09月)",
-      "event_date": "2025-10-22",
-      "event_time": "05:00:00",
-      "event_datetime": "2025-10-22 05:00:00",
-      "title": "韩国：PPI：环比 (报告期:2025年09月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "韩国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-29",
-      "raw_data": {
-        "Name": "韩国：PPI：环比 (报告期:2025年09月)",
-        "City": "韩国"
-      },
-      "created_at": "2025-09-29T00:51:16.086856"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251022075000_-6395015008938214033",
-      "original_id": "2025-10-22 07:50:00_日本：贸易差额：当月值(报告期:2025年09月)",
-      "event_date": "2025-10-22",
-      "event_time": "07:50:00",
-      "event_datetime": "2025-10-22 07:50:00",
-      "title": "日本：贸易差额：当月值(报告期:2025年09月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "日本",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-29",
-      "raw_data": {
-        "Name": "日本：贸易差额：当月值(报告期:2025年09月)",
-        "City": "日本"
-      },
-      "created_at": "2025-09-29T00:51:16.086864"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251022075000_-3700726348287396413",
-      "original_id": "2025-10-22 07:50:00_日本：出口金额：当月值(报告期:2025年09月)",
-      "event_date": "2025-10-22",
-      "event_time": "07:50:00",
-      "event_datetime": "2025-10-22 07:50:00",
-      "title": "日本：出口金额：当月值(报告期:2025年09月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "日本",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-29",
-      "raw_data": {
-        "Name": "日本：出口金额：当月值(报告期:2025年09月)",
-        "City": "日本"
-      },
-      "created_at": "2025-09-29T00:51:16.086871"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251022075000_-8391412512218245696",
-      "original_id": "2025-10-22 07:50:00_日本：进口金额：当月值(报告期:2025年09月)",
-      "event_date": "2025-10-22",
-      "event_time": "07:50:00",
-      "event_datetime": "2025-10-22 07:50:00",
-      "title": "日本：进口金额：当月值(报告期:2025年09月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "日本",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-29",
-      "raw_data": {
-        "Name": "日本：进口金额：当月值(报告期:2025年09月)",
-        "City": "日本"
-      },
-      "created_at": "2025-09-29T00:51:16.086878"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251022120000_3485395303049375363",
-      "original_id": "2025-10-22 12:00:00_马来西亚：CPI：同比(报告期:2025年09月)",
-      "event_date": "2025-10-22",
-      "event_time": "12:00:00",
-      "event_datetime": "2025-10-22 12:00:00",
-      "title": "马来西亚：CPI：同比(报告期:2025年09月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "马来西亚",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-29",
-      "raw_data": {
-        "Name": "马来西亚：CPI：同比(报告期:2025年09月)",
-        "City": "马来西亚"
-      },
-      "created_at": "2025-09-29T00:51:16.086886"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251022140000_6961869849558274141",
-      "original_id": "2025-10-22 14:00:00_英国：CPI：同比(报告期:2025年09月)",
-      "event_date": "2025-10-22",
-      "event_time": "14:00:00",
-      "event_datetime": "2025-10-22 14:00:00",
-      "title": "英国：CPI：同比(报告期:2025年09月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "英国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-29",
-      "raw_data": {
-        "Name": "英国：CPI：同比(报告期:2025年09月)",
-        "City": "英国"
-      },
-      "created_at": "2025-09-29T00:51:16.086894"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251022140000_-8818980504430694259",
-      "original_id": "2025-10-22 14:00:00_英国：CPI：环比(报告期:2025年09月)",
-      "event_date": "2025-10-22",
-      "event_time": "14:00:00",
-      "event_datetime": "2025-10-22 14:00:00",
-      "title": "英国：CPI：环比(报告期:2025年09月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "英国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-29",
-      "raw_data": {
-        "Name": "英国：CPI：环比(报告期:2025年09月)",
-        "City": "英国"
-      },
-      "created_at": "2025-09-29T00:51:16.086901"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251022140000_-5218435274992449453",
-      "original_id": "2025-10-22 14:00:00_英国：RPI：同比(报告期:2025年09月)",
-      "event_date": "2025-10-22",
-      "event_time": "14:00:00",
-      "event_datetime": "2025-10-22 14:00:00",
-      "title": "英国：RPI：同比(报告期:2025年09月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "英国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-29",
-      "raw_data": {
-        "Name": "英国：RPI：同比(报告期:2025年09月)",
-        "City": "英国"
-      },
-      "created_at": "2025-09-29T00:51:16.086908"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251022140000_-3745398254341251845",
-      "original_id": "2025-10-22 14:00:00_英国：核心CPI：环比(报告期:2025年09月)",
-      "event_date": "2025-10-22",
-      "event_time": "14:00:00",
-      "event_datetime": "2025-10-22 14:00:00",
-      "title": "英国：核心CPI：环比(报告期:2025年09月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "英国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-29",
-      "raw_data": {
-        "Name": "英国：核心CPI：环比(报告期:2025年09月)",
-        "City": "英国"
-      },
-      "created_at": "2025-09-29T00:51:16.086915"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251022140000_1892067463898778686",
-      "original_id": "2025-10-22 14:00:00_英国：核心CPI：同比(报告期:2025年09月)",
-      "event_date": "2025-10-22",
-      "event_time": "14:00:00",
-      "event_datetime": "2025-10-22 14:00:00",
-      "title": "英国：核心CPI：同比(报告期:2025年09月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "英国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-09-29",
-      "raw_data": {
-        "Name": "英国：核心CPI：同比(报告期:2025年09月)",
-        "City": "英国"
-      },
-      "created_at": "2025-09-29T00:51:16.086922"
+      "created_at": "2025-09-30T00:49:33.617562"
     }
   ]
 }
