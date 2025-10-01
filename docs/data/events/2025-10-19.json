@@ -1,11 +1,11 @@
 {
   "date": "2025-10-19",
-  "total_events": 3,
+  "total_events": 4,
   "new_events": 0,
   "platforms": {
     "cls": 1,
     "jiuyangongshe": 1,
-    "tonghuashun": 1
+    "tonghuashun": 2
   },
   "events": [
     {
@@ -26,7 +26,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-30",
+      "discovery_date": "2025-10-01",
       "raw_data": {
         "id": 323499,
         "calendar_time": "2025-10-19 00:00:00",
@@ -42,7 +42,7 @@
         "holiday": null,
         "title": "2025世界VR产业大会将于10月19日至20日在南昌举办"
       },
-      "created_at": "2025-09-30T00:49:22.115386"
+      "created_at": "2025-10-01T00:55:43.936175"
     },
     {
       "platform": "jiuyangongshe",
@@ -64,7 +64,7 @@
       ],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-30",
+      "discovery_date": "2025-10-01",
       "raw_data": {
         "article_id": "8a89f5350af34b28a023f320efa5eca0",
         "user_id": "1",
@@ -94,7 +94,7 @@
           ]
         }
       },
-      "created_at": "2025-09-30T00:49:26.647657"
+      "created_at": "2025-10-01T00:55:45.421211"
     },
     {
       "platform": "tonghuashun",
@@ -119,7 +119,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-30",
+      "discovery_date": "2025-10-01",
       "raw_data": {
         "event": [
           "2025世界VR产业大会将于10月19日至20日在南昌举办",
@@ -135,7 +135,48 @@
           }
         ]
       },
-      "created_at": "2025-09-30T00:49:33.617517"
+      "created_at": "2025-10-01T00:55:50.632556"
+    },
+    {
+      "platform": "tonghuashun",
+      "event_id": "ths_20251019_1_2b572371",
+      "original_id": "2025-10-19_1",
+      "event_date": "2025-10-19",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025世界VR产业大会将于10月19日至20日在南昌举办",
+      "content": null,
+      "category": null,
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [
+        {
+          "code": "885709",
+          "name": "虚拟现实"
+        }
+      ],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-10-01",
+      "raw_data": {
+        "event": [
+          "2025世界VR产业大会将于10月19日至20日在南昌举办",
+          "",
+          "",
+          ""
+        ],
+        "concept": [
+          {
+            "code": "885709",
+            "name": "虚拟现实",
+            "py": "xnxs"
+          }
+        ]
+      },
+      "created_at": "2025-10-01T00:55:50.632566"
     }
   ]
 }

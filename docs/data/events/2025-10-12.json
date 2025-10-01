@@ -1,10 +1,11 @@
 {
   "date": "2025-10-12",
-  "total_events": 2,
-  "new_events": 1,
+  "total_events": 4,
+  "new_events": 2,
   "platforms": {
     "cls": 1,
-    "jiuyangongshe": 1
+    "jiuyangongshe": 1,
+    "tonghuashun": 2
   },
   "events": [
     {
@@ -24,8 +25,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-09-30",
+      "is_new": false,
+      "discovery_date": "2025-10-01",
       "raw_data": {
         "id": 323792,
         "calendar_time": "2025-10-12 00:00:00",
@@ -41,7 +42,7 @@
         "holiday": null,
         "title": "2025世界农业科技创新大会将于10月12日至15日举办"
       },
-      "created_at": "2025-09-30T00:49:22.115267"
+      "created_at": "2025-10-01T00:55:43.936077"
     },
     {
       "platform": "jiuyangongshe",
@@ -63,7 +64,7 @@
       ],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-09-30",
+      "discovery_date": "2025-10-01",
       "raw_data": {
         "article_id": "238968dbd8974b8e99dfdeefa37eebda",
         "user_id": "1",
@@ -93,7 +94,67 @@
           ]
         }
       },
-      "created_at": "2025-09-30T00:49:26.647532"
+      "created_at": "2025-10-01T00:55:45.421109"
+    },
+    {
+      "platform": "tonghuashun",
+      "event_id": "ths_20251012_0_9a50aeb7",
+      "original_id": "2025-10-12_0",
+      "event_date": "2025-10-12",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025世界农业科技创新大会将于10月12日至15日举办",
+      "content": null,
+      "category": null,
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-01",
+      "raw_data": {
+        "event": [
+          "2025世界农业科技创新大会将于10月12日至15日举办",
+          "",
+          "",
+          ""
+        ],
+        "concept": []
+      },
+      "created_at": "2025-10-01T00:55:50.632426"
+    },
+    {
+      "platform": "tonghuashun",
+      "event_id": "ths_20251012_1_9a50aeb7",
+      "original_id": "2025-10-12_1",
+      "event_date": "2025-10-12",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025世界农业科技创新大会将于10月12日至15日举办",
+      "content": null,
+      "category": null,
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-01",
+      "raw_data": {
+        "event": [
+          "2025世界农业科技创新大会将于10月12日至15日举办",
+          "",
+          "",
+          ""
+        ],
+        "concept": []
+      },
+      "created_at": "2025-10-01T00:55:50.632435"
     }
   ]
 }
