@@ -1,9 +1,10 @@
 {
   "date": "2025-10-30",
-  "total_events": 3,
-  "new_events": 1,
+  "total_events": 19,
+  "new_events": 16,
   "platforms": {
-    "investing": 3
+    "investing": 3,
+    "eastmoney": 16
   },
   "events": [
     {
@@ -24,7 +25,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-01",
+      "discovery_date": "2025-10-02",
       "raw_data": {
         "event_id": "eventRowId_514606",
         "event_attr_id": "",
@@ -35,7 +36,7 @@
         "event_name": "美联储利率决议",
         "previous": "4.25%"
       },
-      "created_at": "2025-10-01T00:55:58.441356"
+      "created_at": "2025-10-02T00:47:17.738208"
     },
     {
       "platform": "investing",
@@ -55,7 +56,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-01",
+      "discovery_date": "2025-10-02",
       "raw_data": {
         "event_id": "eventRowId_516880",
         "event_attr_id": "",
@@ -65,7 +66,7 @@
         "importance": 3,
         "event_name": "日本央行利率决议"
       },
-      "created_at": "2025-10-01T00:55:58.441500"
+      "created_at": "2025-10-02T00:47:17.738348"
     },
     {
       "platform": "investing",
@@ -84,8 +85,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-01",
+      "is_new": false,
+      "discovery_date": "2025-10-02",
       "raw_data": {
         "event_id": "eventRowId_532910",
         "event_attr_id": "",
@@ -96,7 +97,407 @@
         "event_name": "德国季调后失业人数变动  (九月)",
         "previous": "14K"
       },
-      "created_at": "2025-10-01T00:55:58.441722"
+      "created_at": "2025-10-02T00:47:17.738467"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251030000000_-1383285538497864072",
+      "original_id": "2025-10-30 00:00:00_菲律宾：进口额：同比(报告期:2025年09月)",
+      "event_date": "2025-10-30",
+      "event_time": null,
+      "event_datetime": "2025-10-30 00:00:00",
+      "title": "菲律宾：进口额：同比(报告期:2025年09月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "菲律宾",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-02",
+      "raw_data": {
+        "Name": "菲律宾：进口额：同比(报告期:2025年09月)",
+        "City": "菲律宾"
+      },
+      "created_at": "2025-10-02T00:47:28.018198"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251030000000_2208975201565694622",
+      "original_id": "2025-10-30 00:00:00_菲律宾：PPI：同比(报告期:2025年09月)",
+      "event_date": "2025-10-30",
+      "event_time": null,
+      "event_datetime": "2025-10-30 00:00:00",
+      "title": "菲律宾：PPI：同比(报告期:2025年09月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "菲律宾",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-02",
+      "raw_data": {
+        "Name": "菲律宾：PPI：同比(报告期:2025年09月)",
+        "City": "菲律宾"
+      },
+      "created_at": "2025-10-02T00:47:28.018206"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251030000000_2254428820539228950",
+      "original_id": "2025-10-30 00:00:00_中国：库存:电解铝:保税区(报告期:2025年10月)",
+      "event_date": "2025-10-30",
+      "event_time": null,
+      "event_datetime": "2025-10-30 00:00:00",
+      "title": "中国：库存:电解铝:保税区(报告期:2025年10月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-02",
+      "raw_data": {
+        "Name": "中国：库存:电解铝:保税区(报告期:2025年10月)",
+        "City": "中国"
+      },
+      "created_at": "2025-10-02T00:47:28.018213"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251030020000_2207530428632709325",
+      "original_id": "2025-10-30 02:00:00_美国:联邦基金利率目标:上限(报告期:2025年10月)",
+      "event_date": "2025-10-30",
+      "event_time": "02:00:00",
+      "event_datetime": "2025-10-30 02:00:00",
+      "title": "美国:联邦基金利率目标:上限(报告期:2025年10月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-02",
+      "raw_data": {
+        "Name": "美国:联邦基金利率目标:上限(报告期:2025年10月)",
+        "City": "美国"
+      },
+      "created_at": "2025-10-02T00:47:28.018221"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251030020000_-3577761954507048689",
+      "original_id": "2025-10-30 02:00:00_美国:联邦基金利率目标:下限(报告期:2025年10月)",
+      "event_date": "2025-10-30",
+      "event_time": "02:00:00",
+      "event_datetime": "2025-10-30 02:00:00",
+      "title": "美国:联邦基金利率目标:下限(报告期:2025年10月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-02",
+      "raw_data": {
+        "Name": "美国:联邦基金利率目标:下限(报告期:2025年10月)",
+        "City": "美国"
+      },
+      "created_at": "2025-10-02T00:47:28.018228"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251030110000_-7238908836765113643",
+      "original_id": "2025-10-30 11:00:00_日本：央行公布利率决议(报告期:2025年10月)",
+      "event_date": "2025-10-30",
+      "event_time": "11:00:00",
+      "event_datetime": "2025-10-30 11:00:00",
+      "title": "日本：央行公布利率决议(报告期:2025年10月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-02",
+      "raw_data": {
+        "Name": "日本：央行公布利率决议(报告期:2025年10月)",
+        "City": "日本"
+      },
+      "created_at": "2025-10-02T00:47:28.018236"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251030170000_6742092271184517279",
+      "original_id": "2025-10-30 17:00:00_德国：GDP:环比:季调:初值(报告期:2025年09月)",
+      "event_date": "2025-10-30",
+      "event_time": "17:00:00",
+      "event_datetime": "2025-10-30 17:00:00",
+      "title": "德国：GDP:环比:季调:初值(报告期:2025年09月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "德国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-02",
+      "raw_data": {
+        "Name": "德国：GDP:环比:季调:初值(报告期:2025年09月)",
+        "City": "德国"
+      },
+      "created_at": "2025-10-02T00:47:28.018244"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251030170000_-7697233590388564094",
+      "original_id": "2025-10-30 17:00:00_德国：GDP:非季调:同比:初值(报告期:2025年09月)",
+      "event_date": "2025-10-30",
+      "event_time": "17:00:00",
+      "event_datetime": "2025-10-30 17:00:00",
+      "title": "德国：GDP:非季调:同比:初值(报告期:2025年09月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "德国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-02",
+      "raw_data": {
+        "Name": "德国：GDP:非季调:同比:初值(报告期:2025年09月)",
+        "City": "德国"
+      },
+      "created_at": "2025-10-02T00:47:28.018251"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251030180000_7505244912275818079",
+      "original_id": "2025-10-30 18:00:00_欧元区:GDP:当季同比:季调(初值)(报告期:2025年09月)",
+      "event_date": "2025-10-30",
+      "event_time": "18:00:00",
+      "event_datetime": "2025-10-30 18:00:00",
+      "title": "欧元区:GDP:当季同比:季调(初值)(报告期:2025年09月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "欧盟",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-02",
+      "raw_data": {
+        "Name": "欧元区:GDP:当季同比:季调(初值)(报告期:2025年09月)",
+        "City": "欧盟"
+      },
+      "created_at": "2025-10-02T00:47:28.018258"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251030180000_7261641226759347969",
+      "original_id": "2025-10-30 18:00:00_欧盟27国：失业率：季调(报告期:2025年09月)",
+      "event_date": "2025-10-30",
+      "event_time": "18:00:00",
+      "event_datetime": "2025-10-30 18:00:00",
+      "title": "欧盟27国：失业率：季调(报告期:2025年09月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "欧盟",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-02",
+      "raw_data": {
+        "Name": "欧盟27国：失业率：季调(报告期:2025年09月)",
+        "City": "欧盟"
+      },
+      "created_at": "2025-10-02T00:47:28.018265"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251030180000_-1497408958876452813",
+      "original_id": "2025-10-30 18:00:00_意大利：失业率：季调(报告期:2025年09月)",
+      "event_date": "2025-10-30",
+      "event_time": "18:00:00",
+      "event_datetime": "2025-10-30 18:00:00",
+      "title": "意大利：失业率：季调(报告期:2025年09月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "意大利",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-02",
+      "raw_data": {
+        "Name": "意大利：失业率：季调(报告期:2025年09月)",
+        "City": "意大利"
+      },
+      "created_at": "2025-10-02T00:47:28.018273"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251030180000_-7512266089875971807",
+      "original_id": "2025-10-30 18:00:00_德国：失业率：季调(报告期:2025年09月)",
+      "event_date": "2025-10-30",
+      "event_time": "18:00:00",
+      "event_datetime": "2025-10-30 18:00:00",
+      "title": "德国：失业率：季调(报告期:2025年09月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "德国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-02",
+      "raw_data": {
+        "Name": "德国：失业率：季调(报告期:2025年09月)",
+        "City": "德国"
+      },
+      "created_at": "2025-10-02T00:47:28.018281"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251030201500_-659041839308437338",
+      "original_id": "2025-10-30 20:15:00_欧盟：央行公布利率决议(报告期:2025年10月)",
+      "event_date": "2025-10-30",
+      "event_time": "20:15:00",
+      "event_datetime": "2025-10-30 20:15:00",
+      "title": "欧盟：央行公布利率决议(报告期:2025年10月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "欧盟",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-02",
+      "raw_data": {
+        "Name": "欧盟：央行公布利率决议(报告期:2025年10月)",
+        "City": "欧盟"
+      },
+      "created_at": "2025-10-02T00:47:28.018289"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251030213000_7545162259745630932",
+      "original_id": "2025-10-30 21:30:00_美国：GDP:不变价:环比折年率:个人消费支出:季调(报告期:2025年09月)",
+      "event_date": "2025-10-30",
+      "event_time": "21:30:00",
+      "event_datetime": "2025-10-30 21:30:00",
+      "title": "美国：GDP:不变价:环比折年率:个人消费支出:季调(报告期:2025年09月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-02",
+      "raw_data": {
+        "Name": "美国：GDP:不变价:环比折年率:个人消费支出:季调(报告期:2025年09月)",
+        "City": "美国"
+      },
+      "created_at": "2025-10-02T00:47:28.018296"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251030213000_5720268876864584776",
+      "original_id": "2025-10-30 21:30:00_美国：GDP:不变价:国内私人投资总额:季调:同比(报告期:2025年09月)",
+      "event_date": "2025-10-30",
+      "event_time": "21:30:00",
+      "event_datetime": "2025-10-30 21:30:00",
+      "title": "美国：GDP:不变价:国内私人投资总额:季调:同比(报告期:2025年09月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-02",
+      "raw_data": {
+        "Name": "美国：GDP:不变价:国内私人投资总额:季调:同比(报告期:2025年09月)",
+        "City": "美国"
+      },
+      "created_at": "2025-10-02T00:47:28.018304"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251030213000_-8192526536379943031",
+      "original_id": "2025-10-30 21:30:00_美国：GDP：2009价：季调：环比(报告期:2025年09月)",
+      "event_date": "2025-10-30",
+      "event_time": "21:30:00",
+      "event_datetime": "2025-10-30 21:30:00",
+      "title": "美国：GDP：2009价：季调：环比(报告期:2025年09月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-02",
+      "raw_data": {
+        "Name": "美国：GDP：2009价：季调：环比(报告期:2025年09月)",
+        "City": "美国"
+      },
+      "created_at": "2025-10-02T00:47:28.018311"
     }
   ]
 }

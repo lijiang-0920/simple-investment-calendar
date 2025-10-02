@@ -1,9 +1,10 @@
 {
   "date": "2025-11-27",
-  "total_events": 1,
-  "new_events": 0,
+  "total_events": 6,
+  "new_events": 5,
   "platforms": {
-    "investing": 1
+    "investing": 1,
+    "eastmoney": 5
   },
   "events": [
     {
@@ -24,7 +25,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-01",
+      "discovery_date": "2025-10-02",
       "raw_data": {
         "event_id": "eventRowId_532295",
         "event_attr_id": "",
@@ -34,7 +35,132 @@
         "importance": 2,
         "event_name": "亚特兰大联储GDPNow经济增长预测  (第四季度)"
       },
-      "created_at": "2025-10-01T00:56:02.346788"
+      "created_at": "2025-10-02T00:47:21.769753"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251127000000_-3199617507221193753",
+      "original_id": "2025-11-27 00:00:00_马来西亚：PPI：同比(报告期:2025年10月)",
+      "event_date": "2025-11-27",
+      "event_time": null,
+      "event_datetime": "2025-11-27 00:00:00",
+      "title": "马来西亚：PPI：同比(报告期:2025年10月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "马来西亚",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-02",
+      "raw_data": {
+        "Name": "马来西亚：PPI：同比(报告期:2025年10月)",
+        "City": "马来西亚"
+      },
+      "created_at": "2025-10-02T00:47:28.019618"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251127000000_-1413152986054759699",
+      "original_id": "2025-11-27 00:00:00_中国：库存:电解铝:保税区(报告期:2025年11月)",
+      "event_date": "2025-11-27",
+      "event_time": null,
+      "event_datetime": "2025-11-27 00:00:00",
+      "title": "中国：库存:电解铝:保税区(报告期:2025年11月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-02",
+      "raw_data": {
+        "Name": "中国：库存:电解铝:保税区(报告期:2025年11月)",
+        "City": "中国"
+      },
+      "created_at": "2025-10-02T00:47:28.019625"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251127093000_-7725963439580314048",
+      "original_id": "2025-11-27 09:30:00_中国：工业企业:利润总额:累计值(报告期:2025年10月)",
+      "event_date": "2025-11-27",
+      "event_time": "09:30:00",
+      "event_datetime": "2025-11-27 09:30:00",
+      "title": "中国：工业企业:利润总额:累计值(报告期:2025年10月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-02",
+      "raw_data": {
+        "Name": "中国：工业企业:利润总额:累计值(报告期:2025年10月)",
+        "City": "中国"
+      },
+      "created_at": "2025-10-02T00:47:28.019633"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251127093000_8411625649161224901",
+      "original_id": "2025-11-27 09:30:00_中国：工业企业:利润总额:累计同比(报告期:2025年10月)",
+      "event_date": "2025-11-27",
+      "event_time": "09:30:00",
+      "event_datetime": "2025-11-27 09:30:00",
+      "title": "中国：工业企业:利润总额:累计同比(报告期:2025年10月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-02",
+      "raw_data": {
+        "Name": "中国：工业企业:利润总额:累计同比(报告期:2025年10月)",
+        "City": "中国"
+      },
+      "created_at": "2025-10-02T00:47:28.019640"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251127160000_2857557659604860605",
+      "original_id": "2025-11-27 16:00:00_土耳其：出口金额(报告期:2025年10月)",
+      "event_date": "2025-11-27",
+      "event_time": "16:00:00",
+      "event_datetime": "2025-11-27 16:00:00",
+      "title": "土耳其：出口金额(报告期:2025年10月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "土耳其",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-02",
+      "raw_data": {
+        "Name": "土耳其：出口金额(报告期:2025年10月)",
+        "City": "土耳其"
+      },
+      "created_at": "2025-10-02T00:47:28.019647"
     }
   ]
 }
