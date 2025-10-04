@@ -1,9 +1,9 @@
 {
   "date": "2025-11-07",
-  "total_events": 16,
-  "new_events": 0,
+  "total_events": 17,
+  "new_events": 1,
   "platforms": {
-    "investing": 1,
+    "investing": 2,
     "eastmoney": 15
   },
   "events": [
@@ -25,7 +25,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-03",
+      "discovery_date": "2025-10-04",
       "raw_data": {
         "event_id": "eventRowId_532292",
         "event_attr_id": "",
@@ -35,11 +35,42 @@
         "importance": 2,
         "event_name": "亚特兰大联储GDPNow经济增长预测  (第四季度)"
       },
-      "created_at": "2025-10-03T00:47:33.060945"
+      "created_at": "2025-10-04T00:45:07.342427"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251107020000",
+      "original_id": "eventRowId_533237",
+      "event_date": "2025-11-07",
+      "event_time": "02:00",
+      "event_datetime": "2025/11/07 02:00:00",
+      "title": "巴西贸易帐(雷亚尔)  (八月)",
+      "content": "前值: 6.12B",
+      "category": null,
+      "importance": 1,
+      "country": "巴西",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-04",
+      "raw_data": {
+        "event_id": "eventRowId_533237",
+        "event_attr_id": "",
+        "datetime": "2025/11/07 02:00:00",
+        "time": "02:00",
+        "country": "巴西",
+        "importance": 1,
+        "event_name": "巴西贸易帐(雷亚尔)  (八月)",
+        "previous": "6.12B"
+      },
+      "created_at": "2025-10-04T00:45:07.342568"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251107000000_3372951988768701638",
+      "event_id": "em_jjsj_20251107000000_-4941005554492717991",
       "original_id": "2025-11-07 00:00:00_中国：进口金额(报告期:2025年10月)",
       "event_date": "2025-11-07",
       "event_time": null,
@@ -55,16 +86,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-03",
+      "discovery_date": "2025-10-04",
       "raw_data": {
         "Name": "中国：进口金额(报告期:2025年10月)",
         "City": "中国"
       },
-      "created_at": "2025-10-03T00:47:42.029694"
+      "created_at": "2025-10-04T00:45:14.974355"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251107000000_2995590884387698595",
+      "event_id": "em_jjsj_20251107000000_-9141505568026413130",
       "original_id": "2025-11-07 00:00:00_中国：出口金额(报告期:2025年10月)",
       "event_date": "2025-11-07",
       "event_time": null,
@@ -80,16 +111,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-03",
+      "discovery_date": "2025-10-04",
       "raw_data": {
         "Name": "中国：出口金额(报告期:2025年10月)",
         "City": "中国"
       },
-      "created_at": "2025-10-03T00:47:42.029701"
+      "created_at": "2025-10-04T00:45:14.974362"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251107000000_-8537274162474341360",
+      "event_id": "em_jjsj_20251107000000_6411458521349367651",
       "original_id": "2025-11-07 00:00:00_中国：进出口金额:当月同比(报告期:2025年10月)",
       "event_date": "2025-11-07",
       "event_time": null,
@@ -105,16 +136,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-03",
+      "discovery_date": "2025-10-04",
       "raw_data": {
         "Name": "中国：进出口金额:当月同比(报告期:2025年10月)",
         "City": "中国"
       },
-      "created_at": "2025-10-03T00:47:42.029707"
+      "created_at": "2025-10-04T00:45:14.974369"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251107000000_-4147671863514681369",
+      "event_id": "em_jjsj_20251107000000_-7534560059170569415",
       "original_id": "2025-11-07 00:00:00_中国：外汇储备(报告期:2025年10月)",
       "event_date": "2025-11-07",
       "event_time": null,
@@ -130,16 +161,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-03",
+      "discovery_date": "2025-10-04",
       "raw_data": {
         "Name": "中国：外汇储备(报告期:2025年10月)",
         "City": "中国"
       },
-      "created_at": "2025-10-03T00:47:42.029714"
+      "created_at": "2025-10-04T00:45:14.974376"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251107000000_-1177956578119758953",
+      "event_id": "em_jjsj_20251107000000_8381586605000021063",
       "original_id": "2025-11-07 00:00:00_新加坡：国际储备(报告期:2025年10月)",
       "event_date": "2025-11-07",
       "event_time": null,
@@ -155,16 +186,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-03",
+      "discovery_date": "2025-10-04",
       "raw_data": {
         "Name": "新加坡：国际储备(报告期:2025年10月)",
         "City": "新加坡"
       },
-      "created_at": "2025-10-03T00:47:42.029722"
+      "created_at": "2025-10-04T00:45:14.974384"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251107000000_88093084641039794",
+      "event_id": "em_jjsj_20251107000000_-2912964036630409320",
       "original_id": "2025-11-07 00:00:00_菲律宾：国际总储备(报告期:2025年10月)",
       "event_date": "2025-11-07",
       "event_time": null,
@@ -180,16 +211,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-03",
+      "discovery_date": "2025-10-04",
       "raw_data": {
         "Name": "菲律宾：国际总储备(报告期:2025年10月)",
         "City": "菲律宾"
       },
-      "created_at": "2025-10-03T00:47:42.029729"
+      "created_at": "2025-10-04T00:45:14.974391"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251107150000_2784329898248217179",
+      "event_id": "em_jjsj_20251107150000_-8012165095967289143",
       "original_id": "2025-11-07 15:00:00_德国：贸易顺差：季调(报告期:2025年09月)",
       "event_date": "2025-11-07",
       "event_time": "15:00:00",
@@ -205,16 +236,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-03",
+      "discovery_date": "2025-10-04",
       "raw_data": {
         "Name": "德国：贸易顺差：季调(报告期:2025年09月)",
         "City": "德国"
       },
-      "created_at": "2025-10-03T00:47:42.029737"
+      "created_at": "2025-10-04T00:45:14.974399"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251107150000_7865347195723347402",
+      "event_id": "em_jjsj_20251107150000_6526401891621330549",
       "original_id": "2025-11-07 15:00:00_英国：Halifax：英国房价指数：季调：同比(报告期:2025年10月)",
       "event_date": "2025-11-07",
       "event_time": "15:00:00",
@@ -230,16 +261,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-03",
+      "discovery_date": "2025-10-04",
       "raw_data": {
         "Name": "英国：Halifax：英国房价指数：季调：同比(报告期:2025年10月)",
         "City": "英国"
       },
-      "created_at": "2025-10-03T00:47:42.029764"
+      "created_at": "2025-10-04T00:45:14.974406"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251107150000_-6396998835313724700",
+      "event_id": "em_jjsj_20251107150000_-5294394400692078292",
       "original_id": "2025-11-07 15:00:00_英国：Halifax：英国房价指数：季调：环比(报告期:2025年10月)",
       "event_date": "2025-11-07",
       "event_time": "15:00:00",
@@ -255,16 +286,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-03",
+      "discovery_date": "2025-10-04",
       "raw_data": {
         "Name": "英国：Halifax：英国房价指数：季调：环比(报告期:2025年10月)",
         "City": "英国"
       },
-      "created_at": "2025-10-03T00:47:42.029772"
+      "created_at": "2025-10-04T00:45:14.974413"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251107203000_-6187147566255718893",
+      "event_id": "em_jjsj_20251107203000_-8590732720615593115",
       "original_id": "2025-11-07 20:30:00_美国：新增非农就业人数：当月值：季调(报告期:2025年10月)",
       "event_date": "2025-11-07",
       "event_time": "20:30:00",
@@ -280,16 +311,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-03",
+      "discovery_date": "2025-10-04",
       "raw_data": {
         "Name": "美国：新增非农就业人数：当月值：季调(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-10-03T00:47:42.029780"
+      "created_at": "2025-10-04T00:45:14.974421"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251107203000_4067124799255152001",
+      "event_id": "em_jjsj_20251107203000_-6042945328997170634",
       "original_id": "2025-11-07 20:30:00_美国：失业率：季调(报告期:2025年10月)",
       "event_date": "2025-11-07",
       "event_time": "20:30:00",
@@ -305,16 +336,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-03",
+      "discovery_date": "2025-10-04",
       "raw_data": {
         "Name": "美国：失业率：季调(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-10-03T00:47:42.029787"
+      "created_at": "2025-10-04T00:45:14.974428"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251107213000_-806998361384942568",
+      "event_id": "em_jjsj_20251107213000_4088344229400295063",
       "original_id": "2025-11-07 21:30:00_美国：新增就业人数：季调(报告期:2025年10月)",
       "event_date": "2025-11-07",
       "event_time": "21:30:00",
@@ -330,16 +361,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-03",
+      "discovery_date": "2025-10-04",
       "raw_data": {
         "Name": "美国：新增就业人数：季调(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-10-03T00:47:42.029797"
+      "created_at": "2025-10-04T00:45:14.974435"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251107213000_-4849352715906558914",
+      "event_id": "em_jjsj_20251107213000_-1096529316172090570",
       "original_id": "2025-11-07 21:30:00_美国：平均每周制造业工作时间：季调(报告期:2025年10月)",
       "event_date": "2025-11-07",
       "event_time": "21:30:00",
@@ -355,16 +386,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-03",
+      "discovery_date": "2025-10-04",
       "raw_data": {
         "Name": "美国：平均每周制造业工作时间：季调(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-10-03T00:47:42.029804"
+      "created_at": "2025-10-04T00:45:14.974442"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251107213000_-2864406115244621393",
+      "event_id": "em_jjsj_20251107213000_3675715411968667139",
       "original_id": "2025-11-07 21:30:00_美国：制造业平均小时工资(报告期:2025年10月)",
       "event_date": "2025-11-07",
       "event_time": "21:30:00",
@@ -380,16 +411,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-03",
+      "discovery_date": "2025-10-04",
       "raw_data": {
         "Name": "美国：制造业平均小时工资(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-10-03T00:47:42.029811"
+      "created_at": "2025-10-04T00:45:14.974449"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251107213000_-1061754013094485632",
+      "event_id": "em_jjsj_20251107213000_-5941585976046119302",
       "original_id": "2025-11-07 21:30:00_加拿大：就业人口(报告期:2025年10月)",
       "event_date": "2025-11-07",
       "event_time": "21:30:00",
@@ -405,12 +436,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-03",
+      "discovery_date": "2025-10-04",
       "raw_data": {
         "Name": "加拿大：就业人口(报告期:2025年10月)",
         "City": "加拿大"
       },
-      "created_at": "2025-10-03T00:47:42.029818"
+      "created_at": "2025-10-04T00:45:14.974457"
     }
   ]
 }
