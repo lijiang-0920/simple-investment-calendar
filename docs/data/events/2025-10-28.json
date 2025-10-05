@@ -1,9 +1,10 @@
 {
   "date": "2025-10-28",
-  "total_events": 3,
-  "new_events": 0,
+  "total_events": 4,
+  "new_events": 1,
   "platforms": {
     "cls": 1,
+    "jiuyangongshe": 1,
     "eastmoney": 2
   },
   "events": [
@@ -25,7 +26,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-04",
+      "discovery_date": "2025-10-05",
       "raw_data": {
         "id": 322321,
         "calendar_time": "2025-10-28 00:00:00",
@@ -41,11 +42,56 @@
         "holiday": null,
         "title": "第十届中国国际人工智能大会及展示会暨人工智算力与算法高峰论坛将于10月28日至29日举办"
       },
-      "created_at": "2025-10-04T00:44:51.669811"
+      "created_at": "2025-10-05T00:53:39.560344"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_10vvmquwfd2_6b26c090e95f4d0eb8d334b9c2c6444c_20251028",
+      "original_id": "10vvmquwfd2",
+      "event_date": "2025-10-28",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "第十届中国国际人工智能大会及展示会暨人工智算力与算法高峰论坛将于10月28日至29日举办",
+      "content": "第十届中国国际人工智能大会及展示会暨人工智算力与算法高峰论坛将于10月28日至29日举办。",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-05",
+      "raw_data": {
+        "article_id": "10vvmquwfd2",
+        "user_id": "00525773fe47467cac470afac1e73909",
+        "title": "第十届中国国际人工智能大会及展示会暨人工智算力与算法高峰论坛将于10月28日至29日举办",
+        "content": "第十届中国国际人工智能大会及展示会暨人工智算力与算法高峰论坛将于10月28日至29日举办。",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "00525773fe47467cac470afac1e73909",
+          "nickname": "无名小韭73650717"
+        },
+        "timeline": {
+          "article_id": "10vvmquwfd2",
+          "timeline_id": "6b26c090e95f4d0eb8d334b9c2c6444c",
+          "date": "2025-10-28",
+          "grade": 6,
+          "source": "1",
+          "create_time": "2025-09-24 12:42:04",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-10-05T00:53:41.065358"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251028070000_6540700576776960186",
+      "event_id": "em_jjsj_20251028070000_3372142327788815359",
       "original_id": "2025-10-28 07:00:00_韩国：GDP：同比(报告期:2025年09月)",
       "event_date": "2025-10-28",
       "event_time": "07:00:00",
@@ -61,12 +107,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-04",
+      "discovery_date": "2025-10-05",
       "raw_data": {
         "Name": "韩国：GDP：同比(报告期:2025年09月)",
         "City": "韩国"
       },
-      "created_at": "2025-10-04T00:45:14.973769"
+      "created_at": "2025-10-05T00:54:05.721950"
     },
     {
       "platform": "eastmoney",
@@ -86,7 +132,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-04",
+      "discovery_date": "2025-10-05",
       "raw_data": {
         "fe_code": "10856301",
         "fe_name": "美联储议息会议",
@@ -97,7 +143,7 @@
         "city": null,
         "content": null
       },
-      "created_at": "2025-10-04T00:45:14.976445"
+      "created_at": "2025-10-05T00:54:05.724806"
     }
   ]
 }

@@ -1,14 +1,60 @@
 {
   "date": "2025-11-09",
-  "total_events": 6,
-  "new_events": 0,
+  "total_events": 7,
+  "new_events": 1,
   "platforms": {
+    "jiuyangongshe": 1,
     "eastmoney": 6
   },
   "events": [
     {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_1zu1arcajbh_37244ecfd5204dc5bc14fe391aad41f0_20251109",
+      "original_id": "1zu1arcajbh",
+      "event_date": "2025-11-09",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "第十五届全运会",
+      "content": "第十五届全运会将于2025年11月9日至21日在广东、香港和澳门举行，开幕式将在广州举行",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-05",
+      "raw_data": {
+        "article_id": "1zu1arcajbh",
+        "user_id": "53c4a4d50e1b46d189a181a7801ad5a8",
+        "title": "第十五届全运会",
+        "content": "第十五届全运会将于2025年11月9日至21日在广东、香港和澳门举行，开幕式将在广州举行",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "53c4a4d50e1b46d189a181a7801ad5a8",
+          "nickname": "无名小韭88681103"
+        },
+        "timeline": {
+          "article_id": "1zu1arcajbh",
+          "timeline_id": "37244ecfd5204dc5bc14fe391aad41f0",
+          "date": "2025-11-09",
+          "grade": 6,
+          "source": "1",
+          "create_time": "2025-09-29 00:17:48",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-10-05T00:53:42.902548"
+    },
+    {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251109093000_5152061180682445246",
+      "event_id": "em_jjsj_20251109093000_-6724886953452240773",
       "original_id": "2025-11-09 09:30:00_中国：CPI:累计同比(报告期:2025年10月)",
       "event_date": "2025-11-09",
       "event_time": "09:30:00",
@@ -24,16 +70,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-04",
+      "discovery_date": "2025-10-05",
       "raw_data": {
         "Name": "中国：CPI:累计同比(报告期:2025年10月)",
         "City": "中国"
       },
-      "created_at": "2025-10-04T00:45:14.974472"
+      "created_at": "2025-10-05T00:54:05.722611"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251109093000_-612975571171163550",
+      "event_id": "em_jjsj_20251109093000_-6180240502868363015",
       "original_id": "2025-11-09 09:30:00_中国：CPI:当月同比(报告期:2025年10月)",
       "event_date": "2025-11-09",
       "event_time": "09:30:00",
@@ -49,16 +95,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-04",
+      "discovery_date": "2025-10-05",
       "raw_data": {
         "Name": "中国：CPI:当月同比(报告期:2025年10月)",
         "City": "中国"
       },
-      "created_at": "2025-10-04T00:45:14.974480"
+      "created_at": "2025-10-05T00:54:05.722619"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251109093000_9009088637353247076",
+      "event_id": "em_jjsj_20251109093000_8954230771451122315",
       "original_id": "2025-11-09 09:30:00_中国：CPI:环比(报告期:2025年10月)",
       "event_date": "2025-11-09",
       "event_time": "09:30:00",
@@ -74,16 +120,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-04",
+      "discovery_date": "2025-10-05",
       "raw_data": {
         "Name": "中国：CPI:环比(报告期:2025年10月)",
         "City": "中国"
       },
-      "created_at": "2025-10-04T00:45:14.974487"
+      "created_at": "2025-10-05T00:54:05.722626"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251109093000_-7461372986955963986",
+      "event_id": "em_jjsj_20251109093000_-2466411112803101185",
       "original_id": "2025-11-09 09:30:00_中国：PPI:全部工业品:当月同比(报告期:2025年10月)",
       "event_date": "2025-11-09",
       "event_time": "09:30:00",
@@ -99,16 +145,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-04",
+      "discovery_date": "2025-10-05",
       "raw_data": {
         "Name": "中国：PPI:全部工业品:当月同比(报告期:2025年10月)",
         "City": "中国"
       },
-      "created_at": "2025-10-04T00:45:14.974494"
+      "created_at": "2025-10-05T00:54:05.722633"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251109093000_5450048910194008144",
+      "event_id": "em_jjsj_20251109093000_-7415146004541083249",
       "original_id": "2025-11-09 09:30:00_中国：PPI:全部工业品:环比(报告期:2025年10月)",
       "event_date": "2025-11-09",
       "event_time": "09:30:00",
@@ -124,16 +170,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-04",
+      "discovery_date": "2025-10-05",
       "raw_data": {
         "Name": "中国：PPI:全部工业品:环比(报告期:2025年10月)",
         "City": "中国"
       },
-      "created_at": "2025-10-04T00:45:14.974500"
+      "created_at": "2025-10-05T00:54:05.722640"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251109093000_-495693116132332143",
+      "event_id": "em_jjsj_20251109093000_5072964290531558527",
       "original_id": "2025-11-09 09:30:00_中国：PPI:全部工业品:累计同比(报告期:2025年10月)",
       "event_date": "2025-11-09",
       "event_time": "09:30:00",
@@ -149,12 +195,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-04",
+      "discovery_date": "2025-10-05",
       "raw_data": {
         "Name": "中国：PPI:全部工业品:累计同比(报告期:2025年10月)",
         "City": "中国"
       },
-      "created_at": "2025-10-04T00:45:14.974507"
+      "created_at": "2025-10-05T00:54:05.722659"
     }
   ]
 }
