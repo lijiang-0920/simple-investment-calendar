@@ -1,11 +1,11 @@
 {
   "date": "2025-10-28",
-  "total_events": 4,
-  "new_events": 0,
+  "total_events": 5,
+  "new_events": 3,
   "platforms": {
     "cls": 1,
     "jiuyangongshe": 1,
-    "eastmoney": 2
+    "investing": 3
   },
   "events": [
     {
@@ -26,7 +26,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-06",
+      "discovery_date": "2025-10-07",
       "raw_data": {
         "id": 322321,
         "calendar_time": "2025-10-28 00:00:00",
@@ -42,7 +42,7 @@
         "holiday": null,
         "title": "第十届中国国际人工智能大会及展示会暨人工智算力与算法高峰论坛将于10月28日至29日举办"
       },
-      "created_at": "2025-10-06T00:49:45.529782"
+      "created_at": "2025-10-07T00:48:00.342743"
     },
     {
       "platform": "jiuyangongshe",
@@ -62,7 +62,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-06",
+      "discovery_date": "2025-10-07",
       "raw_data": {
         "article_id": "10vvmquwfd2",
         "user_id": "00525773fe47467cac470afac1e73909",
@@ -87,63 +87,100 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-10-06T00:49:47.208446"
+      "created_at": "2025-10-07T00:48:01.625076"
     },
     {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251028070000_-4710862406351662766",
-      "original_id": "2025-10-28 07:00:00_韩国：GDP：同比(报告期:2025年09月)",
+      "platform": "investing",
+      "event_id": "inv__20251028050000",
+      "original_id": "eventRowId_533303",
       "event_date": "2025-10-28",
-      "event_time": "07:00:00",
-      "event_datetime": "2025-10-28 07:00:00",
-      "title": "韩国：GDP：同比(报告期:2025年09月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
+      "event_time": "05:00",
+      "event_datetime": "2025/10/28 05:00:00",
+      "title": "韩国消费者信心指数  (十月)",
+      "content": "前值: 110.1",
+      "category": null,
+      "importance": 1,
       "country": "韩国",
       "city": null,
       "stocks": [],
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-06",
+      "is_new": true,
+      "discovery_date": "2025-10-07",
       "raw_data": {
-        "Name": "韩国：GDP：同比(报告期:2025年09月)",
-        "City": "韩国"
+        "event_id": "eventRowId_533303",
+        "event_attr_id": "",
+        "datetime": "2025/10/28 05:00:00",
+        "time": "05:00",
+        "country": "韩国",
+        "importance": 1,
+        "event_name": "韩国消费者信心指数  (十月)",
+        "previous": "110.1"
       },
-      "created_at": "2025-10-06T00:50:11.732620"
+      "created_at": "2025-10-07T00:48:13.352475"
     },
     {
-      "platform": "eastmoney",
-      "event_id": "em_hyhy_10856301",
-      "original_id": "10856301",
+      "platform": "investing",
+      "event_id": "inv__20251028070000",
+      "original_id": "eventRowId_533305",
       "event_date": "2025-10-28",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "美联储议息会议",
-      "content": "",
-      "category": "行业会议",
-      "importance": 3,
-      "country": "中国",
+      "event_time": "07:00",
+      "event_datetime": "2025/10/28 07:00:00",
+      "title": "韩国GDP季率 (季度环比)  (第三季度)",
+      "content": "前值: 0.7%",
+      "category": null,
+      "importance": 1,
+      "country": "韩国",
       "city": null,
       "stocks": [],
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-06",
+      "is_new": true,
+      "discovery_date": "2025-10-07",
       "raw_data": {
-        "fe_code": "10856301",
-        "fe_name": "美联储议息会议",
-        "start_date": "2025-10-28",
-        "end_date": "2025-10-30",
-        "fe_type": "美联储议息会议",
-        "sponsor": null,
-        "city": null,
-        "content": null
+        "event_id": "eventRowId_533305",
+        "event_attr_id": "",
+        "datetime": "2025/10/28 07:00:00",
+        "time": "07:00",
+        "country": "韩国",
+        "importance": 1,
+        "event_name": "韩国GDP季率 (季度环比)  (第三季度)",
+        "previous": "0.7%"
       },
-      "created_at": "2025-10-06T00:50:11.735515"
+      "created_at": "2025-10-07T00:48:13.352627"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251028070000",
+      "original_id": "eventRowId_533304",
+      "event_date": "2025-10-28",
+      "event_time": "07:00",
+      "event_datetime": "2025/10/28 07:00:00",
+      "title": "韩国GDP年率(%) (同比)  (第三季度)",
+      "content": "前值: 0.6%",
+      "category": null,
+      "importance": 1,
+      "country": "韩国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-07",
+      "raw_data": {
+        "event_id": "eventRowId_533304",
+        "event_attr_id": "",
+        "datetime": "2025/10/28 07:00:00",
+        "time": "07:00",
+        "country": "韩国",
+        "importance": 1,
+        "event_name": "韩国GDP年率(%) (同比)  (第三季度)",
+        "previous": "0.6%"
+      },
+      "created_at": "2025-10-07T00:48:13.352756"
     }
   ]
 }

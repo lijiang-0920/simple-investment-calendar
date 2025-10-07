@@ -2,10 +2,10 @@
   "platform": "eastmoney",
   "year": 2025,
   "month": 10,
-  "total_events": 91,
+  "total_events": 109,
   "data_status": "ARCHIVED",
   "date_type": "HISTORICAL",
-  "last_update": "2025-10-06T00:49:43.837441",
+  "last_update": "2025-10-07T00:47:58.882385",
   "immutable": true,
   "events": [
     {
@@ -2450,6 +2450,508 @@
         "City": "美国"
       },
       "created_at": "2025-10-05T00:54:05.720579"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_xsap_20251006_7422011043944815747",
+      "original_id": "xsap_港股通(沪)、港股通(深)_2025-10-06",
+      "event_date": "2025-10-06",
+      "event_time": null,
+      "event_datetime": "2025-10-06 00:00:00",
+      "title": "港股通(沪)、港股通(深) - 国庆节、中秋节",
+      "content": null,
+      "category": "休市安排",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ARCHIVED",
+      "is_new": false,
+      "discovery_date": "2025-10-06",
+      "raw_data": {
+        "MKT": "港股通(沪)、港股通(深)",
+        "HOLIDAY": "国庆节、中秋节",
+        "SDATE": "2025-10-06 00:00:00",
+        "EDATE": "2025-10-06 00:00:00",
+        "XS": null,
+        "FIRST_LETTER": "G"
+      },
+      "created_at": "2025-10-06T00:50:11.731138"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_920680_20251006_0",
+      "original_id": "920680",
+      "event_date": "2025-10-06",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "*ST广道停复牌",
+      "content": "股票代码: 920680, 股票名称: *ST广道",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "920680"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ARCHIVED",
+      "is_new": true,
+      "discovery_date": "2025-10-06",
+      "raw_data": {
+        "stock_code": "920680",
+        "stock_name": "*ST广道",
+        "date": "2025-10-06"
+      },
+      "created_at": "2025-10-06T00:50:11.731172"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_688585_20251006_1",
+      "original_id": "688585",
+      "event_date": "2025-10-06",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "上纬新材停复牌",
+      "content": "股票代码: 688585, 股票名称: 上纬新材",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "688585"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ARCHIVED",
+      "is_new": true,
+      "discovery_date": "2025-10-06",
+      "raw_data": {
+        "stock_code": "688585",
+        "stock_name": "上纬新材",
+        "date": "2025-10-06"
+      },
+      "created_at": "2025-10-06T00:50:11.731180"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_002169_20251006_2",
+      "original_id": "002169",
+      "event_date": "2025-10-06",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "智光电气停复牌",
+      "content": "股票代码: 002169, 股票名称: 智光电气",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "002169"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ARCHIVED",
+      "is_new": true,
+      "discovery_date": "2025-10-06",
+      "raw_data": {
+        "stock_code": "002169",
+        "stock_name": "智光电气",
+        "date": "2025-10-06"
+      },
+      "created_at": "2025-10-06T00:50:11.731187"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_002370_20251006_3",
+      "original_id": "002370",
+      "event_date": "2025-10-06",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "亚太药业停复牌",
+      "content": "股票代码: 002370, 股票名称: 亚太药业",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "002370"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ARCHIVED",
+      "is_new": true,
+      "discovery_date": "2025-10-06",
+      "raw_data": {
+        "stock_code": "002370",
+        "stock_name": "亚太药业",
+        "date": "2025-10-06"
+      },
+      "created_at": "2025-10-06T00:50:11.731194"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_002185_20251006_4",
+      "original_id": "002185",
+      "event_date": "2025-10-06",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "华天科技停复牌",
+      "content": "股票代码: 002185, 股票名称: 华天科技",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "002185"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ARCHIVED",
+      "is_new": true,
+      "discovery_date": "2025-10-06",
+      "raw_data": {
+        "stock_code": "002185",
+        "stock_name": "华天科技",
+        "date": "2025-10-06"
+      },
+      "created_at": "2025-10-06T00:50:11.731201"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_000698_20251006_5",
+      "original_id": "000698",
+      "event_date": "2025-10-06",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "沈阳化工停复牌",
+      "content": "股票代码: 000698, 股票名称: 沈阳化工",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "000698"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ARCHIVED",
+      "is_new": true,
+      "discovery_date": "2025-10-06",
+      "raw_data": {
+        "stock_code": "000698",
+        "stock_name": "沈阳化工",
+        "date": "2025-10-06"
+      },
+      "created_at": "2025-10-06T00:50:11.731207"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_000851_20251006_6",
+      "original_id": "000851",
+      "event_date": "2025-10-06",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "*ST高鸿停复牌",
+      "content": "股票代码: 000851, 股票名称: *ST高鸿",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "000851"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ARCHIVED",
+      "is_new": true,
+      "discovery_date": "2025-10-06",
+      "raw_data": {
+        "stock_code": "000851",
+        "stock_name": "*ST高鸿",
+        "date": "2025-10-06"
+      },
+      "created_at": "2025-10-06T00:50:11.731214"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_605255_20251006_7",
+      "original_id": "605255",
+      "event_date": "2025-10-06",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "天普股份停复牌",
+      "content": "股票代码: 605255, 股票名称: 天普股份",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "605255"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ARCHIVED",
+      "is_new": true,
+      "discovery_date": "2025-10-06",
+      "raw_data": {
+        "stock_code": "605255",
+        "stock_name": "天普股份",
+        "date": "2025-10-06"
+      },
+      "created_at": "2025-10-06T00:50:11.731220"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_300692_20251006_8",
+      "original_id": "300692",
+      "event_date": "2025-10-06",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "中环环保停复牌",
+      "content": "股票代码: 300692, 股票名称: 中环环保",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "300692"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ARCHIVED",
+      "is_new": true,
+      "discovery_date": "2025-10-06",
+      "raw_data": {
+        "stock_code": "300692",
+        "stock_name": "中环环保",
+        "date": "2025-10-06"
+      },
+      "created_at": "2025-10-06T00:50:11.731226"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_603843_20251006_9",
+      "original_id": "603843",
+      "event_date": "2025-10-06",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "*ST正平停复牌",
+      "content": "股票代码: 603843, 股票名称: *ST正平",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "603843"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ARCHIVED",
+      "is_new": true,
+      "discovery_date": "2025-10-06",
+      "raw_data": {
+        "stock_code": "603843",
+        "stock_name": "*ST正平",
+        "date": "2025-10-06"
+      },
+      "created_at": "2025-10-06T00:50:11.731233"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_001314_20251006_10",
+      "original_id": "001314",
+      "event_date": "2025-10-06",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "亿道信息停复牌",
+      "content": "股票代码: 001314, 股票名称: 亿道信息",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "001314"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ARCHIVED",
+      "is_new": true,
+      "discovery_date": "2025-10-06",
+      "raw_data": {
+        "stock_code": "001314",
+        "stock_name": "亿道信息",
+        "date": "2025-10-06"
+      },
+      "created_at": "2025-10-06T00:50:11.731239"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_601133_20251006_11",
+      "original_id": "601133",
+      "event_date": "2025-10-06",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "柏诚股份停复牌",
+      "content": "股票代码: 601133, 股票名称: 柏诚股份",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "601133"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ARCHIVED",
+      "is_new": true,
+      "discovery_date": "2025-10-06",
+      "raw_data": {
+        "stock_code": "601133",
+        "stock_name": "柏诚股份",
+        "date": "2025-10-06"
+      },
+      "created_at": "2025-10-06T00:50:11.731246"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_688381_20251006_12",
+      "original_id": "688381",
+      "event_date": "2025-10-06",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "帝奥微停复牌",
+      "content": "股票代码: 688381, 股票名称: 帝奥微",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "688381"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ARCHIVED",
+      "is_new": true,
+      "discovery_date": "2025-10-06",
+      "raw_data": {
+        "stock_code": "688381",
+        "stock_name": "帝奥微",
+        "date": "2025-10-06"
+      },
+      "created_at": "2025-10-06T00:50:11.731253"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_301075_20251006_13",
+      "original_id": "301075",
+      "event_date": "2025-10-06",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "多瑞医药停复牌",
+      "content": "股票代码: 301075, 股票名称: 多瑞医药",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "301075"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ARCHIVED",
+      "is_new": true,
+      "discovery_date": "2025-10-06",
+      "raw_data": {
+        "stock_code": "301075",
+        "stock_name": "多瑞医药",
+        "date": "2025-10-06"
+      },
+      "created_at": "2025-10-06T00:50:11.731260"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251006000000_3023297291940587234",
+      "original_id": "2025-10-06 00:00:00_泰国：PPI(报告期:2025年09月)",
+      "event_date": "2025-10-06",
+      "event_time": null,
+      "event_datetime": "2025-10-06 00:00:00",
+      "title": "泰国：PPI(报告期:2025年09月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "泰国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ARCHIVED",
+      "is_new": false,
+      "discovery_date": "2025-10-06",
+      "raw_data": {
+        "Name": "泰国：PPI(报告期:2025年09月)",
+        "City": "泰国"
+      },
+      "created_at": "2025-10-06T00:50:11.731279"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251006120000_4004841572281722767",
+      "original_id": "2025-10-06 12:00:00_泰国：CPI：同比(报告期:2025年09月)",
+      "event_date": "2025-10-06",
+      "event_time": "12:00:00",
+      "event_datetime": "2025-10-06 12:00:00",
+      "title": "泰国：CPI：同比(报告期:2025年09月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "泰国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ARCHIVED",
+      "is_new": false,
+      "discovery_date": "2025-10-06",
+      "raw_data": {
+        "Name": "泰国：CPI：同比(报告期:2025年09月)",
+        "City": "泰国"
+      },
+      "created_at": "2025-10-06T00:50:11.731288"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_hyhy_10865420",
+      "original_id": "10865420",
+      "event_date": "2025-10-06",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "OpenAI:2025年开发者大会将在10月6日旧金山举办",
+      "content": "OpenAI已正式公布了其下一届开发者大会(DevDay)的时间和地点,定于2025年10月6日在旧金山举行。这次大会将吸引超过1500名开发者参加,预计将成为迄今为止规模最大的一次开发者活动。",
+      "category": "行业会议",
+      "importance": 3,
+      "country": "中国",
+      "city": "旧金山",
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ARCHIVED",
+      "is_new": false,
+      "discovery_date": "2025-10-06",
+      "raw_data": {
+        "fe_code": "10865420",
+        "fe_name": "OpenAI:2025年开发者大会将在10月6日旧金山举办",
+        "start_date": "2025-10-06",
+        "end_date": "2025-10-06",
+        "fe_type": "其他会议",
+        "sponsor": null,
+        "city": "旧金山",
+        "content": "OpenAI已正式公布了其下一届开发者大会(DevDay)的时间和地点,定于2025年10月6日在旧金山举行。这次大会将吸引超过1500名开发者参加,预计将成为迄今为止规模最大的一次开发者活动。"
+      },
+      "created_at": "2025-10-06T00:50:11.735396"
     }
   ]
 }
