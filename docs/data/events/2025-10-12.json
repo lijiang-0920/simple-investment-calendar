@@ -1,11 +1,12 @@
 {
   "date": "2025-10-12",
-  "total_events": 4,
-  "new_events": 0,
+  "total_events": 5,
+  "new_events": 1,
   "platforms": {
     "cls": 1,
     "jiuyangongshe": 1,
-    "tonghuashun": 2
+    "tonghuashun": 2,
+    "eastmoney": 1
   },
   "events": [
     {
@@ -26,7 +27,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-07",
+      "discovery_date": "2025-10-08",
       "raw_data": {
         "id": 323792,
         "calendar_time": "2025-10-12 00:00:00",
@@ -42,7 +43,7 @@
         "holiday": null,
         "title": "2025世界农业科技创新大会将于10月12日至15日举办"
       },
-      "created_at": "2025-10-07T00:48:00.342536"
+      "created_at": "2025-10-08T00:47:40.545927"
     },
     {
       "platform": "jiuyangongshe",
@@ -64,7 +65,7 @@
       ],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-07",
+      "discovery_date": "2025-10-08",
       "raw_data": {
         "article_id": "238968dbd8974b8e99dfdeefa37eebda",
         "user_id": "1",
@@ -94,7 +95,7 @@
           ]
         }
       },
-      "created_at": "2025-10-07T00:48:01.624865"
+      "created_at": "2025-10-08T00:47:42.085069"
     },
     {
       "platform": "tonghuashun",
@@ -114,7 +115,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-07",
+      "discovery_date": "2025-10-08",
       "raw_data": {
         "event": [
           "2025世界农业科技创新大会将于10月12日至15日举办",
@@ -124,7 +125,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-10-07T00:48:06.694386"
+      "created_at": "2025-10-08T00:47:47.635326"
     },
     {
       "platform": "tonghuashun",
@@ -144,7 +145,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-07",
+      "discovery_date": "2025-10-08",
       "raw_data": {
         "event": [
           "2025世界农业科技创新大会将于10月12日至15日举办",
@@ -154,7 +155,38 @@
         ],
         "concept": []
       },
-      "created_at": "2025-10-07T00:48:06.694400"
+      "created_at": "2025-10-08T00:47:47.635336"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_hyhy_10865050",
+      "original_id": "10865050",
+      "event_date": "2025-10-12",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025世界农业科技创新大会(WAFI)",
+      "content": "2025年10月12日至15日,2025世界农业科技创新大会在北京金海湖国际会展中心和中国农业大学国际会议中心举办,主题为\"践行大食物观,共建韧性食物供应体系\"。大会由学术论坛、国际博览、创新路演等12类活动组成,设立奖项表彰农业创新贡献者。作为世界三大农业盛会之一,其目标构建农食系统转型的全球合作平台,推动创新链与产业链深度融合。",
+      "category": "行业会议",
+      "importance": 3,
+      "country": "中国",
+      "city": "北京",
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-08",
+      "raw_data": {
+        "fe_code": "10865050",
+        "fe_name": "2025世界农业科技创新大会(WAFI)",
+        "start_date": "2025-10-12",
+        "end_date": "2025-10-15",
+        "fe_type": "行业会议",
+        "sponsor": "中国农业大学,北京市平谷区人民政府,北京市农业农村局,国际农业研究",
+        "city": "北京",
+        "content": "2025年10月12日至15日,2025世界农业科技创新大会在北京金海湖国际会展中心和中国农业大学国际会议中心举办,主题为\"践行大食物观,共建韧性食物供应体系\"。大会由学术论坛、国际博览、创新路演等12类活动组成,设立奖项表彰农业创新贡献者。作为世界三大农业盛会之一,其目标构建农食系统转型的全球合作平台,推动创新链与产业链深度融合。"
+      },
+      "created_at": "2025-10-08T00:48:04.742480"
     }
   ]
 }
