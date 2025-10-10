@@ -1,15 +1,105 @@
 {
   "date": "2025-10-13",
-  "total_events": 32,
-  "new_events": 7,
+  "total_events": 37,
+  "new_events": 6,
   "platforms": {
-    "cls": 4,
+    "cls": 7,
     "jiuyangongshe": 4,
     "tonghuashun": 4,
-    "investing": 17,
-    "eastmoney": 3
+    "investing": 18,
+    "eastmoney": 4
   },
   "events": [
+    {
+      "platform": "cls",
+      "event_id": "cls_324623_20251013_1",
+      "original_id": "324623",
+      "event_date": "2025-10-13",
+      "event_time": "00:00:00",
+      "event_datetime": "2025-10-13 00:00:00",
+      "title": "中国9月出口年率",
+      "content": null,
+      "category": "经济数据",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-10",
+      "raw_data": {
+        "id": 324623,
+        "calendar_time": "2025-10-13 00:00:00",
+        "data_id": 54747,
+        "type": 1,
+        "economic": {
+          "title": "中国9月出口年率",
+          "country": "中国",
+          "country_icon": "",
+          "star": 2,
+          "indicator_id": 985,
+          "front": "4.8%",
+          "fix": "--",
+          "consensus": "--",
+          "actual": "--",
+          "unit": "%",
+          "flag": "--",
+          "interpret": "",
+          "interpret_img": []
+        },
+        "event": null,
+        "holiday": null,
+        "title": "中国9月出口年率"
+      },
+      "created_at": "2025-10-10T00:47:57.427223"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_324624_20251013_1",
+      "original_id": "324624",
+      "event_date": "2025-10-13",
+      "event_time": "00:00:00",
+      "event_datetime": "2025-10-13 00:00:00",
+      "title": "中国9月进口年率",
+      "content": null,
+      "category": "经济数据",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-10",
+      "raw_data": {
+        "id": 324624,
+        "calendar_time": "2025-10-13 00:00:00",
+        "data_id": 54748,
+        "type": 1,
+        "economic": {
+          "title": "中国9月进口年率",
+          "country": "中国",
+          "country_icon": "",
+          "star": 2,
+          "indicator_id": 986,
+          "front": "1.7%",
+          "fix": "--",
+          "consensus": "--",
+          "actual": "--",
+          "unit": "%",
+          "flag": "--",
+          "interpret": "",
+          "interpret_img": []
+        },
+        "event": null,
+        "holiday": null,
+        "title": "中国9月进口年率"
+      },
+      "created_at": "2025-10-10T00:47:57.427233"
+    },
     {
       "platform": "cls",
       "event_id": "cls_321768_20251013_2",
@@ -28,7 +118,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-09",
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "id": 321768,
         "calendar_time": "2025-10-13 00:00:00",
@@ -44,7 +134,7 @@
         "holiday": null,
         "title": "国内成品油将开启新一轮调价窗口"
       },
-      "created_at": "2025-10-09T00:48:46.791695"
+      "created_at": "2025-10-10T00:47:57.427243"
     },
     {
       "platform": "cls",
@@ -64,7 +154,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-09",
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "id": 321769,
         "calendar_time": "2025-10-13 00:00:00",
@@ -80,7 +170,7 @@
         "holiday": null,
         "title": "欧佩克公布月度原油市场报告"
       },
-      "created_at": "2025-10-09T00:48:46.791706"
+      "created_at": "2025-10-10T00:47:57.427252"
     },
     {
       "platform": "cls",
@@ -100,7 +190,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-09",
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "id": 323299,
         "calendar_time": "2025-10-13 00:00:00",
@@ -116,7 +206,7 @@
         "holiday": null,
         "title": "第30次原子能机构聚变能会议将于10月13日至18日举办"
       },
-      "created_at": "2025-10-09T00:48:46.791716"
+      "created_at": "2025-10-10T00:47:57.427262"
     },
     {
       "platform": "cls",
@@ -136,7 +226,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-09",
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "id": 323791,
         "calendar_time": "2025-10-13 00:00:00",
@@ -152,7 +242,43 @@
         "holiday": null,
         "title": "中国外汇交易中心优化“互换通”运行机制，10月13日起每日净限额将提至450亿元"
       },
-      "created_at": "2025-10-09T00:48:46.791726"
+      "created_at": "2025-10-10T00:47:57.427272"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_325018_20251013_2",
+      "original_id": "325018",
+      "event_date": "2025-10-13",
+      "event_time": "00:00:00",
+      "event_datetime": "2025-10-13 00:00:00",
+      "title": "2025年IMF和世界银行秋季年会将于10月13日至18日召开",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-10",
+      "raw_data": {
+        "id": 325018,
+        "calendar_time": "2025-10-13 00:00:00",
+        "data_id": 19536,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "2025年IMF和世界银行秋季年会将于10月13日至18日召开",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "2025年IMF和世界银行秋季年会将于10月13日至18日召开"
+      },
+      "created_at": "2025-10-10T00:47:57.427282"
     },
     {
       "platform": "jiuyangongshe",
@@ -172,7 +298,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-09",
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "article_id": "0a0f7f8278d14a1c8f257a4397a29c5e",
         "user_id": "1",
@@ -197,7 +323,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-10-09T00:48:48.601207"
+      "created_at": "2025-10-10T00:47:59.176995"
     },
     {
       "platform": "jiuyangongshe",
@@ -217,7 +343,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-09",
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "article_id": "5654e6925d9c4d5a8414155b17f2e349",
         "user_id": "1",
@@ -242,7 +368,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-10-09T00:48:48.601234"
+      "created_at": "2025-10-10T00:47:59.177006"
     },
     {
       "platform": "jiuyangongshe",
@@ -262,7 +388,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-09",
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "article_id": "5308c311c40a4d84804fa0de52c3cd01",
         "user_id": "1",
@@ -287,7 +413,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-10-09T00:48:48.601245"
+      "created_at": "2025-10-10T00:47:59.177014"
     },
     {
       "platform": "jiuyangongshe",
@@ -307,7 +433,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-09",
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "article_id": "dffb394b67e84262928601891cd85bce",
         "user_id": "1",
@@ -332,7 +458,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-10-09T00:48:48.601254"
+      "created_at": "2025-10-10T00:47:59.177021"
     },
     {
       "platform": "tonghuashun",
@@ -352,7 +478,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-09",
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "event": [
           "第30次原子能机构聚变能会议将于10月13日至18日举办",
@@ -362,7 +488,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-10-09T00:48:54.439352"
+      "created_at": "2025-10-10T00:48:04.160970"
     },
     {
       "platform": "tonghuashun",
@@ -382,7 +508,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-09",
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "event": [
           "第30次原子能机构聚变能会议将于10月13日至18日举办",
@@ -392,7 +518,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-10-09T00:48:54.439361"
+      "created_at": "2025-10-10T00:48:04.160979"
     },
     {
       "platform": "tonghuashun",
@@ -412,7 +538,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-09",
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "event": [
           "中国外汇交易中心优化“互换通”运行机制，10月13日起每日净限额将提至450亿元",
@@ -422,7 +548,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-10-09T00:48:54.439369"
+      "created_at": "2025-10-10T00:48:04.160988"
     },
     {
       "platform": "tonghuashun",
@@ -442,7 +568,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-09",
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "event": [
           "中国外汇交易中心优化“互换通”运行机制，10月13日起每日净限额将提至450亿元",
@@ -452,7 +578,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-10-09T00:48:54.439377"
+      "created_at": "2025-10-10T00:48:04.160997"
     },
     {
       "platform": "investing",
@@ -472,7 +598,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-09",
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "event_id": "eventRowId_533040",
         "event_attr_id": "",
@@ -483,7 +609,7 @@
         "event_name": "服务业表现指数  (九月)",
         "previous": "47.5"
       },
-      "created_at": "2025-10-09T00:48:58.518627"
+      "created_at": "2025-10-10T00:48:07.825199"
     },
     {
       "platform": "investing",
@@ -503,7 +629,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-09",
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "event_id": "eventRowId_532385",
         "event_attr_id": "",
@@ -514,7 +640,7 @@
         "event_name": "新西兰外部移民和游客年率(%)  (八月)",
         "previous": "6.60%"
       },
-      "created_at": "2025-10-09T00:48:58.518766"
+      "created_at": "2025-10-10T00:48:07.825333"
     },
     {
       "platform": "investing",
@@ -534,7 +660,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-09",
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "event_id": "eventRowId_532384",
         "event_attr_id": "",
@@ -545,7 +671,7 @@
         "event_name": "新西兰净流入移民人数(人)  (八月)",
         "previous": "2,060"
       },
-      "created_at": "2025-10-09T00:48:58.518891"
+      "created_at": "2025-10-10T00:48:07.825456"
     },
     {
       "platform": "investing",
@@ -564,8 +690,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-09",
+      "is_new": false,
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "event_id": "eventRowId_532387",
         "event_attr_id": "",
@@ -576,69 +702,7 @@
         "event_name": "澳大利亚出口月率(%)  (十月)",
         "previous": "4.80M"
       },
-      "created_at": "2025-10-09T00:48:58.519009"
-    },
-    {
-      "platform": "investing",
-      "event_id": "inv__20251013110000",
-      "original_id": "eventRowId_532386",
-      "event_date": "2025-10-13",
-      "event_time": "11:00",
-      "event_datetime": "2025/10/13 11:00:00",
-      "title": "澳大利亚进口月率(%)  (十月)",
-      "content": "前值: 1.70M",
-      "category": null,
-      "importance": 1,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-09",
-      "raw_data": {
-        "event_id": "eventRowId_532386",
-        "event_attr_id": "",
-        "datetime": "2025/10/13 11:00:00",
-        "time": "11:00",
-        "country": "中国",
-        "importance": 1,
-        "event_name": "澳大利亚进口月率(%)  (十月)",
-        "previous": "1.70M"
-      },
-      "created_at": "2025-10-09T00:48:58.519125"
-    },
-    {
-      "platform": "investing",
-      "event_id": "inv__20251013110000",
-      "original_id": "eventRowId_532388",
-      "event_date": "2025-10-13",
-      "event_time": "11:00",
-      "event_datetime": "2025/10/13 11:00:00",
-      "title": "英国贸易帐(英镑)  (十月)",
-      "content": "前值: 732.70B",
-      "category": null,
-      "importance": 1,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-09",
-      "raw_data": {
-        "event_id": "eventRowId_532388",
-        "event_attr_id": "",
-        "datetime": "2025/10/13 11:00:00",
-        "time": "11:00",
-        "country": "中国",
-        "importance": 1,
-        "event_name": "英国贸易帐(英镑)  (十月)",
-        "previous": "732.70B"
-      },
-      "created_at": "2025-10-09T00:48:58.519264"
+      "created_at": "2025-10-10T00:48:07.825592"
     },
     {
       "platform": "investing",
@@ -657,8 +721,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-09",
+      "is_new": false,
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "event_id": "eventRowId_532391",
         "event_attr_id": "",
@@ -669,38 +733,7 @@
         "event_name": "中国出口年率-美元计价(%) (同比)  (十月)",
         "previous": "4.4%"
       },
-      "created_at": "2025-10-09T00:48:58.519385"
-    },
-    {
-      "platform": "investing",
-      "event_id": "inv__20251013110000",
-      "original_id": "eventRowId_532390",
-      "event_date": "2025-10-13",
-      "event_time": "11:00",
-      "event_datetime": "2025/10/13 11:00:00",
-      "title": "中国进口年率-美元计价(%) (同比)  (十月)",
-      "content": "前值: 1.3%",
-      "category": null,
-      "importance": 2,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-09",
-      "raw_data": {
-        "event_id": "eventRowId_532390",
-        "event_attr_id": "",
-        "datetime": "2025/10/13 11:00:00",
-        "time": "11:00",
-        "country": "中国",
-        "importance": 2,
-        "event_name": "中国进口年率-美元计价(%) (同比)  (十月)",
-        "previous": "1.3%"
-      },
-      "created_at": "2025-10-09T00:48:58.519506"
+      "created_at": "2025-10-10T00:48:07.825712"
     },
     {
       "platform": "investing",
@@ -719,8 +752,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-09",
+      "is_new": false,
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "event_id": "eventRowId_532389",
         "event_attr_id": "",
@@ -731,7 +764,7 @@
         "event_name": "中国贸易帐 (美元)  (十月)",
         "previous": "102.33B"
       },
-      "created_at": "2025-10-09T00:48:58.519622"
+      "created_at": "2025-10-10T00:48:07.825835"
     },
     {
       "platform": "investing",
@@ -750,8 +783,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-09",
+      "is_new": false,
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "event_id": "eventRowId_533380",
         "event_attr_id": "",
@@ -762,7 +795,37 @@
         "event_name": "德国12个月期Bubill国债拍卖",
         "previous": "1.938%"
       },
-      "created_at": "2025-10-09T00:48:58.519735"
+      "created_at": "2025-10-10T00:48:07.825953"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251013180000",
+      "original_id": "eventRowId_533486",
+      "event_date": "2025-10-13",
+      "event_time": "18:00",
+      "event_datetime": "2025/10/13 18:00:00",
+      "title": "国际货币基金组织年会",
+      "content": null,
+      "category": null,
+      "importance": 1,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-10",
+      "raw_data": {
+        "event_id": "eventRowId_533486",
+        "event_attr_id": "",
+        "datetime": "2025/10/13 18:00:00",
+        "time": "18:00",
+        "country": "美国",
+        "importance": 1,
+        "event_name": "国际货币基金组织年会"
+      },
+      "created_at": "2025-10-10T00:48:07.826066"
     },
     {
       "platform": "investing",
@@ -782,7 +845,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-09",
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "event_id": "eventRowId_532404",
         "event_attr_id": "",
@@ -793,7 +856,70 @@
         "event_name": "印度CPI年率(%) (同比)  (九月)",
         "previous": "2.07%"
       },
-      "created_at": "2025-10-09T00:48:58.519849"
+      "created_at": "2025-10-10T00:48:07.826179"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251013190000",
+      "original_id": "eventRowId_531970",
+      "event_date": "2025-10-13",
+      "event_time": "19:00",
+      "event_datetime": "2025/10/13 19:00:00",
+      "title": "美国世界大型企业联合会就业趋势指数  (九月)",
+      "content": "前值: 106.41",
+      "category": null,
+      "importance": 1,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-10-10",
+      "raw_data": {
+        "event_id": "eventRowId_531970",
+        "event_attr_id": "",
+        "datetime": "2025/10/13 19:00:00",
+        "time": "19:00",
+        "country": "美国",
+        "importance": 1,
+        "event_name": "美国世界大型企业联合会就业趋势指数  (九月)",
+        "previous": "106.41"
+      },
+      "created_at": "2025-10-10T00:48:07.826293"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251013190000",
+      "original_id": "eventRowId_531772",
+      "event_date": "2025-10-13",
+      "event_time": "19:00",
+      "event_datetime": "2025/10/13 19:00:00",
+      "title": "美国营建支出月率(%) (月度环比)  (八月)",
+      "content": "预测值: -0.1% | 前值: -0.1%",
+      "category": null,
+      "importance": 2,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-10-10",
+      "raw_data": {
+        "event_id": "eventRowId_531772",
+        "event_attr_id": "",
+        "datetime": "2025/10/13 19:00:00",
+        "time": "19:00",
+        "country": "美国",
+        "importance": 2,
+        "event_name": "美国营建支出月率(%) (月度环比)  (八月)",
+        "forecast": "-0.1%",
+        "previous": "-0.1%"
+      },
+      "created_at": "2025-10-10T00:48:07.826410"
     },
     {
       "platform": "investing",
@@ -813,7 +939,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-09",
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "event_id": "eventRowId_517582",
         "event_attr_id": "",
@@ -823,7 +949,7 @@
         "importance": 2,
         "event_name": "石油输出国组织(OPEC)月报"
       },
-      "created_at": "2025-10-09T00:48:58.519961"
+      "created_at": "2025-10-10T00:48:07.826525"
     },
     {
       "platform": "investing",
@@ -843,7 +969,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-09",
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "event_id": "eventRowId_533261",
         "event_attr_id": "",
@@ -853,7 +979,7 @@
         "importance": 1,
         "event_name": "巴西央行焦点市场报告"
       },
-      "created_at": "2025-10-09T00:48:58.520072"
+      "created_at": "2025-10-10T00:48:07.826656"
     },
     {
       "platform": "investing",
@@ -873,7 +999,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-09",
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "event_id": "eventRowId_532406",
         "event_attr_id": "",
@@ -884,7 +1010,7 @@
         "event_name": "德国未经季调经常帐(欧元)  (八月)",
         "previous": "14.8B"
       },
-      "created_at": "2025-10-09T00:48:58.520198"
+      "created_at": "2025-10-10T00:48:07.826781"
     },
     {
       "platform": "investing",
@@ -904,7 +1030,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-09",
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "event_id": "eventRowId_533328",
         "event_attr_id": "",
@@ -915,7 +1041,7 @@
         "event_name": "法国12个月期BTF国债拍卖平均收益率(%)",
         "previous": "2.051%"
       },
-      "created_at": "2025-10-09T00:48:58.520319"
+      "created_at": "2025-10-10T00:48:07.826895"
     },
     {
       "platform": "investing",
@@ -935,7 +1061,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-09",
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "event_id": "eventRowId_533329",
         "event_attr_id": "",
@@ -946,7 +1072,7 @@
         "event_name": "法国3个月期BTF国债拍卖平均收益率(%)",
         "previous": "1.999%"
       },
-      "created_at": "2025-10-09T00:48:58.520433"
+      "created_at": "2025-10-10T00:48:07.827010"
     },
     {
       "platform": "investing",
@@ -966,7 +1092,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-09",
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "event_id": "eventRowId_533330",
         "event_attr_id": "",
@@ -977,11 +1103,42 @@
         "event_name": "法国6个月期BTF国债拍卖平均收益率(%)",
         "previous": "2.034%"
       },
-      "created_at": "2025-10-09T00:48:58.520545"
+      "created_at": "2025-10-10T00:48:07.827122"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251013220000",
+      "original_id": "eventRowId_532220",
+      "event_date": "2025-10-13",
+      "event_time": "22:00",
+      "event_datetime": "2025/10/13 22:00:00",
+      "title": "美国批发贸易销售月率(%) (月度环比)  (八月)",
+      "content": "前值: 1.4%",
+      "category": null,
+      "importance": 1,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-10",
+      "raw_data": {
+        "event_id": "eventRowId_532220",
+        "event_attr_id": "",
+        "datetime": "2025/10/13 22:00:00",
+        "time": "22:00",
+        "country": "美国",
+        "importance": 1,
+        "event_name": "美国批发贸易销售月率(%) (月度环比)  (八月)",
+        "previous": "1.4%"
+      },
+      "created_at": "2025-10-10T00:48:07.827236"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251013000000_-1151479492939624805",
+      "event_id": "em_jjsj_20251013000000_4725656094318391386",
       "original_id": "2025-10-13 00:00:00_中国：出口金额(报告期:2025年09月)",
       "event_date": "2025-10-13",
       "event_time": null,
@@ -997,16 +1154,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-09",
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "Name": "中国：出口金额(报告期:2025年09月)",
         "City": "中国"
       },
-      "created_at": "2025-10-09T00:49:12.243083"
+      "created_at": "2025-10-10T00:48:20.077957"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251013000000_8466431867919773394",
+      "event_id": "em_jjsj_20251013000000_3970277461920546752",
       "original_id": "2025-10-13 00:00:00_中国：进口金额(报告期:2025年09月)",
       "event_date": "2025-10-13",
       "event_time": null,
@@ -1022,16 +1179,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-09",
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "Name": "中国：进口金额(报告期:2025年09月)",
         "City": "中国"
       },
-      "created_at": "2025-10-09T00:49:12.243096"
+      "created_at": "2025-10-10T00:48:20.077964"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251013000000_-1455870403833500634",
+      "event_id": "em_jjsj_20251013000000_4447348301074397761",
       "original_id": "2025-10-13 00:00:00_中国：进出口金额:当月同比(报告期:2025年09月)",
       "event_date": "2025-10-13",
       "event_time": null,
@@ -1047,12 +1204,43 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-09",
+      "discovery_date": "2025-10-10",
       "raw_data": {
         "Name": "中国：进出口金额:当月同比(报告期:2025年09月)",
         "City": "中国"
       },
-      "created_at": "2025-10-09T00:49:12.243104"
+      "created_at": "2025-10-10T00:48:20.077971"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_hyhy_10865609",
+      "original_id": "10865609",
+      "event_date": "2025-10-13",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "中国外汇交易中心优化“互换通”运行机制,10月13日起每日净限额将提至450亿元",
+      "content": "为进一步提升互换通市场活力,更好满足境外投资者管理人民币利率风险的需求,中国外汇交易中心(以下简称交易中心)将在中国人民银行指导下优化“互换通”运行机制。具体措施包括:一是建立“互换通”报价商动态调整机制,并扩充报价商队伍。二是完善每日净限额动态评估机制,并自2025年10月13日起提高每日净限额至450亿元。",
+      "category": "行业会议",
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-10",
+      "raw_data": {
+        "fe_code": "10865609",
+        "fe_name": "中国外汇交易中心优化“互换通”运行机制,10月13日起每日净限额将提至450亿元",
+        "start_date": "2025-10-13",
+        "end_date": "2025-10-13",
+        "fe_type": "其他会议",
+        "sponsor": null,
+        "city": null,
+        "content": "为进一步提升互换通市场活力,更好满足境外投资者管理人民币利率风险的需求,中国外汇交易中心(以下简称交易中心)将在中国人民银行指导下优化“互换通”运行机制。具体措施包括:一是建立“互换通”报价商动态调整机制,并扩充报价商队伍。二是完善每日净限额动态评估机制,并自2025年10月13日起提高每日净限额至450亿元。"
+      },
+      "created_at": "2025-10-10T00:48:20.082979"
     }
   ]
 }
