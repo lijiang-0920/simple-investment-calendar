@@ -1,14 +1,56 @@
 {
   "date": "2025-11-18",
-  "total_events": 16,
-  "new_events": 0,
+  "total_events": 17,
+  "new_events": 1,
   "platforms": {
+    "tonghuashun": 1,
     "eastmoney": 16
   },
   "events": [
     {
+      "platform": "tonghuashun",
+      "event_id": "ths_20251118_0_d6aa9d11",
+      "original_id": "2025-11-18_0",
+      "event_date": "2025-11-18",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "上海国际储能技术应用展览会",
+      "content": null,
+      "category": null,
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [
+        {
+          "code": "885921",
+          "name": "储能"
+        }
+      ],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-11",
+      "raw_data": {
+        "event": [
+          "上海国际储能技术应用展览会",
+          "",
+          "",
+          ""
+        ],
+        "concept": [
+          {
+            "code": "885921",
+            "name": "储能",
+            "py": "cn"
+          }
+        ]
+      },
+      "created_at": "2025-10-11T00:45:30.551810"
+    },
+    {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251118163000_-7499986696595411061",
+      "event_id": "em_jjsj_20251118163000_3757413486463427231",
       "original_id": "2025-11-18 16:30:00_中国香港：失业率：季调(报告期:2025年10月)",
       "event_date": "2025-11-18",
       "event_time": "16:30:00",
@@ -24,16 +66,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-10",
+      "discovery_date": "2025-10-11",
       "raw_data": {
         "Name": "中国香港：失业率：季调(报告期:2025年10月)",
         "City": "中国香港"
       },
-      "created_at": "2025-10-10T00:48:20.080109"
+      "created_at": "2025-10-11T00:45:45.760618"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251118180000_-3915435484920464211",
+      "event_id": "em_jjsj_20251118180000_8611201412218362678",
       "original_id": "2025-11-18 18:00:00_德国：HICP：同比(报告期:2025年10月)",
       "event_date": "2025-11-18",
       "event_time": "18:00:00",
@@ -49,16 +91,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-10",
+      "discovery_date": "2025-10-11",
       "raw_data": {
         "Name": "德国：HICP：同比(报告期:2025年10月)",
         "City": "德国"
       },
-      "created_at": "2025-10-10T00:48:20.080117"
+      "created_at": "2025-10-11T00:45:45.760629"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251118180000_8981473966073418671",
+      "event_id": "em_jjsj_20251118180000_1957422488774526743",
       "original_id": "2025-11-18 18:00:00_德国：HICP：环比(报告期:2025年10月)",
       "event_date": "2025-11-18",
       "event_time": "18:00:00",
@@ -74,16 +116,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-10",
+      "discovery_date": "2025-10-11",
       "raw_data": {
         "Name": "德国：HICP：环比(报告期:2025年10月)",
         "City": "德国"
       },
-      "created_at": "2025-10-10T00:48:20.080126"
+      "created_at": "2025-10-11T00:45:45.760660"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251118180000_-6983956274046783840",
+      "event_id": "em_jjsj_20251118180000_-5211509744594148530",
       "original_id": "2025-11-18 18:00:00_意大利：HICP：环比(报告期:2025年10月)",
       "event_date": "2025-11-18",
       "event_time": "18:00:00",
@@ -99,16 +141,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-10",
+      "discovery_date": "2025-10-11",
       "raw_data": {
         "Name": "意大利：HICP：环比(报告期:2025年10月)",
         "City": "意大利"
       },
-      "created_at": "2025-10-10T00:48:20.080133"
+      "created_at": "2025-10-11T00:45:45.760672"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251118180000_798226872780235383",
+      "event_id": "em_jjsj_20251118180000_-8185458166996628416",
       "original_id": "2025-11-18 18:00:00_意大利：HICP：同比(报告期:2025年10月)",
       "event_date": "2025-11-18",
       "event_time": "18:00:00",
@@ -124,16 +166,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-10",
+      "discovery_date": "2025-10-11",
       "raw_data": {
         "Name": "意大利：HICP：同比(报告期:2025年10月)",
         "City": "意大利"
       },
-      "created_at": "2025-10-10T00:48:20.080140"
+      "created_at": "2025-10-11T00:45:45.760679"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251118180000_-5411393682295659401",
+      "event_id": "em_jjsj_20251118180000_-1553906488849733938",
       "original_id": "2025-11-18 18:00:00_欧元区：CPI(报告期:2025年10月)",
       "event_date": "2025-11-18",
       "event_time": "18:00:00",
@@ -149,16 +191,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-10",
+      "discovery_date": "2025-10-11",
       "raw_data": {
         "Name": "欧元区：CPI(报告期:2025年10月)",
         "City": "欧盟"
       },
-      "created_at": "2025-10-10T00:48:20.080147"
+      "created_at": "2025-10-11T00:45:45.760687"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251118180000_382570700503520543",
+      "event_id": "em_jjsj_20251118180000_-4052458479432439352",
       "original_id": "2025-11-18 18:00:00_欧元区：CPI：当月同比(报告期:2025年10月)",
       "event_date": "2025-11-18",
       "event_time": "18:00:00",
@@ -174,16 +216,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-10",
+      "discovery_date": "2025-10-11",
       "raw_data": {
         "Name": "欧元区：CPI：当月同比(报告期:2025年10月)",
         "City": "欧盟"
       },
-      "created_at": "2025-10-10T00:48:20.080154"
+      "created_at": "2025-10-11T00:45:45.760694"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251118180000_-3375806973674673924",
+      "event_id": "em_jjsj_20251118180000_5949764149161809463",
       "original_id": "2025-11-18 18:00:00_欧元区:CPI:环比(报告期:2025年10月)",
       "event_date": "2025-11-18",
       "event_time": "18:00:00",
@@ -199,16 +241,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-10",
+      "discovery_date": "2025-10-11",
       "raw_data": {
         "Name": "欧元区:CPI:环比(报告期:2025年10月)",
         "City": "欧盟"
       },
-      "created_at": "2025-10-10T00:48:20.080161"
+      "created_at": "2025-10-11T00:45:45.760701"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251118180000_-7112006426420302306",
+      "event_id": "em_jjsj_20251118180000_-6580239378235652301",
       "original_id": "2025-11-18 18:00:00_欧盟：核心CPI：环比(报告期:2025年10月)",
       "event_date": "2025-11-18",
       "event_time": "18:00:00",
@@ -224,16 +266,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-10",
+      "discovery_date": "2025-10-11",
       "raw_data": {
         "Name": "欧盟：核心CPI：环比(报告期:2025年10月)",
         "City": "欧盟"
       },
-      "created_at": "2025-10-10T00:48:20.080170"
+      "created_at": "2025-10-11T00:45:45.760709"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251118180000_3181723410791538979",
+      "event_id": "em_jjsj_20251118180000_-1170869001334407137",
       "original_id": "2025-11-18 18:00:00_欧元区：核心CPI：当月同比(报告期:2025年10月)",
       "event_date": "2025-11-18",
       "event_time": "18:00:00",
@@ -249,16 +291,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-10",
+      "discovery_date": "2025-10-11",
       "raw_data": {
         "Name": "欧元区：核心CPI：当月同比(报告期:2025年10月)",
         "City": "欧盟"
       },
-      "created_at": "2025-10-10T00:48:20.080177"
+      "created_at": "2025-10-11T00:45:45.760723"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251118180000_-598657798642993766",
+      "event_id": "em_jjsj_20251118180000_-5934688618578314059",
       "original_id": "2025-11-18 18:00:00_欧元区：核心CPI：环比(报告期:2025年10月)",
       "event_date": "2025-11-18",
       "event_time": "18:00:00",
@@ -274,16 +316,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-10",
+      "discovery_date": "2025-10-11",
       "raw_data": {
         "Name": "欧元区：核心CPI：环比(报告期:2025年10月)",
         "City": "欧盟"
       },
-      "created_at": "2025-10-10T00:48:20.080184"
+      "created_at": "2025-10-11T00:45:45.760739"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251118210000_-3029390666765626378",
+      "event_id": "em_jjsj_20251118210000_-2590873345799562075",
       "original_id": "2025-11-18 21:00:00_美国：月度国际资本流动：净额(报告期:2025年09月)",
       "event_date": "2025-11-18",
       "event_time": "21:00:00",
@@ -299,16 +341,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-10",
+      "discovery_date": "2025-10-11",
       "raw_data": {
         "Name": "美国：月度国际资本流动：净额(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-10-10T00:48:20.080191"
+      "created_at": "2025-10-11T00:45:45.760749"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251118221500_992138627667496617",
+      "event_id": "em_jjsj_20251118221500_3757661390349641503",
       "original_id": "2025-11-18 22:15:00_美国：工业产出指数：制造业：季调：环比(报告期:2025年10月)",
       "event_date": "2025-11-18",
       "event_time": "22:15:00",
@@ -324,16 +366,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-10",
+      "discovery_date": "2025-10-11",
       "raw_data": {
         "Name": "美国：工业产出指数：制造业：季调：环比(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-10-10T00:48:20.080201"
+      "created_at": "2025-10-11T00:45:45.760756"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251118221500_-537239734155852391",
+      "event_id": "em_jjsj_20251118221500_-1367067163198636912",
       "original_id": "2025-11-18 22:15:00_美国：全部工业产能利用率(报告期:2025年10月)",
       "event_date": "2025-11-18",
       "event_time": "22:15:00",
@@ -349,16 +391,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-10",
+      "discovery_date": "2025-10-11",
       "raw_data": {
         "Name": "美国：全部工业产能利用率(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-10-10T00:48:20.080208"
+      "created_at": "2025-10-11T00:45:45.760763"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251118221500_-4796838078124938258",
+      "event_id": "em_jjsj_20251118221500_7846034818467672535",
       "original_id": "2025-11-18 22:15:00_美国：产能利用率：制造业(报告期:2025年10月)",
       "event_date": "2025-11-18",
       "event_time": "22:15:00",
@@ -374,16 +416,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-10",
+      "discovery_date": "2025-10-11",
       "raw_data": {
         "Name": "美国：产能利用率：制造业(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-10-10T00:48:20.080214"
+      "created_at": "2025-10-11T00:45:45.760770"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251118221500_-7751564601839235032",
+      "event_id": "em_jjsj_20251118221500_8392009433803036623",
       "original_id": "2025-11-18 22:15:00_美国：工业总体产出指数：环比(报告期:2025年10月)",
       "event_date": "2025-11-18",
       "event_time": "22:15:00",
@@ -399,12 +441,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-10",
+      "discovery_date": "2025-10-11",
       "raw_data": {
         "Name": "美国：工业总体产出指数：环比(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-10-10T00:48:20.080221"
+      "created_at": "2025-10-11T00:45:45.760777"
     }
   ]
 }
