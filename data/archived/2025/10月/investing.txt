@@ -2,10 +2,10 @@
   "platform": "investing",
   "year": 2025,
   "month": 10,
-  "total_events": 215,
+  "total_events": 216,
   "data_status": "ARCHIVED",
   "date_type": "HISTORICAL",
-  "last_update": "2025-10-11T00:45:19.618981",
+  "last_update": "2025-10-12T00:51:26.865652",
   "immutable": true,
   "events": [
     {
@@ -6716,6 +6716,39 @@
         "previous": "4.7%"
       },
       "created_at": "2025-10-10T00:48:07.805894"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251011010000",
+      "original_id": "eventRowId_532877",
+      "event_date": "2025-10-11",
+      "event_time": "01:00",
+      "event_datetime": "2025/10/11 01:00:00",
+      "title": "美国当周贝克休斯石油钻井总数(口)",
+      "content": "实际值: 418 | 预测值: 421 | 前值: 422",
+      "category": null,
+      "importance": 2,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ARCHIVED",
+      "is_new": false,
+      "discovery_date": "2025-10-11",
+      "raw_data": {
+        "event_id": "eventRowId_532877",
+        "event_attr_id": "",
+        "datetime": "2025/10/11 01:00:00",
+        "time": "01:00",
+        "country": "美国",
+        "importance": 2,
+        "event_name": "美国当周贝克休斯石油钻井总数(口)",
+        "actual": "418",
+        "forecast": "421",
+        "previous": "422"
+      },
+      "created_at": "2025-10-11T00:45:33.238231"
     }
   ]
 }
