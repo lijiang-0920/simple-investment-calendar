@@ -1,9 +1,10 @@
 {
   "date": "2025-10-25",
-  "total_events": 2,
-  "new_events": 0,
+  "total_events": 4,
+  "new_events": 2,
   "platforms": {
-    "jiuyangongshe": 2
+    "jiuyangongshe": 2,
+    "investing": 2
   },
   "events": [
     {
@@ -24,7 +25,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-15",
+      "discovery_date": "2025-10-16",
       "raw_data": {
         "article_id": "cd97d32dfa484096adf9f7c625202082",
         "user_id": "1",
@@ -49,7 +50,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-10-15T00:51:01.856715"
+      "created_at": "2025-10-16T00:50:13.211040"
     },
     {
       "platform": "jiuyangongshe",
@@ -69,7 +70,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-15",
+      "discovery_date": "2025-10-16",
       "raw_data": {
         "article_id": "7348245f818844d1bbf13f814c15a218",
         "user_id": "1",
@@ -94,7 +95,67 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-10-15T00:51:01.856722"
+      "created_at": "2025-10-16T00:50:13.211047"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251025010000",
+      "original_id": "eventRowId_533918",
+      "event_date": "2025-10-25",
+      "event_time": "01:00",
+      "event_datetime": "2025/10/25 01:00:00",
+      "title": "美国当周贝克休斯石油钻井总数(口)",
+      "content": null,
+      "category": null,
+      "importance": 2,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-16",
+      "raw_data": {
+        "event_id": "eventRowId_533918",
+        "event_attr_id": "",
+        "datetime": "2025/10/25 01:00:00",
+        "time": "01:00",
+        "country": "美国",
+        "importance": 2,
+        "event_name": "美国当周贝克休斯石油钻井总数(口)"
+      },
+      "created_at": "2025-10-16T00:50:23.114279"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251025010000",
+      "original_id": "eventRowId_533919",
+      "event_date": "2025-10-25",
+      "event_time": "01:00",
+      "event_datetime": "2025/10/25 01:00:00",
+      "title": "美国当周贝克休斯总钻井总数(口)",
+      "content": null,
+      "category": null,
+      "importance": 2,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-16",
+      "raw_data": {
+        "event_id": "eventRowId_533919",
+        "event_attr_id": "",
+        "datetime": "2025/10/25 01:00:00",
+        "time": "01:00",
+        "country": "美国",
+        "importance": 2,
+        "event_name": "美国当周贝克休斯总钻井总数(口)"
+      },
+      "created_at": "2025-10-16T00:50:23.114403"
     }
   ]
 }

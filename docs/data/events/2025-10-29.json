@@ -1,13 +1,94 @@
 {
   "date": "2025-10-29",
-  "total_events": 41,
-  "new_events": 0,
+  "total_events": 34,
+  "new_events": 3,
   "platforms": {
+    "cls": 2,
     "jiuyangongshe": 2,
-    "investing": 29,
-    "eastmoney": 10
+    "investing": 30
   },
   "events": [
+    {
+      "platform": "cls",
+      "event_id": "cls_326671_20251029_2",
+      "original_id": "326671",
+      "event_date": "2025-10-29",
+      "event_time": "00:00:00",
+      "event_datetime": "2025-10-29 00:00:00",
+      "title": "波音将于10月29日公布第三季度业绩",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-16",
+      "raw_data": {
+        "id": 326671,
+        "calendar_time": "2025-10-29 00:00:00",
+        "data_id": 19652,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "波音将于10月29日公布第三季度业绩",
+          "country": "美国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "波音将于10月29日公布第三季度业绩"
+      },
+      "created_at": "2025-10-16T00:50:11.320128"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_325393_20251029_1",
+      "original_id": "325393",
+      "event_date": "2025-10-29",
+      "event_time": "22:30:00",
+      "event_datetime": "2025-10-29 22:30:00",
+      "title": "美国至10月24日当周EIA原油库存(万桶)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-16",
+      "raw_data": {
+        "id": 325393,
+        "calendar_time": "2025-10-29 22:30:00",
+        "data_id": 55266,
+        "type": 1,
+        "economic": {
+          "title": "美国至10月24日当周EIA原油库存(万桶)",
+          "country": "美国",
+          "country_icon": "",
+          "star": 4,
+          "indicator_id": 111,
+          "front": "0",
+          "fix": "--",
+          "consensus": "--",
+          "actual": "--",
+          "unit": "万桶",
+          "flag": "--",
+          "interpret": "",
+          "interpret_img": []
+        },
+        "event": null,
+        "holiday": null,
+        "title": "美国至10月24日当周EIA原油库存(万桶)"
+      },
+      "created_at": "2025-10-16T00:50:11.320138"
+    },
     {
       "platform": "jiuyangongshe",
       "event_id": "jygs_b2a8113e472c4b5fb834a5016a378e12_46df5a72be8a42cbac6a9f3b471c41b3_20251029",
@@ -26,7 +107,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-15",
+      "discovery_date": "2025-10-16",
       "raw_data": {
         "article_id": "b2a8113e472c4b5fb834a5016a378e12",
         "user_id": "1",
@@ -51,7 +132,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-10-15T00:51:01.856798"
+      "created_at": "2025-10-16T00:50:13.211147"
     },
     {
       "platform": "jiuyangongshe",
@@ -71,7 +152,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-15",
+      "discovery_date": "2025-10-16",
       "raw_data": {
         "article_id": "1fc8f203370c4290a9e0bdbae2ea2a1e",
         "user_id": "1",
@@ -96,38 +177,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-10-15T00:51:01.856806"
-    },
-    {
-      "platform": "investing",
-      "event_id": "inv__20251029083000",
-      "original_id": "eventRowId_533369",
-      "event_date": "2025-10-29",
-      "event_time": "08:30",
-      "event_datetime": "2025/10/29 08:30:00",
-      "title": "澳大利亚CPI年率(%) (同比)  (第三季度)",
-      "content": "前值: 2.1%",
-      "category": null,
-      "importance": 2,
-      "country": "澳大利亚",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-15",
-      "raw_data": {
-        "event_id": "eventRowId_533369",
-        "event_attr_id": "",
-        "datetime": "2025/10/29 08:30:00",
-        "time": "08:30",
-        "country": "澳大利亚",
-        "importance": 2,
-        "event_name": "澳大利亚CPI年率(%) (同比)  (第三季度)",
-        "previous": "2.1%"
-      },
-      "created_at": "2025-10-15T00:51:12.956323"
+      "created_at": "2025-10-16T00:50:13.211154"
     },
     {
       "platform": "investing",
@@ -147,7 +197,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-15",
+      "discovery_date": "2025-10-16",
       "raw_data": {
         "event_id": "eventRowId_533376",
         "event_attr_id": "",
@@ -158,7 +208,38 @@
         "event_name": "澳大利亚CPI季率(%) (季度环比)  (第三季度)",
         "previous": "0.7%"
       },
-      "created_at": "2025-10-15T00:51:12.956453"
+      "created_at": "2025-10-16T00:50:23.796864"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251029083000",
+      "original_id": "eventRowId_533369",
+      "event_date": "2025-10-29",
+      "event_time": "08:30",
+      "event_datetime": "2025/10/29 08:30:00",
+      "title": "澳大利亚CPI年率(%) (同比)  (第三季度)",
+      "content": "前值: 2.1%",
+      "category": null,
+      "importance": 2,
+      "country": "澳大利亚",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-10-16",
+      "raw_data": {
+        "event_id": "eventRowId_533369",
+        "event_attr_id": "",
+        "datetime": "2025/10/29 08:30:00",
+        "time": "08:30",
+        "country": "澳大利亚",
+        "importance": 2,
+        "event_name": "澳大利亚CPI年率(%) (同比)  (第三季度)",
+        "previous": "2.1%"
+      },
+      "created_at": "2025-10-16T00:50:23.797000"
     },
     {
       "platform": "investing",
@@ -178,7 +259,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-15",
+      "discovery_date": "2025-10-16",
       "raw_data": {
         "event_id": "eventRowId_533374",
         "event_attr_id": "",
@@ -189,38 +270,7 @@
         "event_name": "澳大利亚CPI  (第三季度)",
         "previous": "141.70"
       },
-      "created_at": "2025-10-15T00:51:12.956573"
-    },
-    {
-      "platform": "investing",
-      "event_id": "inv__20251029083000",
-      "original_id": "eventRowId_533373",
-      "event_date": "2025-10-29",
-      "event_time": "08:30",
-      "event_datetime": "2025/10/29 08:30:00",
-      "title": "澳洲联储季度CPI截尾均值 (季度环比)  (第三季度)",
-      "content": "前值: 0.6%",
-      "category": null,
-      "importance": 2,
-      "country": "澳大利亚",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-15",
-      "raw_data": {
-        "event_id": "eventRowId_533373",
-        "event_attr_id": "",
-        "datetime": "2025/10/29 08:30:00",
-        "time": "08:30",
-        "country": "澳大利亚",
-        "importance": 2,
-        "event_name": "澳洲联储季度CPI截尾均值 (季度环比)  (第三季度)",
-        "previous": "0.6%"
-      },
-      "created_at": "2025-10-15T00:51:12.956686"
+      "created_at": "2025-10-16T00:50:23.797120"
     },
     {
       "platform": "investing",
@@ -240,7 +290,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-15",
+      "discovery_date": "2025-10-16",
       "raw_data": {
         "event_id": "eventRowId_533372",
         "event_attr_id": "",
@@ -251,7 +301,38 @@
         "event_name": "澳大利亚CPI截尾均值年率(%) (同比)  (第三季度)",
         "previous": "2.7%"
       },
-      "created_at": "2025-10-15T00:51:12.956798"
+      "created_at": "2025-10-16T00:50:23.797242"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251029083000",
+      "original_id": "eventRowId_533373",
+      "event_date": "2025-10-29",
+      "event_time": "08:30",
+      "event_datetime": "2025/10/29 08:30:00",
+      "title": "澳洲联储季度CPI截尾均值 (季度环比)  (第三季度)",
+      "content": "前值: 0.6%",
+      "category": null,
+      "importance": 2,
+      "country": "澳大利亚",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-10-16",
+      "raw_data": {
+        "event_id": "eventRowId_533373",
+        "event_attr_id": "",
+        "datetime": "2025/10/29 08:30:00",
+        "time": "08:30",
+        "country": "澳大利亚",
+        "importance": 2,
+        "event_name": "澳洲联储季度CPI截尾均值 (季度环比)  (第三季度)",
+        "previous": "0.6%"
+      },
+      "created_at": "2025-10-16T00:50:23.797361"
     },
     {
       "platform": "investing",
@@ -271,7 +352,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-15",
+      "discovery_date": "2025-10-16",
       "raw_data": {
         "event_id": "eventRowId_533370",
         "event_attr_id": "",
@@ -282,7 +363,7 @@
         "event_name": "澳大利亚RBA加权中值CPI季率(%) (同比)  (九月)",
         "previous": "3.00%"
       },
-      "created_at": "2025-10-15T00:51:12.956916"
+      "created_at": "2025-10-16T00:50:23.797474"
     },
     {
       "platform": "investing",
@@ -302,7 +383,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-15",
+      "discovery_date": "2025-10-16",
       "raw_data": {
         "event_id": "eventRowId_533371",
         "event_attr_id": "",
@@ -313,7 +394,7 @@
         "event_name": "澳大利亚RBA加权中值CPI年率 (同比)  (第三季度)",
         "previous": "2.7%"
       },
-      "created_at": "2025-10-15T00:51:12.957029"
+      "created_at": "2025-10-16T00:50:23.797593"
     },
     {
       "platform": "investing",
@@ -333,7 +414,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-15",
+      "discovery_date": "2025-10-16",
       "raw_data": {
         "event_id": "eventRowId_533375",
         "event_attr_id": "",
@@ -344,7 +425,7 @@
         "event_name": "澳大利亚RBA加权中值CPI季率(%) (季度环比)  (第三季度)",
         "previous": "0.6%"
       },
-      "created_at": "2025-10-15T00:51:12.957146"
+      "created_at": "2025-10-16T00:50:23.797707"
     },
     {
       "platform": "investing",
@@ -364,7 +445,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-15",
+      "discovery_date": "2025-10-16",
       "raw_data": {
         "event_id": "eventRowId_533378",
         "event_attr_id": "",
@@ -375,7 +456,7 @@
         "event_name": "家庭消费者信心指数  (十月)",
         "previous": "35.3"
       },
-      "created_at": "2025-10-15T00:51:12.957276"
+      "created_at": "2025-10-16T00:50:23.797841"
     },
     {
       "platform": "investing",
@@ -395,7 +476,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-15",
+      "discovery_date": "2025-10-16",
       "raw_data": {
         "event_id": "eventRowId_533430",
         "event_attr_id": "",
@@ -406,7 +487,7 @@
         "event_name": "南非M3货币供应量年率(%) (同比)  (九月)",
         "previous": "6.18%"
       },
-      "created_at": "2025-10-15T00:51:12.957390"
+      "created_at": "2025-10-16T00:50:23.797955"
     },
     {
       "platform": "investing",
@@ -426,7 +507,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-15",
+      "discovery_date": "2025-10-16",
       "raw_data": {
         "event_id": "eventRowId_533429",
         "event_attr_id": "",
@@ -437,7 +518,7 @@
         "event_name": "南非私营部门信贷年率(%)  (九月)",
         "previous": "5.86%"
       },
-      "created_at": "2025-10-15T00:51:12.957506"
+      "created_at": "2025-10-16T00:50:23.798068"
     },
     {
       "platform": "investing",
@@ -457,7 +538,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-15",
+      "discovery_date": "2025-10-16",
       "raw_data": {
         "event_id": "eventRowId_533438",
         "event_attr_id": "",
@@ -468,7 +549,7 @@
         "event_name": "西班牙季调后GDP年率 (同比)  (第三季度)",
         "previous": "3.1%"
       },
-      "created_at": "2025-10-15T00:51:12.957618"
+      "created_at": "2025-10-16T00:50:23.798179"
     },
     {
       "platform": "investing",
@@ -488,7 +569,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-15",
+      "discovery_date": "2025-10-16",
       "raw_data": {
         "event_id": "eventRowId_533439",
         "event_attr_id": "",
@@ -499,7 +580,7 @@
         "event_name": "西班牙GDP季率(%) (季度环比)  (第三季度)",
         "previous": "0.8%"
       },
-      "created_at": "2025-10-15T00:51:12.957730"
+      "created_at": "2025-10-16T00:50:23.798291"
     },
     {
       "platform": "investing",
@@ -519,7 +600,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-15",
+      "discovery_date": "2025-10-16",
       "raw_data": {
         "event_id": "eventRowId_533437",
         "event_attr_id": "",
@@ -530,7 +611,7 @@
         "event_name": "西班牙零售销售年率(%) (同比)  (九月)",
         "previous": "4.5%"
       },
-      "created_at": "2025-10-15T00:51:12.957838"
+      "created_at": "2025-10-16T00:50:23.798451"
     },
     {
       "platform": "investing",
@@ -550,7 +631,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-15",
+      "discovery_date": "2025-10-16",
       "raw_data": {
         "event_id": "eventRowId_533444",
         "event_attr_id": "",
@@ -561,7 +642,7 @@
         "event_name": "意大利非欧盟贸易帐(欧元)  (九月)",
         "previous": "1.78B"
       },
-      "created_at": "2025-10-15T00:51:12.957951"
+      "created_at": "2025-10-16T00:50:23.798571"
     },
     {
       "platform": "investing",
@@ -581,7 +662,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-15",
+      "discovery_date": "2025-10-16",
       "raw_data": {
         "event_id": "eventRowId_533442",
         "event_attr_id": "",
@@ -592,7 +673,7 @@
         "event_name": "瑞士ZEW投资者信心指数  (十月)",
         "previous": "-46.4"
       },
-      "created_at": "2025-10-15T00:51:12.958063"
+      "created_at": "2025-10-16T00:50:23.798689"
     },
     {
       "platform": "investing",
@@ -612,7 +693,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-15",
+      "discovery_date": "2025-10-16",
       "raw_data": {
         "event_id": "eventRowId_533447",
         "event_attr_id": "",
@@ -623,7 +704,7 @@
         "event_name": "英国央行消费信贷(英镑)  (九月)",
         "previous": "1.692B"
       },
-      "created_at": "2025-10-15T00:51:12.958171"
+      "created_at": "2025-10-16T00:50:23.798818"
     },
     {
       "platform": "investing",
@@ -643,7 +724,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-15",
+      "discovery_date": "2025-10-16",
       "raw_data": {
         "event_id": "eventRowId_533449",
         "event_attr_id": "",
@@ -654,7 +735,7 @@
         "event_name": "欧元区货币供应M3年率(%)  (九月)",
         "previous": "3,159.5B"
       },
-      "created_at": "2025-10-15T00:51:12.958298"
+      "created_at": "2025-10-16T00:50:23.798930"
     },
     {
       "platform": "investing",
@@ -674,7 +755,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-15",
+      "discovery_date": "2025-10-16",
       "raw_data": {
         "event_id": "eventRowId_533445",
         "event_attr_id": "",
@@ -685,7 +766,7 @@
         "event_name": "英国M4货币供应月率(%) (月度环比)  (九月)",
         "previous": "0.4%"
       },
-      "created_at": "2025-10-15T00:51:12.958416"
+      "created_at": "2025-10-16T00:50:23.799040"
     },
     {
       "platform": "investing",
@@ -705,7 +786,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-15",
+      "discovery_date": "2025-10-16",
       "raw_data": {
         "event_id": "eventRowId_533446",
         "event_attr_id": "",
@@ -716,7 +797,7 @@
         "event_name": "英国央行抵押贷款许可(件)  (九月)",
         "previous": "64.68K"
       },
-      "created_at": "2025-10-15T00:51:12.958528"
+      "created_at": "2025-10-16T00:50:23.799150"
     },
     {
       "platform": "investing",
@@ -736,7 +817,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-15",
+      "discovery_date": "2025-10-16",
       "raw_data": {
         "event_id": "eventRowId_533448",
         "event_attr_id": "",
@@ -747,38 +828,7 @@
         "event_name": "英国央行抵押贷款(英镑)  (九月)",
         "previous": "4.31B"
       },
-      "created_at": "2025-10-15T00:51:12.958642"
-    },
-    {
-      "platform": "investing",
-      "event_id": "inv__20251029190000",
-      "original_id": "eventRowId_533454",
-      "event_date": "2025-10-29",
-      "event_time": "19:00",
-      "event_datetime": "2025/10/29 19:00:00",
-      "title": "意大利PPI年率(%) (同比)  (九月)",
-      "content": "前值: 0.2%",
-      "category": null,
-      "importance": 1,
-      "country": "意大利",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-15",
-      "raw_data": {
-        "event_id": "eventRowId_533454",
-        "event_attr_id": "",
-        "datetime": "2025/10/29 19:00:00",
-        "time": "19:00",
-        "country": "意大利",
-        "importance": 1,
-        "event_name": "意大利PPI年率(%) (同比)  (九月)",
-        "previous": "0.2%"
-      },
-      "created_at": "2025-10-15T00:51:12.958762"
+      "created_at": "2025-10-16T00:50:23.799265"
     },
     {
       "platform": "investing",
@@ -798,7 +848,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-15",
+      "discovery_date": "2025-10-16",
       "raw_data": {
         "event_id": "eventRowId_533455",
         "event_attr_id": "",
@@ -809,7 +859,38 @@
         "event_name": "意大利PPI月率(%) (月度环比)  (九月)",
         "previous": "-0.6%"
       },
-      "created_at": "2025-10-15T00:51:12.958877"
+      "created_at": "2025-10-16T00:50:23.799397"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251029190000",
+      "original_id": "eventRowId_533454",
+      "event_date": "2025-10-29",
+      "event_time": "19:00",
+      "event_datetime": "2025/10/29 19:00:00",
+      "title": "意大利PPI年率(%) (同比)  (九月)",
+      "content": "前值: 0.2%",
+      "category": null,
+      "importance": 1,
+      "country": "意大利",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-10-16",
+      "raw_data": {
+        "event_id": "eventRowId_533454",
+        "event_attr_id": "",
+        "datetime": "2025/10/29 19:00:00",
+        "time": "19:00",
+        "country": "意大利",
+        "importance": 1,
+        "event_name": "意大利PPI年率(%) (同比)  (九月)",
+        "previous": "0.2%"
+      },
+      "created_at": "2025-10-16T00:50:23.799508"
     },
     {
       "platform": "investing",
@@ -829,7 +910,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-15",
+      "discovery_date": "2025-10-16",
       "raw_data": {
         "event_id": "eventRowId_533463",
         "event_attr_id": "",
@@ -840,7 +921,7 @@
         "event_name": "巴西银行贷款月率(%) (月度环比)  (九月)",
         "previous": "0.5%"
       },
-      "created_at": "2025-10-15T00:51:12.958986"
+      "created_at": "2025-10-16T00:50:23.799616"
     },
     {
       "platform": "investing",
@@ -860,7 +941,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-15",
+      "discovery_date": "2025-10-16",
       "raw_data": {
         "event_id": "eventRowId_533465",
         "event_attr_id": "",
@@ -871,7 +952,7 @@
         "event_name": "美国商品贸易收支(美元)  (九月)",
         "previous": "-103.60B"
       },
-      "created_at": "2025-10-15T00:51:12.959098"
+      "created_at": "2025-10-16T00:50:23.799726"
     },
     {
       "platform": "investing",
@@ -891,7 +972,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-15",
+      "discovery_date": "2025-10-16",
       "raw_data": {
         "event_id": "eventRowId_533464",
         "event_attr_id": "",
@@ -902,7 +983,38 @@
         "event_name": "美国除汽车外零售库存  (九月)",
         "previous": "0.1%"
       },
-      "created_at": "2025-10-15T00:51:12.959207"
+      "created_at": "2025-10-16T00:50:23.799852"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251029214500",
+      "original_id": "eventRowId_533965",
+      "event_date": "2025-10-29",
+      "event_time": "21:45",
+      "event_datetime": "2025/10/29 21:45:00",
+      "title": "加拿大央行利率决议",
+      "content": "前值: 2.50%",
+      "category": null,
+      "importance": 3,
+      "country": "加拿大",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-16",
+      "raw_data": {
+        "event_id": "eventRowId_533965",
+        "event_attr_id": "",
+        "datetime": "2025/10/29 21:45:00",
+        "time": "21:45",
+        "country": "加拿大",
+        "importance": 3,
+        "event_name": "加拿大央行利率决议",
+        "previous": "2.50%"
+      },
+      "created_at": "2025-10-16T00:50:23.799965"
     },
     {
       "platform": "investing",
@@ -922,7 +1034,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-15",
+      "discovery_date": "2025-10-16",
       "raw_data": {
         "event_id": "eventRowId_533467",
         "event_attr_id": "",
@@ -933,7 +1045,7 @@
         "event_name": "美国季调后成屋签约销售指数月率(%) (月度环比)  (九月)",
         "previous": "4.0%"
       },
-      "created_at": "2025-10-15T00:51:12.959336"
+      "created_at": "2025-10-16T00:50:23.800080"
     },
     {
       "platform": "investing",
@@ -953,7 +1065,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-15",
+      "discovery_date": "2025-10-16",
       "raw_data": {
         "event_id": "eventRowId_533468",
         "event_attr_id": "",
@@ -964,7 +1076,7 @@
         "event_name": "美国季调后成屋签约销售指数  (九月)",
         "previous": "74.7"
       },
-      "created_at": "2025-10-15T00:51:12.959450"
+      "created_at": "2025-10-16T00:50:23.800193"
     },
     {
       "platform": "investing",
@@ -984,7 +1096,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-15",
+      "discovery_date": "2025-10-16",
       "raw_data": {
         "event_id": "eventRowId_532289",
         "event_attr_id": "",
@@ -994,269 +1106,7 @@
         "importance": 2,
         "event_name": "亚特兰大联储GDPNow经济增长预测  (第三季度)"
       },
-      "created_at": "2025-10-15T00:51:12.959566"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_xsap_20251029_-8493558521494913702",
-      "original_id": "xsap_港股通(沪)、港股通(深)_2025-10-29",
-      "event_date": "2025-10-29",
-      "event_time": null,
-      "event_datetime": "2025-10-29 00:00:00",
-      "title": "港股通(沪)、港股通(深) - 重阳节",
-      "content": null,
-      "category": "休市安排",
-      "importance": 2,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-15",
-      "raw_data": {
-        "MKT": "港股通(沪)、港股通(深)",
-        "HOLIDAY": "重阳节",
-        "SDATE": "2025-10-29 00:00:00",
-        "EDATE": "2025-10-29 00:00:00",
-        "XS": null,
-        "FIRST_LETTER": "G"
-      },
-      "created_at": "2025-10-15T00:51:22.540909"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_xsap_20251029_-8493558521494913702",
-      "original_id": "xsap_港股_2025-10-29",
-      "event_date": "2025-10-29",
-      "event_time": null,
-      "event_datetime": "2025-10-29 00:00:00",
-      "title": "港股 - 重阳节",
-      "content": null,
-      "category": "休市安排",
-      "importance": 2,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-15",
-      "raw_data": {
-        "MKT": "港股",
-        "HOLIDAY": "重阳节",
-        "SDATE": "2025-10-29 00:00:00",
-        "EDATE": "2025-10-29 00:00:00",
-        "XS": null,
-        "FIRST_LETTER": "G"
-      },
-      "created_at": "2025-10-15T00:51:22.540917"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_xsap_20251029_-8493558521494913702",
-      "original_id": "xsap_沪股通、深股通_2025-10-29",
-      "event_date": "2025-10-29",
-      "event_time": null,
-      "event_datetime": "2025-10-29 00:00:00",
-      "title": "沪股通、深股通 - 重阳节",
-      "content": null,
-      "category": "休市安排",
-      "importance": 2,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-15",
-      "raw_data": {
-        "MKT": "沪股通、深股通",
-        "HOLIDAY": "重阳节",
-        "SDATE": "2025-10-29 00:00:00",
-        "EDATE": "2025-10-29 00:00:00",
-        "XS": null,
-        "FIRST_LETTER": "H"
-      },
-      "created_at": "2025-10-15T00:51:22.540924"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251029000000_-7918386973544070563",
-      "original_id": "2025-10-29 00:00:00_马来西亚：PPI：同比(报告期:2025年09月)",
-      "event_date": "2025-10-29",
-      "event_time": null,
-      "event_datetime": "2025-10-29 00:00:00",
-      "title": "马来西亚：PPI：同比(报告期:2025年09月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "马来西亚",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-15",
-      "raw_data": {
-        "Name": "马来西亚：PPI：同比(报告期:2025年09月)",
-        "City": "马来西亚"
-      },
-      "created_at": "2025-10-15T00:51:22.542072"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251029010000_1513997727823946019",
-      "original_id": "2025-10-29 01:00:00_美国：M1：季调(报告期:2025年09月)",
-      "event_date": "2025-10-29",
-      "event_time": "01:00:00",
-      "event_datetime": "2025-10-29 01:00:00",
-      "title": "美国：M1：季调(报告期:2025年09月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "美国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-15",
-      "raw_data": {
-        "Name": "美国：M1：季调(报告期:2025年09月)",
-        "City": "美国"
-      },
-      "created_at": "2025-10-15T00:51:22.542080"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251029010000_4960457168090341338",
-      "original_id": "2025-10-29 01:00:00_美国：M2：季调(报告期:2025年09月)",
-      "event_date": "2025-10-29",
-      "event_time": "01:00:00",
-      "event_datetime": "2025-10-29 01:00:00",
-      "title": "美国：M2：季调(报告期:2025年09月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "美国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-15",
-      "raw_data": {
-        "Name": "美国：M2：季调(报告期:2025年09月)",
-        "City": "美国"
-      },
-      "created_at": "2025-10-15T00:51:22.542088"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251029093000_-6402259917107235345",
-      "original_id": "2025-10-29 09:30:00_澳大利亚：CPI：同比(报告期:2025年09月)",
-      "event_date": "2025-10-29",
-      "event_time": "09:30:00",
-      "event_datetime": "2025-10-29 09:30:00",
-      "title": "澳大利亚：CPI：同比(报告期:2025年09月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "澳大利亚",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-15",
-      "raw_data": {
-        "Name": "澳大利亚：CPI：同比(报告期:2025年09月)",
-        "City": "澳大利亚"
-      },
-      "created_at": "2025-10-15T00:51:22.542096"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251029093000_-8832934891174507941",
-      "original_id": "2025-10-29 09:30:00_澳大利亚：CPI：环比(报告期:2025年09月)",
-      "event_date": "2025-10-29",
-      "event_time": "09:30:00",
-      "event_datetime": "2025-10-29 09:30:00",
-      "title": "澳大利亚：CPI：环比(报告期:2025年09月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "澳大利亚",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-15",
-      "raw_data": {
-        "Name": "澳大利亚：CPI：环比(报告期:2025年09月)",
-        "City": "澳大利亚"
-      },
-      "created_at": "2025-10-15T00:51:22.542103"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251029214500_3086310182625500391",
-      "original_id": "2025-10-29 21:45:00_加拿大：央行公布利率决议(报告期:2025年10月)",
-      "event_date": "2025-10-29",
-      "event_time": "21:45:00",
-      "event_datetime": "2025-10-29 21:45:00",
-      "title": "加拿大：央行公布利率决议(报告期:2025年10月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "加拿大",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-15",
-      "raw_data": {
-        "Name": "加拿大：央行公布利率决议(报告期:2025年10月)",
-        "City": "加拿大"
-      },
-      "created_at": "2025-10-15T00:51:22.542111"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251029220000_-6673489243896278242",
-      "original_id": "2025-10-29 22:00:00_美国：成屋签约销售指数(报告期:2025年09月)",
-      "event_date": "2025-10-29",
-      "event_time": "22:00:00",
-      "event_datetime": "2025-10-29 22:00:00",
-      "title": "美国：成屋签约销售指数(报告期:2025年09月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "美国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-15",
-      "raw_data": {
-        "Name": "美国：成屋签约销售指数(报告期:2025年09月)",
-        "City": "美国"
-      },
-      "created_at": "2025-10-15T00:51:22.542118"
+      "created_at": "2025-10-16T00:50:23.800305"
     }
   ]
 }

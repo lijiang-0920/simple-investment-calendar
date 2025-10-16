@@ -1,10 +1,9 @@
 {
   "date": "2025-11-09",
-  "total_events": 7,
-  "new_events": 0,
+  "total_events": 2,
+  "new_events": 1,
   "platforms": {
-    "jiuyangongshe": 1,
-    "eastmoney": 6
+    "jiuyangongshe": 2
   },
   "events": [
     {
@@ -25,7 +24,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-15",
+      "discovery_date": "2025-10-16",
       "raw_data": {
         "article_id": "1zu1arcajbh",
         "user_id": "53c4a4d50e1b46d189a181a7801ad5a8",
@@ -50,157 +49,52 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-10-15T00:51:03.653780"
+      "created_at": "2025-10-16T00:50:14.794383"
     },
     {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251109093000_-4092966822942174293",
-      "original_id": "2025-11-09 09:30:00_中国：CPI:累计同比(报告期:2025年10月)",
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_b1bbd542813b4806af246138cea8d4bb_6a62ff306fc84d2d8dc2ec4f9e855666_20251109",
+      "original_id": "b1bbd542813b4806af246138cea8d4bb",
       "event_date": "2025-11-09",
-      "event_time": "09:30:00",
-      "event_datetime": "2025-11-09 09:30:00",
-      "title": "中国：CPI:累计同比(报告期:2025年10月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
+      "event_time": null,
+      "event_datetime": null,
+      "title": "京东官宣联合广汽、宁德时代将推出一款“国民好车”正式发布",
+      "content": "",
+      "category": null,
+      "importance": 1,
       "country": "中国",
       "city": null,
       "stocks": [],
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-15",
+      "is_new": true,
+      "discovery_date": "2025-10-16",
       "raw_data": {
-        "Name": "中国：CPI:累计同比(报告期:2025年10月)",
-        "City": "中国"
+        "article_id": "b1bbd542813b4806af246138cea8d4bb",
+        "user_id": "1",
+        "title": "京东官宣联合广汽、宁德时代将推出一款“国民好车”正式发布",
+        "content": "",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "b1bbd542813b4806af246138cea8d4bb",
+          "timeline_id": "6a62ff306fc84d2d8dc2ec4f9e855666",
+          "date": "2025-11-09",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-10-15 21:58:12",
+          "theme_list": []
+        }
       },
-      "created_at": "2025-10-15T00:51:22.542810"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251109093000_-1407914902874299248",
-      "original_id": "2025-11-09 09:30:00_中国：CPI:当月同比(报告期:2025年10月)",
-      "event_date": "2025-11-09",
-      "event_time": "09:30:00",
-      "event_datetime": "2025-11-09 09:30:00",
-      "title": "中国：CPI:当月同比(报告期:2025年10月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-15",
-      "raw_data": {
-        "Name": "中国：CPI:当月同比(报告期:2025年10月)",
-        "City": "中国"
-      },
-      "created_at": "2025-10-15T00:51:22.542817"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251109093000_-3416194061862897608",
-      "original_id": "2025-11-09 09:30:00_中国：CPI:环比(报告期:2025年10月)",
-      "event_date": "2025-11-09",
-      "event_time": "09:30:00",
-      "event_datetime": "2025-11-09 09:30:00",
-      "title": "中国：CPI:环比(报告期:2025年10月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-15",
-      "raw_data": {
-        "Name": "中国：CPI:环比(报告期:2025年10月)",
-        "City": "中国"
-      },
-      "created_at": "2025-10-15T00:51:22.542824"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251109093000_-3984555577418461457",
-      "original_id": "2025-11-09 09:30:00_中国：PPI:全部工业品:当月同比(报告期:2025年10月)",
-      "event_date": "2025-11-09",
-      "event_time": "09:30:00",
-      "event_datetime": "2025-11-09 09:30:00",
-      "title": "中国：PPI:全部工业品:当月同比(报告期:2025年10月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-15",
-      "raw_data": {
-        "Name": "中国：PPI:全部工业品:当月同比(报告期:2025年10月)",
-        "City": "中国"
-      },
-      "created_at": "2025-10-15T00:51:22.542831"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251109093000_8527061717675845662",
-      "original_id": "2025-11-09 09:30:00_中国：PPI:全部工业品:环比(报告期:2025年10月)",
-      "event_date": "2025-11-09",
-      "event_time": "09:30:00",
-      "event_datetime": "2025-11-09 09:30:00",
-      "title": "中国：PPI:全部工业品:环比(报告期:2025年10月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-15",
-      "raw_data": {
-        "Name": "中国：PPI:全部工业品:环比(报告期:2025年10月)",
-        "City": "中国"
-      },
-      "created_at": "2025-10-15T00:51:22.542838"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251109093000_275259004597331707",
-      "original_id": "2025-11-09 09:30:00_中国：PPI:全部工业品:累计同比(报告期:2025年10月)",
-      "event_date": "2025-11-09",
-      "event_time": "09:30:00",
-      "event_datetime": "2025-11-09 09:30:00",
-      "title": "中国：PPI:全部工业品:累计同比(报告期:2025年10月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-15",
-      "raw_data": {
-        "Name": "中国：PPI:全部工业品:累计同比(报告期:2025年10月)",
-        "City": "中国"
-      },
-      "created_at": "2025-10-15T00:51:22.542845"
+      "created_at": "2025-10-16T00:50:14.794394"
     }
   ]
 }
