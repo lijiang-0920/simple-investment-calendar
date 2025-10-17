@@ -2,10 +2,10 @@
   "platform": "tonghuashun",
   "year": 2025,
   "month": 10,
-  "total_events": 55,
+  "total_events": 57,
   "data_status": "ARCHIVED",
   "date_type": "HISTORICAL",
-  "last_update": "2025-10-16T00:50:09.917062",
+  "last_update": "2025-10-17T00:49:52.996653",
   "immutable": true,
   "events": [
     {
@@ -1701,6 +1701,77 @@
         "concept": []
       },
       "created_at": "2025-10-15T00:51:07.235790"
+    },
+    {
+      "platform": "tonghuashun",
+      "event_id": "ths_20251016_0_8fbe0193",
+      "original_id": "2025-10-16_0",
+      "event_date": "2025-10-16",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "10月16日起，刚果（金）将以出口配额制取代已持续数月的钴禁令",
+      "content": null,
+      "category": null,
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ARCHIVED",
+      "is_new": true,
+      "discovery_date": "2025-10-16",
+      "raw_data": {
+        "event": [
+          "10月16日起，刚果（金）将以出口配额制取代已持续数月的钴禁令",
+          "",
+          "",
+          ""
+        ],
+        "concept": []
+      },
+      "created_at": "2025-10-16T00:50:18.194161"
+    },
+    {
+      "platform": "tonghuashun",
+      "event_id": "ths_20251016_1_87c4a97f",
+      "original_id": "2025-10-16_1",
+      "event_date": "2025-10-16",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025世界智能网联汽车大会将于10月16日至18日在京举办",
+      "content": null,
+      "category": null,
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [
+        {
+          "code": "885662",
+          "name": "车联网(车路协同)"
+        }
+      ],
+      "themes": [],
+      "data_status": "ARCHIVED",
+      "is_new": false,
+      "discovery_date": "2025-10-16",
+      "raw_data": {
+        "event": [
+          "2025世界智能网联汽车大会将于10月16日至18日在京举办",
+          "",
+          "",
+          ""
+        ],
+        "concept": [
+          {
+            "code": "885662",
+            "name": "车联网(车路协同)",
+            "py": "jlwjlxt"
+          }
+        ]
+      },
+      "created_at": "2025-10-16T00:50:18.194182"
     }
   ]
 }
