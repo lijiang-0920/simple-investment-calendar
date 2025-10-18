@@ -1,11 +1,49 @@
 {
   "date": "2025-10-26",
-  "total_events": 1,
-  "new_events": 0,
+  "total_events": 3,
+  "new_events": 2,
   "platforms": {
-    "jiuyangongshe": 1
+    "cls": 1,
+    "jiuyangongshe": 1,
+    "tonghuashun": 1
   },
   "events": [
+    {
+      "platform": "cls",
+      "event_id": "cls_327124_20251026_2",
+      "original_id": "327124",
+      "event_date": "2025-10-26",
+      "event_time": "00:00:00",
+      "event_datetime": "2025-10-26 00:00:00",
+      "title": "老铺黄金将于10月26日进行产品调价",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-18",
+      "raw_data": {
+        "id": 327124,
+        "calendar_time": "2025-10-26 00:00:00",
+        "data_id": 19674,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "老铺黄金将于10月26日进行产品调价",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "老铺黄金将于10月26日进行产品调价"
+      },
+      "created_at": "2025-10-18T00:45:44.128776"
+    },
     {
       "platform": "jiuyangongshe",
       "event_id": "jygs_aa4238786f6740e9bbbd30f0a028a37b_bc3ac7b306e545ccaaf874d3b924981a_20251026",
@@ -26,7 +64,7 @@
       ],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-17",
+      "discovery_date": "2025-10-18",
       "raw_data": {
         "article_id": "aa4238786f6740e9bbbd30f0a028a37b",
         "user_id": "1",
@@ -56,7 +94,37 @@
           ]
         }
       },
-      "created_at": "2025-10-17T00:49:56.310585"
+      "created_at": "2025-10-18T00:45:46.465320"
+    },
+    {
+      "platform": "tonghuashun",
+      "event_id": "ths_20251026_0_569706ac",
+      "original_id": "2025-10-26_0",
+      "event_date": "2025-10-26",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "老铺黄金将于10月26日进行产品调价",
+      "content": null,
+      "category": null,
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-18",
+      "raw_data": {
+        "event": [
+          "老铺黄金将于10月26日进行产品调价",
+          "",
+          "",
+          ""
+        ],
+        "concept": []
+      },
+      "created_at": "2025-10-18T00:45:52.867510"
     }
   ]
 }

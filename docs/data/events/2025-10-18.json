@@ -1,9 +1,10 @@
 {
   "date": "2025-10-18",
-  "total_events": 12,
-  "new_events": 0,
+  "total_events": 19,
+  "new_events": 12,
   "platforms": {
-    "investing": 12
+    "investing": 7,
+    "eastmoney": 12
   },
   "events": [
     {
@@ -24,7 +25,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-17",
+      "discovery_date": "2025-10-18",
       "raw_data": {
         "event_id": "eventRowId_533637",
         "event_attr_id": "",
@@ -34,37 +35,7 @@
         "importance": 1,
         "event_name": "英国央行FPC委员Sarah Breeden讲话"
       },
-      "created_at": "2025-10-17T00:50:05.190044"
-    },
-    {
-      "platform": "investing",
-      "event_id": "inv__20251018010000",
-      "original_id": "eventRowId_532287",
-      "event_date": "2025-10-18",
-      "event_time": "01:00",
-      "event_datetime": "2025/10/18 01:00:00",
-      "title": "亚特兰大联储GDPNow经济增长预测  (第三季度)",
-      "content": null,
-      "category": null,
-      "importance": 2,
-      "country": "美国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-17",
-      "raw_data": {
-        "event_id": "eventRowId_532287",
-        "event_attr_id": "",
-        "datetime": "2025/10/18 01:00:00",
-        "time": "01:00",
-        "country": "美国",
-        "importance": 2,
-        "event_name": "亚特兰大联储GDPNow经济增长预测  (第三季度)"
-      },
-      "created_at": "2025-10-17T00:50:05.190181"
+      "created_at": "2025-10-18T00:45:56.707664"
     },
     {
       "platform": "investing",
@@ -74,7 +45,7 @@
       "event_time": "01:00",
       "event_datetime": "2025/10/18 01:00:00",
       "title": "美国当周贝克休斯石油钻井总数(口)",
-      "content": "前值: 418",
+      "content": "实际值: 418 | 预测值: 417 | 前值: 418",
       "category": null,
       "importance": 2,
       "country": "美国",
@@ -84,7 +55,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-17",
+      "discovery_date": "2025-10-18",
       "raw_data": {
         "event_id": "eventRowId_533333",
         "event_attr_id": "",
@@ -93,9 +64,11 @@
         "country": "美国",
         "importance": 2,
         "event_name": "美国当周贝克休斯石油钻井总数(口)",
+        "actual": "418",
+        "forecast": "417",
         "previous": "418"
       },
-      "created_at": "2025-10-17T00:50:05.190303"
+      "created_at": "2025-10-18T00:45:56.707800"
     },
     {
       "platform": "investing",
@@ -105,7 +78,7 @@
       "event_time": "01:00",
       "event_datetime": "2025/10/18 01:00:00",
       "title": "美国当周贝克休斯总钻井总数(口)",
-      "content": "前值: 547",
+      "content": "实际值: 548 | 前值: 547",
       "category": null,
       "importance": 2,
       "country": "美国",
@@ -115,7 +88,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-17",
+      "discovery_date": "2025-10-18",
       "raw_data": {
         "event_id": "eventRowId_533334",
         "event_attr_id": "",
@@ -124,133 +97,10 @@
         "country": "美国",
         "importance": 2,
         "event_name": "美国当周贝克休斯总钻井总数(口)",
+        "actual": "548",
         "previous": "547"
       },
-      "created_at": "2025-10-17T00:50:05.190426"
-    },
-    {
-      "platform": "investing",
-      "event_id": "inv__20251018040000",
-      "original_id": "eventRowId_532826",
-      "event_date": "2025-10-18",
-      "event_time": "04:00",
-      "event_datetime": "2025/10/18 04:00:00",
-      "title": "美国外资净买入美国公债(美元)  (八月)",
-      "content": "前值: 58.20B",
-      "category": null,
-      "importance": 1,
-      "country": "美国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-17",
-      "raw_data": {
-        "event_id": "eventRowId_532826",
-        "event_attr_id": "",
-        "datetime": "2025/10/18 04:00:00",
-        "time": "04:00",
-        "country": "美国",
-        "importance": 1,
-        "event_name": "美国外资净买入美国公债(美元)  (八月)",
-        "previous": "58.20B"
-      },
-      "created_at": "2025-10-17T00:50:05.190557"
-    },
-    {
-      "platform": "investing",
-      "event_id": "inv__20251018040000",
-      "original_id": "eventRowId_532825",
-      "event_date": "2025-10-18",
-      "event_time": "04:00",
-      "event_datetime": "2025/10/18 04:00:00",
-      "title": "美国国际资本净流入(美元)  (八月)",
-      "content": "前值: 2.10B",
-      "category": null,
-      "importance": 1,
-      "country": "美国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-17",
-      "raw_data": {
-        "event_id": "eventRowId_532825",
-        "event_attr_id": "",
-        "datetime": "2025/10/18 04:00:00",
-        "time": "04:00",
-        "country": "美国",
-        "importance": 1,
-        "event_name": "美国国际资本净流入(美元)  (八月)",
-        "previous": "2.10B"
-      },
-      "created_at": "2025-10-17T00:50:05.190709"
-    },
-    {
-      "platform": "investing",
-      "event_id": "inv__20251018040000",
-      "original_id": "eventRowId_532824",
-      "event_date": "2025-10-18",
-      "event_time": "04:00",
-      "event_datetime": "2025/10/18 04:00:00",
-      "title": "美国TIC长期资本净流入  (八月)",
-      "content": "前值: 49.2B",
-      "category": null,
-      "importance": 2,
-      "country": "美国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-17",
-      "raw_data": {
-        "event_id": "eventRowId_532824",
-        "event_attr_id": "",
-        "datetime": "2025/10/18 04:00:00",
-        "time": "04:00",
-        "country": "美国",
-        "importance": 2,
-        "event_name": "美国TIC长期资本净流入  (八月)",
-        "previous": "49.2B"
-      },
-      "created_at": "2025-10-17T00:50:05.190853"
-    },
-    {
-      "platform": "investing",
-      "event_id": "inv__20251018040000",
-      "original_id": "eventRowId_532823",
-      "event_date": "2025-10-18",
-      "event_time": "04:00",
-      "event_datetime": "2025/10/18 04:00:00",
-      "title": "美国TIC净长期交易(包括掉期)  (八月)",
-      "content": "前值: 49.20B",
-      "category": null,
-      "importance": 1,
-      "country": "美国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-17",
-      "raw_data": {
-        "event_id": "eventRowId_532823",
-        "event_attr_id": "",
-        "datetime": "2025/10/18 04:00:00",
-        "time": "04:00",
-        "country": "美国",
-        "importance": 1,
-        "event_name": "美国TIC净长期交易(包括掉期)  (八月)",
-        "previous": "49.20B"
-      },
-      "created_at": "2025-10-17T00:50:05.190989"
+      "created_at": "2025-10-18T00:45:56.707922"
     },
     {
       "platform": "investing",
@@ -270,7 +120,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-17",
+      "discovery_date": "2025-10-18",
       "raw_data": {
         "event_id": "eventRowId_533499",
         "event_attr_id": "",
@@ -280,7 +130,7 @@
         "importance": 1,
         "event_name": "国际货币基金组织年会"
       },
-      "created_at": "2025-10-17T00:50:05.191110"
+      "created_at": "2025-10-18T00:45:56.708038"
     },
     {
       "platform": "investing",
@@ -300,7 +150,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-17",
+      "discovery_date": "2025-10-18",
       "raw_data": {
         "event_id": "eventRowId_533638",
         "event_attr_id": "",
@@ -310,7 +160,7 @@
         "importance": 2,
         "event_name": "德国央行行长纳格尔(Joachim Nagel)讲话"
       },
-      "created_at": "2025-10-17T00:50:05.191234"
+      "created_at": "2025-10-18T00:45:56.708194"
     },
     {
       "platform": "investing",
@@ -330,7 +180,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-17",
+      "discovery_date": "2025-10-18",
       "raw_data": {
         "event_id": "eventRowId_533500",
         "event_attr_id": "",
@@ -340,7 +190,7 @@
         "importance": 2,
         "event_name": "英国央行行长贝利(Andrew Bailey)讲话"
       },
-      "created_at": "2025-10-17T00:50:05.191353"
+      "created_at": "2025-10-18T00:45:56.708317"
     },
     {
       "platform": "investing",
@@ -360,7 +210,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-17",
+      "discovery_date": "2025-10-18",
       "raw_data": {
         "event_id": "eventRowId_533754",
         "event_attr_id": "",
@@ -370,7 +220,348 @@
         "importance": 2,
         "event_name": "欧洲央行行长拉加德(Christine Lagarde)讲话"
       },
-      "created_at": "2025-10-17T00:50:05.191469"
+      "created_at": "2025-10-18T00:45:56.708435"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_001206_20251018_0",
+      "original_id": "001206",
+      "event_date": "2025-10-18",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "依依股份停复牌",
+      "content": "股票代码: 001206, 股票名称: 依依股份",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "001206"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-18",
+      "raw_data": {
+        "stock_code": "001206",
+        "stock_name": "依依股份",
+        "date": "2025-10-18"
+      },
+      "created_at": "2025-10-18T00:46:08.807666"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_920680_20251018_1",
+      "original_id": "920680",
+      "event_date": "2025-10-18",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "*ST广道停复牌",
+      "content": "股票代码: 920680, 股票名称: *ST广道",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "920680"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-18",
+      "raw_data": {
+        "stock_code": "920680",
+        "stock_name": "*ST广道",
+        "date": "2025-10-18"
+      },
+      "created_at": "2025-10-18T00:46:08.807677"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_000851_20251018_2",
+      "original_id": "000851",
+      "event_date": "2025-10-18",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "*ST高鸿停复牌",
+      "content": "股票代码: 000851, 股票名称: *ST高鸿",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "000851"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-18",
+      "raw_data": {
+        "stock_code": "000851",
+        "stock_name": "*ST高鸿",
+        "date": "2025-10-18"
+      },
+      "created_at": "2025-10-18T00:46:08.807687"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_688381_20251018_3",
+      "original_id": "688381",
+      "event_date": "2025-10-18",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "帝奥微停复牌",
+      "content": "股票代码: 688381, 股票名称: 帝奥微",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "688381"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-18",
+      "raw_data": {
+        "stock_code": "688381",
+        "stock_name": "帝奥微",
+        "date": "2025-10-18"
+      },
+      "created_at": "2025-10-18T00:46:08.807695"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_605178_20251018_4",
+      "original_id": "605178",
+      "event_date": "2025-10-18",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "时空科技停复牌",
+      "content": "股票代码: 605178, 股票名称: 时空科技",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "605178"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-18",
+      "raw_data": {
+        "stock_code": "605178",
+        "stock_name": "时空科技",
+        "date": "2025-10-18"
+      },
+      "created_at": "2025-10-18T00:46:08.807703"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_001314_20251018_5",
+      "original_id": "001314",
+      "event_date": "2025-10-18",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "亿道信息停复牌",
+      "content": "股票代码: 001314, 股票名称: 亿道信息",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "001314"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-18",
+      "raw_data": {
+        "stock_code": "001314",
+        "stock_name": "亿道信息",
+        "date": "2025-10-18"
+      },
+      "created_at": "2025-10-18T00:46:08.807712"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_603014_20251018_6",
+      "original_id": "603014",
+      "event_date": "2025-10-18",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "威高血净停复牌",
+      "content": "股票代码: 603014, 股票名称: 威高血净",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "603014"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-18",
+      "raw_data": {
+        "stock_code": "603014",
+        "stock_name": "威高血净",
+        "date": "2025-10-18"
+      },
+      "created_at": "2025-10-18T00:46:08.807719"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_hsgg_600706_20251018_0",
+      "original_id": "600706",
+      "event_date": "2025-10-18",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "曲江文旅发布公告",
+      "content": "股票代码: 600706, 股票名称: 曲江文旅",
+      "category": "A股公告",
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "600706"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-18",
+      "raw_data": {
+        "stock_code": "600706",
+        "stock_name": "曲江文旅",
+        "date": "2025-10-18",
+        "total_count": 1538
+      },
+      "created_at": "2025-10-18T00:46:08.807735"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_hsgg_603999_20251018_1",
+      "original_id": "603999",
+      "event_date": "2025-10-18",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "读者传媒发布公告",
+      "content": "股票代码: 603999, 股票名称: 读者传媒",
+      "category": "A股公告",
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "603999"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-18",
+      "raw_data": {
+        "stock_code": "603999",
+        "stock_name": "读者传媒",
+        "date": "2025-10-18",
+        "total_count": 1538
+      },
+      "created_at": "2025-10-18T00:46:08.807743"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_hsgg_688301_20251018_2",
+      "original_id": "688301",
+      "event_date": "2025-10-18",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "奕瑞科技发布公告",
+      "content": "股票代码: 688301, 股票名称: 奕瑞科技",
+      "category": "A股公告",
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "688301"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-18",
+      "raw_data": {
+        "stock_code": "688301",
+        "stock_name": "奕瑞科技",
+        "date": "2025-10-18",
+        "total_count": 1538
+      },
+      "created_at": "2025-10-18T00:46:08.807750"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_hsgg_600622_20251018_3",
+      "original_id": "600622",
+      "event_date": "2025-10-18",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "光大嘉宝发布公告",
+      "content": "股票代码: 600622, 股票名称: 光大嘉宝",
+      "category": "A股公告",
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "600622"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-18",
+      "raw_data": {
+        "stock_code": "600622",
+        "stock_name": "光大嘉宝",
+        "date": "2025-10-18",
+        "total_count": 1538
+      },
+      "created_at": "2025-10-18T00:46:08.807756"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_hsgg_603309_20251018_4",
+      "original_id": "603309",
+      "event_date": "2025-10-18",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "维力医疗发布公告",
+      "content": "股票代码: 603309, 股票名称: 维力医疗",
+      "category": "A股公告",
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "603309"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-18",
+      "raw_data": {
+        "stock_code": "603309",
+        "stock_name": "维力医疗",
+        "date": "2025-10-18",
+        "total_count": 1538
+      },
+      "created_at": "2025-10-18T00:46:08.807763"
     }
   ]
 }
