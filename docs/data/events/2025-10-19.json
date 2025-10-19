@@ -1,12 +1,12 @@
 {
   "date": "2025-10-19",
-  "total_events": 6,
-  "new_events": 3,
+  "total_events": 14,
+  "new_events": 8,
   "platforms": {
     "cls": 2,
     "jiuyangongshe": 1,
     "tonghuashun": 2,
-    "eastmoney": 1
+    "eastmoney": 9
   },
   "events": [
     {
@@ -27,7 +27,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-18",
+      "discovery_date": "2025-10-19",
       "raw_data": {
         "id": 323499,
         "calendar_time": "2025-10-19 00:00:00",
@@ -43,7 +43,7 @@
         "holiday": null,
         "title": "2025世界VR产业大会将于10月19日至20日在南昌举办"
       },
-      "created_at": "2025-10-18T00:45:44.128537"
+      "created_at": "2025-10-19T00:56:06.327998"
     },
     {
       "platform": "cls",
@@ -62,8 +62,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-18",
+      "is_new": false,
+      "discovery_date": "2025-10-19",
       "raw_data": {
         "id": 327121,
         "calendar_time": "2025-10-19 00:00:00",
@@ -79,7 +79,7 @@
         "holiday": null,
         "title": "2025北外滩国际航运论坛将于10月19日至21日在上海举行"
       },
-      "created_at": "2025-10-18T00:45:44.128559"
+      "created_at": "2025-10-19T00:56:06.328020"
     },
     {
       "platform": "jiuyangongshe",
@@ -101,13 +101,13 @@
       ],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-18",
+      "discovery_date": "2025-10-19",
       "raw_data": {
         "article_id": "8a89f5350af34b28a023f320efa5eca0",
         "user_id": "1",
         "title": "2025世界VR产业大会",
         "content": "2025世界VR产业大会定于10月19日至20日在江西南昌举行主题为“VR 让世界更精彩--VR+A| 开启数智未来”。",
-        "like_count": 0,
+        "like_count": 1,
         "comment_count": 0,
         "forward_count": 0,
         "is_like": 0,
@@ -131,7 +131,7 @@
           ]
         }
       },
-      "created_at": "2025-10-18T00:45:46.464951"
+      "created_at": "2025-10-19T00:56:08.316034"
     },
     {
       "platform": "tonghuashun",
@@ -150,8 +150,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-18",
+      "is_new": false,
+      "discovery_date": "2025-10-19",
       "raw_data": {
         "event": [
           "2025北外滩国际航运论坛将于10月19日至21日在上海举行",
@@ -161,7 +161,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-10-18T00:45:52.866987"
+      "created_at": "2025-10-19T00:56:14.544706"
     },
     {
       "platform": "tonghuashun",
@@ -186,7 +186,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-18",
+      "discovery_date": "2025-10-19",
       "raw_data": {
         "event": [
           "2025世界VR产业大会将于10月19日至20日在南昌举办",
@@ -202,7 +202,232 @@
           }
         ]
       },
-      "created_at": "2025-10-18T00:45:52.867021"
+      "created_at": "2025-10-19T00:56:14.544736"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_001206_20251019_0",
+      "original_id": "001206",
+      "event_date": "2025-10-19",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "依依股份停复牌",
+      "content": "股票代码: 001206, 股票名称: 依依股份",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "001206"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-19",
+      "raw_data": {
+        "stock_code": "001206",
+        "stock_name": "依依股份",
+        "date": "2025-10-19"
+      },
+      "created_at": "2025-10-19T00:56:29.286610"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_920680_20251019_1",
+      "original_id": "920680",
+      "event_date": "2025-10-19",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "*ST广道停复牌",
+      "content": "股票代码: 920680, 股票名称: *ST广道",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "920680"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-19",
+      "raw_data": {
+        "stock_code": "920680",
+        "stock_name": "*ST广道",
+        "date": "2025-10-19"
+      },
+      "created_at": "2025-10-19T00:56:29.286619"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_000851_20251019_2",
+      "original_id": "000851",
+      "event_date": "2025-10-19",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "*ST高鸿停复牌",
+      "content": "股票代码: 000851, 股票名称: *ST高鸿",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "000851"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-19",
+      "raw_data": {
+        "stock_code": "000851",
+        "stock_name": "*ST高鸿",
+        "date": "2025-10-19"
+      },
+      "created_at": "2025-10-19T00:56:29.286626"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_688381_20251019_3",
+      "original_id": "688381",
+      "event_date": "2025-10-19",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "帝奥微停复牌",
+      "content": "股票代码: 688381, 股票名称: 帝奥微",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "688381"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-19",
+      "raw_data": {
+        "stock_code": "688381",
+        "stock_name": "帝奥微",
+        "date": "2025-10-19"
+      },
+      "created_at": "2025-10-19T00:56:29.286633"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_605178_20251019_4",
+      "original_id": "605178",
+      "event_date": "2025-10-19",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "时空科技停复牌",
+      "content": "股票代码: 605178, 股票名称: 时空科技",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "605178"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-19",
+      "raw_data": {
+        "stock_code": "605178",
+        "stock_name": "时空科技",
+        "date": "2025-10-19"
+      },
+      "created_at": "2025-10-19T00:56:29.286640"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_001314_20251019_5",
+      "original_id": "001314",
+      "event_date": "2025-10-19",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "亿道信息停复牌",
+      "content": "股票代码: 001314, 股票名称: 亿道信息",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "001314"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-19",
+      "raw_data": {
+        "stock_code": "001314",
+        "stock_name": "亿道信息",
+        "date": "2025-10-19"
+      },
+      "created_at": "2025-10-19T00:56:29.286647"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_603014_20251019_6",
+      "original_id": "603014",
+      "event_date": "2025-10-19",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "威高血净停复牌",
+      "content": "股票代码: 603014, 股票名称: 威高血净",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "603014"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-19",
+      "raw_data": {
+        "stock_code": "603014",
+        "stock_name": "威高血净",
+        "date": "2025-10-19"
+      },
+      "created_at": "2025-10-19T00:56:29.286653"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_hsgg_002415_20251019_0",
+      "original_id": "002415",
+      "event_date": "2025-10-19",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "海康威视发布公告",
+      "content": "股票代码: 002415, 股票名称: 海康威视",
+      "category": "A股公告",
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "002415"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-19",
+      "raw_data": {
+        "stock_code": "002415",
+        "stock_name": "海康威视",
+        "date": "2025-10-19",
+        "total_count": 1
+      },
+      "created_at": "2025-10-19T00:56:29.286669"
     },
     {
       "platform": "eastmoney",
@@ -221,8 +446,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-18",
+      "is_new": false,
+      "discovery_date": "2025-10-19",
       "raw_data": {
         "fe_code": "10865481",
         "fe_name": "2025世界VR产业大会",
@@ -233,7 +458,7 @@
         "city": "南昌市",
         "content": "由江西省人民政府主办,江西省工业和信息化厅、南昌市人民政府、中国电子信息产业发展研究院共同承办的2025世界VR产业大会,将于2025年10月19日至20日在江西省南昌市举办。"
       },
-      "created_at": "2025-10-18T00:46:08.836371"
+      "created_at": "2025-10-19T00:56:29.290518"
     }
   ]
 }
