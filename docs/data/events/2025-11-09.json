@@ -1,9 +1,10 @@
 {
   "date": "2025-11-09",
-  "total_events": 8,
-  "new_events": 0,
+  "total_events": 11,
+  "new_events": 3,
   "platforms": {
     "jiuyangongshe": 2,
+    "investing": 3,
     "eastmoney": 6
   },
   "events": [
@@ -25,7 +26,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-19",
+      "discovery_date": "2025-10-20",
       "raw_data": {
         "article_id": "1zu1arcajbh",
         "user_id": "53c4a4d50e1b46d189a181a7801ad5a8",
@@ -50,7 +51,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-10-19T00:56:10.410123"
+      "created_at": "2025-10-20T00:54:29.211084"
     },
     {
       "platform": "jiuyangongshe",
@@ -70,7 +71,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-19",
+      "discovery_date": "2025-10-20",
       "raw_data": {
         "article_id": "b1bbd542813b4806af246138cea8d4bb",
         "user_id": "1",
@@ -95,11 +96,104 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-10-19T00:56:10.410134"
+      "created_at": "2025-10-20T00:54:29.211094"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251109093000",
+      "original_id": "eventRowId_534173",
+      "event_date": "2025-11-09",
+      "event_time": "09:30",
+      "event_datetime": "2025/11/09 09:30:00",
+      "title": "中国CPI月率(%) (月度环比)  (十月)",
+      "content": "前值: 0.1%",
+      "category": null,
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-20",
+      "raw_data": {
+        "event_id": "eventRowId_534173",
+        "event_attr_id": "",
+        "datetime": "2025/11/09 09:30:00",
+        "time": "09:30",
+        "country": "中国",
+        "importance": 3,
+        "event_name": "中国CPI月率(%) (月度环比)  (十月)",
+        "previous": "0.1%"
+      },
+      "created_at": "2025-10-20T00:54:38.938188"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251109093000",
+      "original_id": "eventRowId_534174",
+      "event_date": "2025-11-09",
+      "event_time": "09:30",
+      "event_datetime": "2025/11/09 09:30:00",
+      "title": "中国CPI年率(%) (同比)  (十月)",
+      "content": "前值: -0.3%",
+      "category": null,
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-20",
+      "raw_data": {
+        "event_id": "eventRowId_534174",
+        "event_attr_id": "",
+        "datetime": "2025/11/09 09:30:00",
+        "time": "09:30",
+        "country": "中国",
+        "importance": 3,
+        "event_name": "中国CPI年率(%) (同比)  (十月)",
+        "previous": "-0.3%"
+      },
+      "created_at": "2025-10-20T00:54:38.938335"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251109093000",
+      "original_id": "eventRowId_534175",
+      "event_date": "2025-11-09",
+      "event_time": "09:30",
+      "event_datetime": "2025/11/09 09:30:00",
+      "title": "中国PPI年率(%) (同比)  (十月)",
+      "content": "前值: -2.3%",
+      "category": null,
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-20",
+      "raw_data": {
+        "event_id": "eventRowId_534175",
+        "event_attr_id": "",
+        "datetime": "2025/11/09 09:30:00",
+        "time": "09:30",
+        "country": "中国",
+        "importance": 3,
+        "event_name": "中国PPI年率(%) (同比)  (十月)",
+        "previous": "-2.3%"
+      },
+      "created_at": "2025-10-20T00:54:38.938457"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251109093000_-6030508574598469827",
+      "event_id": "em_jjsj_20251109093000_-6212940003849259376",
       "original_id": "2025-11-09 09:30:00_中国：CPI:累计同比(报告期:2025年10月)",
       "event_date": "2025-11-09",
       "event_time": "09:30:00",
@@ -115,16 +209,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-19",
+      "discovery_date": "2025-10-20",
       "raw_data": {
         "Name": "中国：CPI:累计同比(报告期:2025年10月)",
         "City": "中国"
       },
-      "created_at": "2025-10-19T00:56:29.287979"
+      "created_at": "2025-10-20T00:54:47.226995"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251109093000_6362405240525113680",
+      "event_id": "em_jjsj_20251109093000_2416970066285720917",
       "original_id": "2025-11-09 09:30:00_中国：CPI:当月同比(报告期:2025年10月)",
       "event_date": "2025-11-09",
       "event_time": "09:30:00",
@@ -140,16 +234,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-19",
+      "discovery_date": "2025-10-20",
       "raw_data": {
         "Name": "中国：CPI:当月同比(报告期:2025年10月)",
         "City": "中国"
       },
-      "created_at": "2025-10-19T00:56:29.287986"
+      "created_at": "2025-10-20T00:54:47.227002"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251109093000_2746587215791975329",
+      "event_id": "em_jjsj_20251109093000_-5155753674940455281",
       "original_id": "2025-11-09 09:30:00_中国：CPI:环比(报告期:2025年10月)",
       "event_date": "2025-11-09",
       "event_time": "09:30:00",
@@ -165,16 +259,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-19",
+      "discovery_date": "2025-10-20",
       "raw_data": {
         "Name": "中国：CPI:环比(报告期:2025年10月)",
         "City": "中国"
       },
-      "created_at": "2025-10-19T00:56:29.287993"
+      "created_at": "2025-10-20T00:54:47.227009"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251109093000_-7463030118443544775",
+      "event_id": "em_jjsj_20251109093000_-5609763411439109898",
       "original_id": "2025-11-09 09:30:00_中国：PPI:全部工业品:当月同比(报告期:2025年10月)",
       "event_date": "2025-11-09",
       "event_time": "09:30:00",
@@ -190,16 +284,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-19",
+      "discovery_date": "2025-10-20",
       "raw_data": {
         "Name": "中国：PPI:全部工业品:当月同比(报告期:2025年10月)",
         "City": "中国"
       },
-      "created_at": "2025-10-19T00:56:29.288001"
+      "created_at": "2025-10-20T00:54:47.227017"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251109093000_9084824869766543633",
+      "event_id": "em_jjsj_20251109093000_-3601919930905141944",
       "original_id": "2025-11-09 09:30:00_中国：PPI:全部工业品:环比(报告期:2025年10月)",
       "event_date": "2025-11-09",
       "event_time": "09:30:00",
@@ -215,16 +309,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-19",
+      "discovery_date": "2025-10-20",
       "raw_data": {
         "Name": "中国：PPI:全部工业品:环比(报告期:2025年10月)",
         "City": "中国"
       },
-      "created_at": "2025-10-19T00:56:29.288008"
+      "created_at": "2025-10-20T00:54:47.227025"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251109093000_-5302784030310457057",
+      "event_id": "em_jjsj_20251109093000_3347711131322413001",
       "original_id": "2025-11-09 09:30:00_中国：PPI:全部工业品:累计同比(报告期:2025年10月)",
       "event_date": "2025-11-09",
       "event_time": "09:30:00",
@@ -240,12 +334,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-19",
+      "discovery_date": "2025-10-20",
       "raw_data": {
         "Name": "中国：PPI:全部工业品:累计同比(报告期:2025年10月)",
         "City": "中国"
       },
-      "created_at": "2025-10-19T00:56:29.288015"
+      "created_at": "2025-10-20T00:54:47.227032"
     }
   ]
 }
