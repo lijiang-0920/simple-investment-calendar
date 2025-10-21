@@ -1,9 +1,10 @@
 {
   "date": "2025-11-10",
-  "total_events": 1,
-  "new_events": 0,
+  "total_events": 4,
+  "new_events": 3,
   "platforms": {
-    "jiuyangongshe": 1
+    "jiuyangongshe": 1,
+    "investing": 3
   },
   "events": [
     {
@@ -24,7 +25,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-20",
+      "discovery_date": "2025-10-21",
       "raw_data": {
         "article_id": "87052d7a3e8740db9c6bb9e91b36922c",
         "user_id": "1",
@@ -49,7 +50,100 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-10-20T00:54:29.211115"
+      "created_at": "2025-10-21T00:51:28.389098"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251110130000",
+      "original_id": "eventRowId_534178",
+      "event_date": "2025-11-10",
+      "event_time": "13:00",
+      "event_datetime": "2025/11/10 13:00:00",
+      "title": "日本同步指标月率(%) (月度环比)  (九月)",
+      "content": "前值: -0.7%",
+      "category": null,
+      "importance": 1,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-21",
+      "raw_data": {
+        "event_id": "eventRowId_534178",
+        "event_attr_id": "",
+        "datetime": "2025/11/10 13:00:00",
+        "time": "13:00",
+        "country": "日本",
+        "importance": 1,
+        "event_name": "日本同步指标月率(%) (月度环比)  (九月)",
+        "previous": "-0.7%"
+      },
+      "created_at": "2025-10-21T00:51:40.682849"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251110130000",
+      "original_id": "eventRowId_534177",
+      "event_date": "2025-11-10",
+      "event_time": "13:00",
+      "event_datetime": "2025/11/10 13:00:00",
+      "title": "日本领先指标月率(%) (月度环比)  (九月)",
+      "content": "前值: 1.1%",
+      "category": null,
+      "importance": 1,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-21",
+      "raw_data": {
+        "event_id": "eventRowId_534177",
+        "event_attr_id": "",
+        "datetime": "2025/11/10 13:00:00",
+        "time": "13:00",
+        "country": "日本",
+        "importance": 1,
+        "event_name": "日本领先指标月率(%) (月度环比)  (九月)",
+        "previous": "1.1%"
+      },
+      "created_at": "2025-10-21T00:51:40.682994"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251110173000",
+      "original_id": "eventRowId_534209",
+      "event_date": "2025-11-10",
+      "event_time": "17:30",
+      "event_datetime": "2025/11/10 17:30:00",
+      "title": "欧元区Sentix投资者信心指数  (十一月)",
+      "content": "前值: -5.4",
+      "category": null,
+      "importance": 1,
+      "country": "欧元区",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-21",
+      "raw_data": {
+        "event_id": "eventRowId_534209",
+        "event_attr_id": "",
+        "datetime": "2025/11/10 17:30:00",
+        "time": "17:30",
+        "country": "欧元区",
+        "importance": 1,
+        "event_name": "欧元区Sentix投资者信心指数  (十一月)",
+        "previous": "-5.4"
+      },
+      "created_at": "2025-10-21T00:51:40.683120"
     }
   ]
 }
