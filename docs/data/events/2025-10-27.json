@@ -1,11 +1,12 @@
 {
   "date": "2025-10-27",
-  "total_events": 20,
-  "new_events": 0,
+  "total_events": 38,
+  "new_events": 16,
   "platforms": {
     "cls": 2,
     "jiuyangongshe": 1,
-    "investing": 17
+    "investing": 26,
+    "eastmoney": 9
   },
   "events": [
     {
@@ -26,7 +27,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-21",
+      "discovery_date": "2025-10-22",
       "raw_data": {
         "id": 326669,
         "calendar_time": "2025-10-27 00:00:00",
@@ -42,7 +43,7 @@
         "holiday": null,
         "title": "2025金融街论坛年会将于10月27日至30日举行"
       },
-      "created_at": "2025-10-21T00:51:24.102036"
+      "created_at": "2025-10-22T00:52:21.700744"
     },
     {
       "platform": "cls",
@@ -62,7 +63,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-21",
+      "discovery_date": "2025-10-22",
       "raw_data": {
         "id": 325345,
         "calendar_time": "2025-10-27 20:30:00",
@@ -87,7 +88,7 @@
         "holiday": null,
         "title": "美国9月耐用品订单月率"
       },
-      "created_at": "2025-10-21T00:51:24.102046"
+      "created_at": "2025-10-22T00:52:21.700754"
     },
     {
       "platform": "jiuyangongshe",
@@ -107,7 +108,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-21",
+      "discovery_date": "2025-10-22",
       "raw_data": {
         "article_id": "d1306fc666fc4f5995681b88baf88f6c",
         "user_id": "1",
@@ -132,7 +133,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-10-21T00:51:26.385043"
+      "created_at": "2025-10-22T00:52:23.801427"
     },
     {
       "platform": "investing",
@@ -152,7 +153,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-21",
+      "discovery_date": "2025-10-22",
       "raw_data": {
         "event_id": "eventRowId_533999",
         "event_attr_id": "",
@@ -163,7 +164,7 @@
         "event_name": "日本企业服务价格指数年率(%) (同比)",
         "previous": "2.7%"
       },
-      "created_at": "2025-10-21T00:51:38.483926"
+      "created_at": "2025-10-22T00:52:34.150172"
     },
     {
       "platform": "investing",
@@ -183,7 +184,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-21",
+      "discovery_date": "2025-10-22",
       "raw_data": {
         "event_id": "eventRowId_533257",
         "event_attr_id": "",
@@ -194,7 +195,100 @@
         "event_name": "中国年初至今规模以上工业企业利润年率(%)  (九月)",
         "previous": "0.9%"
       },
-      "created_at": "2025-10-21T00:51:38.484065"
+      "created_at": "2025-10-22T00:52:34.150307"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251027113000",
+      "original_id": "eventRowId_534236",
+      "event_date": "2025-10-27",
+      "event_time": "11:30",
+      "event_datetime": "2025/10/27 11:30:00",
+      "title": "泰国海关出口年率(%)  (九月)",
+      "content": "前值: 5.80%",
+      "category": null,
+      "importance": 1,
+      "country": "泰国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-22",
+      "raw_data": {
+        "event_id": "eventRowId_534236",
+        "event_attr_id": "",
+        "datetime": "2025/10/27 11:30:00",
+        "time": "11:30",
+        "country": "泰国",
+        "importance": 1,
+        "event_name": "泰国海关出口年率(%)  (九月)",
+        "previous": "5.80%"
+      },
+      "created_at": "2025-10-22T00:52:34.150426"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251027113000",
+      "original_id": "eventRowId_534237",
+      "event_date": "2025-10-27",
+      "event_time": "11:30",
+      "event_datetime": "2025/10/27 11:30:00",
+      "title": "泰国海关进口年率(%)  (九月)",
+      "content": "前值: 15.80%",
+      "category": null,
+      "importance": 1,
+      "country": "泰国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-22",
+      "raw_data": {
+        "event_id": "eventRowId_534237",
+        "event_attr_id": "",
+        "datetime": "2025/10/27 11:30:00",
+        "time": "11:30",
+        "country": "泰国",
+        "importance": 1,
+        "event_name": "泰国海关进口年率(%)  (九月)",
+        "previous": "15.80%"
+      },
+      "created_at": "2025-10-22T00:52:34.150543"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251027113000",
+      "original_id": "eventRowId_534238",
+      "event_date": "2025-10-27",
+      "event_time": "11:30",
+      "event_datetime": "2025/10/27 11:30:00",
+      "title": "泰国海关贸易帐(美元)  (九月)",
+      "content": "前值: -1.960B",
+      "category": null,
+      "importance": 1,
+      "country": "泰国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-22",
+      "raw_data": {
+        "event_id": "eventRowId_534238",
+        "event_attr_id": "",
+        "datetime": "2025/10/27 11:30:00",
+        "time": "11:30",
+        "country": "泰国",
+        "importance": 1,
+        "event_name": "泰国海关贸易帐(美元)  (九月)",
+        "previous": "-1.960B"
+      },
+      "created_at": "2025-10-22T00:52:34.150658"
     },
     {
       "platform": "investing",
@@ -214,7 +308,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-21",
+      "discovery_date": "2025-10-22",
       "raw_data": {
         "event_id": "eventRowId_533277",
         "event_attr_id": "",
@@ -225,7 +319,7 @@
         "event_name": "中国香港出口月率(%) (月度环比)  (九月)",
         "previous": "14.5%"
       },
-      "created_at": "2025-10-21T00:51:38.484185"
+      "created_at": "2025-10-22T00:52:34.150773"
     },
     {
       "platform": "investing",
@@ -245,7 +339,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-21",
+      "discovery_date": "2025-10-22",
       "raw_data": {
         "event_id": "eventRowId_533278",
         "event_attr_id": "",
@@ -256,7 +350,7 @@
         "event_name": "中国香港进口月率(%) (月度环比)  (九月)",
         "previous": "11.5%"
       },
-      "created_at": "2025-10-21T00:51:38.484303"
+      "created_at": "2025-10-22T00:52:34.150928"
     },
     {
       "platform": "investing",
@@ -276,7 +370,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-21",
+      "discovery_date": "2025-10-22",
       "raw_data": {
         "event_id": "eventRowId_533279",
         "event_attr_id": "",
@@ -287,7 +381,7 @@
         "event_name": "德国IFO商业预期指数  (十月)",
         "previous": "89.7"
       },
-      "created_at": "2025-10-21T00:51:38.484417"
+      "created_at": "2025-10-22T00:52:34.151048"
     },
     {
       "platform": "investing",
@@ -307,7 +401,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-21",
+      "discovery_date": "2025-10-22",
       "raw_data": {
         "event_id": "eventRowId_533283",
         "event_attr_id": "",
@@ -318,7 +412,7 @@
         "event_name": "德国IFO商业现况指数  (十月)",
         "previous": "85.7"
       },
-      "created_at": "2025-10-21T00:51:38.484537"
+      "created_at": "2025-10-22T00:52:34.151168"
     },
     {
       "platform": "investing",
@@ -338,7 +432,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-21",
+      "discovery_date": "2025-10-22",
       "raw_data": {
         "event_id": "eventRowId_533281",
         "event_attr_id": "",
@@ -349,7 +443,7 @@
         "event_name": "德国IFO商业景气指数  (十月)",
         "previous": "87.7"
       },
-      "created_at": "2025-10-21T00:51:38.484651"
+      "created_at": "2025-10-22T00:52:34.151279"
     },
     {
       "platform": "investing",
@@ -369,7 +463,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-21",
+      "discovery_date": "2025-10-22",
       "raw_data": {
         "event_id": "eventRowId_533282",
         "event_attr_id": "",
@@ -380,7 +474,7 @@
         "event_name": "欧元区货币供应M3年率(%) (同比)  (九月)",
         "previous": "2.9%"
       },
-      "created_at": "2025-10-21T00:51:38.484781"
+      "created_at": "2025-10-22T00:52:34.151394"
     },
     {
       "platform": "investing",
@@ -400,7 +494,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-21",
+      "discovery_date": "2025-10-22",
       "raw_data": {
         "event_id": "eventRowId_533280",
         "event_attr_id": "",
@@ -411,7 +505,7 @@
         "event_name": "欧元区非金融企业贷款  (九月)",
         "previous": "3.0%"
       },
-      "created_at": "2025-10-21T00:51:38.484896"
+      "created_at": "2025-10-22T00:52:34.151508"
     },
     {
       "platform": "investing",
@@ -431,7 +525,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-21",
+      "discovery_date": "2025-10-22",
       "raw_data": {
         "event_id": "eventRowId_533514",
         "event_attr_id": "",
@@ -442,7 +536,7 @@
         "event_name": "英国CBI零售销售差值  (十月)",
         "previous": "-29"
       },
-      "created_at": "2025-10-21T00:51:38.485011"
+      "created_at": "2025-10-22T00:52:34.151625"
     },
     {
       "platform": "investing",
@@ -462,7 +556,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-21",
+      "discovery_date": "2025-10-22",
       "raw_data": {
         "event_id": "eventRowId_533916",
         "event_attr_id": "",
@@ -473,7 +567,37 @@
         "event_name": "巴西瓦加斯基金会(FGV)消费者信心  (十月)",
         "previous": "87.5"
       },
-      "created_at": "2025-10-21T00:51:38.485124"
+      "created_at": "2025-10-22T00:52:34.151797"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251027192500",
+      "original_id": "eventRowId_534242",
+      "event_date": "2025-10-27",
+      "event_time": "19:25",
+      "event_datetime": "2025/10/27 19:25:00",
+      "title": "巴西央行焦点市场报告",
+      "content": null,
+      "category": null,
+      "importance": 1,
+      "country": "巴西",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-22",
+      "raw_data": {
+        "event_id": "eventRowId_534242",
+        "event_attr_id": "",
+        "datetime": "2025/10/27 19:25:00",
+        "time": "19:25",
+        "country": "巴西",
+        "importance": 1,
+        "event_name": "巴西央行焦点市场报告"
+      },
+      "created_at": "2025-10-22T00:52:34.151962"
     },
     {
       "platform": "investing",
@@ -493,7 +617,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-21",
+      "discovery_date": "2025-10-22",
       "raw_data": {
         "event_id": "eventRowId_533289",
         "event_attr_id": "",
@@ -504,7 +628,7 @@
         "event_name": "美国扣除运输耐用品订单月率(%) (月度环比)  (九月)",
         "previous": "1.1%"
       },
-      "created_at": "2025-10-21T00:51:38.485236"
+      "created_at": "2025-10-22T00:52:34.152083"
     },
     {
       "platform": "investing",
@@ -524,7 +648,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-21",
+      "discovery_date": "2025-10-22",
       "raw_data": {
         "event_id": "eventRowId_533290",
         "event_attr_id": "",
@@ -535,7 +659,7 @@
         "event_name": "美国耐用品订单月率(%) (月度环比)  (九月)",
         "previous": "-2.7%"
       },
-      "created_at": "2025-10-21T00:51:38.485348"
+      "created_at": "2025-10-22T00:52:34.152195"
     },
     {
       "platform": "investing",
@@ -555,7 +679,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-21",
+      "discovery_date": "2025-10-22",
       "raw_data": {
         "event_id": "eventRowId_533288",
         "event_attr_id": "",
@@ -566,7 +690,7 @@
         "event_name": "美国扣除国防耐用品订单月率(%) (月度环比)  (九月)",
         "previous": "-2.3%"
       },
-      "created_at": "2025-10-21T00:51:38.485459"
+      "created_at": "2025-10-22T00:52:34.152311"
     },
     {
       "platform": "investing",
@@ -586,7 +710,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-21",
+      "discovery_date": "2025-10-22",
       "raw_data": {
         "event_id": "eventRowId_533291",
         "event_attr_id": "",
@@ -597,7 +721,100 @@
         "event_name": "美国扣除飞机非国防资本耐用品订单月率(%) (月度环比)  (九月)",
         "previous": "0.8%"
       },
-      "created_at": "2025-10-21T00:51:38.485570"
+      "created_at": "2025-10-22T00:52:34.152422"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251027210000",
+      "original_id": "eventRowId_534239",
+      "event_date": "2025-10-27",
+      "event_time": "21:00",
+      "event_datetime": "2025/10/27 21:00:00",
+      "title": "法国12个月期BTF国债拍卖平均收益率(%)",
+      "content": "前值: 2.020%",
+      "category": null,
+      "importance": 1,
+      "country": "法国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-22",
+      "raw_data": {
+        "event_id": "eventRowId_534239",
+        "event_attr_id": "",
+        "datetime": "2025/10/27 21:00:00",
+        "time": "21:00",
+        "country": "法国",
+        "importance": 1,
+        "event_name": "法国12个月期BTF国债拍卖平均收益率(%)",
+        "previous": "2.020%"
+      },
+      "created_at": "2025-10-22T00:52:34.152533"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251027210000",
+      "original_id": "eventRowId_534240",
+      "event_date": "2025-10-27",
+      "event_time": "21:00",
+      "event_datetime": "2025/10/27 21:00:00",
+      "title": "法国3个月期BTF国债拍卖平均收益率(%)",
+      "content": "前值: 1.987%",
+      "category": null,
+      "importance": 1,
+      "country": "法国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-22",
+      "raw_data": {
+        "event_id": "eventRowId_534240",
+        "event_attr_id": "",
+        "datetime": "2025/10/27 21:00:00",
+        "time": "21:00",
+        "country": "法国",
+        "importance": 1,
+        "event_name": "法国3个月期BTF国债拍卖平均收益率(%)",
+        "previous": "1.987%"
+      },
+      "created_at": "2025-10-22T00:52:34.152644"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251027210000",
+      "original_id": "eventRowId_534241",
+      "event_date": "2025-10-27",
+      "event_time": "21:00",
+      "event_datetime": "2025/10/27 21:00:00",
+      "title": "法国6个月期BTF国债拍卖平均收益率(%)",
+      "content": "前值: 2.015%",
+      "category": null,
+      "importance": 1,
+      "country": "法国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-22",
+      "raw_data": {
+        "event_id": "eventRowId_534241",
+        "event_attr_id": "",
+        "datetime": "2025/10/27 21:00:00",
+        "time": "21:00",
+        "country": "法国",
+        "importance": 1,
+        "event_name": "法国6个月期BTF国债拍卖平均收益率(%)",
+        "previous": "2.015%"
+      },
+      "created_at": "2025-10-22T00:52:34.152752"
     },
     {
       "platform": "investing",
@@ -617,7 +834,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-21",
+      "discovery_date": "2025-10-22",
       "raw_data": {
         "event_id": "eventRowId_533296",
         "event_attr_id": "",
@@ -628,7 +845,69 @@
         "event_name": "美国达拉斯联储商业活动指数  (十月)",
         "previous": "-8.7"
       },
-      "created_at": "2025-10-21T00:51:38.485680"
+      "created_at": "2025-10-22T00:52:34.152879"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251027233000",
+      "original_id": "eventRowId_534243",
+      "event_date": "2025-10-27",
+      "event_time": "23:30",
+      "event_datetime": "2025/10/27 23:30:00",
+      "title": "美国3个月期国债拍卖",
+      "content": "前值: 3.810%",
+      "category": null,
+      "importance": 1,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-10-22",
+      "raw_data": {
+        "event_id": "eventRowId_534243",
+        "event_attr_id": "",
+        "datetime": "2025/10/27 23:30:00",
+        "time": "23:30",
+        "country": "美国",
+        "importance": 1,
+        "event_name": "美国3个月期国债拍卖",
+        "previous": "3.810%"
+      },
+      "created_at": "2025-10-22T00:52:34.153002"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251027233000",
+      "original_id": "eventRowId_534244",
+      "event_date": "2025-10-27",
+      "event_time": "23:30",
+      "event_datetime": "2025/10/27 23:30:00",
+      "title": "美国6个月期国库券拍卖利率(%)",
+      "content": "前值: 3.660%",
+      "category": null,
+      "importance": 1,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-10-22",
+      "raw_data": {
+        "event_id": "eventRowId_534244",
+        "event_attr_id": "",
+        "datetime": "2025/10/27 23:30:00",
+        "time": "23:30",
+        "country": "美国",
+        "importance": 1,
+        "event_name": "美国6个月期国库券拍卖利率(%)",
+        "previous": "3.660%"
+      },
+      "created_at": "2025-10-22T00:52:34.153120"
     },
     {
       "platform": "investing",
@@ -648,7 +927,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-21",
+      "discovery_date": "2025-10-22",
       "raw_data": {
         "event_id": "eventRowId_532288",
         "event_attr_id": "",
@@ -658,7 +937,232 @@
         "importance": 2,
         "event_name": "亚特兰大联储GDPNow经济增长预测  (第三季度)"
       },
-      "created_at": "2025-10-21T00:51:38.485808"
+      "created_at": "2025-10-22T00:52:34.153232"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251027093000_-1312492791451367160",
+      "original_id": "2025-10-27 09:30:00_中国：工业企业:利润总额:累计值(报告期:2025年09月)",
+      "event_date": "2025-10-27",
+      "event_time": "09:30:00",
+      "event_datetime": "2025-10-27 09:30:00",
+      "title": "中国：工业企业:利润总额:累计值(报告期:2025年09月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-22",
+      "raw_data": {
+        "Name": "中国：工业企业:利润总额:累计值(报告期:2025年09月)",
+        "City": "中国"
+      },
+      "created_at": "2025-10-22T00:52:45.849998"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251027093000_-971614261903707281",
+      "original_id": "2025-10-27 09:30:00_中国：工业企业:利润总额:累计同比(报告期:2025年09月)",
+      "event_date": "2025-10-27",
+      "event_time": "09:30:00",
+      "event_datetime": "2025-10-27 09:30:00",
+      "title": "中国：工业企业:利润总额:累计同比(报告期:2025年09月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-22",
+      "raw_data": {
+        "Name": "中国：工业企业:利润总额:累计同比(报告期:2025年09月)",
+        "City": "中国"
+      },
+      "created_at": "2025-10-22T00:52:45.850004"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251027163000_6526964258773142327",
+      "original_id": "2025-10-27 16:30:00_中国香港：整体出口货值：当月同比(报告期:2025年09月)",
+      "event_date": "2025-10-27",
+      "event_time": "16:30:00",
+      "event_datetime": "2025-10-27 16:30:00",
+      "title": "中国香港：整体出口货值：当月同比(报告期:2025年09月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "中国香港",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-22",
+      "raw_data": {
+        "Name": "中国香港：整体出口货值：当月同比(报告期:2025年09月)",
+        "City": "中国香港"
+      },
+      "created_at": "2025-10-22T00:52:45.850014"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251027163000_-1331563089530018329",
+      "original_id": "2025-10-27 16:30:00_中国香港：商品贸易差额：当月值(报告期:2025年09月)",
+      "event_date": "2025-10-27",
+      "event_time": "16:30:00",
+      "event_datetime": "2025-10-27 16:30:00",
+      "title": "中国香港：商品贸易差额：当月值(报告期:2025年09月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "中国香港",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-22",
+      "raw_data": {
+        "Name": "中国香港：商品贸易差额：当月值(报告期:2025年09月)",
+        "City": "中国香港"
+      },
+      "created_at": "2025-10-22T00:52:45.850021"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251027163000_-7289625608497099271",
+      "original_id": "2025-10-27 16:30:00_中国香港：进口货值：同比(报告期:2025年09月)",
+      "event_date": "2025-10-27",
+      "event_time": "16:30:00",
+      "event_datetime": "2025-10-27 16:30:00",
+      "title": "中国香港：进口货值：同比(报告期:2025年09月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "中国香港",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-22",
+      "raw_data": {
+        "Name": "中国香港：进口货值：同比(报告期:2025年09月)",
+        "City": "中国香港"
+      },
+      "created_at": "2025-10-22T00:52:45.850028"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251027170000_-3121696796935404607",
+      "original_id": "2025-10-27 17:00:00_德国：Ifo现况指数(报告期:2025年10月)",
+      "event_date": "2025-10-27",
+      "event_time": "17:00:00",
+      "event_datetime": "2025-10-27 17:00:00",
+      "title": "德国：Ifo现况指数(报告期:2025年10月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "德国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-22",
+      "raw_data": {
+        "Name": "德国：Ifo现况指数(报告期:2025年10月)",
+        "City": "德国"
+      },
+      "created_at": "2025-10-22T00:52:45.850035"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251027170000_3161088243196556424",
+      "original_id": "2025-10-27 17:00:00_德国：Ifo商业景气指数(报告期:2025年10月)",
+      "event_date": "2025-10-27",
+      "event_time": "17:00:00",
+      "event_datetime": "2025-10-27 17:00:00",
+      "title": "德国：Ifo商业景气指数(报告期:2025年10月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "德国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-22",
+      "raw_data": {
+        "Name": "德国：Ifo商业景气指数(报告期:2025年10月)",
+        "City": "德国"
+      },
+      "created_at": "2025-10-22T00:52:45.850042"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251027203000_6508061071796686934",
+      "original_id": "2025-10-27 20:30:00_美国：耐用品订单月率(报告期:2025年09月)",
+      "event_date": "2025-10-27",
+      "event_time": "20:30:00",
+      "event_datetime": "2025-10-27 20:30:00",
+      "title": "美国：耐用品订单月率(报告期:2025年09月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-22",
+      "raw_data": {
+        "Name": "美国：耐用品订单月率(报告期:2025年09月)",
+        "City": "美国"
+      },
+      "created_at": "2025-10-22T00:52:45.850050"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251027203000_-5952588664782016807",
+      "original_id": "2025-10-27 20:30:00_美国：耐用品：新增订单(报告期:2025年09月)",
+      "event_date": "2025-10-27",
+      "event_time": "20:30:00",
+      "event_datetime": "2025-10-27 20:30:00",
+      "title": "美国：耐用品：新增订单(报告期:2025年09月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-22",
+      "raw_data": {
+        "Name": "美国：耐用品：新增订单(报告期:2025年09月)",
+        "City": "美国"
+      },
+      "created_at": "2025-10-22T00:52:45.850058"
     }
   ]
 }

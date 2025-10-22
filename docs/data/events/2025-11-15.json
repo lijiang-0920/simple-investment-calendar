@@ -1,11 +1,90 @@
 {
   "date": "2025-11-15",
-  "total_events": 1,
-  "new_events": 0,
+  "total_events": 3,
+  "new_events": 2,
   "platforms": {
+    "cls": 1,
+    "tonghuashun": 1,
     "investing": 1
   },
   "events": [
+    {
+      "platform": "cls",
+      "event_id": "cls_328147_20251115_2",
+      "original_id": "328147",
+      "event_date": "2025-11-15",
+      "event_time": "00:00:00",
+      "event_datetime": "2025-11-15 00:00:00",
+      "title": "第二届银发经济高质量发展大会将于11月15日举办",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-22",
+      "raw_data": {
+        "id": 328147,
+        "calendar_time": "2025-11-15 00:00:00",
+        "data_id": 19765,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "第二届银发经济高质量发展大会将于11月15日举办",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "第二届银发经济高质量发展大会将于11月15日举办"
+      },
+      "created_at": "2025-10-22T00:52:21.701147"
+    },
+    {
+      "platform": "tonghuashun",
+      "event_id": "ths_20251115_0_de3fcf41",
+      "original_id": "2025-11-15_0",
+      "event_date": "2025-11-15",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "第二届银发经济高质量发展大会将于11月15日举办",
+      "content": null,
+      "category": null,
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [
+        {
+          "code": "885522",
+          "name": "养老概念"
+        }
+      ],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-22",
+      "raw_data": {
+        "event": [
+          "第二届银发经济高质量发展大会将于11月15日举办",
+          "",
+          "",
+          ""
+        ],
+        "concept": [
+          {
+            "code": "885522",
+            "name": "养老概念",
+            "py": "ylgn"
+          }
+        ]
+      },
+      "created_at": "2025-10-22T00:52:30.754383"
+    },
     {
       "platform": "investing",
       "event_id": "inv__20251115010000",
@@ -24,7 +103,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-21",
+      "discovery_date": "2025-10-22",
       "raw_data": {
         "event_id": "eventRowId_532293",
         "event_attr_id": "",
@@ -34,7 +113,7 @@
         "importance": 2,
         "event_name": "亚特兰大联储GDPNow经济增长预测  (第四季度)"
       },
-      "created_at": "2025-10-21T00:51:40.880272"
+      "created_at": "2025-10-22T00:52:36.553188"
     }
   ]
 }

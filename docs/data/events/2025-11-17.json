@@ -1,14 +1,93 @@
 {
   "date": "2025-11-17",
-  "total_events": 4,
-  "new_events": 0,
+  "total_events": 6,
+  "new_events": 6,
   "platforms": {
+    "cls": 1,
+    "tonghuashun": 1,
     "eastmoney": 4
   },
   "events": [
     {
+      "platform": "cls",
+      "event_id": "cls_328139_20251117_2",
+      "original_id": "328139",
+      "event_date": "2025-11-17",
+      "event_time": "00:00:00",
+      "event_datetime": "2025-11-17 00:00:00",
+      "title": "2025中国国际光伏与储能产业大会将于11月17日至20日举办",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-22",
+      "raw_data": {
+        "id": 328139,
+        "calendar_time": "2025-11-17 00:00:00",
+        "data_id": 19757,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "2025中国国际光伏与储能产业大会将于11月17日至20日举办",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "2025中国国际光伏与储能产业大会将于11月17日至20日举办"
+      },
+      "created_at": "2025-10-22T00:52:21.701157"
+    },
+    {
+      "platform": "tonghuashun",
+      "event_id": "ths_20251117_0_e2f27aef",
+      "original_id": "2025-11-17_0",
+      "event_date": "2025-11-17",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025中国国际光伏与储能产业大会将于11月17日至20日举办",
+      "content": null,
+      "category": null,
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [
+        {
+          "code": "885531",
+          "name": "光伏概念"
+        }
+      ],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-22",
+      "raw_data": {
+        "event": [
+          "2025中国国际光伏与储能产业大会将于11月17日至20日举办",
+          "",
+          "",
+          ""
+        ],
+        "concept": [
+          {
+            "code": "885531",
+            "name": "光伏概念",
+            "py": "gfgn"
+          }
+        ]
+      },
+      "created_at": "2025-10-22T00:52:30.754401"
+    },
+    {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251117000000_-7685188888071050197",
+      "event_id": "em_jjsj_20251117000000_238874874685065618",
       "original_id": "2025-11-17 00:00:00_泰国：GDP：不变价：同比(报告期:2025年09月)",
       "event_date": "2025-11-17",
       "event_time": null,
@@ -23,17 +102,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-20",
+      "is_new": true,
+      "discovery_date": "2025-10-22",
       "raw_data": {
         "Name": "泰国：GDP：不变价：同比(报告期:2025年09月)",
         "City": "泰国"
       },
-      "created_at": "2025-10-20T00:54:47.227397"
+      "created_at": "2025-10-22T00:52:45.851205"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251117213000_8981841996591772572",
+      "event_id": "em_jjsj_20251117213000_5733811136479008737",
       "original_id": "2025-11-17 21:30:00_加拿大：CPI：同比(报告期:2025年10月)",
       "event_date": "2025-11-17",
       "event_time": "21:30:00",
@@ -48,17 +127,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-20",
+      "is_new": true,
+      "discovery_date": "2025-10-22",
       "raw_data": {
         "Name": "加拿大：CPI：同比(报告期:2025年10月)",
         "City": "加拿大"
       },
-      "created_at": "2025-10-20T00:54:47.227405"
+      "created_at": "2025-10-22T00:52:45.851213"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251117213000_7165278935814012456",
+      "event_id": "em_jjsj_20251117213000_-9054488187443636932",
       "original_id": "2025-11-17 21:30:00_加拿大：核心CPI：环比(报告期:2025年10月)",
       "event_date": "2025-11-17",
       "event_time": "21:30:00",
@@ -73,17 +152,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-20",
+      "is_new": true,
+      "discovery_date": "2025-10-22",
       "raw_data": {
         "Name": "加拿大：核心CPI：环比(报告期:2025年10月)",
         "City": "加拿大"
       },
-      "created_at": "2025-10-20T00:54:47.227413"
+      "created_at": "2025-10-22T00:52:45.851219"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251117213000_5001865107512303071",
+      "event_id": "em_jjsj_20251117213000_7092506913975092945",
       "original_id": "2025-11-17 21:30:00_加拿大：核心CPI：同比(报告期:2025年10月)",
       "event_date": "2025-11-17",
       "event_time": "21:30:00",
@@ -98,13 +177,13 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-20",
+      "is_new": true,
+      "discovery_date": "2025-10-22",
       "raw_data": {
         "Name": "加拿大：核心CPI：同比(报告期:2025年10月)",
         "City": "加拿大"
       },
-      "created_at": "2025-10-20T00:54:47.227421"
+      "created_at": "2025-10-22T00:52:45.851226"
     }
   ]
 }

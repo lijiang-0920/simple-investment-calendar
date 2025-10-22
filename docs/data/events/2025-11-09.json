@@ -1,12 +1,13 @@
 {
   "date": "2025-11-09",
-  "total_events": 9,
-  "new_events": 4,
+  "total_events": 15,
+  "new_events": 6,
   "platforms": {
     "cls": 2,
     "jiuyangongshe": 2,
     "tonghuashun": 2,
-    "investing": 3
+    "investing": 3,
+    "eastmoney": 6
   },
   "events": [
     {
@@ -26,8 +27,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-21",
+      "is_new": false,
+      "discovery_date": "2025-10-22",
       "raw_data": {
         "id": 327839,
         "calendar_time": "2025-11-09 00:00:00",
@@ -43,7 +44,7 @@
         "holiday": null,
         "title": "自11月9日起，上海-德里航线时隔五年复航，每周三班，由空客A330执飞"
       },
-      "created_at": "2025-10-21T00:51:24.102291"
+      "created_at": "2025-10-22T00:52:21.701070"
     },
     {
       "platform": "cls",
@@ -62,8 +63,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-21",
+      "is_new": false,
+      "discovery_date": "2025-10-22",
       "raw_data": {
         "id": 327841,
         "calendar_time": "2025-11-09 00:00:00",
@@ -79,7 +80,7 @@
         "holiday": null,
         "title": "京东宣布联合宁德时代旗下的时代电服和广汽集团，在11月9日共同推出一款新车"
       },
-      "created_at": "2025-10-21T00:51:24.102301"
+      "created_at": "2025-10-22T00:52:21.701079"
     },
     {
       "platform": "jiuyangongshe",
@@ -99,7 +100,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-21",
+      "discovery_date": "2025-10-22",
       "raw_data": {
         "article_id": "1zu1arcajbh",
         "user_id": "53c4a4d50e1b46d189a181a7801ad5a8",
@@ -124,7 +125,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-10-21T00:51:28.389068"
+      "created_at": "2025-10-22T00:52:25.790800"
     },
     {
       "platform": "jiuyangongshe",
@@ -144,7 +145,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-21",
+      "discovery_date": "2025-10-22",
       "raw_data": {
         "article_id": "b1bbd542813b4806af246138cea8d4bb",
         "user_id": "1",
@@ -169,7 +170,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-10-21T00:51:28.389078"
+      "created_at": "2025-10-22T00:52:25.790808"
     },
     {
       "platform": "tonghuashun",
@@ -185,11 +186,16 @@
       "country": "中国",
       "city": null,
       "stocks": [],
-      "concepts": [],
+      "concepts": [
+        {
+          "code": "885733",
+          "name": "航运概念"
+        }
+      ],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-21",
+      "is_new": false,
+      "discovery_date": "2025-10-22",
       "raw_data": {
         "event": [
           "自11月9日起，上海-德里航线时隔五年复航，每周三班，由空客A330执飞",
@@ -197,9 +203,15 @@
           "",
           ""
         ],
-        "concept": []
+        "concept": [
+          {
+            "code": "885733",
+            "name": "航运概念",
+            "py": "hygn"
+          }
+        ]
       },
-      "created_at": "2025-10-21T00:51:34.978988"
+      "created_at": "2025-10-22T00:52:30.754338"
     },
     {
       "platform": "tonghuashun",
@@ -215,11 +227,16 @@
       "country": "中国",
       "city": null,
       "stocks": [],
-      "concepts": [],
+      "concepts": [
+        {
+          "code": "885431",
+          "name": "新能源汽车"
+        }
+      ],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-21",
+      "is_new": false,
+      "discovery_date": "2025-10-22",
       "raw_data": {
         "event": [
           "京东宣布联合宁德时代旗下的时代电服和广汽集团，在11月9日共同推出一款新车",
@@ -227,9 +244,15 @@
           "",
           ""
         ],
-        "concept": []
+        "concept": [
+          {
+            "code": "885431",
+            "name": "新能源汽车",
+            "py": "xnyqj"
+          }
+        ]
       },
-      "created_at": "2025-10-21T00:51:34.978997"
+      "created_at": "2025-10-22T00:52:30.754347"
     },
     {
       "platform": "investing",
@@ -249,7 +272,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-21",
+      "discovery_date": "2025-10-22",
       "raw_data": {
         "event_id": "eventRowId_534173",
         "event_attr_id": "",
@@ -260,7 +283,7 @@
         "event_name": "中国CPI月率(%) (月度环比)  (十月)",
         "previous": "0.1%"
       },
-      "created_at": "2025-10-21T00:51:39.945973"
+      "created_at": "2025-10-22T00:52:35.799161"
     },
     {
       "platform": "investing",
@@ -280,7 +303,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-21",
+      "discovery_date": "2025-10-22",
       "raw_data": {
         "event_id": "eventRowId_534174",
         "event_attr_id": "",
@@ -291,7 +314,7 @@
         "event_name": "中国CPI年率(%) (同比)  (十月)",
         "previous": "-0.3%"
       },
-      "created_at": "2025-10-21T00:51:39.946112"
+      "created_at": "2025-10-22T00:52:35.799298"
     },
     {
       "platform": "investing",
@@ -311,7 +334,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-21",
+      "discovery_date": "2025-10-22",
       "raw_data": {
         "event_id": "eventRowId_534175",
         "event_attr_id": "",
@@ -322,7 +345,157 @@
         "event_name": "中国PPI年率(%) (同比)  (十月)",
         "previous": "-2.3%"
       },
-      "created_at": "2025-10-21T00:51:39.946234"
+      "created_at": "2025-10-22T00:52:35.799419"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251109093000_7605977957431048474",
+      "original_id": "2025-11-09 09:30:00_中国：CPI:累计同比(报告期:2025年10月)",
+      "event_date": "2025-11-09",
+      "event_time": "09:30:00",
+      "event_datetime": "2025-11-09 09:30:00",
+      "title": "中国：CPI:累计同比(报告期:2025年10月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-22",
+      "raw_data": {
+        "Name": "中国：CPI:累计同比(报告期:2025年10月)",
+        "City": "中国"
+      },
+      "created_at": "2025-10-22T00:52:45.850803"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251109093000_-6965547408445525887",
+      "original_id": "2025-11-09 09:30:00_中国：CPI:当月同比(报告期:2025年10月)",
+      "event_date": "2025-11-09",
+      "event_time": "09:30:00",
+      "event_datetime": "2025-11-09 09:30:00",
+      "title": "中国：CPI:当月同比(报告期:2025年10月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-22",
+      "raw_data": {
+        "Name": "中国：CPI:当月同比(报告期:2025年10月)",
+        "City": "中国"
+      },
+      "created_at": "2025-10-22T00:52:45.850809"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251109093000_-5001239267827480193",
+      "original_id": "2025-11-09 09:30:00_中国：CPI:环比(报告期:2025年10月)",
+      "event_date": "2025-11-09",
+      "event_time": "09:30:00",
+      "event_datetime": "2025-11-09 09:30:00",
+      "title": "中国：CPI:环比(报告期:2025年10月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-22",
+      "raw_data": {
+        "Name": "中国：CPI:环比(报告期:2025年10月)",
+        "City": "中国"
+      },
+      "created_at": "2025-10-22T00:52:45.850816"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251109093000_-3790012952048162582",
+      "original_id": "2025-11-09 09:30:00_中国：PPI:全部工业品:当月同比(报告期:2025年10月)",
+      "event_date": "2025-11-09",
+      "event_time": "09:30:00",
+      "event_datetime": "2025-11-09 09:30:00",
+      "title": "中国：PPI:全部工业品:当月同比(报告期:2025年10月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-22",
+      "raw_data": {
+        "Name": "中国：PPI:全部工业品:当月同比(报告期:2025年10月)",
+        "City": "中国"
+      },
+      "created_at": "2025-10-22T00:52:45.850836"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251109093000_-2783816866176738279",
+      "original_id": "2025-11-09 09:30:00_中国：PPI:全部工业品:环比(报告期:2025年10月)",
+      "event_date": "2025-11-09",
+      "event_time": "09:30:00",
+      "event_datetime": "2025-11-09 09:30:00",
+      "title": "中国：PPI:全部工业品:环比(报告期:2025年10月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-22",
+      "raw_data": {
+        "Name": "中国：PPI:全部工业品:环比(报告期:2025年10月)",
+        "City": "中国"
+      },
+      "created_at": "2025-10-22T00:52:45.850843"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251109093000_-2083772188751055978",
+      "original_id": "2025-11-09 09:30:00_中国：PPI:全部工业品:累计同比(报告期:2025年10月)",
+      "event_date": "2025-11-09",
+      "event_time": "09:30:00",
+      "event_datetime": "2025-11-09 09:30:00",
+      "title": "中国：PPI:全部工业品:累计同比(报告期:2025年10月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-22",
+      "raw_data": {
+        "Name": "中国：PPI:全部工业品:累计同比(报告期:2025年10月)",
+        "City": "中国"
+      },
+      "created_at": "2025-10-22T00:52:45.850853"
     }
   ]
 }
