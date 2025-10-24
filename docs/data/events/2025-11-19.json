@@ -1,9 +1,10 @@
 {
   "date": "2025-11-19",
-  "total_events": 10,
-  "new_events": 0,
+  "total_events": 11,
+  "new_events": 1,
   "platforms": {
     "cls": 1,
+    "jiuyangongshe": 1,
     "investing": 1,
     "eastmoney": 8
   },
@@ -26,7 +27,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-23",
+      "discovery_date": "2025-10-24",
       "raw_data": {
         "id": 328138,
         "calendar_time": "2025-11-19 00:00:00",
@@ -42,7 +43,52 @@
         "holiday": null,
         "title": "第三届中国绿色交通能源发展论坛暨2025绿色氢基能源产业链发展大会将于11月19日至21日在天津举办"
       },
-      "created_at": "2025-10-23T00:50:48.329090"
+      "created_at": "2025-10-24T00:46:30.145874"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_400532afca074707a182102d00a00940_5dc780197e67465a8edcf82079bdd8dd_20251119",
+      "original_id": "400532afca074707a182102d00a00940",
+      "event_date": "2025-11-19",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "第三届中国绿色交通能源发展论坛暨2025绿色氢基能源产业链发展大会",
+      "content": "",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-24",
+      "raw_data": {
+        "article_id": "400532afca074707a182102d00a00940",
+        "user_id": "1",
+        "title": "第三届中国绿色交通能源发展论坛暨2025绿色氢基能源产业链发展大会",
+        "content": "",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "400532afca074707a182102d00a00940",
+          "timeline_id": "5dc780197e67465a8edcf82079bdd8dd",
+          "date": "2025-11-19",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-10-23 21:40:26",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-10-24T00:46:33.860014"
     },
     {
       "platform": "investing",
@@ -62,7 +108,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-23",
+      "discovery_date": "2025-10-24",
       "raw_data": {
         "event_id": "eventRowId_532294",
         "event_attr_id": "",
@@ -72,11 +118,11 @@
         "importance": 2,
         "event_name": "亚特兰大联储GDPNow经济增长预测  (第四季度)"
       },
-      "created_at": "2025-10-23T00:51:04.835906"
+      "created_at": "2025-10-24T00:46:44.426415"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251119000000_2126102333893692167",
+      "event_id": "em_jjsj_20251119000000_-6617227668073736759",
       "original_id": "2025-11-19 00:00:00_阿根廷：进口金额(报告期:2025年10月)",
       "event_date": "2025-11-19",
       "event_time": null,
@@ -92,16 +138,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-23",
+      "discovery_date": "2025-10-24",
       "raw_data": {
         "Name": "阿根廷：进口金额(报告期:2025年10月)",
         "City": "阿根廷"
       },
-      "created_at": "2025-10-23T00:51:12.519958"
+      "created_at": "2025-10-24T00:46:51.652031"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251119075000_6850247948437661068",
+      "event_id": "em_jjsj_20251119075000_-1024808972962808782",
       "original_id": "2025-11-19 07:50:00_日本：进口金额：当月值(报告期:2025年10月)",
       "event_date": "2025-11-19",
       "event_time": "07:50:00",
@@ -117,16 +163,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-23",
+      "discovery_date": "2025-10-24",
       "raw_data": {
         "Name": "日本：进口金额：当月值(报告期:2025年10月)",
         "City": "日本"
       },
-      "created_at": "2025-10-23T00:51:12.519966"
+      "created_at": "2025-10-24T00:46:51.652039"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251119075000_323096317256759668",
+      "event_id": "em_jjsj_20251119075000_-8884437179306783099",
       "original_id": "2025-11-19 07:50:00_日本：贸易差额：当月值(报告期:2025年10月)",
       "event_date": "2025-11-19",
       "event_time": "07:50:00",
@@ -142,16 +188,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-23",
+      "discovery_date": "2025-10-24",
       "raw_data": {
         "Name": "日本：贸易差额：当月值(报告期:2025年10月)",
         "City": "日本"
       },
-      "created_at": "2025-10-23T00:51:12.519974"
+      "created_at": "2025-10-24T00:46:51.652074"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251119075000_6618928679604844504",
+      "event_id": "em_jjsj_20251119075000_2515440574103029084",
       "original_id": "2025-11-19 07:50:00_日本：出口金额：当月值(报告期:2025年10月)",
       "event_date": "2025-11-19",
       "event_time": "07:50:00",
@@ -167,16 +213,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-23",
+      "discovery_date": "2025-10-24",
       "raw_data": {
         "Name": "日本：出口金额：当月值(报告期:2025年10月)",
         "City": "日本"
       },
-      "created_at": "2025-10-23T00:51:12.519981"
+      "created_at": "2025-10-24T00:46:51.652082"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251119120000_-7457801353326236193",
+      "event_id": "em_jjsj_20251119120000_3437854297106588130",
       "original_id": "2025-11-19 12:00:00_马来西亚：对外贸易：贸易差额(报告期:2025年10月)",
       "event_date": "2025-11-19",
       "event_time": "12:00:00",
@@ -192,16 +238,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-23",
+      "discovery_date": "2025-10-24",
       "raw_data": {
         "Name": "马来西亚：对外贸易：贸易差额(报告期:2025年10月)",
         "City": "马来西亚"
       },
-      "created_at": "2025-10-23T00:51:12.519990"
+      "created_at": "2025-10-24T00:46:51.652090"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251119213000_4975024531691132597",
+      "event_id": "em_jjsj_20251119213000_-1816907702805756652",
       "original_id": "2025-11-19 21:30:00_美国：已开工的新建私人住宅(报告期:2025年10月)",
       "event_date": "2025-11-19",
       "event_time": "21:30:00",
@@ -217,16 +263,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-23",
+      "discovery_date": "2025-10-24",
       "raw_data": {
         "Name": "美国：已开工的新建私人住宅(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-10-23T00:51:12.519998"
+      "created_at": "2025-10-24T00:46:51.652098"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251119213000_-5277543994471355086",
+      "event_id": "em_jjsj_20251119213000_-7906251273611189588",
       "original_id": "2025-11-19 21:30:00_美国：已获得批准的新建私人住宅(报告期:2025年10月)",
       "event_date": "2025-11-19",
       "event_time": "21:30:00",
@@ -242,16 +288,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-23",
+      "discovery_date": "2025-10-24",
       "raw_data": {
         "Name": "美国：已获得批准的新建私人住宅(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-10-23T00:51:12.520006"
+      "created_at": "2025-10-24T00:46:51.652106"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251119213000_6357137965075918767",
+      "event_id": "em_jjsj_20251119213000_127116295137768388",
       "original_id": "2025-11-19 21:30:00_美国：已开工的新建私人住宅：折年数：季调(报告期:2025年10月)",
       "event_date": "2025-11-19",
       "event_time": "21:30:00",
@@ -267,12 +313,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-23",
+      "discovery_date": "2025-10-24",
       "raw_data": {
         "Name": "美国：已开工的新建私人住宅：折年数：季调(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-10-23T00:51:12.520014"
+      "created_at": "2025-10-24T00:46:51.652113"
     }
   ]
 }

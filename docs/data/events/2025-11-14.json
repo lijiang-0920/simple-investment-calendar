@@ -1,10 +1,11 @@
 {
   "date": "2025-11-14",
-  "total_events": 19,
-  "new_events": 0,
+  "total_events": 26,
+  "new_events": 7,
   "platforms": {
-    "jiuyangongshe": 1,
-    "eastmoney": 18
+    "jiuyangongshe": 3,
+    "investing": 4,
+    "eastmoney": 19
   },
   "events": [
     {
@@ -27,7 +28,7 @@
       ],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-23",
+      "discovery_date": "2025-10-24",
       "raw_data": {
         "article_id": "f1af13f0f0fc46c5bf351933aee094b3",
         "user_id": "1",
@@ -57,11 +58,225 @@
           ]
         }
       },
-      "created_at": "2025-10-23T00:50:52.633201"
+      "created_at": "2025-10-24T00:46:33.859969"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_a3342684771f4536b3533ec9e0fd8640_a93acfc76ef44717be3c240f715365f8_20251114",
+      "original_id": "a3342684771f4536b3533ec9e0fd8640",
+      "event_date": "2025-11-14",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "国际工业大麻博览会",
+      "content": "",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-24",
+      "raw_data": {
+        "article_id": "a3342684771f4536b3533ec9e0fd8640",
+        "user_id": "1",
+        "title": "国际工业大麻博览会",
+        "content": "",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "a3342684771f4536b3533ec9e0fd8640",
+          "timeline_id": "a93acfc76ef44717be3c240f715365f8",
+          "date": "2025-11-14",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-10-23 21:39:33",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-10-24T00:46:33.859977"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_0276de74198044a1a479a5f587aea83d_cfa103b45acb4436a4b5ccd4117163a9_20251114",
+      "original_id": "0276de74198044a1a479a5f587aea83d",
+      "event_date": "2025-11-14",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "NVIDIA中国开发者日2025",
+      "content": "",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-24",
+      "raw_data": {
+        "article_id": "0276de74198044a1a479a5f587aea83d",
+        "user_id": "1",
+        "title": "NVIDIA中国开发者日2025",
+        "content": "",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "0276de74198044a1a479a5f587aea83d",
+          "timeline_id": "cfa103b45acb4436a4b5ccd4117163a9",
+          "date": "2025-11-14",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-10-23 21:39:53",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-10-24T00:46:33.859984"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251114030000",
+      "original_id": "eventRowId_534407",
+      "event_date": "2025-11-14",
+      "event_time": "03:00",
+      "event_datetime": "2025/11/14 03:00:00",
+      "title": "美国政府预算(美元)  (十月)",
+      "content": "前值: 198.0B",
+      "category": null,
+      "importance": 2,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-24",
+      "raw_data": {
+        "event_id": "eventRowId_534407",
+        "event_attr_id": "",
+        "datetime": "2025/11/14 03:00:00",
+        "time": "03:00",
+        "country": "美国",
+        "importance": 2,
+        "event_name": "美国政府预算(美元)  (十月)",
+        "previous": "198.0B"
+      },
+      "created_at": "2025-10-24T00:46:43.558985"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251114050000",
+      "original_id": "eventRowId_534513",
+      "event_date": "2025-11-14",
+      "event_time": "05:00",
+      "event_datetime": "2025/11/14 05:00:00",
+      "title": "韩国出口物价指数年率(%) (同比)  (十月)",
+      "content": "前值: 2.2%",
+      "category": null,
+      "importance": 1,
+      "country": "韩国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-24",
+      "raw_data": {
+        "event_id": "eventRowId_534513",
+        "event_attr_id": "",
+        "datetime": "2025/11/14 05:00:00",
+        "time": "05:00",
+        "country": "韩国",
+        "importance": 1,
+        "event_name": "韩国出口物价指数年率(%) (同比)  (十月)",
+        "previous": "2.2%"
+      },
+      "created_at": "2025-10-24T00:46:43.559115"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251114050000",
+      "original_id": "eventRowId_534514",
+      "event_date": "2025-11-14",
+      "event_time": "05:00",
+      "event_datetime": "2025/11/14 05:00:00",
+      "title": "韩国进口物价指数年率(%) (同比)  (十月)",
+      "content": "前值: 0.6%",
+      "category": null,
+      "importance": 1,
+      "country": "韩国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-24",
+      "raw_data": {
+        "event_id": "eventRowId_534514",
+        "event_attr_id": "",
+        "datetime": "2025/11/14 05:00:00",
+        "time": "05:00",
+        "country": "韩国",
+        "importance": 1,
+        "event_name": "韩国进口物价指数年率(%) (同比)  (十月)",
+        "previous": "0.6%"
+      },
+      "created_at": "2025-10-24T00:46:43.559233"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251114053000",
+      "original_id": "eventRowId_534517",
+      "event_date": "2025-11-14",
+      "event_time": "05:30",
+      "event_datetime": "2025/11/14 05:30:00",
+      "title": "新西兰制造业PMI  (十月)",
+      "content": "前值: 49.9",
+      "category": null,
+      "importance": 2,
+      "country": "新西兰",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-24",
+      "raw_data": {
+        "event_id": "eventRowId_534517",
+        "event_attr_id": "",
+        "datetime": "2025/11/14 05:30:00",
+        "time": "05:30",
+        "country": "新西兰",
+        "importance": 2,
+        "event_name": "新西兰制造业PMI  (十月)",
+        "previous": "49.9"
+      },
+      "created_at": "2025-10-24T00:46:43.559349"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251114000000_5070759457926564377",
+      "event_id": "em_jjsj_20251114000000_6754128429711374351",
       "original_id": "2025-11-14 00:00:00_马来西亚：GDP：不变价：同比(报告期:2025年09月)",
       "event_date": "2025-11-14",
       "event_time": null,
@@ -77,16 +292,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-23",
+      "discovery_date": "2025-10-24",
       "raw_data": {
         "Name": "马来西亚：GDP：不变价：同比(报告期:2025年09月)",
         "City": "马来西亚"
       },
-      "created_at": "2025-10-23T00:51:12.519638"
+      "created_at": "2025-10-24T00:46:51.651741"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251114000000_-4297012803792500601",
+      "event_id": "em_jjsj_20251114000000_-7486731097353400405",
       "original_id": "2025-11-14 00:00:00_中国澳门：GDP：不变价：同比(报告期:2025年09月)",
       "event_date": "2025-11-14",
       "event_time": null,
@@ -102,16 +317,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-23",
+      "discovery_date": "2025-10-24",
       "raw_data": {
         "Name": "中国澳门：GDP：不变价：同比(报告期:2025年09月)",
         "City": "中国澳门"
       },
-      "created_at": "2025-10-23T00:51:12.519646"
+      "created_at": "2025-10-24T00:46:51.651749"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251114100000_1586696627680909018",
+      "event_id": "em_jjsj_20251114100000_6404479655697326420",
       "original_id": "2025-11-14 10:00:00_中国：工业增加值:累计同比(报告期:2025年10月)",
       "event_date": "2025-11-14",
       "event_time": "10:00:00",
@@ -127,16 +342,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-23",
+      "discovery_date": "2025-10-24",
       "raw_data": {
         "Name": "中国：工业增加值:累计同比(报告期:2025年10月)",
         "City": "中国"
       },
-      "created_at": "2025-10-23T00:51:12.519655"
+      "created_at": "2025-10-24T00:46:51.651757"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251114100000_1731971544730912989",
+      "event_id": "em_jjsj_20251114100000_-2655206777043428425",
       "original_id": "2025-11-14 10:00:00_中国：产量:天然气:累计值(报告期:2025年10月)",
       "event_date": "2025-11-14",
       "event_time": "10:00:00",
@@ -152,16 +367,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-23",
+      "discovery_date": "2025-10-24",
       "raw_data": {
         "Name": "中国：产量:天然气:累计值(报告期:2025年10月)",
         "City": "中国"
       },
-      "created_at": "2025-10-23T00:51:12.519662"
+      "created_at": "2025-10-24T00:46:51.651764"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251114100000_6544237055090309013",
+      "event_id": "em_jjsj_20251114100000_-1085702389389062317",
       "original_id": "2025-11-14 10:00:00_中国：工业增加值:当月同比(报告期:2025年10月)",
       "event_date": "2025-11-14",
       "event_time": "10:00:00",
@@ -177,16 +392,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-23",
+      "discovery_date": "2025-10-24",
       "raw_data": {
         "Name": "中国：工业增加值:当月同比(报告期:2025年10月)",
         "City": "中国"
       },
-      "created_at": "2025-10-23T00:51:12.519670"
+      "created_at": "2025-10-24T00:46:51.651771"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251114100000_-8149141058581731531",
+      "event_id": "em_jjsj_20251114100000_6321898075118736509",
       "original_id": "2025-11-14 10:00:00_中国：工业增加值:环比:季调(报告期:2025年10月)",
       "event_date": "2025-11-14",
       "event_time": "10:00:00",
@@ -202,16 +417,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-23",
+      "discovery_date": "2025-10-24",
       "raw_data": {
         "Name": "中国：工业增加值:环比:季调(报告期:2025年10月)",
         "City": "中国"
       },
-      "created_at": "2025-10-23T00:51:12.519677"
+      "created_at": "2025-10-24T00:46:51.651778"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251114100000_8493348810498275741",
+      "event_id": "em_jjsj_20251114100000_-2254405872397119996",
       "original_id": "2025-11-14 10:00:00_中国：产量:原油加工量:累计值(报告期:2025年10月)",
       "event_date": "2025-11-14",
       "event_time": "10:00:00",
@@ -227,16 +442,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-23",
+      "discovery_date": "2025-10-24",
       "raw_data": {
         "Name": "中国：产量:原油加工量:累计值(报告期:2025年10月)",
         "City": "中国"
       },
-      "created_at": "2025-10-23T00:51:12.519684"
+      "created_at": "2025-10-24T00:46:51.651785"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251114100000_6812728776789883193",
+      "event_id": "em_jjsj_20251114100000_3925791240448772086",
       "original_id": "2025-11-14 10:00:00_中国：产量:平板玻璃:累计值(报告期:2025年10月)",
       "event_date": "2025-11-14",
       "event_time": "10:00:00",
@@ -252,16 +467,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-23",
+      "discovery_date": "2025-10-24",
       "raw_data": {
         "Name": "中国：产量:平板玻璃:累计值(报告期:2025年10月)",
         "City": "中国"
       },
-      "created_at": "2025-10-23T00:51:12.519692"
+      "created_at": "2025-10-24T00:46:51.651793"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251114100000_7978726810858685852",
+      "event_id": "em_jjsj_20251114100000_-1482950921484539751",
       "original_id": "2025-11-14 10:00:00_中国：产量:生铁:累计值(报告期:2025年10月)",
       "event_date": "2025-11-14",
       "event_time": "10:00:00",
@@ -277,16 +492,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-23",
+      "discovery_date": "2025-10-24",
       "raw_data": {
         "Name": "中国：产量:生铁:累计值(报告期:2025年10月)",
         "City": "中国"
       },
-      "created_at": "2025-10-23T00:51:12.519699"
+      "created_at": "2025-10-24T00:46:51.651801"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251114100000_2083188936146755096",
+      "event_id": "em_jjsj_20251114100000_5682770078919387496",
       "original_id": "2025-11-14 10:00:00_中国：固定资产投资完成额:累计同比(报告期:2025年10月)",
       "event_date": "2025-11-14",
       "event_time": "10:00:00",
@@ -302,16 +517,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-23",
+      "discovery_date": "2025-10-24",
       "raw_data": {
         "Name": "中国：固定资产投资完成额:累计同比(报告期:2025年10月)",
         "City": "中国"
       },
-      "created_at": "2025-10-23T00:51:12.519707"
+      "created_at": "2025-10-24T00:46:51.651808"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251114100000_-6109504278470449012",
+      "event_id": "em_jjsj_20251114100000_3740133664811850991",
       "original_id": "2025-11-14 10:00:00_中国：社会消费品零售总额:同比(报告期:2025年10月)",
       "event_date": "2025-11-14",
       "event_time": "10:00:00",
@@ -327,16 +542,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-23",
+      "discovery_date": "2025-10-24",
       "raw_data": {
         "Name": "中国：社会消费品零售总额:同比(报告期:2025年10月)",
         "City": "中国"
       },
-      "created_at": "2025-10-23T00:51:12.519714"
+      "created_at": "2025-10-24T00:46:51.651815"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251114163000_3802622262108989279",
+      "event_id": "em_jjsj_20251114163000_4949854674528741855",
       "original_id": "2025-11-14 16:30:00_中国香港：GDP:当季值(报告期:2025年09月)",
       "event_date": "2025-11-14",
       "event_time": "16:30:00",
@@ -352,16 +567,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-23",
+      "discovery_date": "2025-10-24",
       "raw_data": {
         "Name": "中国香港：GDP:当季值(报告期:2025年09月)",
         "City": "中国香港"
       },
-      "created_at": "2025-10-23T00:51:12.519722"
+      "created_at": "2025-10-24T00:46:51.651824"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251114213000_3575290600698595579",
+      "event_id": "em_jjsj_20251114213000_-6712591564434109255",
       "original_id": "2025-11-14 21:30:00_美国：零售商库存：季调(报告期:2025年09月)",
       "event_date": "2025-11-14",
       "event_time": "21:30:00",
@@ -377,16 +592,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-23",
+      "discovery_date": "2025-10-24",
       "raw_data": {
         "Name": "美国：零售商库存：季调(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-10-23T00:51:12.519730"
+      "created_at": "2025-10-24T00:46:51.651832"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251114213000_-8582540980474745235",
+      "event_id": "em_jjsj_20251114213000_-494556903186689942",
       "original_id": "2025-11-14 21:30:00_美国：PPI：季调：环比(报告期:2025年10月)",
       "event_date": "2025-11-14",
       "event_time": "21:30:00",
@@ -402,16 +617,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-23",
+      "discovery_date": "2025-10-24",
       "raw_data": {
         "Name": "美国：PPI：季调：环比(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-10-23T00:51:12.519738"
+      "created_at": "2025-10-24T00:46:51.651839"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251114213000_2087851441991483008",
+      "event_id": "em_jjsj_20251114213000_-2612824756035693038",
       "original_id": "2025-11-14 21:30:00_美国：核心PPI：非季调：同比(报告期:2025年10月)",
       "event_date": "2025-11-14",
       "event_time": "21:30:00",
@@ -427,16 +642,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-23",
+      "discovery_date": "2025-10-24",
       "raw_data": {
         "Name": "美国：核心PPI：非季调：同比(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-10-23T00:51:12.519745"
+      "created_at": "2025-10-24T00:46:51.651846"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251114213000_8651380854060768571",
+      "event_id": "em_jjsj_20251114213000_-5195825651714270795",
       "original_id": "2025-11-14 21:30:00_美国：核心PPI：季调：环比(报告期:2025年10月)",
       "event_date": "2025-11-14",
       "event_time": "21:30:00",
@@ -452,16 +667,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-23",
+      "discovery_date": "2025-10-24",
       "raw_data": {
         "Name": "美国：核心PPI：季调：环比(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-10-23T00:51:12.519752"
+      "created_at": "2025-10-24T00:46:51.651854"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251114213000_6640537990150495471",
+      "event_id": "em_jjsj_20251114213000_9121689736665830558",
       "original_id": "2025-11-14 21:30:00_美国：核心零售总额：季调(报告期:2025年09月)",
       "event_date": "2025-11-14",
       "event_time": "21:30:00",
@@ -477,16 +692,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-23",
+      "discovery_date": "2025-10-24",
       "raw_data": {
         "Name": "美国：核心零售总额：季调(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-10-23T00:51:12.519759"
+      "created_at": "2025-10-24T00:46:51.651861"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251114213000_-9209091005438227280",
+      "event_id": "em_jjsj_20251114213000_-4558911804712035699",
       "original_id": "2025-11-14 21:30:00_美国：零售总额：季调(报告期:2025年09月)",
       "event_date": "2025-11-14",
       "event_time": "21:30:00",
@@ -502,12 +717,43 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-23",
+      "discovery_date": "2025-10-24",
       "raw_data": {
         "Name": "美国：零售总额：季调(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-10-23T00:51:12.519766"
+      "created_at": "2025-10-24T00:46:51.651869"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_hyhy_10866104",
+      "original_id": "10866104",
+      "event_date": "2025-11-14",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025中国高新技术论坛",
+      "content": "由深圳市人民政府主办的第二十七届高交会于2025年11月14日-16日在深圳举行。作为高交会的重要论坛“中国高新技术论坛”于11月14日举办,论坛主题为:人工智能赋能未来产业发展”。",
+      "category": "行业会议",
+      "importance": 3,
+      "country": "中国",
+      "city": "深圳",
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-24",
+      "raw_data": {
+        "fe_code": "10866104",
+        "fe_name": "2025中国高新技术论坛",
+        "start_date": "2025-11-14",
+        "end_date": "2025-11-14",
+        "fe_type": "高峰论坛",
+        "sponsor": "高交会组委会办公室,中关村产融合作与转型促进会",
+        "city": "深圳",
+        "content": "由深圳市人民政府主办的第二十七届高交会于2025年11月14日-16日在深圳举行。作为高交会的重要论坛“中国高新技术论坛”于11月14日举办,论坛主题为:人工智能赋能未来产业发展”。"
+      },
+      "created_at": "2025-10-24T00:46:51.654355"
     }
   ]
 }
