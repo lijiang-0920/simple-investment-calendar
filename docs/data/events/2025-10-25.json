@@ -1,12 +1,13 @@
 {
   "date": "2025-10-25",
-  "total_events": 7,
-  "new_events": 3,
+  "total_events": 13,
+  "new_events": 6,
   "platforms": {
     "cls": 1,
     "jiuyangongshe": 3,
     "tonghuashun": 1,
-    "investing": 2
+    "investing": 2,
+    "eastmoney": 6
   },
   "events": [
     {
@@ -26,8 +27,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-24",
+      "is_new": false,
+      "discovery_date": "2025-10-25",
       "raw_data": {
         "id": 328807,
         "calendar_time": "2025-10-25 00:00:00",
@@ -43,7 +44,7 @@
         "holiday": null,
         "title": "2025卫星应用大会将于10月25日至27日举办"
       },
-      "created_at": "2025-10-24T00:46:30.145349"
+      "created_at": "2025-10-25T00:48:58.334030"
     },
     {
       "platform": "jiuyangongshe",
@@ -63,7 +64,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-24",
+      "discovery_date": "2025-10-25",
       "raw_data": {
         "article_id": "cd97d32dfa484096adf9f7c625202082",
         "user_id": "1",
@@ -88,7 +89,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-10-24T00:46:32.333324"
+      "created_at": "2025-10-25T00:49:00.562539"
     },
     {
       "platform": "jiuyangongshe",
@@ -108,7 +109,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-24",
+      "discovery_date": "2025-10-25",
       "raw_data": {
         "article_id": "7348245f818844d1bbf13f814c15a218",
         "user_id": "1",
@@ -133,7 +134,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-10-24T00:46:32.333333"
+      "created_at": "2025-10-25T00:49:00.562570"
     },
     {
       "platform": "jiuyangongshe",
@@ -154,8 +155,8 @@
         "低空经济"
       ],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-24",
+      "is_new": false,
+      "discovery_date": "2025-10-25",
       "raw_data": {
         "article_id": "389e0ba6789a4bbdb95ea50d7322637d",
         "user_id": "1",
@@ -185,7 +186,7 @@
           ]
         }
       },
-      "created_at": "2025-10-24T00:46:32.333340"
+      "created_at": "2025-10-25T00:49:00.562580"
     },
     {
       "platform": "tonghuashun",
@@ -204,8 +205,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-24",
+      "is_new": false,
+      "discovery_date": "2025-10-25",
       "raw_data": {
         "event": [
           "2025卫星应用大会将于10月25日至27日举办",
@@ -215,7 +216,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-10-24T00:46:37.268058"
+      "created_at": "2025-10-25T00:49:05.860824"
     },
     {
       "platform": "investing",
@@ -225,7 +226,7 @@
       "event_time": "01:00",
       "event_datetime": "2025/10/25 01:00:00",
       "title": "美国当周贝克休斯石油钻井总数(口)",
-      "content": "前值: 418",
+      "content": "实际值: 420 | 前值: 418",
       "category": null,
       "importance": 2,
       "country": "美国",
@@ -235,7 +236,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-24",
+      "discovery_date": "2025-10-25",
       "raw_data": {
         "event_id": "eventRowId_533918",
         "event_attr_id": "",
@@ -244,9 +245,10 @@
         "country": "美国",
         "importance": 2,
         "event_name": "美国当周贝克休斯石油钻井总数(口)",
+        "actual": "420",
         "previous": "418"
       },
-      "created_at": "2025-10-24T00:46:40.715662"
+      "created_at": "2025-10-25T00:49:09.338173"
     },
     {
       "platform": "investing",
@@ -256,7 +258,7 @@
       "event_time": "01:00",
       "event_datetime": "2025/10/25 01:00:00",
       "title": "美国当周贝克休斯总钻井总数(口)",
-      "content": "前值: 548",
+      "content": "实际值: 550 | 前值: 548",
       "category": null,
       "importance": 2,
       "country": "美国",
@@ -266,7 +268,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-24",
+      "discovery_date": "2025-10-25",
       "raw_data": {
         "event_id": "eventRowId_533919",
         "event_attr_id": "",
@@ -275,9 +277,186 @@
         "country": "美国",
         "importance": 2,
         "event_name": "美国当周贝克休斯总钻井总数(口)",
+        "actual": "550",
         "previous": "548"
       },
-      "created_at": "2025-10-24T00:46:40.715806"
+      "created_at": "2025-10-25T00:49:09.338309"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_hsgg_002047_20251025_0",
+      "original_id": "002047",
+      "event_date": "2025-10-25",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "*ST宝鹰发布公告",
+      "content": "股票代码: 002047, 股票名称: *ST宝鹰",
+      "category": "A股公告",
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "002047"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-25",
+      "raw_data": {
+        "stock_code": "002047",
+        "stock_name": "*ST宝鹰",
+        "date": "2025-10-25",
+        "total_count": 4546
+      },
+      "created_at": "2025-10-25T00:49:20.474365"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_hsgg_601878_20251025_1",
+      "original_id": "601878",
+      "event_date": "2025-10-25",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "浙商证券发布公告",
+      "content": "股票代码: 601878, 股票名称: 浙商证券",
+      "category": "A股公告",
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "601878"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-25",
+      "raw_data": {
+        "stock_code": "601878",
+        "stock_name": "浙商证券",
+        "date": "2025-10-25",
+        "total_count": 4546
+      },
+      "created_at": "2025-10-25T00:49:20.474373"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_hsgg_000810_20251025_2",
+      "original_id": "000810",
+      "event_date": "2025-10-25",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "创维数字发布公告",
+      "content": "股票代码: 000810, 股票名称: 创维数字",
+      "category": "A股公告",
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "000810"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-25",
+      "raw_data": {
+        "stock_code": "000810",
+        "stock_name": "创维数字",
+        "date": "2025-10-25",
+        "total_count": 4546
+      },
+      "created_at": "2025-10-25T00:49:20.474380"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_hsgg_300472_20251025_3",
+      "original_id": "300472",
+      "event_date": "2025-10-25",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "*ST新元发布公告",
+      "content": "股票代码: 300472, 股票名称: *ST新元",
+      "category": "A股公告",
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "300472"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-25",
+      "raw_data": {
+        "stock_code": "300472",
+        "stock_name": "*ST新元",
+        "date": "2025-10-25",
+        "total_count": 4546
+      },
+      "created_at": "2025-10-25T00:49:20.474387"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_hsgg_603261_20251025_4",
+      "original_id": "603261",
+      "event_date": "2025-10-25",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "*ST立航发布公告",
+      "content": "股票代码: 603261, 股票名称: *ST立航",
+      "category": "A股公告",
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "603261"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-25",
+      "raw_data": {
+        "stock_code": "603261",
+        "stock_name": "*ST立航",
+        "date": "2025-10-25",
+        "total_count": 4546
+      },
+      "created_at": "2025-10-25T00:49:20.474394"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_hyhy_10866164",
+      "original_id": "10866164",
+      "event_date": "2025-10-25",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025卫星应用大会",
+      "content": "为促进卫星应用技术与产业的深度融合,推动空天地海一体化信息网络发展,探讨人工智能时代下卫星应用的新模式与新业态,由中国通信学会主办、中国卫通集团股份有限公司支持的“2025卫星应用大会”定于2025年10月在北京举行。",
+      "category": "行业会议",
+      "importance": 3,
+      "country": "中国",
+      "city": "北京",
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-25",
+      "raw_data": {
+        "fe_code": "10866164",
+        "fe_name": "2025卫星应用大会",
+        "start_date": "2025-10-25",
+        "end_date": "2025-10-27",
+        "fe_type": "行业会议",
+        "sponsor": "中国通信学会",
+        "city": "北京",
+        "content": "为促进卫星应用技术与产业的深度融合,推动空天地海一体化信息网络发展,探讨人工智能时代下卫星应用的新模式与新业态,由中国通信学会主办、中国卫通集团股份有限公司支持的“2025卫星应用大会”定于2025年10月在北京举行。"
+      },
+      "created_at": "2025-10-25T00:49:20.477773"
     }
   ]
 }
