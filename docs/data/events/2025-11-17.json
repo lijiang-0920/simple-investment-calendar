@@ -1,12 +1,11 @@
 {
   "date": "2025-11-17",
-  "total_events": 9,
+  "total_events": 3,
   "new_events": 0,
   "platforms": {
     "cls": 1,
     "jiuyangongshe": 1,
-    "tonghuashun": 1,
-    "eastmoney": 6
+    "tonghuashun": 1
   },
   "events": [
     {
@@ -27,7 +26,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-25",
+      "discovery_date": "2025-10-26",
       "raw_data": {
         "id": 328139,
         "calendar_time": "2025-11-17 00:00:00",
@@ -43,7 +42,7 @@
         "holiday": null,
         "title": "2025中国国际光伏与储能产业大会将于11月17日至20日举办"
       },
-      "created_at": "2025-10-25T00:48:58.334545"
+      "created_at": "2025-10-26T00:54:24.752972"
     },
     {
       "platform": "jiuyangongshe",
@@ -63,13 +62,13 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-25",
+      "discovery_date": "2025-10-26",
       "raw_data": {
         "article_id": "b37463f915db45c8831020d4790b9a94",
         "user_id": "1",
         "title": "2025中国国际光伏与储能产业大会",
         "content": "",
-        "like_count": 0,
+        "like_count": 1,
         "comment_count": 0,
         "forward_count": 0,
         "is_like": 0,
@@ -88,7 +87,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-10-25T00:49:02.304320"
+      "created_at": "2025-10-26T00:54:28.397841"
     },
     {
       "platform": "tonghuashun",
@@ -113,7 +112,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-25",
+      "discovery_date": "2025-10-26",
       "raw_data": {
         "event": [
           "2025中国国际光伏与储能产业大会将于11月17日至20日举办",
@@ -129,169 +128,7 @@
           }
         ]
       },
-      "created_at": "2025-10-25T00:49:06.996803"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251117000000_-1170095886171902379",
-      "original_id": "2025-11-17 00:00:00_泰国：GDP：不变价：同比(报告期:2025年09月)",
-      "event_date": "2025-11-17",
-      "event_time": null,
-      "event_datetime": "2025-11-17 00:00:00",
-      "title": "泰国：GDP：不变价：同比(报告期:2025年09月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "泰国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-25",
-      "raw_data": {
-        "Name": "泰国：GDP：不变价：同比(报告期:2025年09月)",
-        "City": "泰国"
-      },
-      "created_at": "2025-10-25T00:49:20.475627"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251117213000_4251957936152026518",
-      "original_id": "2025-11-17 21:30:00_加拿大：CPI：同比(报告期:2025年10月)",
-      "event_date": "2025-11-17",
-      "event_time": "21:30:00",
-      "event_datetime": "2025-11-17 21:30:00",
-      "title": "加拿大：CPI：同比(报告期:2025年10月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "加拿大",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-25",
-      "raw_data": {
-        "Name": "加拿大：CPI：同比(报告期:2025年10月)",
-        "City": "加拿大"
-      },
-      "created_at": "2025-10-25T00:49:20.475635"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251117213000_-7304646627946327992",
-      "original_id": "2025-11-17 21:30:00_加拿大：核心CPI：环比(报告期:2025年10月)",
-      "event_date": "2025-11-17",
-      "event_time": "21:30:00",
-      "event_datetime": "2025-11-17 21:30:00",
-      "title": "加拿大：核心CPI：环比(报告期:2025年10月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "加拿大",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-25",
-      "raw_data": {
-        "Name": "加拿大：核心CPI：环比(报告期:2025年10月)",
-        "City": "加拿大"
-      },
-      "created_at": "2025-10-25T00:49:20.475642"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251117213000_5587269473726863873",
-      "original_id": "2025-11-17 21:30:00_加拿大：核心CPI：同比(报告期:2025年10月)",
-      "event_date": "2025-11-17",
-      "event_time": "21:30:00",
-      "event_datetime": "2025-11-17 21:30:00",
-      "title": "加拿大：核心CPI：同比(报告期:2025年10月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "加拿大",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-25",
-      "raw_data": {
-        "Name": "加拿大：核心CPI：同比(报告期:2025年10月)",
-        "City": "加拿大"
-      },
-      "created_at": "2025-10-25T00:49:20.475649"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_hyhy_10866068",
-      "original_id": "10866068",
-      "event_date": "2025-11-17",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "2025中国国际光伏与储能产业大会将于11月17日至20日举办",
-      "content": "第八届中国国际光伏与储能产业大会以“光储同辉智创未来”为主题,定于2025年11月17日-20日在中国成都举行。该大会由大会组委会与光伏见闻联合主办,是全球前三的光储行业国际盛会之一。大会将吸引全球数千家光伏与储能企业参与,举办包括第二届光伏固废资源回收技术研讨会在内的多场平行会议,深入探讨全球能源转型与“双碳”战略发展路径。",
-      "category": "行业会议",
-      "importance": 3,
-      "country": "中国",
-      "city": "成都",
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-25",
-      "raw_data": {
-        "fe_code": "10866068",
-        "fe_name": "2025中国国际光伏与储能产业大会将于11月17日至20日举办",
-        "start_date": "2025-11-17",
-        "end_date": "2025-11-20",
-        "fe_type": "行业会议",
-        "sponsor": "大会组委会,光伏见闻",
-        "city": "成都",
-        "content": "第八届中国国际光伏与储能产业大会以“光储同辉智创未来”为主题,定于2025年11月17日-20日在中国成都举行。该大会由大会组委会与光伏见闻联合主办,是全球前三的光储行业国际盛会之一。大会将吸引全球数千家光伏与储能企业参与,举办包括第二届光伏固废资源回收技术研讨会在内的多场平行会议,深入探讨全球能源转型与“双碳”战略发展路径。"
-      },
-      "created_at": "2025-10-25T00:49:20.478030"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_hyhy_10866068",
-      "original_id": "10866068",
-      "event_date": "2025-11-17",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "2025中国国际光伏与储能产业大会",
-      "content": "第八届中国国际光伏与储能产业大会以“光储同辉智创未来”为主题,定于2025年11月17日-20日在中国成都举行。该大会由大会组委会与光伏见闻联合主办,是全球前三的光储行业国际盛会之一。大会将吸引全球数千家光伏与储能企业参与,举办包括第二届光伏固废资源回收技术研讨会在内的多场平行会议,深入探讨全球能源转型与“双碳”战略发展路径。",
-      "category": "行业会议",
-      "importance": 3,
-      "country": "中国",
-      "city": "成都",
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-10-25",
-      "raw_data": {
-        "fe_code": "10866068",
-        "fe_name": "2025中国国际光伏与储能产业大会",
-        "start_date": "2025-11-17",
-        "end_date": "2025-11-20",
-        "fe_type": "行业会议",
-        "sponsor": "大会组委会,光伏见闻",
-        "city": "成都",
-        "content": "第八届中国国际光伏与储能产业大会以“光储同辉智创未来”为主题,定于2025年11月17日-20日在中国成都举行。该大会由大会组委会与光伏见闻联合主办,是全球前三的光储行业国际盛会之一。大会将吸引全球数千家光伏与储能企业参与,举办包括第二届光伏固废资源回收技术研讨会在内的多场平行会议,深入探讨全球能源转型与“双碳”战略发展路径。"
-      },
-      "created_at": "2025-10-25T00:49:20.478059"
+      "created_at": "2025-10-26T00:54:32.772418"
     }
   ]
 }
