@@ -1,14 +1,67 @@
 {
   "date": "2025-11-21",
-  "total_events": 10,
-  "new_events": 10,
+  "total_events": 11,
+  "new_events": 1,
   "platforms": {
+    "jiuyangongshe": 1,
     "eastmoney": 10
   },
   "events": [
     {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_e8115b7736f64baf91c569ddfbb9069b_cbcba01c519a4fdd8c7d58caf12189f2_20251121",
+      "original_id": "e8115b7736f64baf91c569ddfbb9069b",
+      "event_date": "2025-11-21",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "中国稀土学会2025学术年会暨稀土新材料与仪器设备展览会",
+      "content": "",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [
+        "稀土"
+      ],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-28",
+      "raw_data": {
+        "article_id": "e8115b7736f64baf91c569ddfbb9069b",
+        "user_id": "1",
+        "title": "中国稀土学会2025学术年会暨稀土新材料与仪器设备展览会",
+        "content": "",
+        "like_count": 1,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "e8115b7736f64baf91c569ddfbb9069b",
+          "timeline_id": "cbcba01c519a4fdd8c7d58caf12189f2",
+          "date": "2025-11-21",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-10-27 22:28:38",
+          "theme_list": [
+            {
+              "timeline_theme_id": "935b9006ca8448a38778e9ab79fc2924",
+              "name": "稀土"
+            }
+          ]
+        }
+      },
+      "created_at": "2025-10-28T00:49:22.983789"
+    },
+    {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251121050000_1415900431025324350",
+      "event_id": "em_jjsj_20251121050000_2713588786410017406",
       "original_id": "2025-11-21 05:00:00_韩国：PPI：同比(报告期:2025年10月)",
       "event_date": "2025-11-21",
       "event_time": "05:00:00",
@@ -23,17 +76,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-27",
+      "is_new": false,
+      "discovery_date": "2025-10-28",
       "raw_data": {
         "Name": "韩国：PPI：同比(报告期:2025年10月)",
         "City": "韩国"
       },
-      "created_at": "2025-10-27T00:56:34.765012"
+      "created_at": "2025-10-28T00:49:40.535193"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251121050000_4058099569616193847",
+      "event_id": "em_jjsj_20251121050000_8247911649431486575",
       "original_id": "2025-11-21 05:00:00_韩国：PPI：环比 (报告期:2025年10月)",
       "event_date": "2025-11-21",
       "event_time": "05:00:00",
@@ -48,17 +101,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-27",
+      "is_new": false,
+      "discovery_date": "2025-10-28",
       "raw_data": {
         "Name": "韩国：PPI：环比 (报告期:2025年10月)",
         "City": "韩国"
       },
-      "created_at": "2025-10-27T00:56:34.765020"
+      "created_at": "2025-10-28T00:49:40.535200"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251121073000_7940065228683632261",
+      "event_id": "em_jjsj_20251121073000_-4001606672736775252",
       "original_id": "2025-11-21 07:30:00_日本：CPI：同比(报告期:2025年10月)",
       "event_date": "2025-11-21",
       "event_time": "07:30:00",
@@ -73,17 +126,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-27",
+      "is_new": false,
+      "discovery_date": "2025-10-28",
       "raw_data": {
         "Name": "日本：CPI：同比(报告期:2025年10月)",
         "City": "日本"
       },
-      "created_at": "2025-10-27T00:56:34.765029"
+      "created_at": "2025-10-28T00:49:40.535207"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251121073000_9124998183350358886",
+      "event_id": "em_jjsj_20251121073000_1133765712995805890",
       "original_id": "2025-11-21 07:30:00_日本：核心CPI：同比(报告期:2025年10月)",
       "event_date": "2025-11-21",
       "event_time": "07:30:00",
@@ -98,17 +151,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-27",
+      "is_new": false,
+      "discovery_date": "2025-10-28",
       "raw_data": {
         "Name": "日本：核心CPI：同比(报告期:2025年10月)",
         "City": "日本"
       },
-      "created_at": "2025-10-27T00:56:34.765037"
+      "created_at": "2025-10-28T00:49:40.535214"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251121120000_-3502772405767402160",
+      "event_id": "em_jjsj_20251121120000_-4222033455430830942",
       "original_id": "2025-11-21 12:00:00_马来西亚：CPI：同比(报告期:2025年10月)",
       "event_date": "2025-11-21",
       "event_time": "12:00:00",
@@ -123,17 +176,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-27",
+      "is_new": false,
+      "discovery_date": "2025-10-28",
       "raw_data": {
         "Name": "马来西亚：CPI：同比(报告期:2025年10月)",
         "City": "马来西亚"
       },
-      "created_at": "2025-10-27T00:56:34.765046"
+      "created_at": "2025-10-28T00:49:40.535222"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251121150000_1158190399991497263",
+      "event_id": "em_jjsj_20251121150000_-7135989745048703490",
       "original_id": "2025-11-21 15:00:00_英国：政府经常账预算(报告期:2025年10月)",
       "event_date": "2025-11-21",
       "event_time": "15:00:00",
@@ -148,17 +201,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-27",
+      "is_new": false,
+      "discovery_date": "2025-10-28",
       "raw_data": {
         "Name": "英国：政府经常账预算(报告期:2025年10月)",
         "City": "英国"
       },
-      "created_at": "2025-10-27T00:56:34.765055"
+      "created_at": "2025-10-28T00:49:40.535229"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251121150000_8459795943342568871",
+      "event_id": "em_jjsj_20251121150000_-994515334533472597",
       "original_id": "2025-11-21 15:00:00_英国：政府净借款(报告期:2025年10月)",
       "event_date": "2025-11-21",
       "event_time": "15:00:00",
@@ -173,17 +226,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-27",
+      "is_new": false,
+      "discovery_date": "2025-10-28",
       "raw_data": {
         "Name": "英国：政府净借款(报告期:2025年10月)",
         "City": "英国"
       },
-      "created_at": "2025-10-27T00:56:34.765063"
+      "created_at": "2025-10-28T00:49:40.535236"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251121150000_-2182708088771094367",
+      "event_id": "em_jjsj_20251121150000_-3049221892158614320",
       "original_id": "2025-11-21 15:00:00_英国：零售指数含汽车燃料：现价：季调：同比(报告期:2025年10月)",
       "event_date": "2025-11-21",
       "event_time": "15:00:00",
@@ -198,17 +251,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-27",
+      "is_new": false,
+      "discovery_date": "2025-10-28",
       "raw_data": {
         "Name": "英国：零售指数含汽车燃料：现价：季调：同比(报告期:2025年10月)",
         "City": "英国"
       },
-      "created_at": "2025-10-27T00:56:34.765071"
+      "created_at": "2025-10-28T00:49:40.535243"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251121150000_143564056310053134",
+      "event_id": "em_jjsj_20251121150000_-410798374017878110",
       "original_id": "2025-11-21 15:00:00_英国：零售销售数量指数：所有的零售：季调：环比(报告期:2025年10月)",
       "event_date": "2025-11-21",
       "event_time": "15:00:00",
@@ -223,17 +276,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-27",
+      "is_new": false,
+      "discovery_date": "2025-10-28",
       "raw_data": {
         "Name": "英国：零售销售数量指数：所有的零售：季调：环比(报告期:2025年10月)",
         "City": "英国"
       },
-      "created_at": "2025-10-27T00:56:34.765079"
+      "created_at": "2025-10-28T00:49:40.535250"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251121150000_-3858932203657085877",
+      "event_id": "em_jjsj_20251121150000_-5135029177016957094",
       "original_id": "2025-11-21 15:00:00_英国：零售销售数量指数：所有的零售：季调：同比(报告期:2025年10月)",
       "event_date": "2025-11-21",
       "event_time": "15:00:00",
@@ -248,13 +301,13 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-27",
+      "is_new": false,
+      "discovery_date": "2025-10-28",
       "raw_data": {
         "Name": "英国：零售销售数量指数：所有的零售：季调：同比(报告期:2025年10月)",
         "City": "英国"
       },
-      "created_at": "2025-10-27T00:56:34.765087"
+      "created_at": "2025-10-28T00:49:40.535257"
     }
   ]
 }
