@@ -1,11 +1,12 @@
 {
   "date": "2025-11-18",
-  "total_events": 23,
-  "new_events": 1,
+  "total_events": 27,
+  "new_events": 4,
   "platforms": {
     "cls": 1,
     "jiuyangongshe": 1,
     "tonghuashun": 3,
+    "investing": 4,
     "eastmoney": 18
   },
   "events": [
@@ -27,7 +28,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-28",
+      "discovery_date": "2025-10-29",
       "raw_data": {
         "id": 328140,
         "calendar_time": "2025-11-18 00:00:00",
@@ -43,7 +44,7 @@
         "holiday": null,
         "title": "2025中国国际零售创新大会定于11月18日至20日在上海举行"
       },
-      "created_at": "2025-10-28T00:49:18.123876"
+      "created_at": "2025-10-29T00:54:06.218519"
     },
     {
       "platform": "jiuyangongshe",
@@ -62,8 +63,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-28",
+      "is_new": false,
+      "discovery_date": "2025-10-29",
       "raw_data": {
         "article_id": "6a1e9af177714b4da6d4b82e32f4d253",
         "user_id": "1",
@@ -88,7 +89,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-10-28T00:49:22.983761"
+      "created_at": "2025-10-29T00:54:10.635160"
     },
     {
       "platform": "tonghuashun",
@@ -108,7 +109,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-28",
+      "discovery_date": "2025-10-29",
       "raw_data": {
         "event": [
           "2025中国国际零售创新大会定于11月18日至20日在上海举行",
@@ -118,7 +119,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-10-28T00:49:27.946565"
+      "created_at": "2025-10-29T00:54:15.914313"
     },
     {
       "platform": "tonghuashun",
@@ -143,7 +144,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-28",
+      "discovery_date": "2025-10-29",
       "raw_data": {
         "event": [
           "2025中国国际零售创新大会”定于11月18日至20日在上海举行",
@@ -159,7 +160,7 @@
           }
         ]
       },
-      "created_at": "2025-10-28T00:49:27.946574"
+      "created_at": "2025-10-29T00:54:15.914322"
     },
     {
       "platform": "tonghuashun",
@@ -184,7 +185,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-28",
+      "discovery_date": "2025-10-29",
       "raw_data": {
         "event": [
           "上海国际储能技术应用展览会",
@@ -200,11 +201,135 @@
           }
         ]
       },
-      "created_at": "2025-10-28T00:49:27.946583"
+      "created_at": "2025-10-29T00:54:15.914331"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251118100000",
+      "original_id": "eventRowId_534666",
+      "event_date": "2025-11-18",
+      "event_time": "10:00",
+      "event_datetime": "2025/11/18 10:00:00",
+      "title": "新西兰政府债券海外投资者所持比例(%)  (十月)",
+      "content": "前值: 57.80%",
+      "category": null,
+      "importance": 1,
+      "country": "新西兰",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-29",
+      "raw_data": {
+        "event_id": "eventRowId_534666",
+        "event_attr_id": "",
+        "datetime": "2025/11/18 10:00:00",
+        "time": "10:00",
+        "country": "新西兰",
+        "importance": 1,
+        "event_name": "新西兰政府债券海外投资者所持比例(%)  (十月)",
+        "previous": "57.80%"
+      },
+      "created_at": "2025-10-29T00:54:20.911034"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251118163000",
+      "original_id": "eventRowId_534690",
+      "event_date": "2025-11-18",
+      "event_time": "16:30",
+      "event_datetime": "2025/11/18 16:30:00",
+      "title": "中国香港季调后失业率(%)  (十月)",
+      "content": "前值: 3.9%",
+      "category": null,
+      "importance": 1,
+      "country": "香港",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-29",
+      "raw_data": {
+        "event_id": "eventRowId_534690",
+        "event_attr_id": "",
+        "datetime": "2025/11/18 16:30:00",
+        "time": "16:30",
+        "country": "香港",
+        "importance": 1,
+        "event_name": "中国香港季调后失业率(%)  (十月)",
+        "previous": "3.9%"
+      },
+      "created_at": "2025-10-29T00:54:20.911207"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251118211500",
+      "original_id": "eventRowId_534699",
+      "event_date": "2025-11-18",
+      "event_time": "21:15",
+      "event_datetime": "2025/11/18 21:15:00",
+      "title": "加拿大新屋开工年化总数(户)  (十月)",
+      "content": "前值: 279.2K",
+      "category": null,
+      "importance": 2,
+      "country": "加拿大",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-29",
+      "raw_data": {
+        "event_id": "eventRowId_534699",
+        "event_attr_id": "",
+        "datetime": "2025/11/18 21:15:00",
+        "time": "21:15",
+        "country": "加拿大",
+        "importance": 2,
+        "event_name": "加拿大新屋开工年化总数(户)  (十月)",
+        "previous": "279.2K"
+      },
+      "created_at": "2025-10-29T00:54:20.911330"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251118230000",
+      "original_id": "eventRowId_534700",
+      "event_date": "2025-11-18",
+      "event_time": "23:00",
+      "event_datetime": "2025/11/18 23:00:00",
+      "title": "美国NAHB房产市场指数  (十一月)",
+      "content": "前值: 37",
+      "category": null,
+      "importance": 1,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-29",
+      "raw_data": {
+        "event_id": "eventRowId_534700",
+        "event_attr_id": "",
+        "datetime": "2025/11/18 23:00:00",
+        "time": "23:00",
+        "country": "美国",
+        "importance": 1,
+        "event_name": "美国NAHB房产市场指数  (十一月)",
+        "previous": "37"
+      },
+      "created_at": "2025-10-29T00:54:20.911450"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251118163000_3906291416015342335",
+      "event_id": "em_jjsj_20251118163000_1394370950824450537",
       "original_id": "2025-11-18 16:30:00_中国香港：失业率：季调(报告期:2025年10月)",
       "event_date": "2025-11-18",
       "event_time": "16:30:00",
@@ -220,16 +345,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-28",
+      "discovery_date": "2025-10-29",
       "raw_data": {
         "Name": "中国香港：失业率：季调(报告期:2025年10月)",
         "City": "中国香港"
       },
-      "created_at": "2025-10-28T00:49:40.534924"
+      "created_at": "2025-10-29T00:54:28.286768"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251118180000_8948208778786787550",
+      "event_id": "em_jjsj_20251118180000_2151158133092495225",
       "original_id": "2025-11-18 18:00:00_德国：HICP：同比(报告期:2025年10月)",
       "event_date": "2025-11-18",
       "event_time": "18:00:00",
@@ -245,16 +370,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-28",
+      "discovery_date": "2025-10-29",
       "raw_data": {
         "Name": "德国：HICP：同比(报告期:2025年10月)",
         "City": "德国"
       },
-      "created_at": "2025-10-28T00:49:40.534931"
+      "created_at": "2025-10-29T00:54:28.286805"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251118180000_3552143363780823228",
+      "event_id": "em_jjsj_20251118180000_-4305339318909608405",
       "original_id": "2025-11-18 18:00:00_德国：HICP：环比(报告期:2025年10月)",
       "event_date": "2025-11-18",
       "event_time": "18:00:00",
@@ -270,16 +395,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-28",
+      "discovery_date": "2025-10-29",
       "raw_data": {
         "Name": "德国：HICP：环比(报告期:2025年10月)",
         "City": "德国"
       },
-      "created_at": "2025-10-28T00:49:40.534938"
+      "created_at": "2025-10-29T00:54:28.286814"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251118180000_-7311003225462098666",
+      "event_id": "em_jjsj_20251118180000_-7335128207429247186",
       "original_id": "2025-11-18 18:00:00_意大利：HICP：环比(报告期:2025年10月)",
       "event_date": "2025-11-18",
       "event_time": "18:00:00",
@@ -295,16 +420,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-28",
+      "discovery_date": "2025-10-29",
       "raw_data": {
         "Name": "意大利：HICP：环比(报告期:2025年10月)",
         "City": "意大利"
       },
-      "created_at": "2025-10-28T00:49:40.534946"
+      "created_at": "2025-10-29T00:54:28.286822"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251118180000_404963613954543249",
+      "event_id": "em_jjsj_20251118180000_-349881000865645165",
       "original_id": "2025-11-18 18:00:00_意大利：HICP：同比(报告期:2025年10月)",
       "event_date": "2025-11-18",
       "event_time": "18:00:00",
@@ -320,16 +445,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-28",
+      "discovery_date": "2025-10-29",
       "raw_data": {
         "Name": "意大利：HICP：同比(报告期:2025年10月)",
         "City": "意大利"
       },
-      "created_at": "2025-10-28T00:49:40.534953"
+      "created_at": "2025-10-29T00:54:28.286831"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251118180000_1546285034100129818",
+      "event_id": "em_jjsj_20251118180000_3715636298900929948",
       "original_id": "2025-11-18 18:00:00_欧元区：CPI(报告期:2025年10月)",
       "event_date": "2025-11-18",
       "event_time": "18:00:00",
@@ -345,16 +470,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-28",
+      "discovery_date": "2025-10-29",
       "raw_data": {
         "Name": "欧元区：CPI(报告期:2025年10月)",
         "City": "欧盟"
       },
-      "created_at": "2025-10-28T00:49:40.534961"
+      "created_at": "2025-10-29T00:54:28.286841"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251118180000_1441773128906875536",
+      "event_id": "em_jjsj_20251118180000_-1857680861233502446",
       "original_id": "2025-11-18 18:00:00_欧元区：CPI：当月同比(报告期:2025年10月)",
       "event_date": "2025-11-18",
       "event_time": "18:00:00",
@@ -370,16 +495,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-28",
+      "discovery_date": "2025-10-29",
       "raw_data": {
         "Name": "欧元区：CPI：当月同比(报告期:2025年10月)",
         "City": "欧盟"
       },
-      "created_at": "2025-10-28T00:49:40.534968"
+      "created_at": "2025-10-29T00:54:28.286848"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251118180000_-182554190029283641",
+      "event_id": "em_jjsj_20251118180000_-465944369739520171",
       "original_id": "2025-11-18 18:00:00_欧元区:CPI:环比(报告期:2025年10月)",
       "event_date": "2025-11-18",
       "event_time": "18:00:00",
@@ -395,16 +520,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-28",
+      "discovery_date": "2025-10-29",
       "raw_data": {
         "Name": "欧元区:CPI:环比(报告期:2025年10月)",
         "City": "欧盟"
       },
-      "created_at": "2025-10-28T00:49:40.534976"
+      "created_at": "2025-10-29T00:54:28.286855"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251118180000_-6408218102847586577",
+      "event_id": "em_jjsj_20251118180000_9030458160621090417",
       "original_id": "2025-11-18 18:00:00_欧盟：核心CPI：环比(报告期:2025年10月)",
       "event_date": "2025-11-18",
       "event_time": "18:00:00",
@@ -420,16 +545,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-28",
+      "discovery_date": "2025-10-29",
       "raw_data": {
         "Name": "欧盟：核心CPI：环比(报告期:2025年10月)",
         "City": "欧盟"
       },
-      "created_at": "2025-10-28T00:49:40.535003"
+      "created_at": "2025-10-29T00:54:28.286863"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251118180000_-128934683515794560",
+      "event_id": "em_jjsj_20251118180000_2544739367884102838",
       "original_id": "2025-11-18 18:00:00_欧元区：核心CPI：当月同比(报告期:2025年10月)",
       "event_date": "2025-11-18",
       "event_time": "18:00:00",
@@ -445,16 +570,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-28",
+      "discovery_date": "2025-10-29",
       "raw_data": {
         "Name": "欧元区：核心CPI：当月同比(报告期:2025年10月)",
         "City": "欧盟"
       },
-      "created_at": "2025-10-28T00:49:40.535010"
+      "created_at": "2025-10-29T00:54:28.286871"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251118180000_5783744415674915539",
+      "event_id": "em_jjsj_20251118180000_1664238989212394220",
       "original_id": "2025-11-18 18:00:00_欧元区：核心CPI：环比(报告期:2025年10月)",
       "event_date": "2025-11-18",
       "event_time": "18:00:00",
@@ -470,16 +595,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-28",
+      "discovery_date": "2025-10-29",
       "raw_data": {
         "Name": "欧元区：核心CPI：环比(报告期:2025年10月)",
         "City": "欧盟"
       },
-      "created_at": "2025-10-28T00:49:40.535017"
+      "created_at": "2025-10-29T00:54:28.286878"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251118210000_-5880529425472001247",
+      "event_id": "em_jjsj_20251118210000_-6984454681360859777",
       "original_id": "2025-11-18 21:00:00_美国：月度国际资本流动：净额(报告期:2025年09月)",
       "event_date": "2025-11-18",
       "event_time": "21:00:00",
@@ -495,16 +620,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-28",
+      "discovery_date": "2025-10-29",
       "raw_data": {
         "Name": "美国：月度国际资本流动：净额(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-10-28T00:49:40.535025"
+      "created_at": "2025-10-29T00:54:28.286888"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251118221500_-1636667350417308892",
+      "event_id": "em_jjsj_20251118221500_1208422261648285249",
       "original_id": "2025-11-18 22:15:00_美国：工业产出指数：制造业：季调：环比(报告期:2025年10月)",
       "event_date": "2025-11-18",
       "event_time": "22:15:00",
@@ -520,16 +645,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-28",
+      "discovery_date": "2025-10-29",
       "raw_data": {
         "Name": "美国：工业产出指数：制造业：季调：环比(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-10-28T00:49:40.535032"
+      "created_at": "2025-10-29T00:54:28.286896"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251118221500_-7817075136970352329",
+      "event_id": "em_jjsj_20251118221500_7784389170528601943",
       "original_id": "2025-11-18 22:15:00_美国：全部工业产能利用率(报告期:2025年10月)",
       "event_date": "2025-11-18",
       "event_time": "22:15:00",
@@ -545,16 +670,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-28",
+      "discovery_date": "2025-10-29",
       "raw_data": {
         "Name": "美国：全部工业产能利用率(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-10-28T00:49:40.535039"
+      "created_at": "2025-10-29T00:54:28.286903"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251118221500_1870600942765702425",
+      "event_id": "em_jjsj_20251118221500_-6378685816442856784",
       "original_id": "2025-11-18 22:15:00_美国：产能利用率：制造业(报告期:2025年10月)",
       "event_date": "2025-11-18",
       "event_time": "22:15:00",
@@ -570,16 +695,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-28",
+      "discovery_date": "2025-10-29",
       "raw_data": {
         "Name": "美国：产能利用率：制造业(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-10-28T00:49:40.535046"
+      "created_at": "2025-10-29T00:54:28.286910"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251118221500_7452305616976349260",
+      "event_id": "em_jjsj_20251118221500_-755927825890923330",
       "original_id": "2025-11-18 22:15:00_美国：工业总体产出指数：环比(报告期:2025年10月)",
       "event_date": "2025-11-18",
       "event_time": "22:15:00",
@@ -595,12 +720,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-28",
+      "discovery_date": "2025-10-29",
       "raw_data": {
         "Name": "美国：工业总体产出指数：环比(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-10-28T00:49:40.535052"
+      "created_at": "2025-10-29T00:54:28.286918"
     },
     {
       "platform": "eastmoney",
@@ -620,7 +745,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-28",
+      "discovery_date": "2025-10-29",
       "raw_data": {
         "fe_code": "10865799",
         "fe_name": "上海国际储能技术应用展览会",
@@ -631,7 +756,7 @@
         "city": "上海",
         "content": "“十四五”时期是我国实现碳达峰目标的关键期和窗口期,也是新型储能发展的重要战略机遇期。为助力新型储能的发展与应用,由中国电力企业联合会主办、雅式展览承办的、中国电池工业协会储能分会协办上海国际储能技术应用展览会(以下简称ESShanghai储能展)将于2025年11月18至20日于上海新国际博览中心隆重举办。"
       },
-      "created_at": "2025-10-28T00:49:40.537245"
+      "created_at": "2025-10-29T00:54:28.289478"
     },
     {
       "platform": "eastmoney",
@@ -651,7 +776,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-28",
+      "discovery_date": "2025-10-29",
       "raw_data": {
         "fe_code": "10865804",
         "fe_name": "2025中国国际零售创新大会",
@@ -662,7 +787,7 @@
         "city": "上海",
         "content": "为助力零售行业明晰存量市场破局路径、精准把握结构性机会、加速科技与业务的深度融合,“CCFA新消费论坛—2025中国国际零售创新大会”定于11月18-20日在上海国际会议中心举行。本届会议以“挖掘存量市场下的结构性机会”为核心主题,打造集“趋势解读、技术交流、案例分享、资源对接”于一体的行业高端平台。大会期间还将发布本年度“零售科技新锐企业”,推介“零售数字化和技术应用最佳实践”、“中国消费品创新最佳实践”等典型案例。"
       },
-      "created_at": "2025-10-28T00:49:40.537253"
+      "created_at": "2025-10-29T00:54:28.289495"
     }
   ]
 }

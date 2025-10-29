@@ -1,11 +1,11 @@
 {
   "date": "2025-11-19",
-  "total_events": 13,
-  "new_events": 0,
+  "total_events": 23,
+  "new_events": 10,
   "platforms": {
     "cls": 1,
     "jiuyangongshe": 1,
-    "investing": 3,
+    "investing": 13,
     "eastmoney": 8
   },
   "events": [
@@ -27,7 +27,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-28",
+      "discovery_date": "2025-10-29",
       "raw_data": {
         "id": 328138,
         "calendar_time": "2025-11-19 00:00:00",
@@ -43,7 +43,7 @@
         "holiday": null,
         "title": "第三届中国绿色交通能源发展论坛暨2025绿色氢基能源产业链发展大会将于11月19日至21日在天津举办"
       },
-      "created_at": "2025-10-28T00:49:18.123887"
+      "created_at": "2025-10-29T00:54:06.218528"
     },
     {
       "platform": "jiuyangongshe",
@@ -63,7 +63,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-28",
+      "discovery_date": "2025-10-29",
       "raw_data": {
         "article_id": "400532afca074707a182102d00a00940",
         "user_id": "1",
@@ -88,7 +88,317 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-10-28T00:49:22.983775"
+      "created_at": "2025-10-29T00:54:10.635178"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251119054500",
+      "original_id": "eventRowId_534703",
+      "event_date": "2025-11-19",
+      "event_time": "05:45",
+      "event_datetime": "2025/11/19 05:45:00",
+      "title": "新西兰输入PPI季率(%) (季度环比)  (第三季度)",
+      "content": "前值: 0.6%",
+      "category": null,
+      "importance": 2,
+      "country": "新西兰",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-29",
+      "raw_data": {
+        "event_id": "eventRowId_534703",
+        "event_attr_id": "",
+        "datetime": "2025/11/19 05:45:00",
+        "time": "05:45",
+        "country": "新西兰",
+        "importance": 2,
+        "event_name": "新西兰输入PPI季率(%) (季度环比)  (第三季度)",
+        "previous": "0.6%"
+      },
+      "created_at": "2025-10-29T00:54:20.712583"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251119054500",
+      "original_id": "eventRowId_534704",
+      "event_date": "2025-11-19",
+      "event_time": "05:45",
+      "event_datetime": "2025/11/19 05:45:00",
+      "title": "新西兰输出PPI季率(%) (季度环比)  (第三季度)",
+      "content": "前值: 0.6%",
+      "category": null,
+      "importance": 1,
+      "country": "新西兰",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-29",
+      "raw_data": {
+        "event_id": "eventRowId_534704",
+        "event_attr_id": "",
+        "datetime": "2025/11/19 05:45:00",
+        "time": "05:45",
+        "country": "新西兰",
+        "importance": 1,
+        "event_name": "新西兰输出PPI季率(%) (季度环比)  (第三季度)",
+        "previous": "0.6%"
+      },
+      "created_at": "2025-10-29T00:54:20.712721"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251119075000",
+      "original_id": "eventRowId_534708",
+      "event_date": "2025-11-19",
+      "event_time": "07:50",
+      "event_datetime": "2025/11/19 07:50:00",
+      "title": "日本核心机械订单月率(%) (月度环比)  (九月)",
+      "content": "前值: -0.9%",
+      "category": null,
+      "importance": 1,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-29",
+      "raw_data": {
+        "event_id": "eventRowId_534708",
+        "event_attr_id": "",
+        "datetime": "2025/11/19 07:50:00",
+        "time": "07:50",
+        "country": "日本",
+        "importance": 1,
+        "event_name": "日本核心机械订单月率(%) (月度环比)  (九月)",
+        "previous": "-0.9%"
+      },
+      "created_at": "2025-10-29T00:54:20.712840"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251119075000",
+      "original_id": "eventRowId_534705",
+      "event_date": "2025-11-19",
+      "event_time": "07:50",
+      "event_datetime": "2025/11/19 07:50:00",
+      "title": "日本核心机械订单年率(%) (同比)  (九月)",
+      "content": "前值: 1.6%",
+      "category": null,
+      "importance": 1,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-29",
+      "raw_data": {
+        "event_id": "eventRowId_534705",
+        "event_attr_id": "",
+        "datetime": "2025/11/19 07:50:00",
+        "time": "07:50",
+        "country": "日本",
+        "importance": 1,
+        "event_name": "日本核心机械订单年率(%) (同比)  (九月)",
+        "previous": "1.6%"
+      },
+      "created_at": "2025-10-29T00:54:20.712960"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251119075000",
+      "original_id": "eventRowId_534709",
+      "event_date": "2025-11-19",
+      "event_time": "07:50",
+      "event_datetime": "2025/11/19 07:50:00",
+      "title": "日本商品出口年率(%) (同比)  (十月)",
+      "content": "前值: 4.2%",
+      "category": null,
+      "importance": 2,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-29",
+      "raw_data": {
+        "event_id": "eventRowId_534709",
+        "event_attr_id": "",
+        "datetime": "2025/11/19 07:50:00",
+        "time": "07:50",
+        "country": "日本",
+        "importance": 2,
+        "event_name": "日本商品出口年率(%) (同比)  (十月)",
+        "previous": "4.2%"
+      },
+      "created_at": "2025-10-29T00:54:20.713110"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251119075000",
+      "original_id": "eventRowId_534707",
+      "event_date": "2025-11-19",
+      "event_time": "07:50",
+      "event_datetime": "2025/11/19 07:50:00",
+      "title": "日本商品进口年率(%) (同比)  (十月)",
+      "content": "前值: 3.3%",
+      "category": null,
+      "importance": 1,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-29",
+      "raw_data": {
+        "event_id": "eventRowId_534707",
+        "event_attr_id": "",
+        "datetime": "2025/11/19 07:50:00",
+        "time": "07:50",
+        "country": "日本",
+        "importance": 1,
+        "event_name": "日本商品进口年率(%) (同比)  (十月)",
+        "previous": "3.3%"
+      },
+      "created_at": "2025-10-29T00:54:20.713230"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251119075000",
+      "original_id": "eventRowId_534706",
+      "event_date": "2025-11-19",
+      "event_time": "07:50",
+      "event_datetime": "2025/11/19 07:50:00",
+      "title": "日本未季调商品贸易帐(日元)  (十月)",
+      "content": "前值: -234.6B",
+      "category": null,
+      "importance": 2,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-29",
+      "raw_data": {
+        "event_id": "eventRowId_534706",
+        "event_attr_id": "",
+        "datetime": "2025/11/19 07:50:00",
+        "time": "07:50",
+        "country": "日本",
+        "importance": 2,
+        "event_name": "日本未季调商品贸易帐(日元)  (十月)",
+        "previous": "-234.6B"
+      },
+      "created_at": "2025-10-29T00:54:20.713348"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251119080000",
+      "original_id": "eventRowId_534710",
+      "event_date": "2025-11-19",
+      "event_time": "08:00",
+      "event_datetime": "2025/11/19 08:00:00",
+      "title": "澳大利亚西太平洋领先指标月率(%) (月度环比)  (十月)",
+      "content": "前值: -0.0%",
+      "category": null,
+      "importance": 1,
+      "country": "澳大利亚",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-29",
+      "raw_data": {
+        "event_id": "eventRowId_534710",
+        "event_attr_id": "",
+        "datetime": "2025/11/19 08:00:00",
+        "time": "08:00",
+        "country": "澳大利亚",
+        "importance": 1,
+        "event_name": "澳大利亚西太平洋领先指标月率(%) (月度环比)  (十月)",
+        "previous": "-0.0%"
+      },
+      "created_at": "2025-10-29T00:54:20.713464"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251119083000",
+      "original_id": "eventRowId_534711",
+      "event_date": "2025-11-19",
+      "event_time": "08:30",
+      "event_datetime": "2025/11/19 08:30:00",
+      "title": "澳大利亚季调后薪资价格指数季率(%) (季度环比)  (第三季度)",
+      "content": "前值: 0.8%",
+      "category": null,
+      "importance": 2,
+      "country": "澳大利亚",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-29",
+      "raw_data": {
+        "event_id": "eventRowId_534711",
+        "event_attr_id": "",
+        "datetime": "2025/11/19 08:30:00",
+        "time": "08:30",
+        "country": "澳大利亚",
+        "importance": 2,
+        "event_name": "澳大利亚季调后薪资价格指数季率(%) (季度环比)  (第三季度)",
+        "previous": "0.8%"
+      },
+      "created_at": "2025-10-29T00:54:20.713581"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251119083000",
+      "original_id": "eventRowId_534712",
+      "event_date": "2025-11-19",
+      "event_time": "08:30",
+      "event_datetime": "2025/11/19 08:30:00",
+      "title": "澳大利亚季调后薪资价格指数年率(%) (同比)  (第三季度)",
+      "content": "前值: 3.4%",
+      "category": null,
+      "importance": 1,
+      "country": "澳大利亚",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-29",
+      "raw_data": {
+        "event_id": "eventRowId_534712",
+        "event_attr_id": "",
+        "datetime": "2025/11/19 08:30:00",
+        "time": "08:30",
+        "country": "澳大利亚",
+        "importance": 1,
+        "event_name": "澳大利亚季调后薪资价格指数年率(%) (同比)  (第三季度)",
+        "previous": "3.4%"
+      },
+      "created_at": "2025-10-29T00:54:20.713697"
     },
     {
       "platform": "investing",
@@ -108,7 +418,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-28",
+      "discovery_date": "2025-10-29",
       "raw_data": {
         "event_id": "eventRowId_533920",
         "event_attr_id": "",
@@ -119,7 +429,7 @@
         "event_name": "美国营建许可总数(户)  (九月)",
         "previous": "1.330M"
       },
-      "created_at": "2025-10-28T00:49:33.507882"
+      "created_at": "2025-10-29T00:54:20.713808"
     },
     {
       "platform": "investing",
@@ -139,7 +449,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-28",
+      "discovery_date": "2025-10-29",
       "raw_data": {
         "event_id": "eventRowId_533921",
         "event_attr_id": "",
@@ -150,7 +460,7 @@
         "event_name": "美国营建许可月率(%) (月度环比)  (九月)",
         "previous": "-2.3%"
       },
-      "created_at": "2025-10-28T00:49:33.508003"
+      "created_at": "2025-10-29T00:54:20.713919"
     },
     {
       "platform": "investing",
@@ -170,7 +480,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-28",
+      "discovery_date": "2025-10-29",
       "raw_data": {
         "event_id": "eventRowId_532294",
         "event_attr_id": "",
@@ -180,11 +490,11 @@
         "importance": 2,
         "event_name": "亚特兰大联储GDPNow经济增长预测  (第四季度)"
       },
-      "created_at": "2025-10-28T00:49:33.508105"
+      "created_at": "2025-10-29T00:54:20.714034"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251119000000_-4337973366010823170",
+      "event_id": "em_jjsj_20251119000000_8618269175421584415",
       "original_id": "2025-11-19 00:00:00_阿根廷：进口金额(报告期:2025年10月)",
       "event_date": "2025-11-19",
       "event_time": null,
@@ -200,16 +510,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-28",
+      "discovery_date": "2025-10-29",
       "raw_data": {
         "Name": "阿根廷：进口金额(报告期:2025年10月)",
         "City": "阿根廷"
       },
-      "created_at": "2025-10-28T00:49:40.535060"
+      "created_at": "2025-10-29T00:54:28.286926"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251119075000_-3808239699347686970",
+      "event_id": "em_jjsj_20251119075000_2226513494356476481",
       "original_id": "2025-11-19 07:50:00_日本：进口金额：当月值(报告期:2025年10月)",
       "event_date": "2025-11-19",
       "event_time": "07:50:00",
@@ -225,16 +535,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-28",
+      "discovery_date": "2025-10-29",
       "raw_data": {
         "Name": "日本：进口金额：当月值(报告期:2025年10月)",
         "City": "日本"
       },
-      "created_at": "2025-10-28T00:49:40.535068"
+      "created_at": "2025-10-29T00:54:28.286934"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251119075000_675472470474982136",
+      "event_id": "em_jjsj_20251119075000_7778309213205025144",
       "original_id": "2025-11-19 07:50:00_日本：贸易差额：当月值(报告期:2025年10月)",
       "event_date": "2025-11-19",
       "event_time": "07:50:00",
@@ -250,16 +560,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-28",
+      "discovery_date": "2025-10-29",
       "raw_data": {
         "Name": "日本：贸易差额：当月值(报告期:2025年10月)",
         "City": "日本"
       },
-      "created_at": "2025-10-28T00:49:40.535075"
+      "created_at": "2025-10-29T00:54:28.286942"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251119075000_-7218308773685721344",
+      "event_id": "em_jjsj_20251119075000_5341784168933178979",
       "original_id": "2025-11-19 07:50:00_日本：出口金额：当月值(报告期:2025年10月)",
       "event_date": "2025-11-19",
       "event_time": "07:50:00",
@@ -275,16 +585,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-28",
+      "discovery_date": "2025-10-29",
       "raw_data": {
         "Name": "日本：出口金额：当月值(报告期:2025年10月)",
         "City": "日本"
       },
-      "created_at": "2025-10-28T00:49:40.535082"
+      "created_at": "2025-10-29T00:54:28.286949"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251119120000_-3320996531153284572",
+      "event_id": "em_jjsj_20251119120000_1906700730269669173",
       "original_id": "2025-11-19 12:00:00_马来西亚：对外贸易：贸易差额(报告期:2025年10月)",
       "event_date": "2025-11-19",
       "event_time": "12:00:00",
@@ -300,16 +610,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-28",
+      "discovery_date": "2025-10-29",
       "raw_data": {
         "Name": "马来西亚：对外贸易：贸易差额(报告期:2025年10月)",
         "City": "马来西亚"
       },
-      "created_at": "2025-10-28T00:49:40.535090"
+      "created_at": "2025-10-29T00:54:28.286957"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251119213000_-3299018879799521602",
+      "event_id": "em_jjsj_20251119213000_-5530474491625192402",
       "original_id": "2025-11-19 21:30:00_美国：已开工的新建私人住宅(报告期:2025年10月)",
       "event_date": "2025-11-19",
       "event_time": "21:30:00",
@@ -325,16 +635,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-28",
+      "discovery_date": "2025-10-29",
       "raw_data": {
         "Name": "美国：已开工的新建私人住宅(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-10-28T00:49:40.535097"
+      "created_at": "2025-10-29T00:54:28.286966"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251119213000_-8464950772736157599",
+      "event_id": "em_jjsj_20251119213000_6575061073383310213",
       "original_id": "2025-11-19 21:30:00_美国：已获得批准的新建私人住宅(报告期:2025年10月)",
       "event_date": "2025-11-19",
       "event_time": "21:30:00",
@@ -350,16 +660,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-28",
+      "discovery_date": "2025-10-29",
       "raw_data": {
         "Name": "美国：已获得批准的新建私人住宅(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-10-28T00:49:40.535104"
+      "created_at": "2025-10-29T00:54:28.286973"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251119213000_99015781523406179",
+      "event_id": "em_jjsj_20251119213000_-5443807827955151625",
       "original_id": "2025-11-19 21:30:00_美国：已开工的新建私人住宅：折年数：季调(报告期:2025年10月)",
       "event_date": "2025-11-19",
       "event_time": "21:30:00",
@@ -375,12 +685,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-28",
+      "discovery_date": "2025-10-29",
       "raw_data": {
         "Name": "美国：已开工的新建私人住宅：折年数：季调(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-10-28T00:49:40.535111"
+      "created_at": "2025-10-29T00:54:28.286981"
     }
   ]
 }
