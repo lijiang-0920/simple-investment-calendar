@@ -1,14 +1,46 @@
 {
   "date": "2025-11-20",
-  "total_events": 10,
-  "new_events": 0,
+  "total_events": 12,
+  "new_events": 2,
   "platforms": {
-    "eastmoney": 10
+    "investing": 1,
+    "eastmoney": 11
   },
   "events": [
     {
+      "platform": "investing",
+      "event_id": "inv__20251120083000",
+      "original_id": "eventRowId_534851",
+      "event_date": "2025-11-20",
+      "event_time": "08:30",
+      "event_datetime": "2025/11/20 08:30:00",
+      "title": "欧元区储备资产总值  (十月)",
+      "content": "前值: 107,964.0B",
+      "category": null,
+      "importance": 1,
+      "country": "澳大利亚",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-30",
+      "raw_data": {
+        "event_id": "eventRowId_534851",
+        "event_attr_id": "",
+        "datetime": "2025/11/20 08:30:00",
+        "time": "08:30",
+        "country": "澳大利亚",
+        "importance": 1,
+        "event_name": "欧元区储备资产总值  (十月)",
+        "previous": "107,964.0B"
+      },
+      "created_at": "2025-10-30T00:53:48.984864"
+    },
+    {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251120000000_1390552808387037426",
+      "event_id": "em_jjsj_20251120000000_-1404713290503102430",
       "original_id": "2025-11-20 00:00:00_美国：成屋销售折年数(报告期:2025年10月)",
       "event_date": "2025-11-20",
       "event_time": null,
@@ -24,16 +56,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-29",
+      "discovery_date": "2025-10-30",
       "raw_data": {
         "Name": "美国：成屋销售折年数(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-10-29T00:54:28.286989"
+      "created_at": "2025-10-30T00:53:56.971642"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251120000000_-4909838980585398872",
+      "event_id": "em_jjsj_20251120000000_-4593328476310346245",
       "original_id": "2025-11-20 00:00:00_美国：成屋销售：环比折年率(报告期:2025年10月)",
       "event_date": "2025-11-20",
       "event_time": null,
@@ -49,16 +81,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-29",
+      "discovery_date": "2025-10-30",
       "raw_data": {
         "Name": "美国：成屋销售：环比折年率(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-10-29T00:54:28.286997"
+      "created_at": "2025-10-30T00:53:56.971649"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251120000000_8618269175421584415",
+      "event_id": "em_jjsj_20251120000000_2284219022690156435",
       "original_id": "2025-11-20 00:00:00_阿根廷：进口金额(报告期:2025年10月)",
       "event_date": "2025-11-20",
       "event_time": null,
@@ -74,16 +106,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-29",
+      "discovery_date": "2025-10-30",
       "raw_data": {
         "Name": "阿根廷：进口金额(报告期:2025年10月)",
         "City": "阿根廷"
       },
-      "created_at": "2025-10-29T00:54:28.287005"
+      "created_at": "2025-10-30T00:53:56.971657"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251120000000_-6066705359070462989",
+      "event_id": "em_jjsj_20251120000000_-3725990645825957669",
       "original_id": "2025-11-20 00:00:00_中国：库存:电解铝:保税区(报告期:2025年11月)",
       "event_date": "2025-11-20",
       "event_time": null,
@@ -99,16 +131,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-29",
+      "discovery_date": "2025-10-30",
       "raw_data": {
         "Name": "中国：库存:电解铝:保税区(报告期:2025年11月)",
         "City": "中国"
       },
-      "created_at": "2025-10-29T00:54:28.287013"
+      "created_at": "2025-10-30T00:53:56.971665"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251120090000_-5716309749299173359",
+      "event_id": "em_jjsj_20251120090000_-137986773353713492",
       "original_id": "2025-11-20 09:00:00_中国：贷款市场报价利率(LPR):5年:月(报告期:2025年11月)",
       "event_date": "2025-11-20",
       "event_time": "09:00:00",
@@ -124,16 +156,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-29",
+      "discovery_date": "2025-10-30",
       "raw_data": {
         "Name": "中国：贷款市场报价利率(LPR):5年:月(报告期:2025年11月)",
         "City": "中国"
       },
-      "created_at": "2025-10-29T00:54:28.287021"
+      "created_at": "2025-10-30T00:53:56.971672"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251120090000_7580628578990991019",
+      "event_id": "em_jjsj_20251120090000_-7754377762928669637",
       "original_id": "2025-11-20 09:00:00_中国：贷款市场报价利率(LPR):1年:月(报告期:2025年11月)",
       "event_date": "2025-11-20",
       "event_time": "09:00:00",
@@ -149,16 +181,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-29",
+      "discovery_date": "2025-10-30",
       "raw_data": {
         "Name": "中国：贷款市场报价利率(LPR):1年:月(报告期:2025年11月)",
         "City": "中国"
       },
-      "created_at": "2025-10-29T00:54:28.287029"
+      "created_at": "2025-10-30T00:53:56.971679"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251120163000_4185639835514524121",
+      "event_id": "em_jjsj_20251120163000_8714819201748548471",
       "original_id": "2025-11-20 16:30:00_中国香港：CPI:综合类(报告期:2025年10月)",
       "event_date": "2025-11-20",
       "event_time": "16:30:00",
@@ -174,16 +206,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-29",
+      "discovery_date": "2025-10-30",
       "raw_data": {
         "Name": "中国香港：CPI:综合类(报告期:2025年10月)",
         "City": "中国香港"
       },
-      "created_at": "2025-10-29T00:54:28.287053"
+      "created_at": "2025-10-30T00:53:56.971687"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251120163000_-2039712114395965727",
+      "event_id": "em_jjsj_20251120163000_2845033525033022825",
       "original_id": "2025-11-20 16:30:00_中国香港：CPI:综合类:当月同比(报告期:2025年10月)",
       "event_date": "2025-11-20",
       "event_time": "16:30:00",
@@ -199,16 +231,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-29",
+      "discovery_date": "2025-10-30",
       "raw_data": {
         "Name": "中国香港：CPI:综合类:当月同比(报告期:2025年10月)",
         "City": "中国香港"
       },
-      "created_at": "2025-10-29T00:54:28.287062"
+      "created_at": "2025-10-30T00:53:56.971694"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251120230000_7910836769623149583",
+      "event_id": "em_jjsj_20251120230000_7539162220262453343",
       "original_id": "2025-11-20 23:00:00_美国：堪萨斯联储制造业指数：季调(报告期:2025年11月)",
       "event_date": "2025-11-20",
       "event_time": "23:00:00",
@@ -224,16 +256,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-29",
+      "discovery_date": "2025-10-30",
       "raw_data": {
         "Name": "美国：堪萨斯联储制造业指数：季调(报告期:2025年11月)",
         "City": "美国"
       },
-      "created_at": "2025-10-29T00:54:28.287070"
+      "created_at": "2025-10-30T00:53:56.971701"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251120230000_-7177971952953956438",
+      "event_id": "em_jjsj_20251120230000_-5093373880392692726",
       "original_id": "2025-11-20 23:00:00_美国：堪萨斯联储制造业指数：产出：季调(报告期:2025年11月)",
       "event_date": "2025-11-20",
       "event_time": "23:00:00",
@@ -249,12 +281,37 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-29",
+      "discovery_date": "2025-10-30",
       "raw_data": {
         "Name": "美国：堪萨斯联储制造业指数：产出：季调(报告期:2025年11月)",
         "City": "美国"
       },
-      "created_at": "2025-10-29T00:54:28.287077"
+      "created_at": "2025-10-30T00:53:56.971708"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251120230000_4476894532284170979",
+      "original_id": "2025-11-20 23:00:00_美国：未决房屋销售月率(报告期:2025年10月)",
+      "event_date": "2025-11-20",
+      "event_time": "23:00:00",
+      "event_datetime": "2025-11-20 23:00:00",
+      "title": "美国：未决房屋销售月率(报告期:2025年10月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-30",
+      "raw_data": {
+        "Name": "美国：未决房屋销售月率(报告期:2025年10月)",
+        "City": "美国"
+      },
+      "created_at": "2025-10-30T00:53:56.971715"
     }
   ]
 }

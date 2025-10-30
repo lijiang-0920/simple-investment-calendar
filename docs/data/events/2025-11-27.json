@@ -1,17 +1,120 @@
 {
   "date": "2025-11-27",
-  "total_events": 13,
-  "new_events": 0,
+  "total_events": 16,
+  "new_events": 3,
   "platforms": {
-    "tonghuashun": 1,
+    "cls": 2,
+    "tonghuashun": 2,
     "investing": 1,
     "eastmoney": 11
   },
   "events": [
     {
+      "platform": "cls",
+      "event_id": "cls_336979_20251127_2",
+      "original_id": "336979",
+      "event_date": "2025-11-27",
+      "event_time": "00:00:00",
+      "event_datetime": "2025-11-27 00:00:00",
+      "title": "亚洲通用航空展将于11月27日至30日在珠海举行",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-30",
+      "raw_data": {
+        "id": 336979,
+        "calendar_time": "2025-11-27 00:00:00",
+        "data_id": 19910,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "亚洲通用航空展将于11月27日至30日在珠海举行",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "亚洲通用航空展将于11月27日至30日在珠海举行"
+      },
+      "created_at": "2025-10-30T00:53:33.462170"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_333570_20251127_2",
+      "original_id": "333570",
+      "event_date": "2025-11-27",
+      "event_time": "11:00:00",
+      "event_datetime": "2025-11-27 11:00:00",
+      "title": "美联储公布经济状况褐皮书",
+      "content": null,
+      "category": "事件公告",
+      "importance": 3,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-30",
+      "raw_data": {
+        "id": 333570,
+        "calendar_time": "2025-11-27 11:00:00",
+        "data_id": 19863,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "美联储公布经济状况褐皮书",
+          "country": "美国",
+          "country_icon": "",
+          "star": 3
+        },
+        "holiday": null,
+        "title": "美联储公布经济状况褐皮书"
+      },
+      "created_at": "2025-10-30T00:53:33.462180"
+    },
+    {
       "platform": "tonghuashun",
-      "event_id": "ths_20251127_0_dc54d9bd",
+      "event_id": "ths_20251127_0_e0fc6fe9",
       "original_id": "2025-11-27_0",
+      "event_date": "2025-11-27",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "亚洲通用航空展将于11月27日至30日在珠海举行",
+      "content": null,
+      "category": null,
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-30",
+      "raw_data": {
+        "event": [
+          "亚洲通用航空展将于11月27日至30日在珠海举行",
+          "",
+          "",
+          ""
+        ],
+        "concept": []
+      },
+      "created_at": "2025-10-30T00:53:43.292125"
+    },
+    {
+      "platform": "tonghuashun",
+      "event_id": "ths_20251127_1_dc54d9bd",
+      "original_id": "2025-11-27_1",
       "event_date": "2025-11-27",
       "event_time": null,
       "event_datetime": null,
@@ -31,7 +134,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-29",
+      "discovery_date": "2025-10-30",
       "raw_data": {
         "event": [
           "2025国际集成电路展览会暨研讨会",
@@ -47,7 +150,7 @@
           }
         ]
       },
-      "created_at": "2025-10-29T00:54:15.914365"
+      "created_at": "2025-10-30T00:53:43.292133"
     },
     {
       "platform": "investing",
@@ -67,7 +170,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-29",
+      "discovery_date": "2025-10-30",
       "raw_data": {
         "event_id": "eventRowId_532295",
         "event_attr_id": "",
@@ -77,11 +180,11 @@
         "importance": 2,
         "event_name": "亚特兰大联储GDPNow经济增长预测  (第四季度)"
       },
-      "created_at": "2025-10-29T00:54:21.901692"
+      "created_at": "2025-10-30T00:53:49.864506"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251127000000_6635448781929074523",
+      "event_id": "em_jjsj_20251127000000_-8202917631542293230",
       "original_id": "2025-11-27 00:00:00_马来西亚：PPI：同比(报告期:2025年10月)",
       "event_date": "2025-11-27",
       "event_time": null,
@@ -97,16 +200,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-29",
+      "discovery_date": "2025-10-30",
       "raw_data": {
         "Name": "马来西亚：PPI：同比(报告期:2025年10月)",
         "City": "马来西亚"
       },
-      "created_at": "2025-10-29T00:54:28.287254"
+      "created_at": "2025-10-30T00:53:56.971915"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251127000000_-6066705359070462989",
+      "event_id": "em_jjsj_20251127000000_-3725990645825957669",
       "original_id": "2025-11-27 00:00:00_中国：库存:电解铝:保税区(报告期:2025年11月)",
       "event_date": "2025-11-27",
       "event_time": null,
@@ -122,16 +225,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-29",
+      "discovery_date": "2025-10-30",
       "raw_data": {
         "Name": "中国：库存:电解铝:保税区(报告期:2025年11月)",
         "City": "中国"
       },
-      "created_at": "2025-10-29T00:54:28.287262"
+      "created_at": "2025-10-30T00:53:56.971922"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251127093000_-475715805910958272",
+      "event_id": "em_jjsj_20251127093000_1606164145813679443",
       "original_id": "2025-11-27 09:30:00_中国：工业企业:利润总额:累计值(报告期:2025年10月)",
       "event_date": "2025-11-27",
       "event_time": "09:30:00",
@@ -147,16 +250,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-29",
+      "discovery_date": "2025-10-30",
       "raw_data": {
         "Name": "中国：工业企业:利润总额:累计值(报告期:2025年10月)",
         "City": "中国"
       },
-      "created_at": "2025-10-29T00:54:28.287270"
+      "created_at": "2025-10-30T00:53:56.971930"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251127093000_4408649615930259117",
+      "event_id": "em_jjsj_20251127093000_6030472770789557153",
       "original_id": "2025-11-27 09:30:00_中国：工业企业:利润总额:累计同比(报告期:2025年10月)",
       "event_date": "2025-11-27",
       "event_time": "09:30:00",
@@ -172,16 +275,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-29",
+      "discovery_date": "2025-10-30",
       "raw_data": {
         "Name": "中国：工业企业:利润总额:累计同比(报告期:2025年10月)",
         "City": "中国"
       },
-      "created_at": "2025-10-29T00:54:28.287278"
+      "created_at": "2025-10-30T00:53:56.971936"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251127160000_-6681252139958802680",
+      "event_id": "em_jjsj_20251127160000_7596219798594537720",
       "original_id": "2025-11-27 16:00:00_土耳其：出口金额(报告期:2025年10月)",
       "event_date": "2025-11-27",
       "event_time": "16:00:00",
@@ -197,16 +300,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-29",
+      "discovery_date": "2025-10-30",
       "raw_data": {
         "Name": "土耳其：出口金额(报告期:2025年10月)",
         "City": "土耳其"
       },
-      "created_at": "2025-10-29T00:54:28.287285"
+      "created_at": "2025-10-30T00:53:56.971944"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251127180000_-2404963150757165408",
+      "event_id": "em_jjsj_20251127180000_-3295404476436036508",
       "original_id": "2025-11-27 18:00:00_意大利：零售信心指数(报告期:2025年11月)",
       "event_date": "2025-11-27",
       "event_time": "18:00:00",
@@ -222,16 +325,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-29",
+      "discovery_date": "2025-10-30",
       "raw_data": {
         "Name": "意大利：零售信心指数(报告期:2025年11月)",
         "City": "意大利"
       },
-      "created_at": "2025-10-29T00:54:28.287293"
+      "created_at": "2025-10-30T00:53:56.971951"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251127180000_-2960418548640209088",
+      "event_id": "em_jjsj_20251127180000_-3519659059111915046",
       "original_id": "2025-11-27 18:00:00_意大利：营建信心指数(报告期:2025年11月)",
       "event_date": "2025-11-27",
       "event_time": "18:00:00",
@@ -247,16 +350,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-29",
+      "discovery_date": "2025-10-30",
       "raw_data": {
         "Name": "意大利：营建信心指数(报告期:2025年11月)",
         "City": "意大利"
       },
-      "created_at": "2025-10-29T00:54:28.287301"
+      "created_at": "2025-10-30T00:53:56.971958"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251127180000_-5114303717529408138",
+      "event_id": "em_jjsj_20251127180000_2267435556764536327",
       "original_id": "2025-11-27 18:00:00_意大利：经济景气指数(报告期:2025年11月)",
       "event_date": "2025-11-27",
       "event_time": "18:00:00",
@@ -272,16 +375,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-29",
+      "discovery_date": "2025-10-30",
       "raw_data": {
         "Name": "意大利：经济景气指数(报告期:2025年11月)",
         "City": "意大利"
       },
-      "created_at": "2025-10-29T00:54:28.287308"
+      "created_at": "2025-10-30T00:53:56.971965"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251127180000_-1137938646744547020",
+      "event_id": "em_jjsj_20251127180000_-2682505703043951701",
       "original_id": "2025-11-27 18:00:00_意大利：工业信心指数(报告期:2025年11月)",
       "event_date": "2025-11-27",
       "event_time": "18:00:00",
@@ -297,16 +400,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-29",
+      "discovery_date": "2025-10-30",
       "raw_data": {
         "Name": "意大利：工业信心指数(报告期:2025年11月)",
         "City": "意大利"
       },
-      "created_at": "2025-10-29T00:54:28.287316"
+      "created_at": "2025-10-30T00:53:56.971972"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251127180000_-1856436134149593122",
+      "event_id": "em_jjsj_20251127180000_-5880192675536614218",
       "original_id": "2025-11-27 18:00:00_意大利：消费者信心指数(报告期:2025年11月)",
       "event_date": "2025-11-27",
       "event_time": "18:00:00",
@@ -322,16 +425,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-29",
+      "discovery_date": "2025-10-30",
       "raw_data": {
         "Name": "意大利：消费者信心指数(报告期:2025年11月)",
         "City": "意大利"
       },
-      "created_at": "2025-10-29T00:54:28.287323"
+      "created_at": "2025-10-30T00:53:56.971979"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251127180000_4667994963504663662",
+      "event_id": "em_jjsj_20251127180000_9177478401297418190",
       "original_id": "2025-11-27 18:00:00_意大利：服务业信心指数(报告期:2025年11月)",
       "event_date": "2025-11-27",
       "event_time": "18:00:00",
@@ -347,12 +450,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-29",
+      "discovery_date": "2025-10-30",
       "raw_data": {
         "Name": "意大利：服务业信心指数(报告期:2025年11月)",
         "City": "意大利"
       },
-      "created_at": "2025-10-29T00:54:28.287332"
+      "created_at": "2025-10-30T00:53:56.971986"
     }
   ]
 }

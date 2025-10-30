@@ -1,11 +1,11 @@
 {
   "date": "2025-11-08",
-  "total_events": 6,
+  "total_events": 8,
   "new_events": 2,
   "platforms": {
     "cls": 1,
     "tonghuashun": 1,
-    "investing": 3,
+    "investing": 5,
     "eastmoney": 1
   },
   "events": [
@@ -27,7 +27,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-29",
+      "discovery_date": "2025-10-30",
       "raw_data": {
         "id": 327845,
         "calendar_time": "2025-11-08 00:00:00",
@@ -43,7 +43,7 @@
         "holiday": null,
         "title": "商务部会同海关总署发布关于对超硬材料、稀土设备和原辅料、钬等5种中重稀土、锂电池和人造石墨负极材料相关物项实施出口管制措施的公告，将于11月8日正式实施"
       },
-      "created_at": "2025-10-29T00:54:06.218392"
+      "created_at": "2025-10-30T00:53:33.461905"
     },
     {
       "platform": "tonghuashun",
@@ -68,7 +68,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-29",
+      "discovery_date": "2025-10-30",
       "raw_data": {
         "event": [
           "商务部会同海关总署发布关于对超硬材料、稀土设备和原辅料、钬等5种中重稀土、锂电池和人造石墨负极材料相关物项实施出口管制措施的公告，将于11月8日正式实施",
@@ -84,7 +84,38 @@
           }
         ]
       },
-      "created_at": "2025-10-29T00:54:15.914183"
+      "created_at": "2025-10-30T00:53:43.291847"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251108000000",
+      "original_id": "eventRowId_534801",
+      "event_date": "2025-11-08",
+      "event_time": "00:00",
+      "event_datetime": "2025/11/08 00:00:00",
+      "title": "美国纽约联储1年期消费者通胀预期  (十月)",
+      "content": "前值: 3.4%",
+      "category": null,
+      "importance": 1,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-30",
+      "raw_data": {
+        "event_id": "eventRowId_534801",
+        "event_attr_id": "",
+        "datetime": "2025/11/08 00:00:00",
+        "time": "00:00",
+        "country": "美国",
+        "importance": 1,
+        "event_name": "美国纽约联储1年期消费者通胀预期  (十月)",
+        "previous": "3.4%"
+      },
+      "created_at": "2025-10-30T00:53:46.816973"
     },
     {
       "platform": "investing",
@@ -103,8 +134,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-29",
+      "is_new": false,
+      "discovery_date": "2025-10-30",
       "raw_data": {
         "event_id": "eventRowId_534678",
         "event_attr_id": "",
@@ -114,7 +145,7 @@
         "importance": 2,
         "event_name": "美国当周贝克休斯石油钻井总数(口)"
       },
-      "created_at": "2025-10-29T00:54:19.786613"
+      "created_at": "2025-10-30T00:53:46.817113"
     },
     {
       "platform": "investing",
@@ -133,8 +164,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-29",
+      "is_new": false,
+      "discovery_date": "2025-10-30",
       "raw_data": {
         "event_id": "eventRowId_534679",
         "event_attr_id": "",
@@ -144,7 +175,7 @@
         "importance": 2,
         "event_name": "美国当周贝克休斯总钻井总数(口)"
       },
-      "created_at": "2025-10-29T00:54:19.786751"
+      "created_at": "2025-10-30T00:53:46.817238"
     },
     {
       "platform": "investing",
@@ -164,7 +195,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-29",
+      "discovery_date": "2025-10-30",
       "raw_data": {
         "event_id": "eventRowId_534160",
         "event_attr_id": "",
@@ -175,11 +206,42 @@
         "event_name": "美国消费信贷(美元)  (九月)",
         "previous": "0.36B"
       },
-      "created_at": "2025-10-29T00:54:19.786868"
+      "created_at": "2025-10-30T00:53:46.817361"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251108075000",
+      "original_id": "eventRowId_534805",
+      "event_date": "2025-11-08",
+      "event_time": "07:50",
+      "event_datetime": "2025/11/08 07:50:00",
+      "title": "日本外汇储备(美元)  (十月)",
+      "content": "前值: 1,341.3B",
+      "category": null,
+      "importance": 1,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-30",
+      "raw_data": {
+        "event_id": "eventRowId_534805",
+        "event_attr_id": "",
+        "datetime": "2025/11/08 07:50:00",
+        "time": "07:50",
+        "country": "日本",
+        "importance": 1,
+        "event_name": "日本外汇储备(美元)  (十月)",
+        "previous": "1,341.3B"
+      },
+      "created_at": "2025-10-30T00:53:46.817479"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251108040000_-3175877045947635593",
+      "event_id": "em_jjsj_20251108040000_1830072865403444734",
       "original_id": "2025-11-08 04:00:00_美国：消费信贷总计：折年率：季调(报告期:2025年09月)",
       "event_date": "2025-11-08",
       "event_time": "04:00:00",
@@ -195,12 +257,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-29",
+      "discovery_date": "2025-10-30",
       "raw_data": {
         "Name": "美国：消费信贷总计：折年率：季调(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-10-29T00:54:28.286326"
+      "created_at": "2025-10-30T00:53:56.969869"
     }
   ]
 }
