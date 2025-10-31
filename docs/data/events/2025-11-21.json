@@ -1,12 +1,13 @@
 {
   "date": "2025-11-21",
-  "total_events": 17,
-  "new_events": 5,
+  "total_events": 36,
+  "new_events": 19,
   "platforms": {
     "cls": 2,
     "jiuyangongshe": 1,
     "tonghuashun": 1,
-    "eastmoney": 13
+    "investing": 18,
+    "eastmoney": 14
   },
   "events": [
     {
@@ -26,8 +27,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-30",
+      "is_new": false,
+      "discovery_date": "2025-10-31",
       "raw_data": {
         "id": 336857,
         "calendar_time": "2025-11-21 00:00:00",
@@ -43,7 +44,7 @@
         "holiday": null,
         "title": "中国稀土学会2025学术年会暨稀土新材料与仪器设备展览会定于11月21日至24日在福建省厦门市召开"
       },
-      "created_at": "2025-10-30T00:53:33.462140"
+      "created_at": "2025-10-31T00:51:45.573964"
     },
     {
       "platform": "cls",
@@ -62,8 +63,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-30",
+      "is_new": false,
+      "discovery_date": "2025-10-31",
       "raw_data": {
         "id": 336860,
         "calendar_time": "2025-11-21 00:00:00",
@@ -79,7 +80,7 @@
         "holiday": null,
         "title": "2025第二十三届广州国际汽车展览会将于11月21日至30日举办"
       },
-      "created_at": "2025-10-30T00:53:33.462150"
+      "created_at": "2025-10-31T00:51:45.573973"
     },
     {
       "platform": "jiuyangongshe",
@@ -101,7 +102,7 @@
       ],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-30",
+      "discovery_date": "2025-10-31",
       "raw_data": {
         "article_id": "e8115b7736f64baf91c569ddfbb9069b",
         "user_id": "1",
@@ -131,7 +132,7 @@
           ]
         }
       },
-      "created_at": "2025-10-30T00:53:37.984102"
+      "created_at": "2025-10-31T00:51:49.981060"
     },
     {
       "platform": "tonghuashun",
@@ -150,8 +151,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-30",
+      "is_new": false,
+      "discovery_date": "2025-10-31",
       "raw_data": {
         "event": [
           "2025第二十三届广州国际汽车展览会将于11月21日至30日举办",
@@ -161,11 +162,569 @@
         ],
         "concept": []
       },
-      "created_at": "2025-10-30T00:53:43.292076"
+      "created_at": "2025-10-31T00:51:56.054802"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251121000000",
+      "original_id": "eventRowId_534934",
+      "event_date": "2025-11-21",
+      "event_time": "00:00",
+      "event_datetime": "2025/11/21 00:00:00",
+      "title": "美国堪萨斯城联储制造业综合指数  (十一月)",
+      "content": "前值: 6",
+      "category": null,
+      "importance": 1,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-31",
+      "raw_data": {
+        "event_id": "eventRowId_534934",
+        "event_attr_id": "",
+        "datetime": "2025/11/21 00:00:00",
+        "time": "00:00",
+        "country": "美国",
+        "importance": 1,
+        "event_name": "美国堪萨斯城联储制造业综合指数  (十一月)",
+        "previous": "6"
+      },
+      "created_at": "2025-10-31T00:52:01.713577"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251121000000",
+      "original_id": "eventRowId_534935",
+      "event_date": "2025-11-21",
+      "event_time": "00:00",
+      "event_datetime": "2025/11/21 00:00:00",
+      "title": "美国堪萨斯联储制造业产出指数  (十一月)",
+      "content": "前值: 15",
+      "category": null,
+      "importance": 1,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-31",
+      "raw_data": {
+        "event_id": "eventRowId_534935",
+        "event_attr_id": "",
+        "datetime": "2025/11/21 00:00:00",
+        "time": "00:00",
+        "country": "美国",
+        "importance": 1,
+        "event_name": "美国堪萨斯联储制造业产出指数  (十一月)",
+        "previous": "15"
+      },
+      "created_at": "2025-10-31T00:52:01.713721"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251121050000",
+      "original_id": "eventRowId_534937",
+      "event_date": "2025-11-21",
+      "event_time": "05:00",
+      "event_datetime": "2025/11/21 05:00:00",
+      "title": "韩国PPI月率(%) (月度环比)  (十月)",
+      "content": "前值: 0.4%",
+      "category": null,
+      "importance": 1,
+      "country": "韩国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-31",
+      "raw_data": {
+        "event_id": "eventRowId_534937",
+        "event_attr_id": "",
+        "datetime": "2025/11/21 05:00:00",
+        "time": "05:00",
+        "country": "韩国",
+        "importance": 1,
+        "event_name": "韩国PPI月率(%) (月度环比)  (十月)",
+        "previous": "0.4%"
+      },
+      "created_at": "2025-10-31T00:52:01.713843"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251121050000",
+      "original_id": "eventRowId_534938",
+      "event_date": "2025-11-21",
+      "event_time": "05:00",
+      "event_datetime": "2025/11/21 05:00:00",
+      "title": "韩国PPI年率(%) (同比)  (十月)",
+      "content": "前值: 1.2%",
+      "category": null,
+      "importance": 1,
+      "country": "韩国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-31",
+      "raw_data": {
+        "event_id": "eventRowId_534938",
+        "event_attr_id": "",
+        "datetime": "2025/11/21 05:00:00",
+        "time": "05:00",
+        "country": "韩国",
+        "importance": 1,
+        "event_name": "韩国PPI年率(%) (同比)  (十月)",
+        "previous": "1.2%"
+      },
+      "created_at": "2025-10-31T00:52:01.713962"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251121054500",
+      "original_id": "eventRowId_534940",
+      "event_date": "2025-11-21",
+      "event_time": "05:45",
+      "event_datetime": "2025/11/21 05:45:00",
+      "title": "新西兰出口(纽元)  (十月)",
+      "content": "前值: 5.82B",
+      "category": null,
+      "importance": 1,
+      "country": "新西兰",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-31",
+      "raw_data": {
+        "event_id": "eventRowId_534940",
+        "event_attr_id": "",
+        "datetime": "2025/11/21 05:45:00",
+        "time": "05:45",
+        "country": "新西兰",
+        "importance": 1,
+        "event_name": "新西兰出口(纽元)  (十月)",
+        "previous": "5.82B"
+      },
+      "created_at": "2025-10-31T00:52:01.714079"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251121054500",
+      "original_id": "eventRowId_534939",
+      "event_date": "2025-11-21",
+      "event_time": "05:45",
+      "event_datetime": "2025/11/21 05:45:00",
+      "title": "新西兰进口(纽元)  (十月)",
+      "content": "前值: 7.18B",
+      "category": null,
+      "importance": 1,
+      "country": "新西兰",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-31",
+      "raw_data": {
+        "event_id": "eventRowId_534939",
+        "event_attr_id": "",
+        "datetime": "2025/11/21 05:45:00",
+        "time": "05:45",
+        "country": "新西兰",
+        "importance": 1,
+        "event_name": "新西兰进口(纽元)  (十月)",
+        "previous": "7.18B"
+      },
+      "created_at": "2025-10-31T00:52:01.714195"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251121054500",
+      "original_id": "eventRowId_534941",
+      "event_date": "2025-11-21",
+      "event_time": "05:45",
+      "event_datetime": "2025/11/21 05:45:00",
+      "title": "新西兰贸易帐(纽元) (月度环比)  (十月)",
+      "content": "前值: -1,355M",
+      "category": null,
+      "importance": 2,
+      "country": "新西兰",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-31",
+      "raw_data": {
+        "event_id": "eventRowId_534941",
+        "event_attr_id": "",
+        "datetime": "2025/11/21 05:45:00",
+        "time": "05:45",
+        "country": "新西兰",
+        "importance": 2,
+        "event_name": "新西兰贸易帐(纽元) (月度环比)  (十月)",
+        "previous": "-1,355M"
+      },
+      "created_at": "2025-10-31T00:52:01.714330"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251121054500",
+      "original_id": "eventRowId_534942",
+      "event_date": "2025-11-21",
+      "event_time": "05:45",
+      "event_datetime": "2025/11/21 05:45:00",
+      "title": "新西兰十二个月贸易帐(纽元) (同比)  (十月)",
+      "content": "前值: -2,250M",
+      "category": null,
+      "importance": 2,
+      "country": "新西兰",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-31",
+      "raw_data": {
+        "event_id": "eventRowId_534942",
+        "event_attr_id": "",
+        "datetime": "2025/11/21 05:45:00",
+        "time": "05:45",
+        "country": "新西兰",
+        "importance": 2,
+        "event_name": "新西兰十二个月贸易帐(纽元) (同比)  (十月)",
+        "previous": "-2,250M"
+      },
+      "created_at": "2025-10-31T00:52:01.714449"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251121060000",
+      "original_id": "eventRowId_534945",
+      "event_date": "2025-11-21",
+      "event_time": "06:00",
+      "event_datetime": "2025/11/21 06:00:00",
+      "title": "Manufacturing & Services PMI  (十一月)",
+      "content": "前值: 52.40",
+      "category": null,
+      "importance": 1,
+      "country": "澳大利亚",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-31",
+      "raw_data": {
+        "event_id": "eventRowId_534945",
+        "event_attr_id": "",
+        "datetime": "2025/11/21 06:00:00",
+        "time": "06:00",
+        "country": "澳大利亚",
+        "importance": 1,
+        "event_name": "Manufacturing & Services PMI  (十一月)",
+        "previous": "52.40"
+      },
+      "created_at": "2025-10-31T00:52:01.714565"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251121060000",
+      "original_id": "eventRowId_534943",
+      "event_date": "2025-11-21",
+      "event_time": "06:00",
+      "event_datetime": "2025/11/21 06:00:00",
+      "title": "澳大利亚制造业PMI  (十一月)",
+      "content": "前值: 51.4",
+      "category": null,
+      "importance": 1,
+      "country": "澳大利亚",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-31",
+      "raw_data": {
+        "event_id": "eventRowId_534943",
+        "event_attr_id": "",
+        "datetime": "2025/11/21 06:00:00",
+        "time": "06:00",
+        "country": "澳大利亚",
+        "importance": 1,
+        "event_name": "澳大利亚制造业PMI  (十一月)",
+        "previous": "51.4"
+      },
+      "created_at": "2025-10-31T00:52:01.714679"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251121060000",
+      "original_id": "eventRowId_534944",
+      "event_date": "2025-11-21",
+      "event_time": "06:00",
+      "event_datetime": "2025/11/21 06:00:00",
+      "title": "澳大利亚服务业PMI  (十一月)",
+      "content": "前值: 52.4",
+      "category": null,
+      "importance": 1,
+      "country": "澳大利亚",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-31",
+      "raw_data": {
+        "event_id": "eventRowId_534944",
+        "event_attr_id": "",
+        "datetime": "2025/11/21 06:00:00",
+        "time": "06:00",
+        "country": "澳大利亚",
+        "importance": 1,
+        "event_name": "澳大利亚服务业PMI  (十一月)",
+        "previous": "52.4"
+      },
+      "created_at": "2025-10-31T00:52:01.714792"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251121073000",
+      "original_id": "eventRowId_534946",
+      "event_date": "2025-11-21",
+      "event_time": "07:30",
+      "event_datetime": "2025/11/21 07:30:00",
+      "title": "美国未季调CPI月率 (月度环比)  (十月)",
+      "content": "前值: -0.1%",
+      "category": null,
+      "importance": 1,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-31",
+      "raw_data": {
+        "event_id": "eventRowId_534946",
+        "event_attr_id": "",
+        "datetime": "2025/11/21 07:30:00",
+        "time": "07:30",
+        "country": "日本",
+        "importance": 1,
+        "event_name": "美国未季调CPI月率 (月度环比)  (十月)",
+        "previous": "-0.1%"
+      },
+      "created_at": "2025-10-31T00:52:01.714904"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251121073000",
+      "original_id": "eventRowId_534947",
+      "event_date": "2025-11-21",
+      "event_time": "07:30",
+      "event_datetime": "2025/11/21 07:30:00",
+      "title": "日本全国核心CPI年率(%) (同比)  (十月)",
+      "content": "前值: 2.9%",
+      "category": null,
+      "importance": 2,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-31",
+      "raw_data": {
+        "event_id": "eventRowId_534947",
+        "event_attr_id": "",
+        "datetime": "2025/11/21 07:30:00",
+        "time": "07:30",
+        "country": "日本",
+        "importance": 2,
+        "event_name": "日本全国核心CPI年率(%) (同比)  (十月)",
+        "previous": "2.9%"
+      },
+      "created_at": "2025-10-31T00:52:01.715016"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251121073000",
+      "original_id": "eventRowId_534948",
+      "event_date": "2025-11-21",
+      "event_time": "07:30",
+      "event_datetime": "2025/11/21 07:30:00",
+      "title": "日本全国CPI年率(%) (同比)  (十月)",
+      "content": "前值: 2.9%",
+      "category": null,
+      "importance": 1,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-31",
+      "raw_data": {
+        "event_id": "eventRowId_534948",
+        "event_attr_id": "",
+        "datetime": "2025/11/21 07:30:00",
+        "time": "07:30",
+        "country": "日本",
+        "importance": 1,
+        "event_name": "日本全国CPI年率(%) (同比)  (十月)",
+        "previous": "2.9%"
+      },
+      "created_at": "2025-10-31T00:52:01.715131"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251121080100",
+      "original_id": "eventRowId_534950",
+      "event_date": "2025-11-21",
+      "event_time": "08:01",
+      "event_datetime": "2025/11/21 08:01:00",
+      "title": "英国Gfk消费者信心指数  (十一月)",
+      "content": "前值: -17",
+      "category": null,
+      "importance": 1,
+      "country": "英国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-31",
+      "raw_data": {
+        "event_id": "eventRowId_534950",
+        "event_attr_id": "",
+        "datetime": "2025/11/21 08:01:00",
+        "time": "08:01",
+        "country": "英国",
+        "importance": 1,
+        "event_name": "英国Gfk消费者信心指数  (十一月)",
+        "previous": "-17"
+      },
+      "created_at": "2025-10-31T00:52:01.715259"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251121083000",
+      "original_id": "eventRowId_534951",
+      "event_date": "2025-11-21",
+      "event_time": "08:30",
+      "event_datetime": "2025/11/21 08:30:00",
+      "title": "Manufacturing & Services PMI  (十一月)",
+      "content": "前值: 51.30",
+      "category": null,
+      "importance": 1,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-31",
+      "raw_data": {
+        "event_id": "eventRowId_534951",
+        "event_attr_id": "",
+        "datetime": "2025/11/21 08:30:00",
+        "time": "08:30",
+        "country": "日本",
+        "importance": 1,
+        "event_name": "Manufacturing & Services PMI  (十一月)",
+        "previous": "51.30"
+      },
+      "created_at": "2025-10-31T00:52:01.715378"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251121083000",
+      "original_id": "eventRowId_534952",
+      "event_date": "2025-11-21",
+      "event_time": "08:30",
+      "event_datetime": "2025/11/21 08:30:00",
+      "title": "日本日经/Markit制造业PMI  (十一月)",
+      "content": "前值: 48.5",
+      "category": null,
+      "importance": 1,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-31",
+      "raw_data": {
+        "event_id": "eventRowId_534952",
+        "event_attr_id": "",
+        "datetime": "2025/11/21 08:30:00",
+        "time": "08:30",
+        "country": "日本",
+        "importance": 1,
+        "event_name": "日本日经/Markit制造业PMI  (十一月)",
+        "previous": "48.5"
+      },
+      "created_at": "2025-10-31T00:52:01.715491"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251121083000",
+      "original_id": "eventRowId_534953",
+      "event_date": "2025-11-21",
+      "event_time": "08:30",
+      "event_datetime": "2025/11/21 08:30:00",
+      "title": "日本服务业PMI  (十一月)",
+      "content": "前值: 53.3",
+      "category": null,
+      "importance": 2,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-31",
+      "raw_data": {
+        "event_id": "eventRowId_534953",
+        "event_attr_id": "",
+        "datetime": "2025/11/21 08:30:00",
+        "time": "08:30",
+        "country": "日本",
+        "importance": 2,
+        "event_name": "日本服务业PMI  (十一月)",
+        "previous": "53.3"
+      },
+      "created_at": "2025-10-31T00:52:01.715605"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251121000000_-2988263300172322730",
+      "event_id": "em_jjsj_20251121000000_5979455180678947908",
       "original_id": "2025-11-21 00:00:00_俄罗斯：M2(报告期:2025年11月)",
       "event_date": "2025-11-21",
       "event_time": null,
@@ -180,17 +739,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-30",
+      "is_new": false,
+      "discovery_date": "2025-10-31",
       "raw_data": {
         "Name": "俄罗斯：M2(报告期:2025年11月)",
         "City": "俄罗斯"
       },
-      "created_at": "2025-10-30T00:53:56.971723"
+      "created_at": "2025-10-31T00:52:09.487189"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251121000000_-2882027498182717618",
+      "event_id": "em_jjsj_20251121000000_-2783676946388660400",
       "original_id": "2025-11-21 00:00:00_中国澳门：CPI：综合：同比(报告期:2025年10月)",
       "event_date": "2025-11-21",
       "event_time": null,
@@ -205,17 +764,17 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-10-30",
+      "is_new": false,
+      "discovery_date": "2025-10-31",
       "raw_data": {
         "Name": "中国澳门：CPI：综合：同比(报告期:2025年10月)",
         "City": "中国澳门"
       },
-      "created_at": "2025-10-30T00:53:56.971731"
+      "created_at": "2025-10-31T00:52:09.487197"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251121050000_5077131371553400051",
+      "event_id": "em_jjsj_20251121050000_-1797529441512998923",
       "original_id": "2025-11-21 05:00:00_韩国：PPI：同比(报告期:2025年10月)",
       "event_date": "2025-11-21",
       "event_time": "05:00:00",
@@ -231,16 +790,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-30",
+      "discovery_date": "2025-10-31",
       "raw_data": {
         "Name": "韩国：PPI：同比(报告期:2025年10月)",
         "City": "韩国"
       },
-      "created_at": "2025-10-30T00:53:56.971739"
+      "created_at": "2025-10-31T00:52:09.487204"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251121050000_-6391578728733287661",
+      "event_id": "em_jjsj_20251121050000_-6014864288419973615",
       "original_id": "2025-11-21 05:00:00_韩国：PPI：环比 (报告期:2025年10月)",
       "event_date": "2025-11-21",
       "event_time": "05:00:00",
@@ -256,16 +815,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-30",
+      "discovery_date": "2025-10-31",
       "raw_data": {
         "Name": "韩国：PPI：环比 (报告期:2025年10月)",
         "City": "韩国"
       },
-      "created_at": "2025-10-30T00:53:56.971746"
+      "created_at": "2025-10-31T00:52:09.487212"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251121073000_5457262625994778711",
+      "event_id": "em_jjsj_20251121073000_7282458180576592419",
       "original_id": "2025-11-21 07:30:00_日本：CPI：同比(报告期:2025年10月)",
       "event_date": "2025-11-21",
       "event_time": "07:30:00",
@@ -281,16 +840,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-30",
+      "discovery_date": "2025-10-31",
       "raw_data": {
         "Name": "日本：CPI：同比(报告期:2025年10月)",
         "City": "日本"
       },
-      "created_at": "2025-10-30T00:53:56.971753"
+      "created_at": "2025-10-31T00:52:09.487219"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251121073000_8498454826499931417",
+      "event_id": "em_jjsj_20251121073000_-7310163722091377457",
       "original_id": "2025-11-21 07:30:00_日本：核心CPI：同比(报告期:2025年10月)",
       "event_date": "2025-11-21",
       "event_time": "07:30:00",
@@ -306,16 +865,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-30",
+      "discovery_date": "2025-10-31",
       "raw_data": {
         "Name": "日本：核心CPI：同比(报告期:2025年10月)",
         "City": "日本"
       },
-      "created_at": "2025-10-30T00:53:56.971760"
+      "created_at": "2025-10-31T00:52:09.487227"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251121120000_-2750098638069929951",
+      "event_id": "em_jjsj_20251121120000_-74726283009296791",
       "original_id": "2025-11-21 12:00:00_马来西亚：CPI：同比(报告期:2025年10月)",
       "event_date": "2025-11-21",
       "event_time": "12:00:00",
@@ -331,16 +890,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-30",
+      "discovery_date": "2025-10-31",
       "raw_data": {
         "Name": "马来西亚：CPI：同比(报告期:2025年10月)",
         "City": "马来西亚"
       },
-      "created_at": "2025-10-30T00:53:56.971768"
+      "created_at": "2025-10-31T00:52:09.487235"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251121150000_5170998413143481268",
+      "event_id": "em_jjsj_20251121150000_-4788038668145198423",
       "original_id": "2025-11-21 15:00:00_英国：政府经常账预算(报告期:2025年10月)",
       "event_date": "2025-11-21",
       "event_time": "15:00:00",
@@ -356,16 +915,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-30",
+      "discovery_date": "2025-10-31",
       "raw_data": {
         "Name": "英国：政府经常账预算(报告期:2025年10月)",
         "City": "英国"
       },
-      "created_at": "2025-10-30T00:53:56.971775"
+      "created_at": "2025-10-31T00:52:09.487255"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251121150000_-2295582027259974799",
+      "event_id": "em_jjsj_20251121150000_-853996537174823094",
       "original_id": "2025-11-21 15:00:00_英国：政府净借款(报告期:2025年10月)",
       "event_date": "2025-11-21",
       "event_time": "15:00:00",
@@ -381,16 +940,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-30",
+      "discovery_date": "2025-10-31",
       "raw_data": {
         "Name": "英国：政府净借款(报告期:2025年10月)",
         "City": "英国"
       },
-      "created_at": "2025-10-30T00:53:56.971782"
+      "created_at": "2025-10-31T00:52:09.487262"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251121150000_-1299683113038254236",
+      "event_id": "em_jjsj_20251121150000_-3229212781017496708",
       "original_id": "2025-11-21 15:00:00_英国：零售指数含汽车燃料：现价：季调：同比(报告期:2025年10月)",
       "event_date": "2025-11-21",
       "event_time": "15:00:00",
@@ -406,16 +965,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-30",
+      "discovery_date": "2025-10-31",
       "raw_data": {
         "Name": "英国：零售指数含汽车燃料：现价：季调：同比(报告期:2025年10月)",
         "City": "英国"
       },
-      "created_at": "2025-10-30T00:53:56.971789"
+      "created_at": "2025-10-31T00:52:09.487270"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251121150000_2186751657518363024",
+      "event_id": "em_jjsj_20251121150000_889702622215830074",
       "original_id": "2025-11-21 15:00:00_英国：零售销售数量指数：所有的零售：季调：环比(报告期:2025年10月)",
       "event_date": "2025-11-21",
       "event_time": "15:00:00",
@@ -431,16 +990,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-30",
+      "discovery_date": "2025-10-31",
       "raw_data": {
         "Name": "英国：零售销售数量指数：所有的零售：季调：环比(报告期:2025年10月)",
         "City": "英国"
       },
-      "created_at": "2025-10-30T00:53:56.971796"
+      "created_at": "2025-10-31T00:52:09.487278"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251121150000_8314720597678393716",
+      "event_id": "em_jjsj_20251121150000_2621110399605049060",
       "original_id": "2025-11-21 15:00:00_英国：零售销售数量指数：所有的零售：季调：同比(报告期:2025年10月)",
       "event_date": "2025-11-21",
       "event_time": "15:00:00",
@@ -456,12 +1015,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-30",
+      "discovery_date": "2025-10-31",
       "raw_data": {
         "Name": "英国：零售销售数量指数：所有的零售：季调：同比(报告期:2025年10月)",
         "City": "英国"
       },
-      "created_at": "2025-10-30T00:53:56.971802"
+      "created_at": "2025-10-31T00:52:09.487285"
     },
     {
       "platform": "eastmoney",
@@ -481,7 +1040,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-30",
+      "discovery_date": "2025-10-31",
       "raw_data": {
         "fe_code": "10866232",
         "fe_name": "中国稀土学会2025学术年会暨稀土新材料与仪器设备展览会",
@@ -492,7 +1051,38 @@
         "city": "厦门市",
         "content": "稀土是战略性矿产资源,为统筹产学研用等各方面力量,积极助力新一代绿色高效采选冶技术研发应用、高端稀土新材料攻关和产业化进程,开展高水平的稀土领域学术、技术、成果及产业信息交流,引领稀土学科发展,推动稀土成果转化和产品推广,推进稀土科技创新和产业创新深度融合,中国稀土学会将于2025年11月21-24日在福建省厦门市举办“中国稀土学会2025学术年会暨稀土新材料与仪器设备展览会”。本次会议将交流稀土领域基础研究、应用研究以及产业技术与市场等方面的最新进展,交流形式包括大会报告、分会场报告、墙报展示等。会议议题内容包括稀土地质、稀土资源开发与环保、稀土化学、稀土新材料及应用、稀土在结构材料和功能材料中应用、稀土新材料与人工智能、产业政策等领域。本次会议设置28个分会场,预计参会人数2000余人。"
       },
-      "created_at": "2025-10-30T00:53:56.974058"
+      "created_at": "2025-10-31T00:52:09.489611"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_hyhy_10866304",
+      "original_id": "10866304",
+      "event_date": "2025-11-21",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025第二十三届广州国际汽车展览会",
+      "content": "第二十三届广州国际汽车展览会将于2025年11月21日至30日在中国进出口商品交易会展馆举办。自2003年创办以来,广州车展见证了中国汽车产业的发展与壮大,在新形势下,广州车展更将助力中国新能源和智能网联汽车产业加速发展,为全球车市注入新动能,发挥“中国汽车市场发展风向标”的引领作用!",
+      "category": "行业会议",
+      "importance": 3,
+      "country": "中国",
+      "city": "广州",
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-31",
+      "raw_data": {
+        "fe_code": "10866304",
+        "fe_name": "2025第二十三届广州国际汽车展览会",
+        "start_date": "2025-11-21",
+        "end_date": "2025-11-30",
+        "fe_type": "行业会议",
+        "sponsor": "中国对外贸易中心,中国机械工业联合会,中国汽车工业协会,中国国际贸易促进委员会汽车行业分会",
+        "city": "广州",
+        "content": "第二十三届广州国际汽车展览会将于2025年11月21日至30日在中国进出口商品交易会展馆举办。自2003年创办以来,广州车展见证了中国汽车产业的发展与壮大,在新形势下,广州车展更将助力中国新能源和智能网联汽车产业加速发展,为全球车市注入新动能,发挥“中国汽车市场发展风向标”的引领作用!"
+      },
+      "created_at": "2025-10-31T00:52:09.489619"
     }
   ]
 }

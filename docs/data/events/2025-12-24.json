@@ -1,10 +1,10 @@
 {
   "date": "2025-12-24",
-  "total_events": 5,
-  "new_events": 0,
+  "total_events": 7,
+  "new_events": 2,
   "platforms": {
     "investing": 1,
-    "eastmoney": 4
+    "eastmoney": 6
   },
   "events": [
     {
@@ -25,7 +25,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-30",
+      "discovery_date": "2025-10-31",
       "raw_data": {
         "event_id": "eventRowId_532302",
         "event_attr_id": "",
@@ -35,11 +35,11 @@
         "importance": 2,
         "event_name": "亚特兰大联储GDPNow经济增长预测  (第四季度)"
       },
-      "created_at": "2025-10-30T00:53:52.875472"
+      "created_at": "2025-10-31T00:52:05.671750"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_xsap_20251224_-8747389185472702045",
+      "event_id": "em_xsap_20251224_-3615236983347085551",
       "original_id": "xsap_港股通(沪)、港股通(深)_2025-12-24",
       "event_date": "2025-12-24",
       "event_time": null,
@@ -55,7 +55,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-30",
+      "discovery_date": "2025-10-31",
       "raw_data": {
         "MKT": "港股通(沪)、港股通(深)",
         "HOLIDAY": "圣诞前夕(13:00收市)",
@@ -64,11 +64,11 @@
         "XS": null,
         "FIRST_LETTER": "G"
       },
-      "created_at": "2025-10-30T00:53:56.968864"
+      "created_at": "2025-10-31T00:52:09.485491"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_xsap_20251224_-8747389185472702045",
+      "event_id": "em_xsap_20251224_-3615236983347085551",
       "original_id": "xsap_港股_2025-12-24",
       "event_date": "2025-12-24",
       "event_time": null,
@@ -84,7 +84,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-30",
+      "discovery_date": "2025-10-31",
       "raw_data": {
         "MKT": "港股",
         "HOLIDAY": "圣诞前夕(13:00收市)",
@@ -93,11 +93,11 @@
         "XS": "1",
         "FIRST_LETTER": "G"
       },
-      "created_at": "2025-10-30T00:53:56.968871"
+      "created_at": "2025-10-31T00:52:09.485498"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251224020000_6488329190511755109",
+      "event_id": "em_jjsj_20251224020000_-594894707325329056",
       "original_id": "2025-12-24 02:00:00_美国：M2：季调(报告期:2025年11月)",
       "event_date": "2025-12-24",
       "event_time": "02:00:00",
@@ -113,16 +113,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-30",
+      "discovery_date": "2025-10-31",
       "raw_data": {
         "Name": "美国：M2：季调(报告期:2025年11月)",
         "City": "美国"
       },
-      "created_at": "2025-10-30T00:53:56.973400"
+      "created_at": "2025-10-31T00:52:09.488970"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251224020000_-7055272669290642852",
+      "event_id": "em_jjsj_20251224020000_5044210960841046588",
       "original_id": "2025-12-24 02:00:00_美国：M1：季调(报告期:2025年11月)",
       "event_date": "2025-12-24",
       "event_time": "02:00:00",
@@ -138,12 +138,62 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-30",
+      "discovery_date": "2025-10-31",
       "raw_data": {
         "Name": "美国：M1：季调(报告期:2025年11月)",
         "City": "美国"
       },
-      "created_at": "2025-10-30T00:53:56.973407"
+      "created_at": "2025-10-31T00:52:09.488978"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251224213000_-2883891375164520079",
+      "original_id": "2025-12-24 21:30:00_美国：耐用品订单月率(报告期:2025年11月)",
+      "event_date": "2025-12-24",
+      "event_time": "21:30:00",
+      "event_datetime": "2025-12-24 21:30:00",
+      "title": "美国：耐用品订单月率(报告期:2025年11月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-31",
+      "raw_data": {
+        "Name": "美国：耐用品订单月率(报告期:2025年11月)",
+        "City": "美国"
+      },
+      "created_at": "2025-10-31T00:52:09.488985"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251224213000_-7436527553952053986",
+      "original_id": "2025-12-24 21:30:00_美国：耐用品：新增订单(报告期:2025年11月)",
+      "event_date": "2025-12-24",
+      "event_time": "21:30:00",
+      "event_datetime": "2025-12-24 21:30:00",
+      "title": "美国：耐用品：新增订单(报告期:2025年11月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-10-31",
+      "raw_data": {
+        "Name": "美国：耐用品：新增订单(报告期:2025年11月)",
+        "City": "美国"
+      },
+      "created_at": "2025-10-31T00:52:09.488992"
     }
   ]
 }
