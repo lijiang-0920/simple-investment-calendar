@@ -1,10 +1,10 @@
 {
   "date": "2025-11-15",
-  "total_events": 4,
+  "total_events": 5,
   "new_events": 0,
   "platforms": {
     "cls": 1,
-    "tonghuashun": 1,
+    "tonghuashun": 2,
     "investing": 1,
     "eastmoney": 1
   },
@@ -27,7 +27,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-31",
+      "discovery_date": "2025-11-01",
       "raw_data": {
         "id": 328147,
         "calendar_time": "2025-11-15 00:00:00",
@@ -43,7 +43,7 @@
         "holiday": null,
         "title": "第二届银发经济高质量发展大会将于11月15日举办"
       },
-      "created_at": "2025-10-31T00:51:45.573902"
+      "created_at": "2025-11-01T00:55:04.255891"
     },
     {
       "platform": "tonghuashun",
@@ -59,16 +59,11 @@
       "country": "中国",
       "city": null,
       "stocks": [],
-      "concepts": [
-        {
-          "code": "885522",
-          "name": "养老概念"
-        }
-      ],
+      "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-31",
+      "discovery_date": "2025-11-01",
       "raw_data": {
         "event": [
           "第二届银发经济高质量发展大会将于11月15日举办",
@@ -76,15 +71,39 @@
           "",
           ""
         ],
-        "concept": [
-          {
-            "code": "885522",
-            "name": "养老概念",
-            "py": "ylgn"
-          }
-        ]
+        "concept": []
       },
-      "created_at": "2025-10-31T00:51:56.054717"
+      "created_at": "2025-11-01T00:55:09.121769"
+    },
+    {
+      "platform": "tonghuashun",
+      "event_id": "ths_20251115_1_de3fcf41",
+      "original_id": "2025-11-15_1",
+      "event_date": "2025-11-15",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "第二届银发经济高质量发展大会将于11月15日举办",
+      "content": null,
+      "category": null,
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-11-01",
+      "raw_data": {
+        "event": [
+          "第二届银发经济高质量发展大会将于11月15日举办",
+          "",
+          "",
+          ""
+        ],
+        "concept": []
+      },
+      "created_at": "2025-11-01T00:55:09.121778"
     },
     {
       "platform": "investing",
@@ -104,7 +123,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-31",
+      "discovery_date": "2025-11-01",
       "raw_data": {
         "event_id": "eventRowId_532293",
         "event_attr_id": "",
@@ -114,7 +133,7 @@
         "importance": 2,
         "event_name": "亚特兰大联储GDPNow经济增长预测  (第四季度)"
       },
-      "created_at": "2025-10-31T00:52:00.399274"
+      "created_at": "2025-11-01T00:55:13.663467"
     },
     {
       "platform": "eastmoney",
@@ -134,7 +153,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-10-31",
+      "discovery_date": "2025-11-01",
       "raw_data": {
         "fe_code": "10866067",
         "fe_name": "第二届银发经济高质量发展大会",
@@ -145,7 +164,7 @@
         "city": "南京",
         "content": "?由享佳集团、中国老年学和老年医学学会老年教育分会、金龄银发研究院承办的第二届银发经济高质量发展大会将于2025年11月15日在江苏南京举行。"
       },
-      "created_at": "2025-10-31T00:52:09.489568"
+      "created_at": "2025-11-01T00:55:25.314548"
     }
   ]
 }
