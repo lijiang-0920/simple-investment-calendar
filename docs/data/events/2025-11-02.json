@@ -1,10 +1,11 @@
 {
   "date": "2025-11-02",
-  "total_events": 5,
-  "new_events": 0,
+  "total_events": 16,
+  "new_events": 11,
   "platforms": {
     "cls": 2,
-    "jiuyangongshe": 3
+    "jiuyangongshe": 3,
+    "eastmoney": 11
   },
   "events": [
     {
@@ -25,7 +26,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-01",
+      "discovery_date": "2025-11-02",
       "raw_data": {
         "id": 329935,
         "calendar_time": "2025-11-02 08:00:00",
@@ -41,7 +42,7 @@
         "holiday": null,
         "title": "欧佩克+八个成员国举行石油政策月度会议"
       },
-      "created_at": "2025-11-01T00:55:04.255510"
+      "created_at": "2025-11-02T00:55:32.209641"
     },
     {
       "platform": "cls",
@@ -61,7 +62,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-01",
+      "discovery_date": "2025-11-02",
       "raw_data": {
         "id": 327511,
         "calendar_time": "2025-11-02 23:00:00",
@@ -77,7 +78,7 @@
         "holiday": null,
         "title": "北美地区开始实行冬令时，美国和加拿大金融市场交易时间和经济数据公布时间将较夏令时延后一小时"
       },
-      "created_at": "2025-11-01T00:55:04.255520"
+      "created_at": "2025-11-02T00:55:32.209662"
     },
     {
       "platform": "jiuyangongshe",
@@ -97,7 +98,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-01",
+      "discovery_date": "2025-11-02",
       "raw_data": {
         "article_id": "1zqkku3eug3",
         "user_id": "6c42499113454e18854fe372c264fe61",
@@ -122,7 +123,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-01T00:55:05.639492"
+      "created_at": "2025-11-02T00:55:34.278958"
     },
     {
       "platform": "jiuyangongshe",
@@ -142,7 +143,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-01",
+      "discovery_date": "2025-11-02",
       "raw_data": {
         "article_id": "1f9dc6fa407d49928da434ca46a1d399",
         "user_id": "1",
@@ -167,7 +168,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-01T00:55:05.639518"
+      "created_at": "2025-11-02T00:55:34.278993"
     },
     {
       "platform": "jiuyangongshe",
@@ -187,7 +188,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-01",
+      "discovery_date": "2025-11-02",
       "raw_data": {
         "article_id": "91b98f7759a5433896f8c7e53235695a",
         "user_id": "1",
@@ -212,7 +213,315 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-01T00:55:05.639527"
+      "created_at": "2025-11-02T00:55:34.279004"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_000851_20251102_0",
+      "original_id": "000851",
+      "event_date": "2025-11-02",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "*ST高鸿停复牌",
+      "content": "股票代码: 000851, 股票名称: *ST高鸿",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "000851"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-02",
+      "raw_data": {
+        "stock_code": "000851",
+        "stock_name": "*ST高鸿",
+        "date": "2025-11-02"
+      },
+      "created_at": "2025-11-02T00:55:52.010643"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_920680_20251102_1",
+      "original_id": "920680",
+      "event_date": "2025-11-02",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "*ST广道停复牌",
+      "content": "股票代码: 920680, 股票名称: *ST广道",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "920680"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-02",
+      "raw_data": {
+        "stock_code": "920680",
+        "stock_name": "*ST广道",
+        "date": "2025-11-02"
+      },
+      "created_at": "2025-11-02T00:55:52.010653"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_600169_20251102_2",
+      "original_id": "600169",
+      "event_date": "2025-11-02",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "太原重工停复牌",
+      "content": "股票代码: 600169, 股票名称: 太原重工",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "600169"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-02",
+      "raw_data": {
+        "stock_code": "600169",
+        "stock_name": "太原重工",
+        "date": "2025-11-02"
+      },
+      "created_at": "2025-11-02T00:55:52.010660"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_000407_20251102_3",
+      "original_id": "000407",
+      "event_date": "2025-11-02",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "胜利股份停复牌",
+      "content": "股票代码: 000407, 股票名称: 胜利股份",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "000407"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-02",
+      "raw_data": {
+        "stock_code": "000407",
+        "stock_name": "胜利股份",
+        "date": "2025-11-02"
+      },
+      "created_at": "2025-11-02T00:55:52.010666"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_200771_20251102_4",
+      "original_id": "200771",
+      "event_date": "2025-11-02",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "杭汽轮B停复牌",
+      "content": "股票代码: 200771, 股票名称: 杭汽轮B",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "200771"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-02",
+      "raw_data": {
+        "stock_code": "200771",
+        "stock_name": "杭汽轮B",
+        "date": "2025-11-02"
+      },
+      "created_at": "2025-11-02T00:55:52.010673"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_300277_20251102_5",
+      "original_id": "300277",
+      "event_date": "2025-11-02",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "海联讯停复牌",
+      "content": "股票代码: 300277, 股票名称: 海联讯",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "300277"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-02",
+      "raw_data": {
+        "stock_code": "300277",
+        "stock_name": "海联讯",
+        "date": "2025-11-02"
+      },
+      "created_at": "2025-11-02T00:55:52.010683"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_301181_20251102_6",
+      "original_id": "301181",
+      "event_date": "2025-11-02",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "标榜股份停复牌",
+      "content": "股票代码: 301181, 股票名称: 标榜股份",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "301181"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-02",
+      "raw_data": {
+        "stock_code": "301181",
+        "stock_name": "标榜股份",
+        "date": "2025-11-02"
+      },
+      "created_at": "2025-11-02T00:55:52.010690"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_603843_20251102_7",
+      "original_id": "603843",
+      "event_date": "2025-11-02",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "*ST正平停复牌",
+      "content": "股票代码: 603843, 股票名称: *ST正平",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "603843"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-02",
+      "raw_data": {
+        "stock_code": "603843",
+        "stock_name": "*ST正平",
+        "date": "2025-11-02"
+      },
+      "created_at": "2025-11-02T00:55:52.010697"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_688588_20251102_8",
+      "original_id": "688588",
+      "event_date": "2025-11-02",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "凌志软件停复牌",
+      "content": "股票代码: 688588, 股票名称: 凌志软件",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "688588"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-02",
+      "raw_data": {
+        "stock_code": "688588",
+        "stock_name": "凌志软件",
+        "date": "2025-11-02"
+      },
+      "created_at": "2025-11-02T00:55:52.010703"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_300131_20251102_9",
+      "original_id": "300131",
+      "event_date": "2025-11-02",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "英唐智控停复牌",
+      "content": "股票代码: 300131, 股票名称: 英唐智控",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "300131"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-02",
+      "raw_data": {
+        "stock_code": "300131",
+        "stock_name": "英唐智控",
+        "date": "2025-11-02"
+      },
+      "created_at": "2025-11-02T00:55:52.010712"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_300424_20251102_10",
+      "original_id": "300424",
+      "event_date": "2025-11-02",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "航新科技停复牌",
+      "content": "股票代码: 300424, 股票名称: 航新科技",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "300424"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-02",
+      "raw_data": {
+        "stock_code": "300424",
+        "stock_name": "航新科技",
+        "date": "2025-11-02"
+      },
+      "created_at": "2025-11-02T00:55:52.010718"
     }
   ]
 }
