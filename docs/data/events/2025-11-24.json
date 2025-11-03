@@ -1,14 +1,60 @@
 {
   "date": "2025-11-24",
-  "total_events": 3,
-  "new_events": 0,
+  "total_events": 4,
+  "new_events": 1,
   "platforms": {
+    "jiuyangongshe": 1,
     "eastmoney": 3
   },
   "events": [
     {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_b264dfe588304692921b5d7ac9c9b985_654b123340d5443885378667e4bb0e7f_20251124",
+      "original_id": "b264dfe588304692921b5d7ac9c9b985",
+      "event_date": "2025-11-24",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025年华侨华人创业发展洽谈会",
+      "content": "",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-03",
+      "raw_data": {
+        "article_id": "b264dfe588304692921b5d7ac9c9b985",
+        "user_id": "1",
+        "title": "2025年华侨华人创业发展洽谈会",
+        "content": "",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "b264dfe588304692921b5d7ac9c9b985",
+          "timeline_id": "654b123340d5443885378667e4bb0e7f",
+          "date": "2025-11-24",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-11-02 16:39:18",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-11-03T00:55:00.296205"
+    },
+    {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251124130000_5525979483650794281",
+      "event_id": "em_jjsj_20251124130000_-3618220427439775407",
       "original_id": "2025-11-24 13:00:00_新加坡：CPI：同比(报告期:2025年10月)",
       "event_date": "2025-11-24",
       "event_time": "13:00:00",
@@ -24,16 +70,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-02",
+      "discovery_date": "2025-11-03",
       "raw_data": {
         "Name": "新加坡：CPI：同比(报告期:2025年10月)",
         "City": "新加坡"
       },
-      "created_at": "2025-11-02T00:55:52.013053"
+      "created_at": "2025-11-03T00:55:37.204858"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251124173000_-2833017331876553748",
+      "event_id": "em_jjsj_20251124173000_-5453864960519523802",
       "original_id": "2025-11-24 17:30:00_德国：Ifo商业景气指数(报告期:2025年11月)",
       "event_date": "2025-11-24",
       "event_time": "17:30:00",
@@ -49,16 +95,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-02",
+      "discovery_date": "2025-11-03",
       "raw_data": {
         "Name": "德国：Ifo商业景气指数(报告期:2025年11月)",
         "City": "德国"
       },
-      "created_at": "2025-11-02T00:55:52.013061"
+      "created_at": "2025-11-03T00:55:37.204866"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251124173000_-1136935667289593629",
+      "event_id": "em_jjsj_20251124173000_-3369721723043367403",
       "original_id": "2025-11-24 17:30:00_德国：Ifo现况指数(报告期:2025年11月)",
       "event_date": "2025-11-24",
       "event_time": "17:30:00",
@@ -74,12 +120,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-02",
+      "discovery_date": "2025-11-03",
       "raw_data": {
         "Name": "德国：Ifo现况指数(报告期:2025年11月)",
         "City": "德国"
       },
-      "created_at": "2025-11-02T00:55:52.013068"
+      "created_at": "2025-11-03T00:55:37.204874"
     }
   ]
 }
