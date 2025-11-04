@@ -1,9 +1,9 @@
 {
   "date": "2025-11-05",
-  "total_events": 117,
-  "new_events": 1,
+  "total_events": 119,
+  "new_events": 2,
   "platforms": {
-    "cls": 4,
+    "cls": 6,
     "jiuyangongshe": 3,
     "tonghuashun": 6,
     "investing": 80,
@@ -28,7 +28,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "id": 328141,
         "calendar_time": "2025-11-05 00:00:00",
@@ -44,7 +44,7 @@
         "holiday": null,
         "title": "第八届中国国际进口博览会将于11月5日至10日上海举办"
       },
-      "created_at": "2025-11-03T00:54:58.154759"
+      "created_at": "2025-11-04T00:52:04.795383"
     },
     {
       "platform": "cls",
@@ -64,7 +64,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "id": 334799,
         "calendar_time": "2025-11-05 00:00:00",
@@ -80,7 +80,7 @@
         "holiday": null,
         "title": "赛力斯：H股将于11月5日在香港联交所挂牌上市"
       },
-      "created_at": "2025-11-03T00:54:58.154800"
+      "created_at": "2025-11-04T00:52:04.795393"
     },
     {
       "platform": "cls",
@@ -100,7 +100,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "id": 337019,
         "calendar_time": "2025-11-05 00:00:00",
@@ -116,7 +116,7 @@
         "holiday": null,
         "title": "第二届中国测绘地理信息大会将于11月5日至7日举办"
       },
-      "created_at": "2025-11-03T00:54:58.154813"
+      "created_at": "2025-11-04T00:52:04.795404"
     },
     {
       "platform": "cls",
@@ -136,7 +136,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "id": 324980,
         "calendar_time": "2025-11-05 07:50:00",
@@ -152,7 +152,97 @@
         "holiday": null,
         "title": "日本央行公布9月货币政策会议纪要"
       },
-      "created_at": "2025-11-03T00:54:58.154823"
+      "created_at": "2025-11-04T00:52:04.795414"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_345074_20251105_1",
+      "original_id": "345074",
+      "event_date": "2025-11-05",
+      "event_time": "21:15:00",
+      "event_datetime": "2025-11-05 21:15:00",
+      "title": "美国10月ADP就业人数(万人)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-04",
+      "raw_data": {
+        "id": 345074,
+        "calendar_time": "2025-11-05 21:15:00",
+        "data_id": 54972,
+        "type": 1,
+        "economic": {
+          "title": "美国10月ADP就业人数(万人)",
+          "country": "美国",
+          "country_icon": "",
+          "star": 4,
+          "indicator_id": 78,
+          "front": "-3.2",
+          "fix": "--",
+          "consensus": "-2",
+          "actual": "--",
+          "unit": "万人",
+          "flag": "--",
+          "interpret": "",
+          "interpret_img": []
+        },
+        "event": null,
+        "holiday": null,
+        "title": "美国10月ADP就业人数(万人)"
+      },
+      "created_at": "2025-11-04T00:52:04.795424"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_345070_20251105_1",
+      "original_id": "345070",
+      "event_date": "2025-11-05",
+      "event_time": "23:30:00",
+      "event_datetime": "2025-11-05 23:30:00",
+      "title": "美国至10月31日当周EIA原油库存(万桶)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-04",
+      "raw_data": {
+        "id": 345070,
+        "calendar_time": "2025-11-05 23:30:00",
+        "data_id": 54967,
+        "type": 1,
+        "economic": {
+          "title": "美国至10月31日当周EIA原油库存(万桶)",
+          "country": "美国",
+          "country_icon": "",
+          "star": 4,
+          "indicator_id": 111,
+          "front": "-685.8",
+          "fix": "--",
+          "consensus": "--",
+          "actual": "--",
+          "unit": "万桶",
+          "flag": "--",
+          "interpret": "",
+          "interpret_img": []
+        },
+        "event": null,
+        "holiday": null,
+        "title": "美国至10月31日当周EIA原油库存(万桶)"
+      },
+      "created_at": "2025-11-04T00:52:04.795434"
     },
     {
       "platform": "jiuyangongshe",
@@ -172,7 +262,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "article_id": "5de18e6d8e1d4feea41144fed0dd925d",
         "user_id": "1",
@@ -197,7 +287,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-03T00:55:00.295604"
+      "created_at": "2025-11-04T00:52:06.785108"
     },
     {
       "platform": "jiuyangongshe",
@@ -217,7 +307,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "article_id": "37a57c09b2d440ed8797e2299f167311",
         "user_id": "1",
@@ -242,7 +332,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-03T00:55:00.295614"
+      "created_at": "2025-11-04T00:52:06.785122"
     },
     {
       "platform": "jiuyangongshe",
@@ -263,8 +353,8 @@
         "人形机器人"
       ],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-11-03",
+      "is_new": false,
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "article_id": "68e4e712902d4baeada74f8115d6989c",
         "user_id": "1",
@@ -294,7 +384,7 @@
           ]
         }
       },
-      "created_at": "2025-11-03T00:55:00.295623"
+      "created_at": "2025-11-04T00:52:06.785132"
     },
     {
       "platform": "tonghuashun",
@@ -314,7 +404,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event": [
           "赛力斯：H股将于11月5日在香港联交所挂牌上市",
@@ -324,7 +414,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-11-03T00:55:24.386741"
+      "created_at": "2025-11-04T00:52:11.719267"
     },
     {
       "platform": "tonghuashun",
@@ -344,7 +434,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event": [
           "第二届中国测绘地理信息大会将于11月5日至7日举办",
@@ -354,7 +444,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-11-03T00:55:24.386750"
+      "created_at": "2025-11-04T00:52:11.719277"
     },
     {
       "platform": "tonghuashun",
@@ -374,7 +464,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event": [
           "第二届中国测绘地理信息大会将于11月5日至7日举办",
@@ -384,7 +474,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-11-03T00:55:24.386758"
+      "created_at": "2025-11-04T00:52:11.719285"
     },
     {
       "platform": "tonghuashun",
@@ -404,7 +494,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event": [
           "第八届中国国际进口博览会将于11月5日至10日上海举办",
@@ -414,7 +504,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-11-03T00:55:24.386783"
+      "created_at": "2025-11-04T00:52:11.719293"
     },
     {
       "platform": "tonghuashun",
@@ -434,7 +524,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event": [
           "第八届中国国际进口博览会将于11月5日至10日上海举办",
@@ -444,7 +534,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-11-03T00:55:24.386795"
+      "created_at": "2025-11-04T00:52:11.719302"
     },
     {
       "platform": "tonghuashun",
@@ -464,7 +554,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event": [
           "赛力斯：H股将于11月5日在香港联交所挂牌上市",
@@ -474,7 +564,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-11-03T00:55:24.386804"
+      "created_at": "2025-11-04T00:52:11.719310"
     },
     {
       "platform": "investing",
@@ -494,7 +584,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_532291",
         "event_attr_id": "",
@@ -504,7 +594,7 @@
         "importance": 2,
         "event_name": "亚特兰大联储GDPNow经济增长预测  (第四季度)"
       },
-      "created_at": "2025-11-03T00:55:27.080089"
+      "created_at": "2025-11-04T00:52:14.533445"
     },
     {
       "platform": "investing",
@@ -524,7 +614,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_534747",
         "event_attr_id": "",
@@ -535,7 +625,7 @@
         "event_name": "意大利新车登记数月率 (同比)  (十月)",
         "previous": "4.2%"
       },
-      "created_at": "2025-11-03T00:55:27.080239"
+      "created_at": "2025-11-04T00:52:14.533611"
     },
     {
       "platform": "investing",
@@ -555,7 +645,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_534969",
         "event_attr_id": "",
@@ -565,7 +655,7 @@
         "importance": 2,
         "event_name": "德国央行行长纳格尔(Joachim Nagel)讲话"
       },
-      "created_at": "2025-11-03T00:55:27.080360"
+      "created_at": "2025-11-04T00:52:14.533741"
     },
     {
       "platform": "investing",
@@ -585,7 +675,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_534741",
         "event_attr_id": "",
@@ -595,7 +685,7 @@
         "importance": 2,
         "event_name": "新西兰央行金融稳定报告"
       },
-      "created_at": "2025-11-03T00:55:27.080479"
+      "created_at": "2025-11-04T00:52:14.533861"
     },
     {
       "platform": "investing",
@@ -615,7 +705,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_533862",
         "event_attr_id": "",
@@ -626,7 +716,7 @@
         "event_name": "韩国外汇储备(美元)  (十月)",
         "previous": "422.02B"
       },
-      "created_at": "2025-11-03T00:55:27.080596"
+      "created_at": "2025-11-04T00:52:14.533979"
     },
     {
       "platform": "investing",
@@ -646,7 +736,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_534742",
         "event_attr_id": "",
@@ -657,7 +747,7 @@
         "event_name": "美国当周API原油库存变动(桶)",
         "previous": "-4.000M"
       },
-      "created_at": "2025-11-03T00:55:27.080717"
+      "created_at": "2025-11-04T00:52:14.534095"
     },
     {
       "platform": "investing",
@@ -677,7 +767,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_533865",
         "event_attr_id": "",
@@ -689,7 +779,7 @@
         "forecast": "0.1%",
         "previous": "-0.1%"
       },
-      "created_at": "2025-11-03T00:55:27.080875"
+      "created_at": "2025-11-04T00:52:14.534215"
     },
     {
       "platform": "investing",
@@ -709,7 +799,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_534516",
         "event_attr_id": "",
@@ -721,7 +811,7 @@
         "forecast": "0.5%",
         "previous": "0.6%"
       },
-      "created_at": "2025-11-03T00:55:27.080999"
+      "created_at": "2025-11-04T00:52:14.534338"
     },
     {
       "platform": "investing",
@@ -731,7 +821,7 @@
       "event_time": "05:45",
       "event_datetime": "2025/11/05 05:45:00",
       "title": "新西兰劳动力成本指数年率(%) (同比)  (第三季度)",
-      "content": "前值: 2.2%",
+      "content": "预测值: 2.1% | 前值: 2.2%",
       "category": null,
       "importance": 1,
       "country": "新西兰",
@@ -741,7 +831,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_534515",
         "event_attr_id": "",
@@ -750,9 +840,10 @@
         "country": "新西兰",
         "importance": 1,
         "event_name": "新西兰劳动力成本指数年率(%) (同比)  (第三季度)",
+        "forecast": "2.1%",
         "previous": "2.2%"
       },
-      "created_at": "2025-11-03T00:55:27.081115"
+      "created_at": "2025-11-04T00:52:14.534460"
     },
     {
       "platform": "investing",
@@ -772,7 +863,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_533863",
         "event_attr_id": "",
@@ -783,7 +874,7 @@
         "event_name": "新西兰就业参与率(%)  (第三季度)",
         "previous": "70.50%"
       },
-      "created_at": "2025-11-03T00:55:27.081236"
+      "created_at": "2025-11-04T00:52:14.534594"
     },
     {
       "platform": "investing",
@@ -803,7 +894,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_533864",
         "event_attr_id": "",
@@ -815,7 +906,7 @@
         "forecast": "5.3%",
         "previous": "5.2%"
       },
-      "created_at": "2025-11-03T00:55:27.081356"
+      "created_at": "2025-11-04T00:52:14.534711"
     },
     {
       "platform": "investing",
@@ -835,7 +926,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_533868",
         "event_attr_id": "",
@@ -846,7 +937,7 @@
         "event_name": "AIG建筑业表现指数  (十月)",
         "previous": "12.3"
       },
-      "created_at": "2025-11-03T00:55:27.081475"
+      "created_at": "2025-11-04T00:52:14.534831"
     },
     {
       "platform": "investing",
@@ -866,7 +957,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_533869",
         "event_attr_id": "",
@@ -877,7 +968,7 @@
         "event_name": "澳大利亚AIG/PWC制造业表现指数  (十月)",
         "previous": "-13.2"
       },
-      "created_at": "2025-11-03T00:55:27.081593"
+      "created_at": "2025-11-04T00:52:14.534944"
     },
     {
       "platform": "investing",
@@ -897,7 +988,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_533866",
         "event_attr_id": "",
@@ -909,7 +1000,7 @@
         "forecast": "52.60",
         "previous": "52.60"
       },
-      "created_at": "2025-11-03T00:55:27.081714"
+      "created_at": "2025-11-04T00:52:14.535058"
     },
     {
       "platform": "investing",
@@ -929,7 +1020,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_533867",
         "event_attr_id": "",
@@ -941,7 +1032,7 @@
         "forecast": "53.1",
         "previous": "53.1"
       },
-      "created_at": "2025-11-03T00:55:27.081883"
+      "created_at": "2025-11-04T00:52:14.535177"
     },
     {
       "platform": "investing",
@@ -961,7 +1052,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_534879",
         "event_attr_id": "",
@@ -971,7 +1062,7 @@
         "importance": 2,
         "event_name": "新西兰联储主席奥尔(Adrian Orr)讲话"
       },
-      "created_at": "2025-11-03T00:55:27.082013"
+      "created_at": "2025-11-04T00:52:14.535291"
     },
     {
       "platform": "investing",
@@ -991,7 +1082,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_533870",
         "event_attr_id": "",
@@ -1003,7 +1094,7 @@
         "forecast": "-5.0%",
         "previous": "-6.1%"
       },
-      "created_at": "2025-11-03T00:55:27.082136"
+      "created_at": "2025-11-04T00:52:14.535405"
     },
     {
       "platform": "investing",
@@ -1023,7 +1114,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_534743",
         "event_attr_id": "",
@@ -1033,7 +1124,7 @@
         "importance": 2,
         "event_name": "日本央行公布货币政策会议纪要"
       },
-      "created_at": "2025-11-03T00:55:27.082252"
+      "created_at": "2025-11-04T00:52:14.535550"
     },
     {
       "platform": "investing",
@@ -1053,7 +1144,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_534970",
         "event_attr_id": "",
@@ -1064,7 +1155,7 @@
         "event_name": "新西兰ANZ商品价格指数(%) (月度环比)",
         "previous": "-1.1%"
       },
-      "created_at": "2025-11-03T00:55:27.082367"
+      "created_at": "2025-11-04T00:52:14.535668"
     },
     {
       "platform": "investing",
@@ -1084,7 +1175,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_534750",
         "event_attr_id": "",
@@ -1094,7 +1185,7 @@
         "importance": 2,
         "event_name": "新西兰联储新闻发布会"
       },
-      "created_at": "2025-11-03T00:55:27.082483"
+      "created_at": "2025-11-04T00:52:14.535787"
     },
     {
       "platform": "investing",
@@ -1114,7 +1205,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_534751",
         "event_attr_id": "",
@@ -1124,7 +1215,7 @@
         "importance": 1,
         "event_name": "澳洲央行经济和金融市场图表集"
       },
-      "created_at": "2025-11-03T00:55:27.082596"
+      "created_at": "2025-11-04T00:52:14.535898"
     },
     {
       "platform": "investing",
@@ -1144,7 +1235,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_533871",
         "event_attr_id": "",
@@ -1155,7 +1246,7 @@
         "event_name": "中国香港日经PMI  (十月)",
         "previous": "50.4"
       },
-      "created_at": "2025-11-03T00:55:27.082720"
+      "created_at": "2025-11-04T00:52:14.536015"
     },
     {
       "platform": "investing",
@@ -1175,7 +1266,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_533876",
         "event_attr_id": "",
@@ -1187,7 +1278,7 @@
         "forecast": "52.6",
         "previous": "52.9"
       },
-      "created_at": "2025-11-03T00:55:27.082885"
+      "created_at": "2025-11-04T00:52:14.536138"
     },
     {
       "platform": "investing",
@@ -1207,7 +1298,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_534752",
         "event_attr_id": "",
@@ -1218,7 +1309,7 @@
         "event_name": "日本10年期国债拍卖收益率(%)",
         "previous": "1.635%"
       },
-      "created_at": "2025-11-03T00:55:27.083015"
+      "created_at": "2025-11-04T00:52:14.536258"
     },
     {
       "platform": "investing",
@@ -1238,7 +1329,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_533878",
         "event_attr_id": "",
@@ -1249,7 +1340,7 @@
         "event_name": "泰国核心CPI年率(%) (同比)  (十月)",
         "previous": "0.65%"
       },
-      "created_at": "2025-11-03T00:55:27.083132"
+      "created_at": "2025-11-04T00:52:14.536372"
     },
     {
       "platform": "investing",
@@ -1269,7 +1360,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_533879",
         "event_attr_id": "",
@@ -1280,7 +1371,7 @@
         "event_name": "泰国CPI年率(%) (同比)  (十月)",
         "previous": "-0.72%"
       },
-      "created_at": "2025-11-03T00:55:27.083246"
+      "created_at": "2025-11-04T00:52:14.536498"
     },
     {
       "platform": "investing",
@@ -1300,7 +1391,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_533880",
         "event_attr_id": "",
@@ -1311,7 +1402,7 @@
         "event_name": "印度尼西亚GDP年率(%) (同比)  (第三季度)",
         "previous": "5.12%"
       },
-      "created_at": "2025-11-03T00:55:27.083366"
+      "created_at": "2025-11-04T00:52:14.536620"
     },
     {
       "platform": "investing",
@@ -1331,7 +1422,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_533877",
         "event_attr_id": "",
@@ -1342,7 +1433,7 @@
         "event_name": "印度尼西亚GDP季率(%) (季度环比)  (第三季度)",
         "previous": "4.04%"
       },
-      "created_at": "2025-11-03T00:55:27.083481"
+      "created_at": "2025-11-04T00:52:14.536735"
     },
     {
       "platform": "investing",
@@ -1362,7 +1453,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_533889",
         "event_attr_id": "",
@@ -1373,7 +1464,7 @@
         "event_name": "新加坡零售销售年率(%) (同比)  (九月)",
         "previous": "5.2%"
       },
-      "created_at": "2025-11-03T00:55:27.083602"
+      "created_at": "2025-11-04T00:52:14.536854"
     },
     {
       "platform": "investing",
@@ -1393,7 +1484,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_533890",
         "event_attr_id": "",
@@ -1404,7 +1495,7 @@
         "event_name": "新加坡季调后零售销售月率(%) (月度环比)  (九月)",
         "previous": "0.5%"
       },
-      "created_at": "2025-11-03T00:55:27.083717"
+      "created_at": "2025-11-04T00:52:14.536967"
     },
     {
       "platform": "investing",
@@ -1424,7 +1515,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_533925",
         "event_attr_id": "",
@@ -1436,7 +1527,7 @@
         "forecast": "0.8%",
         "previous": "-0.8%"
       },
-      "created_at": "2025-11-03T00:55:27.083854"
+      "created_at": "2025-11-04T00:52:14.537124"
     },
     {
       "platform": "investing",
@@ -1456,7 +1547,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_533926",
         "event_attr_id": "",
@@ -1467,7 +1558,7 @@
         "event_name": "南非汇丰综合PMI  (十月)",
         "previous": "50.2"
       },
-      "created_at": "2025-11-03T00:55:27.083973"
+      "created_at": "2025-11-04T00:52:14.537248"
     },
     {
       "platform": "investing",
@@ -1487,7 +1578,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_534753",
         "event_attr_id": "",
@@ -1499,7 +1590,7 @@
         "forecast": "0.1%",
         "previous": "-0.7%"
       },
-      "created_at": "2025-11-03T00:55:27.084089"
+      "created_at": "2025-11-04T00:52:14.537365"
     },
     {
       "platform": "investing",
@@ -1519,7 +1610,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_533932",
         "event_attr_id": "",
@@ -1531,7 +1622,7 @@
         "forecast": "54.6",
         "previous": "54.3"
       },
-      "created_at": "2025-11-03T00:55:27.084205"
+      "created_at": "2025-11-04T00:52:14.537493"
     },
     {
       "platform": "investing",
@@ -1551,7 +1642,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_533933",
         "event_attr_id": "",
@@ -1562,7 +1653,7 @@
         "event_name": "中国台湾外汇存底(美元)  (十月)",
         "previous": "602.94B"
       },
-      "created_at": "2025-11-03T00:55:27.084320"
+      "created_at": "2025-11-04T00:52:14.537615"
     },
     {
       "platform": "investing",
@@ -1582,7 +1673,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_533934",
         "event_attr_id": "",
@@ -1593,7 +1684,7 @@
         "event_name": "意大利综合PMI  (十月)",
         "previous": "51.7"
       },
-      "created_at": "2025-11-03T00:55:27.084432"
+      "created_at": "2025-11-04T00:52:14.537735"
     },
     {
       "platform": "investing",
@@ -1613,7 +1704,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_533935",
         "event_attr_id": "",
@@ -1625,7 +1716,7 @@
         "forecast": "53.0",
         "previous": "52.5"
       },
-      "created_at": "2025-11-03T00:55:27.084547"
+      "created_at": "2025-11-04T00:52:14.537851"
     },
     {
       "platform": "investing",
@@ -1645,7 +1736,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_533937",
         "event_attr_id": "",
@@ -1657,7 +1748,7 @@
         "forecast": "46.8",
         "previous": "46.8"
       },
-      "created_at": "2025-11-03T00:55:27.084667"
+      "created_at": "2025-11-04T00:52:14.537966"
     },
     {
       "platform": "investing",
@@ -1677,7 +1768,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_533936",
         "event_attr_id": "",
@@ -1689,7 +1780,7 @@
         "forecast": "47.1",
         "previous": "47.1"
       },
-      "created_at": "2025-11-03T00:55:27.084828"
+      "created_at": "2025-11-04T00:52:14.538080"
     },
     {
       "platform": "investing",
@@ -1709,7 +1800,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_533938",
         "event_attr_id": "",
@@ -1721,7 +1812,7 @@
         "forecast": "53.8",
         "previous": "53.8"
       },
-      "created_at": "2025-11-03T00:55:27.084957"
+      "created_at": "2025-11-04T00:52:14.538193"
     },
     {
       "platform": "investing",
@@ -1741,7 +1832,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_533939",
         "event_attr_id": "",
@@ -1753,7 +1844,7 @@
         "forecast": "54.5",
         "previous": "54.5"
       },
-      "created_at": "2025-11-03T00:55:27.085075"
+      "created_at": "2025-11-04T00:52:14.538306"
     },
     {
       "platform": "investing",
@@ -1773,7 +1864,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_534756",
         "event_attr_id": "",
@@ -1784,7 +1875,7 @@
         "event_name": "英国新车登记数月率 (同比)  (十月)",
         "previous": "13.7%"
       },
-      "created_at": "2025-11-03T00:55:27.085197"
+      "created_at": "2025-11-04T00:52:14.538422"
     },
     {
       "platform": "investing",
@@ -1804,7 +1895,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_533940",
         "event_attr_id": "",
@@ -1815,7 +1906,7 @@
         "event_name": "英国新车登记数  (十月)",
         "previous": "312,891.0"
       },
-      "created_at": "2025-11-03T00:55:27.085314"
+      "created_at": "2025-11-04T00:52:14.538553"
     },
     {
       "platform": "investing",
@@ -1835,7 +1926,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_533941",
         "event_attr_id": "",
@@ -1847,7 +1938,7 @@
         "forecast": "0.2%",
         "previous": "-0.1%"
       },
-      "created_at": "2025-11-03T00:55:27.085436"
+      "created_at": "2025-11-04T00:52:14.538677"
     },
     {
       "platform": "investing",
@@ -1867,7 +1958,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_533943",
         "event_attr_id": "",
@@ -1878,7 +1969,7 @@
         "event_name": "意大利零售销售年率(%) (同比)  (九月)",
         "previous": "0.5%"
       },
-      "created_at": "2025-11-03T00:55:27.085560"
+      "created_at": "2025-11-04T00:52:14.538791"
     },
     {
       "platform": "investing",
@@ -1898,7 +1989,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_533945",
         "event_attr_id": "",
@@ -1910,7 +2001,7 @@
         "forecast": "52.2",
         "previous": "52.2"
       },
-      "created_at": "2025-11-03T00:55:27.085680"
+      "created_at": "2025-11-04T00:52:14.538904"
     },
     {
       "platform": "investing",
@@ -1930,7 +2021,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_533944",
         "event_attr_id": "",
@@ -1942,7 +2033,7 @@
         "forecast": "52.6",
         "previous": "52.6"
       },
-      "created_at": "2025-11-03T00:55:27.085823"
+      "created_at": "2025-11-04T00:52:14.539017"
     },
     {
       "platform": "investing",
@@ -1962,7 +2053,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_533946",
         "event_attr_id": "",
@@ -1974,7 +2065,7 @@
         "forecast": "51.1",
         "previous": "51.1"
       },
-      "created_at": "2025-11-03T00:55:27.085951"
+      "created_at": "2025-11-04T00:52:14.539129"
     },
     {
       "platform": "investing",
@@ -1994,7 +2085,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_533947",
         "event_attr_id": "",
@@ -2006,7 +2097,7 @@
         "forecast": "51.1",
         "previous": "51.1"
       },
-      "created_at": "2025-11-03T00:55:27.086127"
+      "created_at": "2025-11-04T00:52:14.539249"
     },
     {
       "platform": "investing",
@@ -2026,7 +2117,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_534971",
         "event_attr_id": "",
@@ -2036,7 +2127,7 @@
         "importance": 2,
         "event_name": "德国央行行长纳格尔(Joachim Nagel)讲话"
       },
-      "created_at": "2025-11-03T00:55:27.086254"
+      "created_at": "2025-11-04T00:52:14.539370"
     },
     {
       "platform": "investing",
@@ -2056,7 +2147,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_533950",
         "event_attr_id": "",
@@ -2068,7 +2159,7 @@
         "forecast": "-0.1%",
         "previous": "-0.3%"
       },
-      "created_at": "2025-11-03T00:55:27.086380"
+      "created_at": "2025-11-04T00:52:14.539480"
     },
     {
       "platform": "investing",
@@ -2088,7 +2179,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_533949",
         "event_attr_id": "",
@@ -2099,7 +2190,7 @@
         "event_name": "欧元区PPI年率(%) (同比)  (九月)",
         "previous": "-0.6%"
       },
-      "created_at": "2025-11-03T00:55:27.086503"
+      "created_at": "2025-11-04T00:52:14.539610"
     },
     {
       "platform": "investing",
@@ -2119,7 +2210,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_534834",
         "event_attr_id": "",
@@ -2130,7 +2221,7 @@
         "event_name": "美国MBA30年期固定抵押贷款利率(%)",
         "previous": "6.30%"
       },
-      "created_at": "2025-11-03T00:55:27.086620"
+      "created_at": "2025-11-04T00:52:14.539720"
     },
     {
       "platform": "investing",
@@ -2150,7 +2241,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_534835",
         "event_attr_id": "",
@@ -2161,7 +2252,7 @@
         "event_name": "美国MBA抵押贷款申请活动指数周环比(%) (每周)",
         "previous": "7.1%"
       },
-      "created_at": "2025-11-03T00:55:27.086737"
+      "created_at": "2025-11-04T00:52:14.539831"
     },
     {
       "platform": "investing",
@@ -2181,7 +2272,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_534836",
         "event_attr_id": "",
@@ -2192,7 +2283,7 @@
         "event_name": "美国MBA抵押贷款购买指数",
         "previous": "164.3"
       },
-      "created_at": "2025-11-03T00:55:27.086947"
+      "created_at": "2025-11-04T00:52:14.539947"
     },
     {
       "platform": "investing",
@@ -2212,7 +2303,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_534837",
         "event_attr_id": "",
@@ -2223,7 +2314,7 @@
         "event_name": "美国MBA抵押贷款申请活动指数",
         "previous": "338.7"
       },
-      "created_at": "2025-11-03T00:55:27.087073"
+      "created_at": "2025-11-04T00:52:14.540064"
     },
     {
       "platform": "investing",
@@ -2243,7 +2334,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_534838",
         "event_attr_id": "",
@@ -2254,7 +2345,7 @@
         "event_name": "美国MBA抵押贷款再融资活动指数",
         "previous": "1,327.8"
       },
-      "created_at": "2025-11-03T00:55:27.087194"
+      "created_at": "2025-11-04T00:52:14.540184"
     },
     {
       "platform": "investing",
@@ -2274,7 +2365,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_533960",
         "event_attr_id": "",
@@ -2285,7 +2376,7 @@
         "event_name": "巴西汇丰综合PMI  (十月)",
         "previous": "46.0"
       },
-      "created_at": "2025-11-03T00:55:27.087317"
+      "created_at": "2025-11-04T00:52:14.540297"
     },
     {
       "platform": "investing",
@@ -2305,7 +2396,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_533961",
         "event_attr_id": "",
@@ -2316,7 +2407,7 @@
         "event_name": "巴西汇丰服务业PMI  (十月)",
         "previous": "46.3"
       },
-      "created_at": "2025-11-03T00:55:27.087435"
+      "created_at": "2025-11-04T00:52:14.540410"
     },
     {
       "platform": "investing",
@@ -2336,7 +2427,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_533963",
         "event_attr_id": "",
@@ -2348,7 +2439,7 @@
         "forecast": "28K",
         "previous": "-32K"
       },
-      "created_at": "2025-11-03T00:55:27.087552"
+      "created_at": "2025-11-04T00:52:14.540538"
     },
     {
       "platform": "investing",
@@ -2368,7 +2459,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_533962",
         "event_attr_id": "",
@@ -2379,7 +2470,7 @@
         "event_name": "欧元区储备资产总值  (十月)",
         "previous": "126.6B"
       },
-      "created_at": "2025-11-03T00:55:27.087670"
+      "created_at": "2025-11-04T00:52:14.540657"
     },
     {
       "platform": "investing",
@@ -2399,7 +2490,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_533967",
         "event_attr_id": "",
@@ -2410,7 +2501,7 @@
         "event_name": "美国ISM非制造业商业活动指数  (十月)",
         "previous": "49.9"
       },
-      "created_at": "2025-11-03T00:55:27.087806"
+      "created_at": "2025-11-04T00:52:14.540769"
     },
     {
       "platform": "investing",
@@ -2430,7 +2521,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_533968",
         "event_attr_id": "",
@@ -2441,7 +2532,7 @@
         "event_name": "美国ISM非制造业就业指数  (十月)",
         "previous": "47.2"
       },
-      "created_at": "2025-11-03T00:55:27.087929"
+      "created_at": "2025-11-04T00:52:14.540885"
     },
     {
       "platform": "investing",
@@ -2461,7 +2552,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_533966",
         "event_attr_id": "",
@@ -2472,7 +2563,7 @@
         "event_name": "美国ISM非制造业新订单指数  (十月)",
         "previous": "50.4"
       },
-      "created_at": "2025-11-03T00:55:27.088044"
+      "created_at": "2025-11-04T00:52:14.540997"
     },
     {
       "platform": "investing",
@@ -2492,7 +2583,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_534973",
         "event_attr_id": "",
@@ -2504,7 +2595,7 @@
         "forecast": "51.0",
         "previous": "50.8"
       },
-      "created_at": "2025-11-03T00:55:27.088169"
+      "created_at": "2025-11-04T00:52:14.541112"
     },
     {
       "platform": "investing",
@@ -2524,7 +2615,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_533970",
         "event_attr_id": "",
@@ -2535,7 +2626,7 @@
         "event_name": "美国ISM非制造业PMI  (十月)",
         "previous": "50.0"
       },
-      "created_at": "2025-11-03T00:55:27.088290"
+      "created_at": "2025-11-04T00:52:14.541223"
     },
     {
       "platform": "investing",
@@ -2555,7 +2646,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_533969",
         "event_attr_id": "",
@@ -2566,7 +2657,7 @@
         "event_name": "美国ISM非制造业物价指数  (十月)",
         "previous": "69.4"
       },
-      "created_at": "2025-11-03T00:55:27.088416"
+      "created_at": "2025-11-04T00:52:14.541337"
     },
     {
       "platform": "investing",
@@ -2586,7 +2677,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_534757",
         "event_attr_id": "",
@@ -2597,7 +2688,7 @@
         "event_name": "Services PMI  (十月)",
         "previous": "46.30"
       },
-      "created_at": "2025-11-03T00:55:27.088539"
+      "created_at": "2025-11-04T00:52:14.541449"
     },
     {
       "platform": "investing",
@@ -2617,7 +2708,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_533974",
         "event_attr_id": "",
@@ -2629,7 +2720,7 @@
         "forecast": "54.8",
         "previous": "54.8"
       },
-      "created_at": "2025-11-03T00:55:27.088685"
+      "created_at": "2025-11-04T00:52:14.541581"
     },
     {
       "platform": "investing",
@@ -2649,7 +2740,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_533973",
         "event_attr_id": "",
@@ -2661,7 +2752,7 @@
         "forecast": "55.2",
         "previous": "55.2"
       },
-      "created_at": "2025-11-03T00:55:27.088840"
+      "created_at": "2025-11-04T00:52:14.541701"
     },
     {
       "platform": "investing",
@@ -2681,7 +2772,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_534932",
         "event_attr_id": "",
@@ -2692,7 +2783,7 @@
         "event_name": "美国当周EIA原油库存变动(桶)",
         "previous": "-6.858M"
       },
-      "created_at": "2025-11-03T00:55:27.089012"
+      "created_at": "2025-11-04T00:52:14.541820"
     },
     {
       "platform": "investing",
@@ -2712,7 +2803,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_534927",
         "event_attr_id": "",
@@ -2723,7 +2814,7 @@
         "event_name": "美国当周EIA精炼厂原油消耗量变动 (每周)",
         "previous": "-0.511M"
       },
-      "created_at": "2025-11-03T00:55:27.089143"
+      "created_at": "2025-11-04T00:52:14.541932"
     },
     {
       "platform": "investing",
@@ -2743,7 +2834,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_534931",
         "event_attr_id": "",
@@ -2754,7 +2845,7 @@
         "event_name": "美国当周EIA原油进口变动(桶)",
         "previous": "-1.025M"
       },
-      "created_at": "2025-11-03T00:55:27.089261"
+      "created_at": "2025-11-04T00:52:14.542044"
     },
     {
       "platform": "investing",
@@ -2774,7 +2865,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_534929",
         "event_attr_id": "",
@@ -2785,7 +2876,7 @@
         "event_name": "美国当周EIA库欣原油库存变动(桶)",
         "previous": "1.334M"
       },
-      "created_at": "2025-11-03T00:55:27.089378"
+      "created_at": "2025-11-04T00:52:14.542154"
     },
     {
       "platform": "investing",
@@ -2805,7 +2896,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_534924",
         "event_attr_id": "",
@@ -2816,7 +2907,7 @@
         "event_name": "美国当周EIA精炼油产量变动(桶)",
         "previous": "-0.134M"
       },
-      "created_at": "2025-11-03T00:55:27.089492"
+      "created_at": "2025-11-04T00:52:14.542265"
     },
     {
       "platform": "investing",
@@ -2836,7 +2927,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_534926",
         "event_attr_id": "",
@@ -2847,7 +2938,7 @@
         "event_name": "美国当周EIA精炼油库存变动(桶)",
         "previous": "-3.362M"
       },
-      "created_at": "2025-11-03T00:55:27.089605"
+      "created_at": "2025-11-04T00:52:14.542381"
     },
     {
       "platform": "investing",
@@ -2867,7 +2958,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_534923",
         "event_attr_id": "",
@@ -2878,7 +2969,7 @@
         "event_name": "美国当周EIA汽油产量变动(桶)",
         "previous": "-0.004M"
       },
-      "created_at": "2025-11-03T00:55:27.089718"
+      "created_at": "2025-11-04T00:52:14.542513"
     },
     {
       "platform": "investing",
@@ -2898,7 +2989,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_534928",
         "event_attr_id": "",
@@ -2909,7 +3000,7 @@
         "event_name": "美国当周EIA取暖油库存变动(桶)",
         "previous": "0.049M"
       },
-      "created_at": "2025-11-03T00:55:27.089858"
+      "created_at": "2025-11-04T00:52:14.542630"
     },
     {
       "platform": "investing",
@@ -2929,7 +3020,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_534930",
         "event_attr_id": "",
@@ -2940,7 +3031,7 @@
         "event_name": "美国当周EIA精炼厂设备利用率变动 (每周)",
         "previous": "-2.0%"
       },
-      "created_at": "2025-11-03T00:55:27.089977"
+      "created_at": "2025-11-04T00:52:14.542741"
     },
     {
       "platform": "investing",
@@ -2960,7 +3051,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_534925",
         "event_attr_id": "",
@@ -2971,11 +3062,11 @@
         "event_name": "美国EIA汽油库存变动(桶)",
         "previous": "-5.941M"
       },
-      "created_at": "2025-11-03T00:55:27.090091"
+      "created_at": "2025-11-04T00:52:14.542855"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251105000000_-5841064444469470609",
+      "event_id": "em_jjsj_20251105000000_-3445561642731670977",
       "original_id": "2025-11-05 00:00:00_泰国：PPI(报告期:2025年10月)",
       "event_date": "2025-11-05",
       "event_time": null,
@@ -2991,16 +3082,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "Name": "泰国：PPI(报告期:2025年10月)",
         "City": "泰国"
       },
-      "created_at": "2025-11-03T00:55:37.203526"
+      "created_at": "2025-11-04T00:52:26.030555"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251105090000_3151290323284487887",
+      "event_id": "em_jjsj_20251105090000_3205552019776627857",
       "original_id": "2025-11-05 09:00:00_菲律宾：CPI：同比(报告期:2025年10月)",
       "event_date": "2025-11-05",
       "event_time": "09:00:00",
@@ -3016,16 +3107,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "Name": "菲律宾：CPI：同比(报告期:2025年10月)",
         "City": "菲律宾"
       },
-      "created_at": "2025-11-03T00:55:37.203534"
+      "created_at": "2025-11-04T00:52:26.030563"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251105120000_-2341049642377495906",
+      "event_id": "em_jjsj_20251105120000_1308230528682033059",
       "original_id": "2025-11-05 12:00:00_泰国：CPI：同比(报告期:2025年10月)",
       "event_date": "2025-11-05",
       "event_time": "12:00:00",
@@ -3041,16 +3132,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "Name": "泰国：CPI：同比(报告期:2025年10月)",
         "City": "泰国"
       },
-      "created_at": "2025-11-03T00:55:37.203542"
+      "created_at": "2025-11-04T00:52:26.030571"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251105173000_4077380005065839354",
+      "event_id": "em_jjsj_20251105173000_2318530373256618257",
       "original_id": "2025-11-05 17:30:00_英国：央行外币储备(报告期:2025年10月)",
       "event_date": "2025-11-05",
       "event_time": "17:30:00",
@@ -3066,16 +3157,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "Name": "英国：央行外币储备(报告期:2025年10月)",
         "City": "英国"
       },
-      "created_at": "2025-11-03T00:55:37.203550"
+      "created_at": "2025-11-04T00:52:26.030578"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251105230000_887436259156699728",
+      "event_id": "em_jjsj_20251105230000_3455295410328498239",
       "original_id": "2025-11-05 23:00:00_美国：ISM：非制造业PMI：供应商交付(报告期:2025年10月)",
       "event_date": "2025-11-05",
       "event_time": "23:00:00",
@@ -3091,16 +3182,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "Name": "美国：ISM：非制造业PMI：供应商交付(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-11-03T00:55:37.203557"
+      "created_at": "2025-11-04T00:52:26.030586"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251105230000_-2326241841548748526",
+      "event_id": "em_jjsj_20251105230000_7055797944712866859",
       "original_id": "2025-11-05 23:00:00_美国：ISM：非制造业PMI：就业(报告期:2025年10月)",
       "event_date": "2025-11-05",
       "event_time": "23:00:00",
@@ -3116,16 +3207,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "Name": "美国：ISM：非制造业PMI：就业(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-11-03T00:55:37.203565"
+      "created_at": "2025-11-04T00:52:26.030593"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251105230000_5428307382084715356",
+      "event_id": "em_jjsj_20251105230000_7435079476528406727",
       "original_id": "2025-11-05 23:00:00_美国：ISM：服务业PMI(报告期:2025年10月)",
       "event_date": "2025-11-05",
       "event_time": "23:00:00",
@@ -3141,16 +3232,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "Name": "美国：ISM：服务业PMI(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-11-03T00:55:37.203572"
+      "created_at": "2025-11-04T00:52:26.030600"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251105230000_-7166094704558763855",
+      "event_id": "em_jjsj_20251105230000_-1791144713683087189",
       "original_id": "2025-11-05 23:00:00_美国：ISM：非制造业PMI：库存(报告期:2025年10月)",
       "event_date": "2025-11-05",
       "event_time": "23:00:00",
@@ -3166,16 +3257,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "Name": "美国：ISM：非制造业PMI：库存(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-11-03T00:55:37.203579"
+      "created_at": "2025-11-04T00:52:26.030610"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251105230000_-4128750865708393735",
+      "event_id": "em_jjsj_20251105230000_7758045721203268052",
       "original_id": "2025-11-05 23:00:00_美国：ISM：非制造业PMI：物价(报告期:2025年10月)",
       "event_date": "2025-11-05",
       "event_time": "23:00:00",
@@ -3191,16 +3282,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "Name": "美国：ISM：非制造业PMI：物价(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-11-03T00:55:37.203587"
+      "created_at": "2025-11-04T00:52:26.030625"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251105230000_-4998928006137385447",
+      "event_id": "em_jjsj_20251105230000_7393604530676043052",
       "original_id": "2025-11-05 23:00:00_美国：ISM：非制造业PMI：新订单(报告期:2025年10月)",
       "event_date": "2025-11-05",
       "event_time": "23:00:00",
@@ -3216,16 +3307,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "Name": "美国：ISM：非制造业PMI：新订单(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-11-03T00:55:37.203594"
+      "created_at": "2025-11-04T00:52:26.030632"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251105233000_-2484975308888926850",
+      "event_id": "em_jjsj_20251105233000_-4979392647102830092",
       "original_id": "2025-11-05 23:30:00_美国：EIA原油库存:变动值(报告期:2025年10月)",
       "event_date": "2025-11-05",
       "event_time": "23:30:00",
@@ -3241,16 +3332,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "Name": "美国：EIA原油库存:变动值(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-11-03T00:55:37.203603"
+      "created_at": "2025-11-04T00:52:26.030640"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251105233000_-4069852348231589289",
+      "event_id": "em_jjsj_20251105233000_4903315717750090422",
       "original_id": "2025-11-05 23:30:00_美国：DOE汽油引申需求:当周值(报告期:2025年10月)",
       "event_date": "2025-11-05",
       "event_time": "23:30:00",
@@ -3266,16 +3357,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "Name": "美国：DOE汽油引申需求:当周值(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-11-03T00:55:37.203610"
+      "created_at": "2025-11-04T00:52:26.030647"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251105233000_1549249507190973007",
+      "event_id": "em_jjsj_20251105233000_1298774454890959168",
       "original_id": "2025-11-05 23:30:00_美国：EIA汽油库存:变动值(报告期:2025年10月)",
       "event_date": "2025-11-05",
       "event_time": "23:30:00",
@@ -3291,16 +3382,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "Name": "美国：EIA汽油库存:变动值(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-11-03T00:55:37.203617"
+      "created_at": "2025-11-04T00:52:26.030654"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251105233000_2354410376524601322",
+      "event_id": "em_jjsj_20251105233000_2834178410367218712",
       "original_id": "2025-11-05 23:30:00_美国：DOE原油引申需求:当周值(报告期:2025年10月)",
       "event_date": "2025-11-05",
       "event_time": "23:30:00",
@@ -3316,16 +3407,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "Name": "美国：DOE原油引申需求:当周值(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-11-03T00:55:37.203625"
+      "created_at": "2025-11-04T00:52:26.030661"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251105233000_3181890013243544338",
+      "event_id": "em_jjsj_20251105233000_822130326138370593",
       "original_id": "2025-11-05 23:30:00_美国：DOE燃料乙醇总库存:当周值(报告期:2025年10月)",
       "event_date": "2025-11-05",
       "event_time": "23:30:00",
@@ -3341,16 +3432,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "Name": "美国：DOE燃料乙醇总库存:当周值(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-11-03T00:55:37.203632"
+      "created_at": "2025-11-04T00:52:26.030668"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251105233000_3680802194473474777",
+      "event_id": "em_jjsj_20251105233000_-5387396843155918943",
       "original_id": "2025-11-05 23:30:00_美国：EIA俄克拉荷马州库欣原油库存:当周值(报告期:2025年10月)",
       "event_date": "2025-11-05",
       "event_time": "23:30:00",
@@ -3366,16 +3457,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "Name": "美国：EIA俄克拉荷马州库欣原油库存:当周值(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-11-03T00:55:37.203639"
+      "created_at": "2025-11-04T00:52:26.030677"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251105233000_-1677677135055472912",
+      "event_id": "em_jjsj_20251105233000_-781085372121178786",
       "original_id": "2025-11-05 23:30:00_美国：DOE燃料乙醇总产量:当周值(报告期:2025年10月)",
       "event_date": "2025-11-05",
       "event_time": "23:30:00",
@@ -3391,16 +3482,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "Name": "美国：DOE燃料乙醇总产量:当周值(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-11-03T00:55:37.203646"
+      "created_at": "2025-11-04T00:52:26.030685"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251105233000_4300873907630692869",
+      "event_id": "em_jjsj_20251105233000_-3444495273133802171",
       "original_id": "2025-11-05 23:30:00_美国：EIA精炼油库存:变动值(报告期:2025年10月)",
       "event_date": "2025-11-05",
       "event_time": "23:30:00",
@@ -3416,16 +3507,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "Name": "美国：EIA精炼油库存:变动值(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-11-03T00:55:37.203653"
+      "created_at": "2025-11-04T00:52:26.030692"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251105233000_7176520456498272487",
+      "event_id": "em_jjsj_20251105233000_5387806770941653512",
       "original_id": "2025-11-05 23:30:00_美国：DOE蒸馏油引申需求:当周值(报告期:2025年10月)",
       "event_date": "2025-11-05",
       "event_time": "23:30:00",
@@ -3441,16 +3532,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "Name": "美国：DOE蒸馏油引申需求:当周值(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-11-03T00:55:37.203661"
+      "created_at": "2025-11-04T00:52:26.030701"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251105233000_-5337294482920689767",
+      "event_id": "em_jjsj_20251105233000_-6732811908396213556",
       "original_id": "2025-11-05 23:30:00_美国：当周EIA车用汽油总产量引伸需求数据(报告期:2025年10月)",
       "event_date": "2025-11-05",
       "event_time": "23:30:00",
@@ -3466,12 +3557,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "Name": "美国：当周EIA车用汽油总产量引伸需求数据(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-11-03T00:55:37.203668"
+      "created_at": "2025-11-04T00:52:26.030709"
     },
     {
       "platform": "eastmoney",
@@ -3491,7 +3582,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "fe_code": "10866064",
         "fe_name": "第八届中国国际进口博览会",
@@ -3502,7 +3593,7 @@
         "city": "上海",
         "content": "第八届中国国际进口博览会是2025年11月5日至10日在国家会展中心(上海)举办的国际性博览会,作为全球首个以进口为主题的国家级展会,持续发挥国际采购、投资促进、人文交流、开放合作四大平台功能。展会由商务部与上海市人民政府共同主办,涵盖国家展、企业商业展及虹桥国际经济论坛等配套活动。"
       },
-      "created_at": "2025-11-03T00:55:37.206818"
+      "created_at": "2025-11-04T00:52:26.034045"
     },
     {
       "platform": "eastmoney",
@@ -3522,7 +3613,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "fe_code": "10866114",
         "fe_name": "2025第二十三届远见高峰会",
@@ -3533,7 +3624,7 @@
         "city": "台湾",
         "content": "由《远见》杂志主办的“2025第二十三届远见高峰会”与2025年11月5日-6日在台北市举行。"
       },
-      "created_at": "2025-11-03T00:55:37.206827"
+      "created_at": "2025-11-04T00:52:26.034058"
     },
     {
       "platform": "eastmoney",
@@ -3553,7 +3644,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "fe_code": "10866273",
         "fe_name": "赛力斯:H股将于11月5日在香港联交所挂牌上市",
@@ -3564,7 +3655,7 @@
         "city": null,
         "content": "10月27日,赛力斯开启港股招股,招股期持续至10月31日,计划于11月5日在港交所主板挂牌,上市后将成为首家“A+H”两地上市的豪华新能源车企。"
       },
-      "created_at": "2025-11-03T00:55:37.206835"
+      "created_at": "2025-11-04T00:52:26.034067"
     },
     {
       "platform": "eastmoney",
@@ -3584,7 +3675,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "fe_code": "10866296",
         "fe_name": "第二届中国测绘地理信息大会",
@@ -3595,7 +3686,7 @@
         "city": "湖州市",
         "content": "由自然资源部指导,中国地理信息产业协会、中国测绘学会和中国卫星导航定位协会共同主办的第二届中国测绘地理信息大会,将于2025年11月5日至7日在浙江德清举行。  本届大会主题为“科技融智创新产业新质发展北斗服务全球”。自然资源部、浙江省人民政府相关领导,多位中国科学院院士、中国工程院院士,众多专家学者以及企事业单位代表将出席大会,围绕地理信息产业新质发展、北斗导航系统全球应用和测绘地理信息科技创新开展深入交流。"
       },
-      "created_at": "2025-11-03T00:55:37.206844"
+      "created_at": "2025-11-04T00:52:26.034076"
     }
   ]
 }

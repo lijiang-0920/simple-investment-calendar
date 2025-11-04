@@ -1,12 +1,58 @@
 {
   "date": "2025-12-18",
-  "total_events": 13,
-  "new_events": 0,
+  "total_events": 14,
+  "new_events": 1,
   "platforms": {
+    "jiuyangongshe": 1,
     "investing": 1,
     "eastmoney": 12
   },
   "events": [
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_3xrepv06t0t_94fa282e386441f08a8b0ba0a1e682ab_20251218",
+      "original_id": "3xrepv06t0t",
+      "event_date": "2025-12-18",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "海南自由贸易港全岛封关",
+      "content": " 2025 年 12 月 18 日正式启动海南自贸港全岛封关运作",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-04",
+      "raw_data": {
+        "article_id": "3xrepv06t0t",
+        "user_id": "a9f6fd6918814e67a2f3db44d7dde502",
+        "title": "海南自由贸易港全岛封关",
+        "content": " 2025 年 12 月 18 日正式启动海南自贸港全岛封关运作",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "a9f6fd6918814e67a2f3db44d7dde502",
+          "nickname": "无名小韭81160108"
+        },
+        "timeline": {
+          "article_id": "3xrepv06t0t",
+          "timeline_id": "94fa282e386441f08a8b0ba0a1e682ab",
+          "date": "2025-12-18",
+          "grade": 6,
+          "source": "1",
+          "create_time": "2025-10-29 21:11:01",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-11-04T00:52:08.695692"
+    },
     {
       "platform": "investing",
       "event_id": "inv__20251218010000",
@@ -25,7 +71,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "event_id": "eventRowId_532300",
         "event_attr_id": "",
@@ -35,11 +81,11 @@
         "importance": 2,
         "event_name": "亚特兰大联储GDPNow经济增长预测  (第四季度)"
       },
-      "created_at": "2025-11-03T00:55:33.459984"
+      "created_at": "2025-11-04T00:52:20.839831"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251218000000_8989089410109687121",
+      "event_id": "em_jjsj_20251218000000_187702521363117547",
       "original_id": "2025-12-18 00:00:00_阿根廷：进口金额(报告期:2025年11月)",
       "event_date": "2025-12-18",
       "event_time": null,
@@ -55,16 +101,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "Name": "阿根廷：进口金额(报告期:2025年11月)",
         "City": "阿根廷"
       },
-      "created_at": "2025-11-03T00:55:37.206278"
+      "created_at": "2025-11-04T00:52:26.033408"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251218000000_6452362378455151118",
+      "event_id": "em_jjsj_20251218000000_6249014463484058667",
       "original_id": "2025-12-18 00:00:00_中国：库存:电解铝:保税区(报告期:2025年12月)",
       "event_date": "2025-12-18",
       "event_time": null,
@@ -80,16 +126,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "Name": "中国：库存:电解铝:保税区(报告期:2025年12月)",
         "City": "中国"
       },
-      "created_at": "2025-11-03T00:55:37.206286"
+      "created_at": "2025-11-04T00:52:26.033416"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251218093000_7731844255310492495",
+      "event_id": "em_jjsj_20251218093000_-4786968338899736335",
       "original_id": "2025-12-18 09:30:00_澳大利亚：失业率(报告期:2025年11月)",
       "event_date": "2025-12-18",
       "event_time": "09:30:00",
@@ -105,16 +151,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "Name": "澳大利亚：失业率(报告期:2025年11月)",
         "City": "澳大利亚"
       },
-      "created_at": "2025-11-03T00:55:37.206294"
+      "created_at": "2025-11-04T00:52:26.033426"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251218093000_-6747169310592026558",
+      "event_id": "em_jjsj_20251218093000_-5257984224311944",
       "original_id": "2025-12-18 09:30:00_澳大利亚：就业人数：季调(报告期:2025年11月)",
       "event_date": "2025-12-18",
       "event_time": "09:30:00",
@@ -130,16 +176,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "Name": "澳大利亚：就业人数：季调(报告期:2025年11月)",
         "City": "澳大利亚"
       },
-      "created_at": "2025-11-03T00:55:37.206302"
+      "created_at": "2025-11-04T00:52:26.033433"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251218093000_-5210526241585368634",
+      "event_id": "em_jjsj_20251218093000_1825928548656207813",
       "original_id": "2025-12-18 09:30:00_澳大利亚：失业率：季调(报告期:2025年11月)",
       "event_date": "2025-12-18",
       "event_time": "09:30:00",
@@ -155,16 +201,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "Name": "澳大利亚：失业率：季调(报告期:2025年11月)",
         "City": "澳大利亚"
       },
-      "created_at": "2025-11-03T00:55:37.206309"
+      "created_at": "2025-11-04T00:52:26.033440"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251218093000_-5885224523510302943",
+      "event_id": "em_jjsj_20251218093000_4384200092796055754",
       "original_id": "2025-12-18 09:30:00_澳大利亚：劳动参与率：季调(报告期:2025年11月)",
       "event_date": "2025-12-18",
       "event_time": "09:30:00",
@@ -180,16 +226,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "Name": "澳大利亚：劳动参与率：季调(报告期:2025年11月)",
         "City": "澳大利亚"
       },
-      "created_at": "2025-11-03T00:55:37.206316"
+      "created_at": "2025-11-04T00:52:26.033450"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251218200000_-1278061510542415091",
+      "event_id": "em_jjsj_20251218200000_983941489173916044",
       "original_id": "2025-12-18 20:00:00_英国：央行公布利率决议(报告期:2025年12月)",
       "event_date": "2025-12-18",
       "event_time": "20:00:00",
@@ -205,16 +251,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "Name": "英国：央行公布利率决议(报告期:2025年12月)",
         "City": "英国"
       },
-      "created_at": "2025-11-03T00:55:37.206324"
+      "created_at": "2025-11-04T00:52:26.033457"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251218211500_8478965259336633029",
+      "event_id": "em_jjsj_20251218211500_7072606430578082002",
       "original_id": "2025-12-18 21:15:00_欧盟：央行公布利率决议(报告期:2025年12月)",
       "event_date": "2025-12-18",
       "event_time": "21:15:00",
@@ -230,16 +276,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "Name": "欧盟：央行公布利率决议(报告期:2025年12月)",
         "City": "欧盟"
       },
-      "created_at": "2025-11-03T00:55:37.206332"
+      "created_at": "2025-11-04T00:52:26.033467"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251218213000_720537026168622644",
+      "event_id": "em_jjsj_20251218213000_-6464671875502928980",
       "original_id": "2025-12-18 21:30:00_美国：经常项目收入(报告期:2025年09月)",
       "event_date": "2025-12-18",
       "event_time": "21:30:00",
@@ -255,16 +301,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "Name": "美国：经常项目收入(报告期:2025年09月)",
         "City": "美国"
       },
-      "created_at": "2025-11-03T00:55:37.206340"
+      "created_at": "2025-11-04T00:52:26.033475"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251218220000_-8854656188375532685",
+      "event_id": "em_jjsj_20251218220000_5675250796654665666",
       "original_id": "2025-12-18 22:00:00_美国：月度国际资本流动：净额(报告期:2025年10月)",
       "event_date": "2025-12-18",
       "event_time": "22:00:00",
@@ -280,16 +326,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "Name": "美国：月度国际资本流动：净额(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-11-03T00:55:37.206348"
+      "created_at": "2025-11-04T00:52:26.033493"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251218230000_-4087324663948367018",
+      "event_id": "em_jjsj_20251218230000_201774868664611090",
       "original_id": "2025-12-18 23:00:00_美国：堪萨斯联储制造业指数：季调(报告期:2025年12月)",
       "event_date": "2025-12-18",
       "event_time": "23:00:00",
@@ -305,16 +351,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "Name": "美国：堪萨斯联储制造业指数：季调(报告期:2025年12月)",
         "City": "美国"
       },
-      "created_at": "2025-11-03T00:55:37.206356"
+      "created_at": "2025-11-04T00:52:26.033502"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251218230000_4106036063180259139",
+      "event_id": "em_jjsj_20251218230000_-5316092198958156740",
       "original_id": "2025-12-18 23:00:00_美国：堪萨斯联储制造业指数：产出：季调(报告期:2025年12月)",
       "event_date": "2025-12-18",
       "event_time": "23:00:00",
@@ -330,12 +376,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-03",
+      "discovery_date": "2025-11-04",
       "raw_data": {
         "Name": "美国：堪萨斯联储制造业指数：产出：季调(报告期:2025年12月)",
         "City": "美国"
       },
-      "created_at": "2025-11-03T00:55:37.206363"
+      "created_at": "2025-11-04T00:52:26.033512"
     }
   ]
 }
