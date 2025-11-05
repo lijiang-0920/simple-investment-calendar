@@ -1,12 +1,58 @@
 {
   "date": "2025-12-02",
-  "total_events": 9,
-  "new_events": 0,
+  "total_events": 10,
+  "new_events": 1,
   "platforms": {
+    "jiuyangongshe": 1,
     "investing": 1,
     "eastmoney": 8
   },
   "events": [
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_24fb52f6c256442aaf91486b928a7e86_edf41806e6314411b2e0b0d6c811b010_20251202",
+      "original_id": "24fb52f6c256442aaf91486b928a7e86",
+      "event_date": "2025-12-02",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025亚洲电视论坛",
+      "content": "",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-05",
+      "raw_data": {
+        "article_id": "24fb52f6c256442aaf91486b928a7e86",
+        "user_id": "1",
+        "title": "2025亚洲电视论坛",
+        "content": "",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "24fb52f6c256442aaf91486b928a7e86",
+          "timeline_id": "edf41806e6314411b2e0b0d6c811b010",
+          "date": "2025-12-02",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-11-04 23:19:31",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-11-05T00:53:56.303714"
+    },
     {
       "platform": "investing",
       "event_id": "inv__20251202010000",
@@ -25,7 +71,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-04",
+      "discovery_date": "2025-11-05",
       "raw_data": {
         "event_id": "eventRowId_532296",
         "event_attr_id": "",
@@ -35,11 +81,11 @@
         "importance": 2,
         "event_name": "亚特兰大联储GDPNow经济增长预测  (第四季度)"
       },
-      "created_at": "2025-11-04T00:52:18.638255"
+      "created_at": "2025-11-05T00:54:04.168646"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251202000000_3618336383498425858",
+      "event_id": "em_jjsj_20251202000000_-7389519139662844953",
       "original_id": "2025-12-02 00:00:00_中国香港：港口货物吞吐量：当季同比(报告期:2025年09月)",
       "event_date": "2025-12-02",
       "event_time": null,
@@ -55,16 +101,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-04",
+      "discovery_date": "2025-11-05",
       "raw_data": {
         "Name": "中国香港：港口货物吞吐量：当季同比(报告期:2025年09月)",
         "City": "中国香港"
       },
-      "created_at": "2025-11-04T00:52:26.032378"
+      "created_at": "2025-11-05T00:54:11.454327"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251202000000_2494145289903048320",
+      "event_id": "em_jjsj_20251202000000_756744640114912743",
       "original_id": "2025-12-02 00:00:00_韩国：CPI：同比(报告期:2025年11月)",
       "event_date": "2025-12-02",
       "event_time": null,
@@ -80,16 +126,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-04",
+      "discovery_date": "2025-11-05",
       "raw_data": {
         "Name": "韩国：CPI：同比(报告期:2025年11月)",
         "City": "韩国"
       },
-      "created_at": "2025-11-04T00:52:26.032386"
+      "created_at": "2025-11-05T00:54:11.454335"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251202000000_3767363827935456965",
+      "event_id": "em_jjsj_20251202000000_2020141518693066732",
       "original_id": "2025-12-02 00:00:00_菲律宾：PPI：同比(报告期:2025年10月)",
       "event_date": "2025-12-02",
       "event_time": null,
@@ -105,16 +151,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-04",
+      "discovery_date": "2025-11-05",
       "raw_data": {
         "Name": "菲律宾：PPI：同比(报告期:2025年10月)",
         "City": "菲律宾"
       },
-      "created_at": "2025-11-04T00:52:26.032393"
+      "created_at": "2025-11-05T00:54:11.454342"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251202093000_-7118263469818902998",
+      "event_id": "em_jjsj_20251202093000_6171472827050022457",
       "original_id": "2025-12-02 09:30:00_澳大利亚：经常项目差额(报告期:2025年09月)",
       "event_date": "2025-12-02",
       "event_time": "09:30:00",
@@ -130,16 +176,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-04",
+      "discovery_date": "2025-11-05",
       "raw_data": {
         "Name": "澳大利亚：经常项目差额(报告期:2025年09月)",
         "City": "澳大利亚"
       },
-      "created_at": "2025-11-04T00:52:26.032401"
+      "created_at": "2025-11-05T00:54:11.454350"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251202180000_1365799737028900129",
+      "event_id": "em_jjsj_20251202180000_3856696140309820283",
       "original_id": "2025-12-02 18:00:00_德国：失业率：季调(报告期:2025年10月)",
       "event_date": "2025-12-02",
       "event_time": "18:00:00",
@@ -155,16 +201,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-04",
+      "discovery_date": "2025-11-05",
       "raw_data": {
         "Name": "德国：失业率：季调(报告期:2025年10月)",
         "City": "德国"
       },
-      "created_at": "2025-11-04T00:52:26.032411"
+      "created_at": "2025-11-05T00:54:11.454358"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251202180000_-3076232827931636195",
+      "event_id": "em_jjsj_20251202180000_-7718745634080524304",
       "original_id": "2025-12-02 18:00:00_意大利：失业率：季调(报告期:2025年10月)",
       "event_date": "2025-12-02",
       "event_time": "18:00:00",
@@ -180,16 +226,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-04",
+      "discovery_date": "2025-11-05",
       "raw_data": {
         "Name": "意大利：失业率：季调(报告期:2025年10月)",
         "City": "意大利"
       },
-      "created_at": "2025-11-04T00:52:26.032420"
+      "created_at": "2025-11-05T00:54:11.454366"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251202180000_5006516104237615991",
+      "event_id": "em_jjsj_20251202180000_8539067021050511086",
       "original_id": "2025-12-02 18:00:00_意大利：失业人数：季调(报告期:2025年10月)",
       "event_date": "2025-12-02",
       "event_time": "18:00:00",
@@ -205,16 +251,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-04",
+      "discovery_date": "2025-11-05",
       "raw_data": {
         "Name": "意大利：失业人数：季调(报告期:2025年10月)",
         "City": "意大利"
       },
-      "created_at": "2025-11-04T00:52:26.032431"
+      "created_at": "2025-11-05T00:54:11.454374"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251202180000_2970778039692126086",
+      "event_id": "em_jjsj_20251202180000_2716767002320408665",
       "original_id": "2025-12-02 18:00:00_欧盟27国：失业率：季调(报告期:2025年10月)",
       "event_date": "2025-12-02",
       "event_time": "18:00:00",
@@ -230,12 +276,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-04",
+      "discovery_date": "2025-11-05",
       "raw_data": {
         "Name": "欧盟27国：失业率：季调(报告期:2025年10月)",
         "City": "欧盟"
       },
-      "created_at": "2025-11-04T00:52:26.032439"
+      "created_at": "2025-11-05T00:54:11.454382"
     }
   ]
 }

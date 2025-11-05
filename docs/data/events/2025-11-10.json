@@ -1,12 +1,12 @@
 {
   "date": "2025-11-10",
-  "total_events": 18,
-  "new_events": 2,
+  "total_events": 24,
+  "new_events": 6,
   "platforms": {
-    "cls": 2,
-    "jiuyangongshe": 3,
+    "cls": 3,
+    "jiuyangongshe": 4,
     "tonghuashun": 4,
-    "investing": 5,
+    "investing": 9,
     "eastmoney": 4
   },
   "events": [
@@ -28,7 +28,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-04",
+      "discovery_date": "2025-11-05",
       "raw_data": {
         "id": 328142,
         "calendar_time": "2025-11-10 00:00:00",
@@ -44,7 +44,7 @@
         "holiday": null,
         "title": "2025中国机器人产业发展大会（CRIC2025）将于11月10日至12日在上海举办"
       },
-      "created_at": "2025-11-04T00:52:04.795616"
+      "created_at": "2025-11-05T00:53:52.493725"
     },
     {
       "platform": "cls",
@@ -64,7 +64,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-04",
+      "discovery_date": "2025-11-05",
       "raw_data": {
         "id": 336952,
         "calendar_time": "2025-11-10 00:00:00",
@@ -80,7 +80,52 @@
         "holiday": null,
         "title": "第30届联合国气候变化大会将于11月10日至21日在巴西举办"
       },
-      "created_at": "2025-11-04T00:52:04.795625"
+      "created_at": "2025-11-05T00:53:52.493734"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_345237_20251110_1",
+      "original_id": "345237",
+      "event_date": "2025-11-10",
+      "event_time": "17:30:00",
+      "event_datetime": "2025-11-10 17:30:00",
+      "title": "欧元区11月Sentix投资者信心指数",
+      "content": null,
+      "category": "经济数据",
+      "importance": 3,
+      "country": "欧元区",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-05",
+      "raw_data": {
+        "id": 345237,
+        "calendar_time": "2025-11-10 17:30:00",
+        "data_id": 55394,
+        "type": 1,
+        "economic": {
+          "title": "欧元区11月Sentix投资者信心指数",
+          "country": "欧元区",
+          "country_icon": "",
+          "star": 3,
+          "indicator_id": 416,
+          "front": "-5.4",
+          "fix": "--",
+          "consensus": "--",
+          "actual": "--",
+          "unit": "",
+          "flag": "--",
+          "interpret": "",
+          "interpret_img": []
+        },
+        "event": null,
+        "holiday": null,
+        "title": "欧元区11月Sentix投资者信心指数"
+      },
+      "created_at": "2025-11-05T00:53:52.493744"
     },
     {
       "platform": "jiuyangongshe",
@@ -100,7 +145,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-04",
+      "discovery_date": "2025-11-05",
       "raw_data": {
         "article_id": "87052d7a3e8740db9c6bb9e91b36922c",
         "user_id": "1",
@@ -125,7 +170,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-04T00:52:06.785319"
+      "created_at": "2025-11-05T00:53:54.444299"
     },
     {
       "platform": "jiuyangongshe",
@@ -147,7 +192,7 @@
       ],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-04",
+      "discovery_date": "2025-11-05",
       "raw_data": {
         "article_id": "df357ff6415048659e89fa6d779396eb",
         "user_id": "1",
@@ -177,7 +222,7 @@
           ]
         }
       },
-      "created_at": "2025-11-04T00:52:06.785329"
+      "created_at": "2025-11-05T00:53:54.444308"
     },
     {
       "platform": "jiuyangongshe",
@@ -197,7 +242,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-04",
+      "discovery_date": "2025-11-05",
       "raw_data": {
         "article_id": "79322687cca14272a004934d1e77d672",
         "user_id": "1",
@@ -222,7 +267,52 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-04T00:52:06.785338"
+      "created_at": "2025-11-05T00:53:54.444317"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_533014699d1f45db96e9ffa9ac3df422_b9c58fab3b1b419a9661d54a89df6b01_20251110",
+      "original_id": "533014699d1f45db96e9ffa9ac3df422",
+      "event_date": "2025-11-10",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "第八届国际城市可持续发展高层论坛",
+      "content": "",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-05",
+      "raw_data": {
+        "article_id": "533014699d1f45db96e9ffa9ac3df422",
+        "user_id": "1",
+        "title": "第八届国际城市可持续发展高层论坛",
+        "content": "",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "533014699d1f45db96e9ffa9ac3df422",
+          "timeline_id": "b9c58fab3b1b419a9661d54a89df6b01",
+          "date": "2025-11-10",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-11-04 23:14:54",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-11-05T00:53:54.444326"
     },
     {
       "platform": "tonghuashun",
@@ -242,7 +332,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-04",
+      "discovery_date": "2025-11-05",
       "raw_data": {
         "event": [
           "第30届联合国气候变化大会将于11月10日至21日在巴西举办",
@@ -252,7 +342,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-11-04T00:52:11.719620"
+      "created_at": "2025-11-05T00:53:58.370236"
     },
     {
       "platform": "tonghuashun",
@@ -272,7 +362,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-04",
+      "discovery_date": "2025-11-05",
       "raw_data": {
         "event": [
           "2025中国机器人产业发展大会（CRIC2025）将于11月10日至12日在上海举办",
@@ -282,7 +372,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-11-04T00:52:11.719629"
+      "created_at": "2025-11-05T00:53:58.370245"
     },
     {
       "platform": "tonghuashun",
@@ -302,7 +392,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-04",
+      "discovery_date": "2025-11-05",
       "raw_data": {
         "event": [
           "2025中国机器人产业发展大会（CRIC2025）将于11月10日至12日在上海举办",
@@ -312,7 +402,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-11-04T00:52:11.719637"
+      "created_at": "2025-11-05T00:53:58.370252"
     },
     {
       "platform": "tonghuashun",
@@ -332,7 +422,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-04",
+      "discovery_date": "2025-11-05",
       "raw_data": {
         "event": [
           "第30届联合国气候变化大会将于11月10日至21日在巴西举办",
@@ -342,7 +432,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-11-04T00:52:11.719646"
+      "created_at": "2025-11-05T00:53:58.370260"
     },
     {
       "platform": "investing",
@@ -362,7 +452,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-04",
+      "discovery_date": "2025-11-05",
       "raw_data": {
         "event_id": "eventRowId_534806",
         "event_attr_id": "",
@@ -372,7 +462,7 @@
         "importance": 1,
         "event_name": "日本央行货币政策会议委员意见摘要"
       },
-      "created_at": "2025-11-04T00:52:15.157769"
+      "created_at": "2025-11-05T00:54:01.653641"
     },
     {
       "platform": "investing",
@@ -392,7 +482,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-04",
+      "discovery_date": "2025-11-05",
       "raw_data": {
         "event_id": "eventRowId_534805",
         "event_attr_id": "",
@@ -403,7 +493,7 @@
         "event_name": "日本外汇储备(美元)  (十月)",
         "previous": "1,341.3B"
       },
-      "created_at": "2025-11-04T00:52:15.157918"
+      "created_at": "2025-11-05T00:54:01.653774"
     },
     {
       "platform": "investing",
@@ -423,7 +513,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-04",
+      "discovery_date": "2025-11-05",
       "raw_data": {
         "event_id": "eventRowId_534178",
         "event_attr_id": "",
@@ -434,7 +524,7 @@
         "event_name": "日本同步指标月率(%) (月度环比)  (九月)",
         "previous": "-1.3%"
       },
-      "created_at": "2025-11-04T00:52:15.158044"
+      "created_at": "2025-11-05T00:54:01.653892"
     },
     {
       "platform": "investing",
@@ -454,7 +544,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-04",
+      "discovery_date": "2025-11-05",
       "raw_data": {
         "event_id": "eventRowId_534177",
         "event_attr_id": "",
@@ -465,7 +555,7 @@
         "event_name": "日本领先指标月率(%) (月度环比)  (九月)",
         "previous": "1.3%"
       },
-      "created_at": "2025-11-04T00:52:15.158172"
+      "created_at": "2025-11-05T00:54:01.654025"
     },
     {
       "platform": "investing",
@@ -485,7 +575,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-04",
+      "discovery_date": "2025-11-05",
       "raw_data": {
         "event_id": "eventRowId_534209",
         "event_attr_id": "",
@@ -496,11 +586,134 @@
         "event_name": "欧元区Sentix投资者信心指数  (十一月)",
         "previous": "-5.4"
       },
-      "created_at": "2025-11-04T00:52:15.158288"
+      "created_at": "2025-11-05T00:54:01.654144"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251110192500",
+      "original_id": "eventRowId_535114",
+      "event_date": "2025-11-10",
+      "event_time": "19:25",
+      "event_datetime": "2025/11/10 19:25:00",
+      "title": "巴西央行焦点市场报告",
+      "content": null,
+      "category": null,
+      "importance": 1,
+      "country": "巴西",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-05",
+      "raw_data": {
+        "event_id": "eventRowId_535114",
+        "event_attr_id": "",
+        "datetime": "2025/11/10 19:25:00",
+        "time": "19:25",
+        "country": "巴西",
+        "importance": 1,
+        "event_name": "巴西央行焦点市场报告"
+      },
+      "created_at": "2025-11-05T00:54:01.654272"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251110200000",
+      "original_id": "eventRowId_535111",
+      "event_date": "2025-11-10",
+      "event_time": "20:00",
+      "event_datetime": "2025/11/10 20:00:00",
+      "title": "法国12个月期BTF国债拍卖平均收益率(%)",
+      "content": "前值: 2.059%",
+      "category": null,
+      "importance": 1,
+      "country": "法国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-05",
+      "raw_data": {
+        "event_id": "eventRowId_535111",
+        "event_attr_id": "",
+        "datetime": "2025/11/10 20:00:00",
+        "time": "20:00",
+        "country": "法国",
+        "importance": 1,
+        "event_name": "法国12个月期BTF国债拍卖平均收益率(%)",
+        "previous": "2.059%"
+      },
+      "created_at": "2025-11-05T00:54:01.654389"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251110220000",
+      "original_id": "eventRowId_535112",
+      "event_date": "2025-11-10",
+      "event_time": "22:00",
+      "event_datetime": "2025/11/10 22:00:00",
+      "title": "法国3个月期BTF国债拍卖平均收益率(%)",
+      "content": "前值: 2.010%",
+      "category": null,
+      "importance": 1,
+      "country": "法国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-05",
+      "raw_data": {
+        "event_id": "eventRowId_535112",
+        "event_attr_id": "",
+        "datetime": "2025/11/10 22:00:00",
+        "time": "22:00",
+        "country": "法国",
+        "importance": 1,
+        "event_name": "法国3个月期BTF国债拍卖平均收益率(%)",
+        "previous": "2.010%"
+      },
+      "created_at": "2025-11-05T00:54:01.654506"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251110220000",
+      "original_id": "eventRowId_535113",
+      "event_date": "2025-11-10",
+      "event_time": "22:00",
+      "event_datetime": "2025/11/10 22:00:00",
+      "title": "法国6个月期BTF国债拍卖平均收益率(%)",
+      "content": "前值: 2.029%",
+      "category": null,
+      "importance": 1,
+      "country": "法国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-05",
+      "raw_data": {
+        "event_id": "eventRowId_535113",
+        "event_attr_id": "",
+        "datetime": "2025/11/10 22:00:00",
+        "time": "22:00",
+        "country": "法国",
+        "importance": 1,
+        "event_name": "法国6个月期BTF国债拍卖平均收益率(%)",
+        "previous": "2.029%"
+      },
+      "created_at": "2025-11-05T00:54:01.654620"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251110160000_181962376169631061",
+      "event_id": "em_jjsj_20251110160000_-3449374435749556406",
       "original_id": "2025-11-10 16:00:00_中国：M1:同比(报告期:2025年10月)",
       "event_date": "2025-11-10",
       "event_time": "16:00:00",
@@ -516,16 +729,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-04",
+      "discovery_date": "2025-11-05",
       "raw_data": {
         "Name": "中国：M1:同比(报告期:2025年10月)",
         "City": "中国"
       },
-      "created_at": "2025-11-04T00:52:26.031077"
+      "created_at": "2025-11-05T00:54:11.453081"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251110160000_-1386474078905863318",
+      "event_id": "em_jjsj_20251110160000_-8740164790405689236",
       "original_id": "2025-11-10 16:00:00_中国：M0:同比(报告期:2025年10月)",
       "event_date": "2025-11-10",
       "event_time": "16:00:00",
@@ -541,12 +754,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-04",
+      "discovery_date": "2025-11-05",
       "raw_data": {
         "Name": "中国：M0:同比(报告期:2025年10月)",
         "City": "中国"
       },
-      "created_at": "2025-11-04T00:52:26.031084"
+      "created_at": "2025-11-05T00:54:11.453088"
     },
     {
       "platform": "eastmoney",
@@ -565,8 +778,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-11-04",
+      "is_new": false,
+      "discovery_date": "2025-11-05",
       "raw_data": {
         "fe_code": "10866418",
         "fe_name": "第30届联合国气候变化大会",
@@ -577,7 +790,7 @@
         "city": "贝伦市",
         "content": "第30届联合国气候变化大会(COP30),全称《联合国气候变化框架公约》第三十次缔约方会议,于2025年11月10日至21日在巴西亚马孙雨林地区的帕拉州首府贝伦市举办。"
       },
-      "created_at": "2025-11-04T00:52:26.034181"
+      "created_at": "2025-11-05T00:54:11.456144"
     },
     {
       "platform": "eastmoney",
@@ -596,8 +809,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-11-04",
+      "is_new": false,
+      "discovery_date": "2025-11-05",
       "raw_data": {
         "fe_code": "10866419",
         "fe_name": "2025中国机器人产业发展大会(CRIC2025)将于11月10日至12日在上海举办",
@@ -608,7 +821,7 @@
         "city": "上海",
         "content": "机器人作为新质生产力的典型代表,是赋能新型工业化的关键装备、人类生产生活的重要工具和应对人口老龄化的得力助手。在《“十四五”机器人产业发展规划》的引导下,我国机器人产业蓬勃发展,机器人整机产品性能质量显著提升、关键核心技术实现突破、应用场景从工业主导到向千行百业加速渗透、多个细分领域市场占有率位居全球前列、骨干企业加速成长、国际化水平和全球竞争力不断提升、新产业新模式新业态不断涌现,区域集聚效应日益显现,产业综合实力实现大步跨越。党中央国务院高度重视机器人产业发展,今年“智能机器人”被列入《政府工作报告》。与此同时,各地方政府纷纷出台相关政策措施,从创新平台构建、关键部件研发、应用场景开放、金融人才支持等多要素共同发力,推动智能机器人产业发展。2025年是“十四五”的收官之年,更是布局智能机器人发展方向的重要时期。在此背景下,中国机械工业联合会将于11月10-12日在上海组织召开2025中国机器人产业发展大会。"
       },
-      "created_at": "2025-11-04T00:52:26.034189"
+      "created_at": "2025-11-05T00:54:11.456153"
     }
   ]
 }
