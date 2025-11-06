@@ -1,9 +1,10 @@
 {
   "date": "2025-12-09",
-  "total_events": 4,
+  "total_events": 5,
   "new_events": 1,
   "platforms": {
     "jiuyangongshe": 1,
+    "investing": 1,
     "eastmoney": 3
   },
   "events": [
@@ -24,8 +25,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-11-05",
+      "is_new": false,
+      "discovery_date": "2025-11-06",
       "raw_data": {
         "article_id": "4e7p0r2xq9u",
         "user_id": "986cea6de54b4fb4941d8e78ff8308e8",
@@ -50,11 +51,42 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-05T00:53:56.303811"
+      "created_at": "2025-11-06T00:52:47.886533"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251209113000",
+      "original_id": "eventRowId_535248",
+      "event_date": "2025-12-09",
+      "event_time": "11:30",
+      "event_datetime": "2025/12/09 11:30:00",
+      "title": "澳洲联储利率决议",
+      "content": "前值: 3.60%",
+      "category": null,
+      "importance": 3,
+      "country": "澳大利亚",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-06",
+      "raw_data": {
+        "event_id": "eventRowId_535248",
+        "event_attr_id": "",
+        "datetime": "2025/12/09 11:30:00",
+        "time": "11:30",
+        "country": "澳大利亚",
+        "importance": 3,
+        "event_name": "澳洲联储利率决议",
+        "previous": "3.60%"
+      },
+      "created_at": "2025-11-06T00:52:57.719095"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251209075000_-7210842858359359273",
+      "event_id": "em_jjsj_20251209075000_8418512326418729177",
       "original_id": "2025-12-09 07:50:00_日本：M2：实值(报告期:2025年11月)",
       "event_date": "2025-12-09",
       "event_time": "07:50:00",
@@ -70,16 +102,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-05",
+      "discovery_date": "2025-11-06",
       "raw_data": {
         "Name": "日本：M2：实值(报告期:2025年11月)",
         "City": "日本"
       },
-      "created_at": "2025-11-05T00:54:11.454707"
+      "created_at": "2025-11-06T00:53:02.617664"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251209150000_6326918161295077124",
+      "event_id": "em_jjsj_20251209150000_1056463293388383433",
       "original_id": "2025-12-09 15:00:00_德国：贸易顺差：季调(报告期:2025年10月)",
       "event_date": "2025-12-09",
       "event_time": "15:00:00",
@@ -95,12 +127,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-05",
+      "discovery_date": "2025-11-06",
       "raw_data": {
         "Name": "德国：贸易顺差：季调(报告期:2025年10月)",
         "City": "德国"
       },
-      "created_at": "2025-11-05T00:54:11.454715"
+      "created_at": "2025-11-06T00:53:02.617672"
     },
     {
       "platform": "eastmoney",
@@ -120,7 +152,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-05",
+      "discovery_date": "2025-11-06",
       "raw_data": {
         "fe_code": "10856302",
         "fe_name": "美联储议息会议",
@@ -131,7 +163,7 @@
         "city": null,
         "content": null
       },
-      "created_at": "2025-11-05T00:54:11.456632"
+      "created_at": "2025-11-06T00:53:02.619504"
     }
   ]
 }
