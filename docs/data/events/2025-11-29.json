@@ -1,14 +1,108 @@
 {
   "date": "2025-11-29",
-  "total_events": 1,
-  "new_events": 0,
+  "total_events": 4,
+  "new_events": 3,
   "platforms": {
+    "investing": 3,
     "eastmoney": 1
   },
   "events": [
     {
+      "platform": "investing",
+      "event_id": "inv__20251129000000",
+      "original_id": "eventRowId_535527",
+      "event_date": "2025-11-29",
+      "event_time": "00:00",
+      "event_datetime": "2025/11/29 00:00:00",
+      "title": "加拿大预算平衡(加元)  (九月)",
+      "content": "前值: -3.28B",
+      "category": null,
+      "importance": 1,
+      "country": "加拿大",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-08",
+      "raw_data": {
+        "event_id": "eventRowId_535527",
+        "event_attr_id": "",
+        "datetime": "2025/11/29 00:00:00",
+        "time": "00:00",
+        "country": "加拿大",
+        "importance": 1,
+        "event_name": "加拿大预算平衡(加元)  (九月)",
+        "previous": "-3.28B"
+      },
+      "created_at": "2025-11-08T00:48:56.568954"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251129000000",
+      "original_id": "eventRowId_535528",
+      "event_date": "2025-11-29",
+      "event_time": "00:00",
+      "event_datetime": "2025/11/29 00:00:00",
+      "title": "加拿大预算平衡同比变化(加元) (同比)  (九月)",
+      "content": "前值: -11.07B",
+      "category": null,
+      "importance": 1,
+      "country": "加拿大",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-08",
+      "raw_data": {
+        "event_id": "eventRowId_535528",
+        "event_attr_id": "",
+        "datetime": "2025/11/29 00:00:00",
+        "time": "00:00",
+        "country": "加拿大",
+        "importance": 1,
+        "event_name": "加拿大预算平衡同比变化(加元) (同比)  (九月)",
+        "previous": "-11.07B"
+      },
+      "created_at": "2025-11-08T00:48:56.569086"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251129013000",
+      "original_id": "eventRowId_535538",
+      "event_date": "2025-11-29",
+      "event_time": "01:30",
+      "event_datetime": "2025/11/29 01:30:00",
+      "title": "巴西CAGED就业岗位净增长(个)  (十月)",
+      "content": "前值: 213.00K",
+      "category": null,
+      "importance": 1,
+      "country": "巴西",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-08",
+      "raw_data": {
+        "event_id": "eventRowId_535538",
+        "event_attr_id": "",
+        "datetime": "2025/11/29 01:30:00",
+        "time": "01:30",
+        "country": "巴西",
+        "importance": 1,
+        "event_name": "巴西CAGED就业岗位净增长(个)  (十月)",
+        "previous": "213.00K"
+      },
+      "created_at": "2025-11-08T00:48:56.569221"
+    },
+    {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251129160000_2192021731282806178",
+      "event_id": "em_jjsj_20251129160000_133600799663482680",
       "original_id": "2025-11-29 16:00:00_瑞士：GDP季率(报告期:2025年09月)",
       "event_date": "2025-11-29",
       "event_time": "16:00:00",
@@ -24,12 +118,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-07",
+      "discovery_date": "2025-11-08",
       "raw_data": {
         "Name": "瑞士：GDP季率(报告期:2025年09月)",
         "City": "瑞士"
       },
-      "created_at": "2025-11-07T00:52:58.741673"
+      "created_at": "2025-11-08T00:49:03.141127"
     }
   ]
 }

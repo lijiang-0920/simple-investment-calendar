@@ -1,12 +1,12 @@
 {
   "date": "2025-11-10",
-  "total_events": 32,
-  "new_events": 1,
+  "total_events": 48,
+  "new_events": 17,
   "platforms": {
-    "cls": 3,
+    "cls": 9,
     "jiuyangongshe": 4,
-    "tonghuashun": 4,
-    "investing": 17,
+    "tonghuashun": 11,
+    "investing": 20,
     "eastmoney": 4
   },
   "events": [
@@ -28,7 +28,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-07",
+      "discovery_date": "2025-11-08",
       "raw_data": {
         "id": 328142,
         "calendar_time": "2025-11-10 00:00:00",
@@ -44,7 +44,7 @@
         "holiday": null,
         "title": "2025中国机器人产业发展大会（CRIC2025）将于11月10日至12日在上海举办"
       },
-      "created_at": "2025-11-07T00:52:41.242373"
+      "created_at": "2025-11-08T00:48:45.295336"
     },
     {
       "platform": "cls",
@@ -64,7 +64,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-07",
+      "discovery_date": "2025-11-08",
       "raw_data": {
         "id": 336952,
         "calendar_time": "2025-11-10 00:00:00",
@@ -80,52 +80,259 @@
         "holiday": null,
         "title": "第30届联合国气候变化大会将于11月10日至21日在巴西举办"
       },
-      "created_at": "2025-11-07T00:52:41.242382"
+      "created_at": "2025-11-08T00:48:45.295347"
     },
     {
       "platform": "cls",
-      "event_id": "cls_345237_20251110_1",
-      "original_id": "345237",
+      "event_id": "cls_358993_20251110_2",
+      "original_id": "358993",
       "event_date": "2025-11-10",
-      "event_time": "17:30:00",
-      "event_datetime": "2025-11-10 17:30:00",
-      "title": "欧元区11月Sentix投资者信心指数",
+      "event_time": "00:00:00",
+      "event_datetime": "2025-11-10 00:00:00",
+      "title": "伦敦金属交易所：自11月10日起，将暂停所有非美元计价金属期权交易",
       "content": null,
-      "category": "经济数据",
-      "importance": 3,
-      "country": "欧元区",
+      "category": "事件公告",
+      "importance": 5,
+      "country": "英国",
       "city": null,
       "stocks": [],
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-11-07",
+      "is_new": true,
+      "discovery_date": "2025-11-08",
       "raw_data": {
-        "id": 345237,
-        "calendar_time": "2025-11-10 17:30:00",
-        "data_id": 55394,
-        "type": 1,
-        "economic": {
-          "title": "欧元区11月Sentix投资者信心指数",
-          "country": "欧元区",
+        "id": 358993,
+        "calendar_time": "2025-11-10 00:00:00",
+        "data_id": 20040,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "伦敦金属交易所：自11月10日起，将暂停所有非美元计价金属期权交易",
+          "country": "英国",
           "country_icon": "",
-          "star": 3,
-          "indicator_id": 416,
-          "front": "-5.4",
-          "fix": "--",
-          "consensus": "--",
-          "actual": "--",
-          "unit": "",
-          "flag": "--",
-          "interpret": "",
-          "interpret_img": []
+          "star": 5
         },
-        "event": null,
         "holiday": null,
-        "title": "欧元区11月Sentix投资者信心指数"
+        "title": "伦敦金属交易所：自11月10日起，将暂停所有非美元计价金属期权交易"
       },
-      "created_at": "2025-11-07T00:52:41.242392"
+      "created_at": "2025-11-08T00:48:45.295358"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_359010_20251110_2",
+      "original_id": "359010",
+      "event_date": "2025-11-10",
+      "event_time": "00:00:00",
+      "event_datetime": "2025-11-10 00:00:00",
+      "title": "国内成品油将开启新一轮调价窗口",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-08",
+      "raw_data": {
+        "id": 359010,
+        "calendar_time": "2025-11-10 00:00:00",
+        "data_id": 20041,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "国内成品油将开启新一轮调价窗口",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "国内成品油将开启新一轮调价窗口"
+      },
+      "created_at": "2025-11-08T00:48:45.295368"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_359074_20251110_2",
+      "original_id": "359074",
+      "event_date": "2025-11-10",
+      "event_time": "00:00:00",
+      "event_datetime": "2025-11-10 00:00:00",
+      "title": "百度AI眼镜将于11月10日现货发售",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-08",
+      "raw_data": {
+        "id": 359074,
+        "calendar_time": "2025-11-10 00:00:00",
+        "data_id": 20043,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "百度AI眼镜将于11月10日现货发售",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "百度AI眼镜将于11月10日现货发售"
+      },
+      "created_at": "2025-11-08T00:48:45.295378"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_359077_20251110_2",
+      "original_id": "359077",
+      "event_date": "2025-11-10",
+      "event_time": "00:00:00",
+      "event_datetime": "2025-11-10 00:00:00",
+      "title": "深交所：深港通下的港股通ETF名单调整，11月10日起生效",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国香港",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-08",
+      "raw_data": {
+        "id": 359077,
+        "calendar_time": "2025-11-10 00:00:00",
+        "data_id": 20044,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "深交所：深港通下的港股通ETF名单调整，11月10日起生效",
+          "country": "中国香港",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "深交所：深港通下的港股通ETF名单调整，11月10日起生效"
+      },
+      "created_at": "2025-11-08T00:48:45.295389"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_359082_20251110_2",
+      "original_id": "359082",
+      "event_date": "2025-11-10",
+      "event_time": "00:00:00",
+      "event_datetime": "2025-11-10 00:00:00",
+      "title": "巴菲特将在11月10日发布一封写给他三个孩子和伯克希尔股东的感恩节公开信",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-08",
+      "raw_data": {
+        "id": 359082,
+        "calendar_time": "2025-11-10 00:00:00",
+        "data_id": 20046,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "巴菲特将在11月10日发布一封写给他三个孩子和伯克希尔股东的感恩节公开信",
+          "country": "美国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "巴菲特将在11月10日发布一封写给他三个孩子和伯克希尔股东的感恩节公开信"
+      },
+      "created_at": "2025-11-08T00:48:45.295399"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_359085_20251110_2",
+      "original_id": "359085",
+      "event_date": "2025-11-10",
+      "event_time": "00:00:00",
+      "event_datetime": "2025-11-10 00:00:00",
+      "title": "国家疾控局等7部门联合发布通知，自11月10日起，将人乳头瘤病毒（HPV）疫苗纳入国家免疫规划",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-08",
+      "raw_data": {
+        "id": 359085,
+        "calendar_time": "2025-11-10 00:00:00",
+        "data_id": 20047,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "国家疾控局等7部门联合发布通知，自11月10日起，将人乳头瘤病毒（HPV）疫苗纳入国家免疫规划",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "国家疾控局等7部门联合发布通知，自11月10日起，将人乳头瘤病毒（HPV）疫苗纳入国家免疫规划"
+      },
+      "created_at": "2025-11-08T00:48:45.295409"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_359355_20251110_2",
+      "original_id": "359355",
+      "event_date": "2025-11-10",
+      "event_time": "15:00:00",
+      "event_datetime": "2025-11-10 15:00:00",
+      "title": "国新办将于11月10日举行国务院政策例行吹风会，介绍加快场景培育和开放推动新场景大规模应用有关情况",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-08",
+      "raw_data": {
+        "id": 359355,
+        "calendar_time": "2025-11-10 15:00:00",
+        "data_id": 20051,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "国新办将于11月10日举行国务院政策例行吹风会，介绍加快场景培育和开放推动新场景大规模应用有关情况",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "国新办将于11月10日举行国务院政策例行吹风会，介绍加快场景培育和开放推动新场景大规模应用有关情况"
+      },
+      "created_at": "2025-11-08T00:48:45.295419"
     },
     {
       "platform": "jiuyangongshe",
@@ -145,7 +352,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-07",
+      "discovery_date": "2025-11-08",
       "raw_data": {
         "article_id": "87052d7a3e8740db9c6bb9e91b36922c",
         "user_id": "1",
@@ -170,7 +377,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-07T00:52:43.391167"
+      "created_at": "2025-11-08T00:48:47.268959"
     },
     {
       "platform": "jiuyangongshe",
@@ -192,7 +399,7 @@
       ],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-07",
+      "discovery_date": "2025-11-08",
       "raw_data": {
         "article_id": "df357ff6415048659e89fa6d779396eb",
         "user_id": "1",
@@ -222,7 +429,7 @@
           ]
         }
       },
-      "created_at": "2025-11-07T00:52:43.391176"
+      "created_at": "2025-11-08T00:48:47.268970"
     },
     {
       "platform": "jiuyangongshe",
@@ -242,7 +449,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-07",
+      "discovery_date": "2025-11-08",
       "raw_data": {
         "article_id": "79322687cca14272a004934d1e77d672",
         "user_id": "1",
@@ -267,7 +474,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-07T00:52:43.391183"
+      "created_at": "2025-11-08T00:48:47.268979"
     },
     {
       "platform": "jiuyangongshe",
@@ -287,7 +494,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-07",
+      "discovery_date": "2025-11-08",
       "raw_data": {
         "article_id": "533014699d1f45db96e9ffa9ac3df422",
         "user_id": "1",
@@ -312,16 +519,16 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-07T00:52:43.391190"
+      "created_at": "2025-11-08T00:48:47.268988"
     },
     {
       "platform": "tonghuashun",
-      "event_id": "ths_20251110_0_6bfa0d4d",
+      "event_id": "ths_20251110_0_690d5e9f",
       "original_id": "2025-11-10_0",
       "event_date": "2025-11-10",
       "event_time": null,
       "event_datetime": null,
-      "title": "第30届联合国气候变化大会将于11月10日至21日在巴西举办",
+      "title": "国内成品油将开启新一轮调价窗口",
       "content": null,
       "category": null,
       "importance": 3,
@@ -331,27 +538,27 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-11-07",
+      "is_new": true,
+      "discovery_date": "2025-11-08",
       "raw_data": {
         "event": [
-          "第30届联合国气候变化大会将于11月10日至21日在巴西举办",
+          "国内成品油将开启新一轮调价窗口",
           "",
           "",
           ""
         ],
         "concept": []
       },
-      "created_at": "2025-11-07T00:52:47.416756"
+      "created_at": "2025-11-08T00:48:51.214654"
     },
     {
       "platform": "tonghuashun",
-      "event_id": "ths_20251110_1_bf32c2c2",
+      "event_id": "ths_20251110_1_6bfa0d4d",
       "original_id": "2025-11-10_1",
       "event_date": "2025-11-10",
       "event_time": null,
       "event_datetime": null,
-      "title": "2025中国机器人产业发展大会（CRIC2025）将于11月10日至12日在上海举办",
+      "title": "第30届联合国气候变化大会将于11月10日至21日在巴西举办",
       "content": null,
       "category": null,
       "importance": 3,
@@ -362,22 +569,52 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-07",
+      "discovery_date": "2025-11-08",
       "raw_data": {
         "event": [
-          "2025中国机器人产业发展大会（CRIC2025）将于11月10日至12日在上海举办",
+          "第30届联合国气候变化大会将于11月10日至21日在巴西举办",
           "",
           "",
           ""
         ],
         "concept": []
       },
-      "created_at": "2025-11-07T00:52:47.416765"
+      "created_at": "2025-11-08T00:48:51.214664"
     },
     {
       "platform": "tonghuashun",
-      "event_id": "ths_20251110_2_bf32c2c2",
+      "event_id": "ths_20251110_2_8a10b593",
       "original_id": "2025-11-10_2",
+      "event_date": "2025-11-10",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "国新办将于11月10日举行国务院政策例行吹风会，介绍加快场景培育和开放推动新场景大规模应用有关情况",
+      "content": null,
+      "category": null,
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-08",
+      "raw_data": {
+        "event": [
+          "国新办将于11月10日举行国务院政策例行吹风会，介绍加快场景培育和开放推动新场景大规模应用有关情况",
+          "",
+          "",
+          ""
+        ],
+        "concept": []
+      },
+      "created_at": "2025-11-08T00:48:51.214672"
+    },
+    {
+      "platform": "tonghuashun",
+      "event_id": "ths_20251110_3_bf32c2c2",
+      "original_id": "2025-11-10_3",
       "event_date": "2025-11-10",
       "event_time": null,
       "event_datetime": null,
@@ -392,7 +629,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-07",
+      "discovery_date": "2025-11-08",
       "raw_data": {
         "event": [
           "2025中国机器人产业发展大会（CRIC2025）将于11月10日至12日在上海举办",
@@ -402,12 +639,72 @@
         ],
         "concept": []
       },
-      "created_at": "2025-11-07T00:52:47.416773"
+      "created_at": "2025-11-08T00:48:51.214680"
     },
     {
       "platform": "tonghuashun",
-      "event_id": "ths_20251110_3_6bfa0d4d",
-      "original_id": "2025-11-10_3",
+      "event_id": "ths_20251110_4_bf32c2c2",
+      "original_id": "2025-11-10_4",
+      "event_date": "2025-11-10",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025中国机器人产业发展大会（CRIC2025）将于11月10日至12日在上海举办",
+      "content": null,
+      "category": null,
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-11-08",
+      "raw_data": {
+        "event": [
+          "2025中国机器人产业发展大会（CRIC2025）将于11月10日至12日在上海举办",
+          "",
+          "",
+          ""
+        ],
+        "concept": []
+      },
+      "created_at": "2025-11-08T00:48:51.214688"
+    },
+    {
+      "platform": "tonghuashun",
+      "event_id": "ths_20251110_5_de7f36cc",
+      "original_id": "2025-11-10_5",
+      "event_date": "2025-11-10",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "深交所：深港通下的港股通ETF名单调整，11月10日起生效",
+      "content": null,
+      "category": null,
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-08",
+      "raw_data": {
+        "event": [
+          "深交所：深港通下的港股通ETF名单调整，11月10日起生效",
+          "",
+          "",
+          ""
+        ],
+        "concept": []
+      },
+      "created_at": "2025-11-08T00:48:51.214696"
+    },
+    {
+      "platform": "tonghuashun",
+      "event_id": "ths_20251110_6_6bfa0d4d",
+      "original_id": "2025-11-10_6",
       "event_date": "2025-11-10",
       "event_time": null,
       "event_datetime": null,
@@ -422,7 +719,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-07",
+      "discovery_date": "2025-11-08",
       "raw_data": {
         "event": [
           "第30届联合国气候变化大会将于11月10日至21日在巴西举办",
@@ -432,7 +729,127 @@
         ],
         "concept": []
       },
-      "created_at": "2025-11-07T00:52:47.416781"
+      "created_at": "2025-11-08T00:48:51.214704"
+    },
+    {
+      "platform": "tonghuashun",
+      "event_id": "ths_20251110_7_d46173e4",
+      "original_id": "2025-11-10_7",
+      "event_date": "2025-11-10",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "伦敦金属交易所：自11月10日起，将暂停所有非美元计价金属期权交易",
+      "content": null,
+      "category": null,
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-08",
+      "raw_data": {
+        "event": [
+          "伦敦金属交易所：自11月10日起，将暂停所有非美元计价金属期权交易",
+          "",
+          "",
+          ""
+        ],
+        "concept": []
+      },
+      "created_at": "2025-11-08T00:48:51.214712"
+    },
+    {
+      "platform": "tonghuashun",
+      "event_id": "ths_20251110_8_73c4e862",
+      "original_id": "2025-11-10_8",
+      "event_date": "2025-11-10",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "百度AI眼镜将于11月10日现货发售",
+      "content": null,
+      "category": null,
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-08",
+      "raw_data": {
+        "event": [
+          "百度AI眼镜将于11月10日现货发售",
+          "",
+          "",
+          ""
+        ],
+        "concept": []
+      },
+      "created_at": "2025-11-08T00:48:51.214719"
+    },
+    {
+      "platform": "tonghuashun",
+      "event_id": "ths_20251110_9_70125394",
+      "original_id": "2025-11-10_9",
+      "event_date": "2025-11-10",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "国家疾控局等7部门联合发布通知，自11月10日起，将人乳头瘤病毒（HPV）疫苗纳入国家免疫规划",
+      "content": null,
+      "category": null,
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-08",
+      "raw_data": {
+        "event": [
+          "国家疾控局等7部门联合发布通知，自11月10日起，将人乳头瘤病毒（HPV）疫苗纳入国家免疫规划",
+          "",
+          "",
+          ""
+        ],
+        "concept": []
+      },
+      "created_at": "2025-11-08T00:48:51.214728"
+    },
+    {
+      "platform": "tonghuashun",
+      "event_id": "ths_20251110_10_edee9e74",
+      "original_id": "2025-11-10_10",
+      "event_date": "2025-11-10",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "巴菲特将在11月10日发布一封写给他三个孩子和伯克希尔股东的感恩节公开信",
+      "content": null,
+      "category": null,
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-08",
+      "raw_data": {
+        "event": [
+          "巴菲特将在11月10日发布一封写给他三个孩子和伯克希尔股东的感恩节公开信",
+          "",
+          "",
+          ""
+        ],
+        "concept": []
+      },
+      "created_at": "2025-11-08T00:48:51.214736"
     },
     {
       "platform": "investing",
@@ -452,7 +869,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-07",
+      "discovery_date": "2025-11-08",
       "raw_data": {
         "event_id": "eventRowId_534806",
         "event_attr_id": "",
@@ -462,7 +879,7 @@
         "importance": 1,
         "event_name": "日本央行货币政策会议委员意见摘要"
       },
-      "created_at": "2025-11-07T00:52:50.125154"
+      "created_at": "2025-11-08T00:48:53.713266"
     },
     {
       "platform": "investing",
@@ -482,7 +899,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-07",
+      "discovery_date": "2025-11-08",
       "raw_data": {
         "event_id": "eventRowId_534805",
         "event_attr_id": "",
@@ -493,7 +910,7 @@
         "event_name": "日本外汇储备(美元)  (十月)",
         "previous": "1,341.3B"
       },
-      "created_at": "2025-11-07T00:52:50.125286"
+      "created_at": "2025-11-08T00:48:53.713415"
     },
     {
       "platform": "investing",
@@ -513,7 +930,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-07",
+      "discovery_date": "2025-11-08",
       "raw_data": {
         "event_id": "eventRowId_535177",
         "event_attr_id": "",
@@ -525,7 +942,7 @@
         "forecast": "12.0%",
         "previous": "-6.0%"
       },
-      "created_at": "2025-11-07T00:52:50.125404"
+      "created_at": "2025-11-08T00:48:53.713539"
     },
     {
       "platform": "investing",
@@ -545,7 +962,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-07",
+      "discovery_date": "2025-11-08",
       "raw_data": {
         "event_id": "eventRowId_535178",
         "event_attr_id": "",
@@ -557,7 +974,38 @@
         "forecast": "4.0%",
         "previous": "-2.6%"
       },
-      "created_at": "2025-11-07T00:52:50.125523"
+      "created_at": "2025-11-08T00:48:53.713661"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251110100000",
+      "original_id": "eventRowId_534802",
+      "event_date": "2025-11-10",
+      "event_time": "10:00",
+      "event_datetime": "2025/11/10 10:00:00",
+      "title": "印度尼西亚摩托车销售量年率(%) (同比)  (十月)",
+      "content": "前值: 7.30%",
+      "category": null,
+      "importance": 1,
+      "country": "印度尼西亚",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-08",
+      "raw_data": {
+        "event_id": "eventRowId_534802",
+        "event_attr_id": "",
+        "datetime": "2025/11/10 10:00:00",
+        "time": "10:00",
+        "country": "印度尼西亚",
+        "importance": 1,
+        "event_name": "印度尼西亚摩托车销售量年率(%) (同比)  (十月)",
+        "previous": "7.30%"
+      },
+      "created_at": "2025-11-08T00:48:53.713788"
     },
     {
       "platform": "investing",
@@ -577,7 +1025,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-07",
+      "discovery_date": "2025-11-08",
       "raw_data": {
         "event_id": "eventRowId_535179",
         "event_attr_id": "",
@@ -588,7 +1036,7 @@
         "event_name": "印度尼西亚消费者信心指数  (十月)",
         "previous": "115.0"
       },
-      "created_at": "2025-11-07T00:52:50.125637"
+      "created_at": "2025-11-08T00:48:53.713910"
     },
     {
       "platform": "investing",
@@ -608,7 +1056,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-07",
+      "discovery_date": "2025-11-08",
       "raw_data": {
         "event_id": "eventRowId_535180",
         "event_attr_id": "",
@@ -619,7 +1067,7 @@
         "event_name": "印度尼西亚零售销售年率(%) (同比)  (九月)",
         "previous": "3.5%"
       },
-      "created_at": "2025-11-07T00:52:50.125750"
+      "created_at": "2025-11-08T00:48:53.714027"
     },
     {
       "platform": "investing",
@@ -638,8 +1086,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-11-07",
+      "is_new": false,
+      "discovery_date": "2025-11-08",
       "raw_data": {
         "event_id": "eventRowId_535321",
         "event_attr_id": "",
@@ -649,7 +1097,7 @@
         "importance": 2,
         "event_name": "日本央行货币政策委员会审议委员中川顺子讲话"
       },
-      "created_at": "2025-11-07T00:52:50.125866"
+      "created_at": "2025-11-08T00:48:53.714142"
     },
     {
       "platform": "investing",
@@ -669,7 +1117,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-07",
+      "discovery_date": "2025-11-08",
       "raw_data": {
         "event_id": "eventRowId_535181",
         "event_attr_id": "",
@@ -680,7 +1128,7 @@
         "event_name": "马来西亚失业率  (九月)",
         "previous": "3.0%"
       },
-      "created_at": "2025-11-07T00:52:50.125996"
+      "created_at": "2025-11-08T00:48:53.714294"
     },
     {
       "platform": "investing",
@@ -700,7 +1148,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-07",
+      "discovery_date": "2025-11-08",
       "raw_data": {
         "event_id": "eventRowId_534178",
         "event_attr_id": "",
@@ -711,7 +1159,7 @@
         "event_name": "日本同步指标月率(%) (月度环比)  (九月)",
         "previous": "-1.3%"
       },
-      "created_at": "2025-11-07T00:52:50.126124"
+      "created_at": "2025-11-08T00:48:53.714411"
     },
     {
       "platform": "investing",
@@ -731,7 +1179,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-07",
+      "discovery_date": "2025-11-08",
       "raw_data": {
         "event_id": "eventRowId_535182",
         "event_attr_id": "",
@@ -742,7 +1190,7 @@
         "event_name": "日本领先指标  (九月)",
         "previous": "107.0"
       },
-      "created_at": "2025-11-07T00:52:50.126240"
+      "created_at": "2025-11-08T00:48:53.714522"
     },
     {
       "platform": "investing",
@@ -762,7 +1210,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-07",
+      "discovery_date": "2025-11-08",
       "raw_data": {
         "event_id": "eventRowId_534177",
         "event_attr_id": "",
@@ -773,7 +1221,7 @@
         "event_name": "日本领先指标月率(%) (月度环比)  (九月)",
         "previous": "0.9%"
       },
-      "created_at": "2025-11-07T00:52:50.126367"
+      "created_at": "2025-11-08T00:48:53.714636"
     },
     {
       "platform": "investing",
@@ -793,7 +1241,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-07",
+      "discovery_date": "2025-11-08",
       "raw_data": {
         "event_id": "eventRowId_534209",
         "event_attr_id": "",
@@ -804,7 +1252,7 @@
         "event_name": "欧元区Sentix投资者信心指数  (十一月)",
         "previous": "-5.4"
       },
-      "created_at": "2025-11-07T00:52:50.126484"
+      "created_at": "2025-11-08T00:48:53.714748"
     },
     {
       "platform": "investing",
@@ -824,7 +1272,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-07",
+      "discovery_date": "2025-11-08",
       "raw_data": {
         "event_id": "eventRowId_535191",
         "event_attr_id": "",
@@ -835,7 +1283,7 @@
         "event_name": "西班牙消费者信心指数  (十月)",
         "previous": "81.5"
       },
-      "created_at": "2025-11-07T00:52:50.126599"
+      "created_at": "2025-11-08T00:48:53.714861"
     },
     {
       "platform": "investing",
@@ -855,7 +1303,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-07",
+      "discovery_date": "2025-11-08",
       "raw_data": {
         "event_id": "eventRowId_535114",
         "event_attr_id": "",
@@ -865,7 +1313,7 @@
         "importance": 1,
         "event_name": "巴西央行焦点市场报告"
       },
-      "created_at": "2025-11-07T00:52:50.126712"
+      "created_at": "2025-11-08T00:48:53.714975"
     },
     {
       "platform": "investing",
@@ -885,7 +1333,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-07",
+      "discovery_date": "2025-11-08",
       "raw_data": {
         "event_id": "eventRowId_535111",
         "event_attr_id": "",
@@ -896,7 +1344,7 @@
         "event_name": "法国12个月期BTF国债拍卖平均收益率(%)",
         "previous": "2.059%"
       },
-      "created_at": "2025-11-07T00:52:50.126824"
+      "created_at": "2025-11-08T00:48:53.715093"
     },
     {
       "platform": "investing",
@@ -916,7 +1364,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-07",
+      "discovery_date": "2025-11-08",
       "raw_data": {
         "event_id": "eventRowId_535112",
         "event_attr_id": "",
@@ -927,7 +1375,7 @@
         "event_name": "法国3个月期BTF国债拍卖平均收益率(%)",
         "previous": "2.010%"
       },
-      "created_at": "2025-11-07T00:52:50.126935"
+      "created_at": "2025-11-08T00:48:53.715227"
     },
     {
       "platform": "investing",
@@ -947,7 +1395,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-07",
+      "discovery_date": "2025-11-08",
       "raw_data": {
         "event_id": "eventRowId_535113",
         "event_attr_id": "",
@@ -958,11 +1406,73 @@
         "event_name": "法国6个月期BTF国债拍卖平均收益率(%)",
         "previous": "2.029%"
       },
-      "created_at": "2025-11-07T00:52:50.127079"
+      "created_at": "2025-11-08T00:48:53.715353"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251110230000",
+      "original_id": "eventRowId_535353",
+      "event_date": "2025-11-10",
+      "event_time": "23:00",
+      "event_datetime": "2025/11/10 23:00:00",
+      "title": "美国批发库存月率(%) (月度环比)  (八月)",
+      "content": "前值: -0.2%",
+      "category": null,
+      "importance": 1,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-08",
+      "raw_data": {
+        "event_id": "eventRowId_535353",
+        "event_attr_id": "",
+        "datetime": "2025/11/10 23:00:00",
+        "time": "23:00",
+        "country": "美国",
+        "importance": 1,
+        "event_name": "美国批发库存月率(%) (月度环比)  (八月)",
+        "previous": "-0.2%"
+      },
+      "created_at": "2025-11-08T00:48:53.715468"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251110230000",
+      "original_id": "eventRowId_535354",
+      "event_date": "2025-11-10",
+      "event_time": "23:00",
+      "event_datetime": "2025/11/10 23:00:00",
+      "title": "美国批发贸易销售月率(%) (月度环比)  (八月)",
+      "content": "前值: 1.4%",
+      "category": null,
+      "importance": 1,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-08",
+      "raw_data": {
+        "event_id": "eventRowId_535354",
+        "event_attr_id": "",
+        "datetime": "2025/11/10 23:00:00",
+        "time": "23:00",
+        "country": "美国",
+        "importance": 1,
+        "event_name": "美国批发贸易销售月率(%) (月度环比)  (八月)",
+        "previous": "1.4%"
+      },
+      "created_at": "2025-11-08T00:48:53.715584"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251110160000_-3043792878809963236",
+      "event_id": "em_jjsj_20251110160000_-4963967447658553688",
       "original_id": "2025-11-10 16:00:00_中国：M1:同比(报告期:2025年10月)",
       "event_date": "2025-11-10",
       "event_time": "16:00:00",
@@ -978,16 +1488,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-07",
+      "discovery_date": "2025-11-08",
       "raw_data": {
         "Name": "中国：M1:同比(报告期:2025年10月)",
         "City": "中国"
       },
-      "created_at": "2025-11-07T00:52:58.740455"
+      "created_at": "2025-11-08T00:49:03.139891"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251110160000_-3099523335528458801",
+      "event_id": "em_jjsj_20251110160000_3392232714057985245",
       "original_id": "2025-11-10 16:00:00_中国：M0:同比(报告期:2025年10月)",
       "event_date": "2025-11-10",
       "event_time": "16:00:00",
@@ -1003,12 +1513,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-07",
+      "discovery_date": "2025-11-08",
       "raw_data": {
         "Name": "中国：M0:同比(报告期:2025年10月)",
         "City": "中国"
       },
-      "created_at": "2025-11-07T00:52:58.740462"
+      "created_at": "2025-11-08T00:49:03.139901"
     },
     {
       "platform": "eastmoney",
@@ -1028,7 +1538,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-07",
+      "discovery_date": "2025-11-08",
       "raw_data": {
         "fe_code": "10866418",
         "fe_name": "第30届联合国气候变化大会",
@@ -1039,7 +1549,7 @@
         "city": "贝伦市",
         "content": "第30届联合国气候变化大会(COP30),全称《联合国气候变化框架公约》第三十次缔约方会议,于2025年11月10日至21日在巴西亚马孙雨林地区的帕拉州首府贝伦市举办。"
       },
-      "created_at": "2025-11-07T00:52:58.743536"
+      "created_at": "2025-11-08T00:49:03.144122"
     },
     {
       "platform": "eastmoney",
@@ -1059,7 +1569,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-07",
+      "discovery_date": "2025-11-08",
       "raw_data": {
         "fe_code": "10866419",
         "fe_name": "2025中国机器人产业发展大会(CRIC2025)将于11月10日至12日在上海举办",
@@ -1070,7 +1580,7 @@
         "city": "上海",
         "content": "机器人作为新质生产力的典型代表,是赋能新型工业化的关键装备、人类生产生活的重要工具和应对人口老龄化的得力助手。在《“十四五”机器人产业发展规划》的引导下,我国机器人产业蓬勃发展,机器人整机产品性能质量显著提升、关键核心技术实现突破、应用场景从工业主导到向千行百业加速渗透、多个细分领域市场占有率位居全球前列、骨干企业加速成长、国际化水平和全球竞争力不断提升、新产业新模式新业态不断涌现,区域集聚效应日益显现,产业综合实力实现大步跨越。党中央国务院高度重视机器人产业发展,今年“智能机器人”被列入《政府工作报告》。与此同时,各地方政府纷纷出台相关政策措施,从创新平台构建、关键部件研发、应用场景开放、金融人才支持等多要素共同发力,推动智能机器人产业发展。2025年是“十四五”的收官之年,更是布局智能机器人发展方向的重要时期。在此背景下,中国机械工业联合会将于11月10-12日在上海组织召开2025中国机器人产业发展大会。"
       },
-      "created_at": "2025-11-07T00:52:58.743548"
+      "created_at": "2025-11-08T00:49:03.144131"
     }
   ]
 }
