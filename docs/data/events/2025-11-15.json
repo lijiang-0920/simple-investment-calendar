@@ -1,12 +1,12 @@
 {
   "date": "2025-11-15",
-  "total_events": 10,
-  "new_events": 2,
+  "total_events": 12,
+  "new_events": 1,
   "platforms": {
     "cls": 1,
     "jiuyangongshe": 1,
     "tonghuashun": 2,
-    "investing": 5,
+    "investing": 7,
     "eastmoney": 1
   },
   "events": [
@@ -28,7 +28,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-08",
+      "discovery_date": "2025-11-09",
       "raw_data": {
         "id": 328147,
         "calendar_time": "2025-11-15 00:00:00",
@@ -44,7 +44,7 @@
         "holiday": null,
         "title": "第二届银发经济高质量发展大会将于11月15日举办"
       },
-      "created_at": "2025-11-08T00:48:45.295532"
+      "created_at": "2025-11-09T00:55:17.908645"
     },
     {
       "platform": "jiuyangongshe",
@@ -64,7 +64,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-08",
+      "discovery_date": "2025-11-09",
       "raw_data": {
         "article_id": "e1d060ee6d68429d94120694c6e9de1d",
         "user_id": "1",
@@ -89,7 +89,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-08T00:48:47.269279"
+      "created_at": "2025-11-09T00:55:19.542060"
     },
     {
       "platform": "tonghuashun",
@@ -109,7 +109,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-08",
+      "discovery_date": "2025-11-09",
       "raw_data": {
         "event": [
           "第二届银发经济高质量发展大会将于11月15日举办",
@@ -119,7 +119,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-11-08T00:48:51.214904"
+      "created_at": "2025-11-09T00:55:23.045760"
     },
     {
       "platform": "tonghuashun",
@@ -139,7 +139,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-08",
+      "discovery_date": "2025-11-09",
       "raw_data": {
         "event": [
           "第二届银发经济高质量发展大会将于11月15日举办",
@@ -149,7 +149,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-11-08T00:48:51.214913"
+      "created_at": "2025-11-09T00:55:23.045769"
     },
     {
       "platform": "investing",
@@ -159,7 +159,7 @@
       "event_time": "01:00",
       "event_datetime": "2025/11/15 01:00:00",
       "title": "亚特兰大联储GDPNow经济增长预测  (第四季度)",
-      "content": null,
+      "content": "预测值: 4.0% | 前值: 4.0%",
       "category": null,
       "importance": 2,
       "country": "美国",
@@ -169,7 +169,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-08",
+      "discovery_date": "2025-11-09",
       "raw_data": {
         "event_id": "eventRowId_532293",
         "event_attr_id": "",
@@ -177,9 +177,11 @@
         "time": "01:00",
         "country": "美国",
         "importance": 2,
-        "event_name": "亚特兰大联储GDPNow经济增长预测  (第四季度)"
+        "event_name": "亚特兰大联储GDPNow经济增长预测  (第四季度)",
+        "forecast": "4.0%",
+        "previous": "4.0%"
       },
-      "created_at": "2025-11-08T00:48:54.365507"
+      "created_at": "2025-11-09T00:55:25.949626"
     },
     {
       "platform": "investing",
@@ -189,7 +191,7 @@
       "event_time": "02:00",
       "event_datetime": "2025/11/15 02:00:00",
       "title": "美国当周贝克休斯石油钻井总数(口)",
-      "content": null,
+      "content": "前值: 414",
       "category": null,
       "importance": 2,
       "country": "美国",
@@ -199,7 +201,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-08",
+      "discovery_date": "2025-11-09",
       "raw_data": {
         "event_id": "eventRowId_535117",
         "event_attr_id": "",
@@ -207,9 +209,10 @@
         "time": "02:00",
         "country": "美国",
         "importance": 2,
-        "event_name": "美国当周贝克休斯石油钻井总数(口)"
+        "event_name": "美国当周贝克休斯石油钻井总数(口)",
+        "previous": "414"
       },
-      "created_at": "2025-11-08T00:48:54.365641"
+      "created_at": "2025-11-09T00:55:25.949788"
     },
     {
       "platform": "investing",
@@ -219,7 +222,7 @@
       "event_time": "02:00",
       "event_datetime": "2025/11/15 02:00:00",
       "title": "美国当周贝克休斯总钻井总数(口)",
-      "content": null,
+      "content": "前值: 548",
       "category": null,
       "importance": 2,
       "country": "美国",
@@ -229,7 +232,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-08",
+      "discovery_date": "2025-11-09",
       "raw_data": {
         "event_id": "eventRowId_535118",
         "event_attr_id": "",
@@ -237,9 +240,10 @@
         "time": "02:00",
         "country": "美国",
         "importance": 2,
-        "event_name": "美国当周贝克休斯总钻井总数(口)"
+        "event_name": "美国当周贝克休斯总钻井总数(口)",
+        "previous": "548"
       },
-      "created_at": "2025-11-08T00:48:54.365757"
+      "created_at": "2025-11-09T00:55:25.949913"
     },
     {
       "platform": "investing",
@@ -258,8 +262,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-11-08",
+      "is_new": false,
+      "discovery_date": "2025-11-09",
       "raw_data": {
         "event_id": "eventRowId_535400",
         "event_attr_id": "",
@@ -269,7 +273,37 @@
         "importance": 1,
         "event_name": "美联储Logan讲话"
       },
-      "created_at": "2025-11-08T00:48:54.365875"
+      "created_at": "2025-11-09T00:55:25.950047"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251115033000",
+      "original_id": "eventRowId_535550",
+      "event_date": "2025-11-15",
+      "event_time": "03:30",
+      "event_datetime": "2025/11/15 03:30:00",
+      "title": "美联储Logan讲话",
+      "content": null,
+      "category": null,
+      "importance": 1,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-11-09",
+      "raw_data": {
+        "event_id": "eventRowId_535550",
+        "event_attr_id": "",
+        "datetime": "2025/11/15 03:30:00",
+        "time": "03:30",
+        "country": "美国",
+        "importance": 1,
+        "event_name": "美联储Logan讲话"
+      },
+      "created_at": "2025-11-09T00:55:25.950164"
     },
     {
       "platform": "investing",
@@ -288,8 +322,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-11-08",
+      "is_new": false,
+      "discovery_date": "2025-11-09",
       "raw_data": {
         "event_id": "eventRowId_535407",
         "event_attr_id": "",
@@ -299,7 +333,37 @@
         "importance": 2,
         "event_name": "美国亚特兰大联储主席、2018年FOMC票委博斯蒂克(Raphael Bostic)讲话"
       },
-      "created_at": "2025-11-08T00:48:54.365994"
+      "created_at": "2025-11-09T00:55:25.950278"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251115213000",
+      "original_id": "eventRowId_535560",
+      "event_date": "2025-11-15",
+      "event_time": "21:30",
+      "event_datetime": "2025/11/15 21:30:00",
+      "title": "欧洲央行执委施纳贝尔(Isabel Schnabel)讲话",
+      "content": null,
+      "category": null,
+      "importance": 2,
+      "country": "欧元区",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-09",
+      "raw_data": {
+        "event_id": "eventRowId_535560",
+        "event_attr_id": "",
+        "datetime": "2025/11/15 21:30:00",
+        "time": "21:30",
+        "country": "欧元区",
+        "importance": 2,
+        "event_name": "欧洲央行执委施纳贝尔(Isabel Schnabel)讲话"
+      },
+      "created_at": "2025-11-09T00:55:25.950391"
     },
     {
       "platform": "eastmoney",
@@ -319,7 +383,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-08",
+      "discovery_date": "2025-11-09",
       "raw_data": {
         "fe_code": "10866067",
         "fe_name": "第二届银发经济高质量发展大会",
@@ -330,7 +394,7 @@
         "city": "南京",
         "content": "?由享佳集团、中国老年学和老年医学学会老年教育分会、金龄银发研究院承办的第二届银发经济高质量发展大会将于2025年11月15日在江苏南京举行。"
       },
-      "created_at": "2025-11-08T00:49:03.144266"
+      "created_at": "2025-11-09T00:55:35.677946"
     }
   ]
 }
