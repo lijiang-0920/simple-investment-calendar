@@ -1,12 +1,13 @@
 {
   "date": "2025-11-17",
-  "total_events": 40,
-  "new_events": 0,
+  "total_events": 50,
+  "new_events": 10,
   "platforms": {
     "cls": 3,
-    "jiuyangongshe": 1,
+    "jiuyangongshe": 2,
     "tonghuashun": 4,
-    "investing": 32
+    "investing": 32,
+    "eastmoney": 9
   },
   "events": [
     {
@@ -27,7 +28,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "id": 328139,
         "calendar_time": "2025-11-17 00:00:00",
@@ -43,7 +44,7 @@
         "holiday": null,
         "title": "2025中国国际光伏与储能产业大会将于11月17日至20日举办"
       },
-      "created_at": "2025-11-10T00:55:25.107888"
+      "created_at": "2025-11-11T00:53:26.179201"
     },
     {
       "platform": "cls",
@@ -63,7 +64,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "id": 337276,
         "calendar_time": "2025-11-17 00:00:00",
@@ -79,7 +80,7 @@
         "holiday": null,
         "title": "2025广州国际家电及消费电子博览会将于11月17日至19日在广州举办"
       },
-      "created_at": "2025-11-10T00:55:25.107901"
+      "created_at": "2025-11-11T00:53:26.179212"
     },
     {
       "platform": "cls",
@@ -99,7 +100,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "id": 345463,
         "calendar_time": "2025-11-17 21:30:00",
@@ -124,7 +125,7 @@
         "holiday": null,
         "title": "加拿大10月CPI月率"
       },
-      "created_at": "2025-11-10T00:55:25.107914"
+      "created_at": "2025-11-11T00:53:26.179223"
     },
     {
       "platform": "jiuyangongshe",
@@ -144,7 +145,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "article_id": "b37463f915db45c8831020d4790b9a94",
         "user_id": "1",
@@ -169,7 +170,52 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-10T00:55:26.806475"
+      "created_at": "2025-11-11T00:53:28.409212"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_44f7c5e5a8b34a2a969315b43a9a1878_76ae79a289224c37be6db1b8be86bef2_20251117",
+      "original_id": "44f7c5e5a8b34a2a969315b43a9a1878",
+      "event_date": "2025-11-17",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025广州国际家电及消费电子博览会",
+      "content": "",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-11",
+      "raw_data": {
+        "article_id": "44f7c5e5a8b34a2a969315b43a9a1878",
+        "user_id": "1",
+        "title": "2025广州国际家电及消费电子博览会",
+        "content": "",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "44f7c5e5a8b34a2a969315b43a9a1878",
+          "timeline_id": "76ae79a289224c37be6db1b8be86bef2",
+          "date": "2025-11-17",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-11-10 23:41:15",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-11-11T00:53:28.409220"
     },
     {
       "platform": "tonghuashun",
@@ -189,7 +235,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event": [
           "2025中国国际光伏与储能产业大会将于11月17日至20日举办",
@@ -199,7 +245,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-11-10T00:55:30.266937"
+      "created_at": "2025-11-11T00:53:32.303788"
     },
     {
       "platform": "tonghuashun",
@@ -219,7 +265,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event": [
           "2025中国国际光伏与储能产业大会将于11月17日至20日举办",
@@ -229,7 +275,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-11-10T00:55:30.266946"
+      "created_at": "2025-11-11T00:53:32.303797"
     },
     {
       "platform": "tonghuashun",
@@ -249,7 +295,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event": [
           "2025广州国际家电及消费电子博览会将于11月17日至19日在广州举办",
@@ -259,7 +305,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-11-10T00:55:30.266953"
+      "created_at": "2025-11-11T00:53:32.303805"
     },
     {
       "platform": "tonghuashun",
@@ -279,7 +325,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event": [
           "2025广州国际家电及消费电子博览会将于11月17日至19日在广州举办",
@@ -289,7 +335,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-11-10T00:55:30.266962"
+      "created_at": "2025-11-11T00:53:32.303812"
     },
     {
       "platform": "investing",
@@ -309,7 +355,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_535247",
         "event_attr_id": "",
@@ -320,7 +366,7 @@
         "event_name": "服务业表现指数  (十月)",
         "previous": "48.3"
       },
-      "created_at": "2025-11-10T00:55:33.016830"
+      "created_at": "2025-11-11T00:53:35.405721"
     },
     {
       "platform": "investing",
@@ -340,7 +386,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_534621",
         "event_attr_id": "",
@@ -351,7 +397,7 @@
         "event_name": "新西兰食品价格指数月率(%) (月度环比)  (十月)",
         "previous": "-0.4%"
       },
-      "created_at": "2025-11-10T00:55:33.016962"
+      "created_at": "2025-11-11T00:53:35.405864"
     },
     {
       "platform": "investing",
@@ -371,7 +417,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_534625",
         "event_attr_id": "",
@@ -382,7 +428,7 @@
         "event_name": "日本GDP季率(%) (季度环比)  (第三季度)",
         "previous": "0.5%"
       },
-      "created_at": "2025-11-10T00:55:33.017064"
+      "created_at": "2025-11-11T00:53:35.405983"
     },
     {
       "platform": "investing",
@@ -402,7 +448,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_534626",
         "event_attr_id": "",
@@ -413,7 +459,7 @@
         "event_name": "日本季调后实际GDP年化季率(%) (同比)  (第三季度)",
         "previous": "2.2%"
       },
-      "created_at": "2025-11-10T00:55:33.017167"
+      "created_at": "2025-11-11T00:53:35.406107"
     },
     {
       "platform": "investing",
@@ -433,7 +479,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_534622",
         "event_attr_id": "",
@@ -444,7 +490,7 @@
         "event_name": "日本GDP企业支出季率(%) (季度环比)  (第三季度)",
         "previous": "0.6%"
       },
-      "created_at": "2025-11-10T00:55:33.017277"
+      "created_at": "2025-11-11T00:53:35.406243"
     },
     {
       "platform": "investing",
@@ -464,7 +510,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_534623",
         "event_attr_id": "",
@@ -475,7 +521,7 @@
         "event_name": "日本GDP外部需求季率(%) (季度环比)  (第三季度)",
         "previous": "0.3%"
       },
-      "created_at": "2025-11-10T00:55:33.017380"
+      "created_at": "2025-11-11T00:53:35.406362"
     },
     {
       "platform": "investing",
@@ -495,7 +541,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_534627",
         "event_attr_id": "",
@@ -506,7 +552,7 @@
         "event_name": "日本GDP平减指数年率(%) (同比)  (第三季度)",
         "previous": "3.0%"
       },
-      "created_at": "2025-11-10T00:55:33.017478"
+      "created_at": "2025-11-11T00:53:35.406489"
     },
     {
       "platform": "investing",
@@ -526,7 +572,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_534624",
         "event_attr_id": "",
@@ -537,7 +583,7 @@
         "event_name": "日本GDP私人消费季率(%) (季度环比)  (第三季度)",
         "previous": "0.4%"
       },
-      "created_at": "2025-11-10T00:55:33.017575"
+      "created_at": "2025-11-11T00:53:35.406602"
     },
     {
       "platform": "investing",
@@ -557,7 +603,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_534628",
         "event_attr_id": "",
@@ -568,7 +614,7 @@
         "event_name": "英国Rightmove平均房屋要价指数月率(%) (同比)  (十一月)",
         "previous": "-0.1%"
       },
-      "created_at": "2025-11-10T00:55:33.017672"
+      "created_at": "2025-11-11T00:53:35.406713"
     },
     {
       "platform": "investing",
@@ -588,7 +634,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_534629",
         "event_attr_id": "",
@@ -599,7 +645,7 @@
         "event_name": "新加坡非石油出口额月率(%) (月度环比)  (十月)",
         "previous": "13.00%"
       },
-      "created_at": "2025-11-10T00:55:33.017774"
+      "created_at": "2025-11-11T00:53:35.406828"
     },
     {
       "platform": "investing",
@@ -619,7 +665,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_534630",
         "event_attr_id": "",
@@ -630,7 +676,7 @@
         "event_name": "新加坡非石油出口额年率(%) (同比)  (十月)",
         "previous": "6.90%"
       },
-      "created_at": "2025-11-10T00:55:33.017875"
+      "created_at": "2025-11-11T00:53:35.406946"
     },
     {
       "platform": "investing",
@@ -650,7 +696,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_534631",
         "event_attr_id": "",
@@ -661,7 +707,7 @@
         "event_name": "泰国GDP年率 (同比)  (第三季度)",
         "previous": "2.8%"
       },
-      "created_at": "2025-11-10T00:55:33.017973"
+      "created_at": "2025-11-11T00:53:35.407057"
     },
     {
       "platform": "investing",
@@ -681,7 +727,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_534632",
         "event_attr_id": "",
@@ -692,7 +738,7 @@
         "event_name": "泰国GDP季率(%) (季度环比)  (第三季度)",
         "previous": "0.60%"
       },
-      "created_at": "2025-11-10T00:55:33.018071"
+      "created_at": "2025-11-11T00:53:35.407168"
     },
     {
       "platform": "investing",
@@ -712,7 +758,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_534633",
         "event_attr_id": "",
@@ -723,7 +769,7 @@
         "event_name": "日本设备利用指数月率(%) (月度环比)  (九月)",
         "previous": "-2.3%"
       },
-      "created_at": "2025-11-10T00:55:33.018169"
+      "created_at": "2025-11-11T00:53:35.407303"
     },
     {
       "platform": "investing",
@@ -743,7 +789,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_534634",
         "event_attr_id": "",
@@ -754,7 +800,7 @@
         "event_name": "日本工业产出月率(%) (月度环比)  (九月)",
         "previous": "2.2%"
       },
-      "created_at": "2025-11-10T00:55:33.018276"
+      "created_at": "2025-11-11T00:53:35.407417"
     },
     {
       "platform": "investing",
@@ -774,7 +820,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_535430",
         "event_attr_id": "",
@@ -785,7 +831,7 @@
         "event_name": "英国工业产出月率(%) (同比)  (第三季度)",
         "previous": "-0.10%"
       },
-      "created_at": "2025-11-10T00:55:33.018373"
+      "created_at": "2025-11-11T00:53:35.407531"
     },
     {
       "platform": "investing",
@@ -805,7 +851,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_534646",
         "event_attr_id": "",
@@ -816,7 +862,7 @@
         "event_name": "意大利CPI月率(%) (月度环比)  (十月)",
         "previous": "-0.3%"
       },
-      "created_at": "2025-11-10T00:55:33.018473"
+      "created_at": "2025-11-11T00:53:35.407645"
     },
     {
       "platform": "investing",
@@ -836,7 +882,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_534645",
         "event_attr_id": "",
@@ -847,7 +893,7 @@
         "event_name": "意大利CPI年率(%) (同比)  (十月)",
         "previous": "1.2%"
       },
-      "created_at": "2025-11-10T00:55:33.018574"
+      "created_at": "2025-11-11T00:53:35.407756"
     },
     {
       "platform": "investing",
@@ -867,7 +913,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_534643",
         "event_attr_id": "",
@@ -878,7 +924,7 @@
         "event_name": "意大利不包括烟草CPI月率 (同比)  (十月)",
         "previous": "1.4%"
       },
-      "created_at": "2025-11-10T00:55:33.018672"
+      "created_at": "2025-11-11T00:53:35.407866"
     },
     {
       "platform": "investing",
@@ -898,7 +944,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_534647",
         "event_attr_id": "",
@@ -909,7 +955,7 @@
         "event_name": "意大利调和CPI月率(%) (月度环比)  (十月)",
         "previous": "-0.2%"
       },
-      "created_at": "2025-11-10T00:55:33.018797"
+      "created_at": "2025-11-11T00:53:35.407980"
     },
     {
       "platform": "investing",
@@ -929,7 +975,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_534644",
         "event_attr_id": "",
@@ -940,7 +986,7 @@
         "event_name": "意大利调和CPI年率(%) (同比)  (十月)",
         "previous": "1.3%"
       },
-      "created_at": "2025-11-10T00:55:33.018899"
+      "created_at": "2025-11-11T00:53:35.408095"
     },
     {
       "platform": "investing",
@@ -960,7 +1006,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_534651",
         "event_attr_id": "",
@@ -971,7 +1017,7 @@
         "event_name": "巴西中央银行经济活动指数(IBC-Br)(%)  (九月)",
         "previous": "0.40%"
       },
-      "created_at": "2025-11-10T00:55:33.019000"
+      "created_at": "2025-11-11T00:53:35.408227"
     },
     {
       "platform": "investing",
@@ -991,7 +1037,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_534664",
         "event_attr_id": "",
@@ -1002,7 +1048,7 @@
         "event_name": "美国纽约联储制造业指数  (十一月)",
         "previous": "10.70"
       },
-      "created_at": "2025-11-10T00:55:33.019101"
+      "created_at": "2025-11-11T00:53:35.408342"
     },
     {
       "platform": "investing",
@@ -1022,7 +1068,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_534657",
         "event_attr_id": "",
@@ -1033,7 +1079,7 @@
         "event_name": "加拿大普通CPI年率(%) (同比)  (十月)",
         "previous": "2.7%"
       },
-      "created_at": "2025-11-10T00:55:33.019202"
+      "created_at": "2025-11-11T00:53:35.408451"
     },
     {
       "platform": "investing",
@@ -1053,7 +1099,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_534656",
         "event_attr_id": "",
@@ -1064,7 +1110,7 @@
         "event_name": "加拿大核心CPI月率(%) (月度环比)  (十月)",
         "previous": "0.2%"
       },
-      "created_at": "2025-11-10T00:55:33.019321"
+      "created_at": "2025-11-11T00:53:35.408561"
     },
     {
       "platform": "investing",
@@ -1084,7 +1130,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_534655",
         "event_attr_id": "",
@@ -1095,7 +1141,7 @@
         "event_name": "加拿大核心CPI年率(%) (同比)  (十月)",
         "previous": "2.8%"
       },
-      "created_at": "2025-11-10T00:55:33.019423"
+      "created_at": "2025-11-11T00:53:35.408671"
     },
     {
       "platform": "investing",
@@ -1115,7 +1161,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_534662",
         "event_attr_id": "",
@@ -1126,7 +1172,7 @@
         "event_name": "加拿大CPI月率(%) (月度环比)  (十月)",
         "previous": "0.1%"
       },
-      "created_at": "2025-11-10T00:55:33.019522"
+      "created_at": "2025-11-11T00:53:35.408782"
     },
     {
       "platform": "investing",
@@ -1146,7 +1192,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_534658",
         "event_attr_id": "",
@@ -1157,7 +1203,7 @@
         "event_name": "加拿大CPI年率(%) (同比)  (十月)",
         "previous": "2.4%"
       },
-      "created_at": "2025-11-10T00:55:33.019620"
+      "created_at": "2025-11-11T00:53:35.408897"
     },
     {
       "platform": "investing",
@@ -1177,7 +1223,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_534661",
         "event_attr_id": "",
@@ -1188,7 +1234,7 @@
         "event_name": "加拿大海外投资者净买入加拿大证券(加元)  (九月)",
         "previous": "25.92B"
       },
-      "created_at": "2025-11-10T00:55:33.019718"
+      "created_at": "2025-11-11T00:53:35.409017"
     },
     {
       "platform": "investing",
@@ -1208,7 +1254,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_534663",
         "event_attr_id": "",
@@ -1219,7 +1265,7 @@
         "event_name": "加拿大投资者净买入海外证券(加元)  (九月)",
         "previous": "19.510B"
       },
-      "created_at": "2025-11-10T00:55:33.019816"
+      "created_at": "2025-11-11T00:53:35.409137"
     },
     {
       "platform": "investing",
@@ -1239,7 +1285,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_534660",
         "event_attr_id": "",
@@ -1250,7 +1296,7 @@
         "event_name": "加拿大CPI中位数年率(%) (同比)  (十月)",
         "previous": "3.2%"
       },
-      "created_at": "2025-11-10T00:55:33.019914"
+      "created_at": "2025-11-11T00:53:35.409267"
     },
     {
       "platform": "investing",
@@ -1270,7 +1316,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_534659",
         "event_attr_id": "",
@@ -1281,7 +1327,244 @@
         "event_name": "加拿大截尾CPI年率(%) (同比)  (十月)",
         "previous": "3.1%"
       },
-      "created_at": "2025-11-10T00:55:33.020016"
+      "created_at": "2025-11-11T00:53:35.409382"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251117000000_4910765437980101243",
+      "original_id": "2025-11-17 00:00:00_泰国：GDP：不变价：同比(报告期:2025年09月)",
+      "event_date": "2025-11-17",
+      "event_time": null,
+      "event_datetime": "2025-11-17 00:00:00",
+      "title": "泰国：GDP：不变价：同比(报告期:2025年09月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "泰国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-11",
+      "raw_data": {
+        "Name": "泰国：GDP：不变价：同比(报告期:2025年09月)",
+        "City": "泰国"
+      },
+      "created_at": "2025-11-11T00:53:43.981215"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251117080100_2883709126511719319",
+      "original_id": "2025-11-17 08:01:00_英国：Rightmove房价指数：同比(报告期:2025年11月)",
+      "event_date": "2025-11-17",
+      "event_time": "08:01:00",
+      "event_datetime": "2025-11-17 08:01:00",
+      "title": "英国：Rightmove房价指数：同比(报告期:2025年11月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "英国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-11",
+      "raw_data": {
+        "Name": "英国：Rightmove房价指数：同比(报告期:2025年11月)",
+        "City": "英国"
+      },
+      "created_at": "2025-11-11T00:53:43.981223"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251117080100_-4620548349335865582",
+      "original_id": "2025-11-17 08:01:00_英国：Rightmove房价指数：环比(报告期:2025年11月)",
+      "event_date": "2025-11-17",
+      "event_time": "08:01:00",
+      "event_datetime": "2025-11-17 08:01:00",
+      "title": "英国：Rightmove房价指数：环比(报告期:2025年11月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "英国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-11",
+      "raw_data": {
+        "Name": "英国：Rightmove房价指数：环比(报告期:2025年11月)",
+        "City": "英国"
+      },
+      "created_at": "2025-11-11T00:53:43.981231"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251117211500_-3516026824418597466",
+      "original_id": "2025-11-17 21:15:00_加拿大：新屋开工(报告期:2025年10月)",
+      "event_date": "2025-11-17",
+      "event_time": "21:15:00",
+      "event_datetime": "2025-11-17 21:15:00",
+      "title": "加拿大：新屋开工(报告期:2025年10月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "加拿大",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-11",
+      "raw_data": {
+        "Name": "加拿大：新屋开工(报告期:2025年10月)",
+        "City": "加拿大"
+      },
+      "created_at": "2025-11-11T00:53:43.981238"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251117213000_-8298924246123926314",
+      "original_id": "2025-11-17 21:30:00_加拿大：CPI：同比(报告期:2025年10月)",
+      "event_date": "2025-11-17",
+      "event_time": "21:30:00",
+      "event_datetime": "2025-11-17 21:30:00",
+      "title": "加拿大：CPI：同比(报告期:2025年10月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "加拿大",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-11",
+      "raw_data": {
+        "Name": "加拿大：CPI：同比(报告期:2025年10月)",
+        "City": "加拿大"
+      },
+      "created_at": "2025-11-11T00:53:43.981246"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251117213000_-7462174551321544771",
+      "original_id": "2025-11-17 21:30:00_加拿大：核心CPI：环比(报告期:2025年10月)",
+      "event_date": "2025-11-17",
+      "event_time": "21:30:00",
+      "event_datetime": "2025-11-17 21:30:00",
+      "title": "加拿大：核心CPI：环比(报告期:2025年10月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "加拿大",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-11",
+      "raw_data": {
+        "Name": "加拿大：核心CPI：环比(报告期:2025年10月)",
+        "City": "加拿大"
+      },
+      "created_at": "2025-11-11T00:53:43.981253"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251117213000_3881192296129196163",
+      "original_id": "2025-11-17 21:30:00_加拿大：核心CPI：同比(报告期:2025年10月)",
+      "event_date": "2025-11-17",
+      "event_time": "21:30:00",
+      "event_datetime": "2025-11-17 21:30:00",
+      "title": "加拿大：核心CPI：同比(报告期:2025年10月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "加拿大",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-11",
+      "raw_data": {
+        "Name": "加拿大：核心CPI：同比(报告期:2025年10月)",
+        "City": "加拿大"
+      },
+      "created_at": "2025-11-11T00:53:43.981260"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_hyhy_10866068",
+      "original_id": "10866068",
+      "event_date": "2025-11-17",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025中国国际光伏与储能产业大会",
+      "content": "第八届中国国际光伏与储能产业大会以“光储同辉智创未来”为主题,定于2025年11月17日-20日在中国成都举行。该大会由大会组委会与光伏见闻联合主办,是全球前三的光储行业国际盛会之一。大会将吸引全球数千家光伏与储能企业参与,举办包括第二届光伏固废资源回收技术研讨会在内的多场平行会议,深入探讨全球能源转型与“双碳”战略发展路径。",
+      "category": "行业会议",
+      "importance": 3,
+      "country": "中国",
+      "city": "成都",
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-11",
+      "raw_data": {
+        "fe_code": "10866068",
+        "fe_name": "2025中国国际光伏与储能产业大会",
+        "start_date": "2025-11-17",
+        "end_date": "2025-11-20",
+        "fe_type": "行业会议",
+        "sponsor": "大会组委会,光伏见闻",
+        "city": "成都",
+        "content": "第八届中国国际光伏与储能产业大会以“光储同辉智创未来”为主题,定于2025年11月17日-20日在中国成都举行。该大会由大会组委会与光伏见闻联合主办,是全球前三的光储行业国际盛会之一。大会将吸引全球数千家光伏与储能企业参与,举办包括第二届光伏固废资源回收技术研讨会在内的多场平行会议,深入探讨全球能源转型与“双碳”战略发展路径。"
+      },
+      "created_at": "2025-11-11T00:53:43.984252"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_hyhy_10866420",
+      "original_id": "10866420",
+      "event_date": "2025-11-17",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025广州国际家电及消费电子博览会",
+      "content": "2025广州国际家电及消费电子博览会“IHCE”定于2025年11月17-19日在广州琶洲保利世贸博览馆举办,以“AI智能,AI生活“为主题,致力于为中国家电及消费电子生产企业、代加工商、代理商、国内国际采购商、零配件商、相关产业服务供应商等打造全面、集中的一站式采购交易合作平台,集中展示家用电器、厨卫家电、小家电、个人护理电器、消费类电子、手机周边、电脑及游戏周边、智能穿戴、音视频产品、车载电子等产品及技术,汇聚了新品体验场景、贸易商洽机会、技术战略交流环境、品牌传播声量、多维度用户人群、跨界交流平台、资本市场关注,是提升产业社会关注度和影响力,为参展品牌和合作伙伴全面赋能的重要平台。引领电子电器消费潮流,打造全球家电及消费类电子市场风向标。",
+      "category": "行业会议",
+      "importance": 3,
+      "country": "中国",
+      "city": "广州",
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-11",
+      "raw_data": {
+        "fe_code": "10866420",
+        "fe_name": "2025广州国际家电及消费电子博览会",
+        "start_date": "2025-11-17",
+        "end_date": "2025-11-19",
+        "fe_type": "行业会议",
+        "sponsor": "IHCE组委会",
+        "city": "广州",
+        "content": "2025广州国际家电及消费电子博览会“IHCE”定于2025年11月17-19日在广州琶洲保利世贸博览馆举办,以“AI智能,AI生活“为主题,致力于为中国家电及消费电子生产企业、代加工商、代理商、国内国际采购商、零配件商、相关产业服务供应商等打造全面、集中的一站式采购交易合作平台,集中展示家用电器、厨卫家电、小家电、个人护理电器、消费类电子、手机周边、电脑及游戏周边、智能穿戴、音视频产品、车载电子等产品及技术,汇聚了新品体验场景、贸易商洽机会、技术战略交流环境、品牌传播声量、多维度用户人群、跨界交流平台、资本市场关注,是提升产业社会关注度和影响力,为参展品牌和合作伙伴全面赋能的重要平台。引领电子电器消费潮流,打造全球家电及消费类电子市场风向标。"
+      },
+      "created_at": "2025-11-11T00:53:43.984261"
     }
   ]
 }

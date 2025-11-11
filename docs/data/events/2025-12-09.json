@@ -1,10 +1,11 @@
 {
   "date": "2025-12-09",
-  "total_events": 2,
-  "new_events": 0,
+  "total_events": 6,
+  "new_events": 4,
   "platforms": {
-    "jiuyangongshe": 1,
-    "investing": 1
+    "jiuyangongshe": 2,
+    "investing": 1,
+    "eastmoney": 3
   },
   "events": [
     {
@@ -25,7 +26,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "article_id": "4e7p0r2xq9u",
         "user_id": "986cea6de54b4fb4941d8e78ff8308e8",
@@ -50,7 +51,52 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-10T00:55:28.564614"
+      "created_at": "2025-11-11T00:53:30.167084"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_394186f7cf8243e6a37f5dc39e4d2e53_98865e3670ee40918d75fb30fb330797_20251209",
+      "original_id": "394186f7cf8243e6a37f5dc39e4d2e53",
+      "event_date": "2025-12-09",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "Carbontech 2025金刚石年会",
+      "content": "",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-11",
+      "raw_data": {
+        "article_id": "394186f7cf8243e6a37f5dc39e4d2e53",
+        "user_id": "1",
+        "title": "Carbontech 2025金刚石年会",
+        "content": "",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "394186f7cf8243e6a37f5dc39e4d2e53",
+          "timeline_id": "98865e3670ee40918d75fb30fb330797",
+          "date": "2025-12-09",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-11-10 23:41:55",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-11-11T00:53:30.167094"
     },
     {
       "platform": "investing",
@@ -70,7 +116,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-10",
+      "discovery_date": "2025-11-11",
       "raw_data": {
         "event_id": "eventRowId_535248",
         "event_attr_id": "",
@@ -81,7 +127,88 @@
         "event_name": "澳洲联储利率决议",
         "previous": "3.60%"
       },
-      "created_at": "2025-11-10T00:55:36.430844"
+      "created_at": "2025-11-11T00:53:38.030204"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251209075000_-4401630282384248676",
+      "original_id": "2025-12-09 07:50:00_日本：M2：实值(报告期:2025年11月)",
+      "event_date": "2025-12-09",
+      "event_time": "07:50:00",
+      "event_datetime": "2025-12-09 07:50:00",
+      "title": "日本：M2：实值(报告期:2025年11月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-11",
+      "raw_data": {
+        "Name": "日本：M2：实值(报告期:2025年11月)",
+        "City": "日本"
+      },
+      "created_at": "2025-11-11T00:53:43.982947"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251209150000_-845634977855121187",
+      "original_id": "2025-12-09 15:00:00_德国：贸易顺差：季调(报告期:2025年10月)",
+      "event_date": "2025-12-09",
+      "event_time": "15:00:00",
+      "event_datetime": "2025-12-09 15:00:00",
+      "title": "德国：贸易顺差：季调(报告期:2025年10月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "德国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-11",
+      "raw_data": {
+        "Name": "德国：贸易顺差：季调(报告期:2025年10月)",
+        "City": "德国"
+      },
+      "created_at": "2025-11-11T00:53:43.982955"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_hyhy_10856302",
+      "original_id": "10856302",
+      "event_date": "2025-12-09",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "美联储议息会议",
+      "content": "",
+      "category": "行业会议",
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-11",
+      "raw_data": {
+        "fe_code": "10856302",
+        "fe_name": "美联储议息会议",
+        "start_date": "2025-12-09",
+        "end_date": "2025-12-11",
+        "fe_type": "美联储议息会议",
+        "sponsor": null,
+        "city": null,
+        "content": null
+      },
+      "created_at": "2025-11-11T00:53:43.984493"
     }
   ]
 }
