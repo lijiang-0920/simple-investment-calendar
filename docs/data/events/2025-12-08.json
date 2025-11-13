@@ -1,12 +1,86 @@
 {
   "date": "2025-12-08",
-  "total_events": 5,
-  "new_events": 0,
+  "total_events": 8,
+  "new_events": 3,
   "platforms": {
+    "cls": 2,
     "jiuyangongshe": 1,
+    "tonghuashun": 1,
     "eastmoney": 4
   },
   "events": [
+    {
+      "platform": "cls",
+      "event_id": "cls_371647_20251208_2",
+      "original_id": "371647",
+      "event_date": "2025-12-08",
+      "event_time": "00:00:00",
+      "event_datetime": "2025-12-08 00:00:00",
+      "title": "证监会公布《证券结算风险基金管理办法》，自2025年12月8日起施行",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-13",
+      "raw_data": {
+        "id": 371647,
+        "calendar_time": "2025-12-08 00:00:00",
+        "data_id": 20129,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "证监会公布《证券结算风险基金管理办法》，自2025年12月8日起施行",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "证监会公布《证券结算风险基金管理办法》，自2025年12月8日起施行"
+      },
+      "created_at": "2025-11-13T00:52:57.842107"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_360984_20251208_2",
+      "original_id": "360984",
+      "event_date": "2025-12-08",
+      "event_time": "08:00:00",
+      "event_datetime": "2025-12-08 08:00:00",
+      "title": "国内成品油将开启新一轮调价窗口",
+      "content": null,
+      "category": "事件公告",
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-13",
+      "raw_data": {
+        "id": 360984,
+        "calendar_time": "2025-12-08 08:00:00",
+        "data_id": 20069,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "国内成品油将开启新一轮调价窗口",
+          "country": "中国",
+          "country_icon": "",
+          "star": 3
+        },
+        "holiday": null,
+        "title": "国内成品油将开启新一轮调价窗口"
+      },
+      "created_at": "2025-11-13T00:52:57.842117"
+    },
     {
       "platform": "jiuyangongshe",
       "event_id": "jygs_5c9a407113a94b9f85027062ae8907d0_3c2ade2b1a14472d9dc3897671c10fe4_20251208",
@@ -25,7 +99,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-12",
+      "discovery_date": "2025-11-13",
       "raw_data": {
         "article_id": "5c9a407113a94b9f85027062ae8907d0",
         "user_id": "1",
@@ -50,11 +124,41 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-12T00:53:05.014741"
+      "created_at": "2025-11-13T00:53:01.377602"
+    },
+    {
+      "platform": "tonghuashun",
+      "event_id": "ths_20251208_0_7000f1b6",
+      "original_id": "2025-12-08_0",
+      "event_date": "2025-12-08",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "证监会公布《证券结算风险基金管理办法》，自2025年12月8日起施行",
+      "content": null,
+      "category": null,
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-13",
+      "raw_data": {
+        "event": [
+          "证监会公布《证券结算风险基金管理办法》，自2025年12月8日起施行",
+          "",
+          "",
+          ""
+        ],
+        "concept": []
+      },
+      "created_at": "2025-11-13T00:53:04.068388"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251208000000_-5734446624531068298",
+      "event_id": "em_jjsj_20251208000000_5678617039267895507",
       "original_id": "2025-12-08 00:00:00_中国：进口金额(报告期:2025年11月)",
       "event_date": "2025-12-08",
       "event_time": null,
@@ -70,16 +174,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-12",
+      "discovery_date": "2025-11-13",
       "raw_data": {
         "Name": "中国：进口金额(报告期:2025年11月)",
         "City": "中国"
       },
-      "created_at": "2025-11-12T00:53:17.372645"
+      "created_at": "2025-11-13T00:53:26.194786"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251208000000_8405898691227233671",
+      "event_id": "em_jjsj_20251208000000_-9008048536826730029",
       "original_id": "2025-12-08 00:00:00_中国：出口金额(报告期:2025年11月)",
       "event_date": "2025-12-08",
       "event_time": null,
@@ -95,16 +199,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-12",
+      "discovery_date": "2025-11-13",
       "raw_data": {
         "Name": "中国：出口金额(报告期:2025年11月)",
         "City": "中国"
       },
-      "created_at": "2025-11-12T00:53:17.372652"
+      "created_at": "2025-11-13T00:53:26.194793"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251208000000_-5391551034912277405",
+      "event_id": "em_jjsj_20251208000000_3507629762127587358",
       "original_id": "2025-12-08 00:00:00_中国：进出口金额:当月同比(报告期:2025年11月)",
       "event_date": "2025-12-08",
       "event_time": null,
@@ -120,16 +224,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-12",
+      "discovery_date": "2025-11-13",
       "raw_data": {
         "Name": "中国：进出口金额:当月同比(报告期:2025年11月)",
         "City": "中国"
       },
-      "created_at": "2025-11-12T00:53:17.372660"
+      "created_at": "2025-11-13T00:53:26.194801"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251208075000_-1601444999027419060",
+      "event_id": "em_jjsj_20251208075000_-6955414328535859117",
       "original_id": "2025-12-08 07:50:00_日本：经常项目差额(报告期:2025年10月)",
       "event_date": "2025-12-08",
       "event_time": "07:50:00",
@@ -145,12 +249,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-12",
+      "discovery_date": "2025-11-13",
       "raw_data": {
         "Name": "日本：经常项目差额(报告期:2025年10月)",
         "City": "日本"
       },
-      "created_at": "2025-11-12T00:53:17.374056"
+      "created_at": "2025-11-13T00:53:26.194809"
     }
   ]
 }

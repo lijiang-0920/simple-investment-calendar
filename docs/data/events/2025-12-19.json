@@ -1,12 +1,80 @@
 {
   "date": "2025-12-19",
-  "total_events": 18,
-  "new_events": 0,
+  "total_events": 20,
+  "new_events": 2,
   "platforms": {
+    "cls": 1,
+    "tonghuashun": 1,
     "investing": 1,
     "eastmoney": 17
   },
   "events": [
+    {
+      "platform": "cls",
+      "event_id": "cls_371643_20251219_2",
+      "original_id": "371643",
+      "event_date": "2025-12-19",
+      "event_time": "00:00:00",
+      "event_datetime": "2025-12-19 00:00:00",
+      "title": "2025进博优品交易会将于12月19日至21日在上海举办",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-13",
+      "raw_data": {
+        "id": 371643,
+        "calendar_time": "2025-12-19 00:00:00",
+        "data_id": 20128,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "2025进博优品交易会将于12月19日至21日在上海举办",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "2025进博优品交易会将于12月19日至21日在上海举办"
+      },
+      "created_at": "2025-11-13T00:52:57.842167"
+    },
+    {
+      "platform": "tonghuashun",
+      "event_id": "ths_20251219_0_ee16061c",
+      "original_id": "2025-12-19_0",
+      "event_date": "2025-12-19",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025进博优品交易会将于12月19日至21日在上海举办",
+      "content": null,
+      "category": null,
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-13",
+      "raw_data": {
+        "event": [
+          "2025进博优品交易会将于12月19日至21日在上海举办",
+          "",
+          "",
+          ""
+        ],
+        "concept": []
+      },
+      "created_at": "2025-11-13T00:53:04.068532"
+    },
     {
       "platform": "investing",
       "event_id": "inv__20251219110000",
@@ -25,7 +93,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-12",
+      "discovery_date": "2025-11-13",
       "raw_data": {
         "event_id": "eventRowId_516881",
         "event_attr_id": "",
@@ -36,11 +104,11 @@
         "event_name": "日本央行利率决议",
         "previous": "0.50%"
       },
-      "created_at": "2025-11-12T00:53:13.986437"
+      "created_at": "2025-11-13T00:53:10.436840"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251219000000_5817756473858044801",
+      "event_id": "em_jjsj_20251219000000_-659725343037474638",
       "original_id": "2025-12-19 00:00:00_美国：成屋销售：环比折年率(报告期:2025年11月)",
       "event_date": "2025-12-19",
       "event_time": null,
@@ -56,16 +124,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-12",
+      "discovery_date": "2025-11-13",
       "raw_data": {
         "Name": "美国：成屋销售：环比折年率(报告期:2025年11月)",
         "City": "美国"
       },
-      "created_at": "2025-11-12T00:53:17.374741"
+      "created_at": "2025-11-13T00:53:26.195540"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251219000000_-670774901809206452",
+      "event_id": "em_jjsj_20251219000000_5063453798963141951",
       "original_id": "2025-12-19 00:00:00_美国：成屋销售折年数(报告期:2025年11月)",
       "event_date": "2025-12-19",
       "event_time": null,
@@ -81,16 +149,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-12",
+      "discovery_date": "2025-11-13",
       "raw_data": {
         "Name": "美国：成屋销售折年数(报告期:2025年11月)",
         "City": "美国"
       },
-      "created_at": "2025-11-12T00:53:17.374748"
+      "created_at": "2025-11-13T00:53:26.195547"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251219000000_1463922977122499465",
+      "event_id": "em_jjsj_20251219000000_-3157510676133318178",
       "original_id": "2025-12-19 00:00:00_阿根廷：进口金额(报告期:2025年11月)",
       "event_date": "2025-12-19",
       "event_time": null,
@@ -106,16 +174,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-12",
+      "discovery_date": "2025-11-13",
       "raw_data": {
         "Name": "阿根廷：进口金额(报告期:2025年11月)",
         "City": "阿根廷"
       },
-      "created_at": "2025-11-12T00:53:17.374756"
+      "created_at": "2025-11-13T00:53:26.195555"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251219000000_8940323474975727337",
+      "event_id": "em_jjsj_20251219000000_-1956798880993758293",
       "original_id": "2025-12-19 00:00:00_中国澳门：CPI：综合：同比(报告期:2025年11月)",
       "event_date": "2025-12-19",
       "event_time": null,
@@ -131,16 +199,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-12",
+      "discovery_date": "2025-11-13",
       "raw_data": {
         "Name": "中国澳门：CPI：综合：同比(报告期:2025年11月)",
         "City": "中国澳门"
       },
-      "created_at": "2025-11-12T00:53:17.374764"
+      "created_at": "2025-11-13T00:53:26.195563"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251219050000_7777863713164398437",
+      "event_id": "em_jjsj_20251219050000_8647406412339871939",
       "original_id": "2025-12-19 05:00:00_韩国：PPI：环比 (报告期:2025年11月)",
       "event_date": "2025-12-19",
       "event_time": "05:00:00",
@@ -156,16 +224,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-12",
+      "discovery_date": "2025-11-13",
       "raw_data": {
         "Name": "韩国：PPI：环比 (报告期:2025年11月)",
         "City": "韩国"
       },
-      "created_at": "2025-11-12T00:53:17.374772"
+      "created_at": "2025-11-13T00:53:26.195571"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251219050000_7633913773076706329",
+      "event_id": "em_jjsj_20251219050000_-1423488124082133381",
       "original_id": "2025-12-19 05:00:00_韩国：PPI：同比(报告期:2025年11月)",
       "event_date": "2025-12-19",
       "event_time": "05:00:00",
@@ -181,16 +249,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-12",
+      "discovery_date": "2025-11-13",
       "raw_data": {
         "Name": "韩国：PPI：同比(报告期:2025年11月)",
         "City": "韩国"
       },
-      "created_at": "2025-11-12T00:53:17.374779"
+      "created_at": "2025-11-13T00:53:26.195579"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251219073000_-4531687518736648312",
+      "event_id": "em_jjsj_20251219073000_-7867347701070081866",
       "original_id": "2025-12-19 07:30:00_日本：CPI：同比(报告期:2025年11月)",
       "event_date": "2025-12-19",
       "event_time": "07:30:00",
@@ -206,16 +274,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-12",
+      "discovery_date": "2025-11-13",
       "raw_data": {
         "Name": "日本：CPI：同比(报告期:2025年11月)",
         "City": "日本"
       },
-      "created_at": "2025-11-12T00:53:17.374787"
+      "created_at": "2025-11-13T00:53:26.195587"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251219073000_-7656131556770399228",
+      "event_id": "em_jjsj_20251219073000_-7879829589409701734",
       "original_id": "2025-12-19 07:30:00_日本：核心CPI：同比(报告期:2025年11月)",
       "event_date": "2025-12-19",
       "event_time": "07:30:00",
@@ -231,16 +299,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-12",
+      "discovery_date": "2025-11-13",
       "raw_data": {
         "Name": "日本：核心CPI：同比(报告期:2025年11月)",
         "City": "日本"
       },
-      "created_at": "2025-11-12T00:53:17.374794"
+      "created_at": "2025-11-13T00:53:26.195594"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251219110000_-5445671560454801800",
+      "event_id": "em_jjsj_20251219110000_-1931792496897321981",
       "original_id": "2025-12-19 11:00:00_日本：央行公布利率决议(报告期:2025年12月)",
       "event_date": "2025-12-19",
       "event_time": "11:00:00",
@@ -256,16 +324,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-12",
+      "discovery_date": "2025-11-13",
       "raw_data": {
         "Name": "日本：央行公布利率决议(报告期:2025年12月)",
         "City": "日本"
       },
-      "created_at": "2025-11-12T00:53:17.374802"
+      "created_at": "2025-11-13T00:53:26.195602"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251219120000_-8320538498686381764",
+      "event_id": "em_jjsj_20251219120000_-6928703321976666483",
       "original_id": "2025-12-19 12:00:00_马来西亚：对外贸易：贸易差额(报告期:2025年11月)",
       "event_date": "2025-12-19",
       "event_time": "12:00:00",
@@ -281,16 +349,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-12",
+      "discovery_date": "2025-11-13",
       "raw_data": {
         "Name": "马来西亚：对外贸易：贸易差额(报告期:2025年11月)",
         "City": "马来西亚"
       },
-      "created_at": "2025-11-12T00:53:17.374809"
+      "created_at": "2025-11-13T00:53:26.195611"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251219150000_-1959515892240163774",
+      "event_id": "em_jjsj_20251219150000_582416550797732304",
       "original_id": "2025-12-19 15:00:00_英国：零售指数含汽车燃料：现价：季调：同比(报告期:2025年11月)",
       "event_date": "2025-12-19",
       "event_time": "15:00:00",
@@ -306,16 +374,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-12",
+      "discovery_date": "2025-11-13",
       "raw_data": {
         "Name": "英国：零售指数含汽车燃料：现价：季调：同比(报告期:2025年11月)",
         "City": "英国"
       },
-      "created_at": "2025-11-12T00:53:17.374817"
+      "created_at": "2025-11-13T00:53:26.195619"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251219150000_-7380095647940912799",
+      "event_id": "em_jjsj_20251219150000_-5018610861591115486",
       "original_id": "2025-12-19 15:00:00_英国：零售销售数量指数：所有的零售：季调：同比(报告期:2025年11月)",
       "event_date": "2025-12-19",
       "event_time": "15:00:00",
@@ -331,16 +399,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-12",
+      "discovery_date": "2025-11-13",
       "raw_data": {
         "Name": "英国：零售销售数量指数：所有的零售：季调：同比(报告期:2025年11月)",
         "City": "英国"
       },
-      "created_at": "2025-11-12T00:53:17.374825"
+      "created_at": "2025-11-13T00:53:26.195627"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251219150000_6420522566325939496",
+      "event_id": "em_jjsj_20251219150000_-4820687935985218733",
       "original_id": "2025-12-19 15:00:00_英国：零售销售数量指数：所有的零售：季调：环比(报告期:2025年11月)",
       "event_date": "2025-12-19",
       "event_time": "15:00:00",
@@ -356,16 +424,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-12",
+      "discovery_date": "2025-11-13",
       "raw_data": {
         "Name": "英国：零售销售数量指数：所有的零售：季调：环比(报告期:2025年11月)",
         "City": "英国"
       },
-      "created_at": "2025-11-12T00:53:17.374832"
+      "created_at": "2025-11-13T00:53:26.195635"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251219213000_-5931837514707485341",
+      "event_id": "em_jjsj_20251219213000_-4152535424785980698",
       "original_id": "2025-12-19 21:30:00_美国：个人总收入：季调(报告期:2025年11月)",
       "event_date": "2025-12-19",
       "event_time": "21:30:00",
@@ -381,16 +449,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-12",
+      "discovery_date": "2025-11-13",
       "raw_data": {
         "Name": "美国：个人总收入：季调(报告期:2025年11月)",
         "City": "美国"
       },
-      "created_at": "2025-11-12T00:53:17.374851"
+      "created_at": "2025-11-13T00:53:26.195643"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251219213000_-7635578472663645110",
+      "event_id": "em_jjsj_20251219213000_-2857404748392147402",
       "original_id": "2025-12-19 21:30:00_美国：个人消费支出：季调(报告期:2025年11月)",
       "event_date": "2025-12-19",
       "event_time": "21:30:00",
@@ -406,16 +474,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-12",
+      "discovery_date": "2025-11-13",
       "raw_data": {
         "Name": "美国：个人消费支出：季调(报告期:2025年11月)",
         "City": "美国"
       },
-      "created_at": "2025-11-12T00:53:17.374860"
+      "created_at": "2025-11-13T00:53:26.195650"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251219213000_-4222345901089662342",
+      "event_id": "em_jjsj_20251219213000_1398841031427915349",
       "original_id": "2025-12-19 21:30:00_美国：人均可支配收入:季调(报告期:2025年11月)",
       "event_date": "2025-12-19",
       "event_time": "21:30:00",
@@ -431,16 +499,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-12",
+      "discovery_date": "2025-11-13",
       "raw_data": {
         "Name": "美国：人均可支配收入:季调(报告期:2025年11月)",
         "City": "美国"
       },
-      "created_at": "2025-11-12T00:53:17.374867"
+      "created_at": "2025-11-13T00:53:26.195658"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251219213000_-8031280136739616712",
+      "event_id": "em_jjsj_20251219213000_3619435684419994926",
       "original_id": "2025-12-19 21:30:00_美国：核心PCE物价指数：当月同比(报告期:2025年11月)",
       "event_date": "2025-12-19",
       "event_time": "21:30:00",
@@ -456,12 +524,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-12",
+      "discovery_date": "2025-11-13",
       "raw_data": {
         "Name": "美国：核心PCE物价指数：当月同比(报告期:2025年11月)",
         "City": "美国"
       },
-      "created_at": "2025-11-12T00:53:17.374875"
+      "created_at": "2025-11-13T00:53:26.195666"
     }
   ]
 }

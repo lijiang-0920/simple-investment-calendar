@@ -1,11 +1,11 @@
 {
   "date": "2025-12-04",
-  "total_events": 15,
-  "new_events": 0,
+  "total_events": 18,
+  "new_events": 3,
   "platforms": {
     "jiuyangongshe": 1,
-    "investing": 3,
-    "eastmoney": 11
+    "investing": 4,
+    "eastmoney": 13
   },
   "events": [
     {
@@ -26,7 +26,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-12",
+      "discovery_date": "2025-11-13",
       "raw_data": {
         "article_id": "9e3ba47b54d946babfcf7a1b7cc1dfb7",
         "user_id": "1",
@@ -51,7 +51,38 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-12T00:53:05.014692"
+      "created_at": "2025-11-13T00:53:01.377558"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251204050000",
+      "original_id": "eventRowId_535810",
+      "event_date": "2025-12-04",
+      "event_time": "05:00",
+      "event_datetime": "2025/12/04 05:00:00",
+      "title": "韩国外汇储备(美元)  (十一月)",
+      "content": "前值: 428.82B",
+      "category": null,
+      "importance": 1,
+      "country": "韩国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-13",
+      "raw_data": {
+        "event_id": "eventRowId_535810",
+        "event_attr_id": "",
+        "datetime": "2025/12/04 05:00:00",
+        "time": "05:00",
+        "country": "韩国",
+        "importance": 1,
+        "event_name": "韩国外汇储备(美元)  (十一月)",
+        "previous": "428.82B"
+      },
+      "created_at": "2025-11-13T00:53:08.320200"
     },
     {
       "platform": "investing",
@@ -71,7 +102,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-12",
+      "discovery_date": "2025-11-13",
       "raw_data": {
         "event_id": "eventRowId_533855",
         "event_attr_id": "",
@@ -82,7 +113,7 @@
         "event_name": "加拿大出口(加元)  (九月)",
         "previous": "60.58B"
       },
-      "created_at": "2025-11-12T00:53:11.429975"
+      "created_at": "2025-11-13T00:53:08.320392"
     },
     {
       "platform": "investing",
@@ -102,7 +133,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-12",
+      "discovery_date": "2025-11-13",
       "raw_data": {
         "event_id": "eventRowId_533854",
         "event_attr_id": "",
@@ -113,7 +144,7 @@
         "event_name": "加拿大进口(加元)  (九月)",
         "previous": "66.91B"
       },
-      "created_at": "2025-11-12T00:53:11.430188"
+      "created_at": "2025-11-13T00:53:08.320608"
     },
     {
       "platform": "investing",
@@ -133,7 +164,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-12",
+      "discovery_date": "2025-11-13",
       "raw_data": {
         "event_id": "eventRowId_533856",
         "event_attr_id": "",
@@ -144,11 +175,11 @@
         "event_name": "加拿大贸易帐(加元)  (九月)",
         "previous": "-6.32B"
       },
-      "created_at": "2025-11-12T00:53:11.430381"
+      "created_at": "2025-11-13T00:53:08.320786"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251204000000_-4814390095573639227",
+      "event_id": "em_jjsj_20251204000000_-4215119703083709247",
       "original_id": "2025-12-04 00:00:00_中国：库存:电解铝:保税区(报告期:2025年12月)",
       "event_date": "2025-12-04",
       "event_time": null,
@@ -164,16 +195,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-12",
+      "discovery_date": "2025-11-13",
       "raw_data": {
         "Name": "中国：库存:电解铝:保税区(报告期:2025年12月)",
         "City": "中国"
       },
-      "created_at": "2025-11-12T00:53:17.372384"
+      "created_at": "2025-11-13T00:53:26.194505"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251204000000_-5664851124445198524",
+      "event_id": "em_jjsj_20251204000000_6827611836337397595",
       "original_id": "2025-12-04 00:00:00_泰国：PPI(报告期:2025年11月)",
       "event_date": "2025-12-04",
       "event_time": null,
@@ -189,16 +220,66 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-12",
+      "discovery_date": "2025-11-13",
       "raw_data": {
         "Name": "泰国：PPI(报告期:2025年11月)",
         "City": "泰国"
       },
-      "created_at": "2025-11-12T00:53:17.372392"
+      "created_at": "2025-11-13T00:53:26.194513"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251204120000_-5318060084001930901",
+      "event_id": "em_jjsj_20251204000000_-4860660132953307146",
+      "original_id": "2025-12-04 00:00:00_中国香港：楼宇买卖合约：成交金额：当月值(报告期:2025年11月)",
+      "event_date": "2025-12-04",
+      "event_time": null,
+      "event_datetime": "2025-12-04 00:00:00",
+      "title": "中国香港：楼宇买卖合约：成交金额：当月值(报告期:2025年11月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "中国香港",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-13",
+      "raw_data": {
+        "Name": "中国香港：楼宇买卖合约：成交金额：当月值(报告期:2025年11月)",
+        "City": "中国香港"
+      },
+      "created_at": "2025-11-13T00:53:26.194521"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251204000000_4344052456332201282",
+      "original_id": "2025-12-04 00:00:00_中国香港：楼宇买卖合约：数量：当月值(报告期:2025年11月)",
+      "event_date": "2025-12-04",
+      "event_time": null,
+      "event_datetime": "2025-12-04 00:00:00",
+      "title": "中国香港：楼宇买卖合约：数量：当月值(报告期:2025年11月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "中国香港",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-13",
+      "raw_data": {
+        "Name": "中国香港：楼宇买卖合约：数量：当月值(报告期:2025年11月)",
+        "City": "中国香港"
+      },
+      "created_at": "2025-11-13T00:53:26.194529"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251204120000_-2130579544987444995",
       "original_id": "2025-12-04 12:00:00_泰国：CPI：同比(报告期:2025年11月)",
       "event_date": "2025-12-04",
       "event_time": "12:00:00",
@@ -214,16 +295,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-12",
+      "discovery_date": "2025-11-13",
       "raw_data": {
         "Name": "泰国：CPI：同比(报告期:2025年11月)",
         "City": "泰国"
       },
-      "created_at": "2025-11-12T00:53:17.372400"
+      "created_at": "2025-11-13T00:53:26.194537"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251204210000_849925456987735367",
+      "event_id": "em_jjsj_20251204210000_-682585270003037007",
       "original_id": "2025-12-04 21:00:00_巴西：GDP：现价：同比(报告期:2025年09月)",
       "event_date": "2025-12-04",
       "event_time": "21:00:00",
@@ -239,16 +320,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-12",
+      "discovery_date": "2025-11-13",
       "raw_data": {
         "Name": "巴西：GDP：现价：同比(报告期:2025年09月)",
         "City": "巴西"
       },
-      "created_at": "2025-11-12T00:53:17.372408"
+      "created_at": "2025-11-13T00:53:26.194545"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251204213000_-5665416884659960400",
+      "event_id": "em_jjsj_20251204213000_-5725624034390888233",
       "original_id": "2025-12-04 21:30:00_美国：货物进口金额：当月值(报告期:2025年10月)",
       "event_date": "2025-12-04",
       "event_time": "21:30:00",
@@ -264,16 +345,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-12",
+      "discovery_date": "2025-11-13",
       "raw_data": {
         "Name": "美国：货物进口金额：当月值(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-11-12T00:53:17.372415"
+      "created_at": "2025-11-13T00:53:26.194553"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251204213000_5328201021850399865",
+      "event_id": "em_jjsj_20251204213000_3681612940270569426",
       "original_id": "2025-12-04 21:30:00_美国：货物出口金额：当月值(报告期:2025年10月)",
       "event_date": "2025-12-04",
       "event_time": "21:30:00",
@@ -289,16 +370,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-12",
+      "discovery_date": "2025-11-13",
       "raw_data": {
         "Name": "美国：货物出口金额：当月值(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-11-12T00:53:17.372422"
+      "created_at": "2025-11-13T00:53:26.194560"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251204213000_2291276964262991601",
+      "event_id": "em_jjsj_20251204213000_-5297479662186092412",
       "original_id": "2025-12-04 21:30:00_美国：对外贸易差额(报告期:2025年10月)",
       "event_date": "2025-12-04",
       "event_time": "21:30:00",
@@ -314,16 +395,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-12",
+      "discovery_date": "2025-11-13",
       "raw_data": {
         "Name": "美国：对外贸易差额(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-11-12T00:53:17.372430"
+      "created_at": "2025-11-13T00:53:26.194568"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251204213000_7388156416587334595",
+      "event_id": "em_jjsj_20251204213000_7262815285384482365",
       "original_id": "2025-12-04 21:30:00_加拿大：商品出口金额(报告期:2025年10月)",
       "event_date": "2025-12-04",
       "event_time": "21:30:00",
@@ -339,16 +420,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-12",
+      "discovery_date": "2025-11-13",
       "raw_data": {
         "Name": "加拿大：商品出口金额(报告期:2025年10月)",
         "City": "加拿大"
       },
-      "created_at": "2025-11-12T00:53:17.372438"
+      "created_at": "2025-11-13T00:53:26.194576"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251204213000_-6936296462030142608",
+      "event_id": "em_jjsj_20251204213000_5381218131990296736",
       "original_id": "2025-12-04 21:30:00_加拿大：商品进口金额(报告期:2025年10月)",
       "event_date": "2025-12-04",
       "event_time": "21:30:00",
@@ -364,16 +445,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-12",
+      "discovery_date": "2025-11-13",
       "raw_data": {
         "Name": "加拿大：商品进口金额(报告期:2025年10月)",
         "City": "加拿大"
       },
-      "created_at": "2025-11-12T00:53:17.372445"
+      "created_at": "2025-11-13T00:53:26.194584"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251204213000_-5892780088204737774",
+      "event_id": "em_jjsj_20251204213000_7129781270853638492",
       "original_id": "2025-12-04 21:30:00_加拿大：商品贸易顺差(报告期:2025年10月)",
       "event_date": "2025-12-04",
       "event_time": "21:30:00",
@@ -389,12 +470,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-12",
+      "discovery_date": "2025-11-13",
       "raw_data": {
         "Name": "加拿大：商品贸易顺差(报告期:2025年10月)",
         "City": "加拿大"
       },
-      "created_at": "2025-11-12T00:53:17.372452"
+      "created_at": "2025-11-13T00:53:26.194591"
     },
     {
       "platform": "eastmoney",
@@ -414,7 +495,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-12",
+      "discovery_date": "2025-11-13",
       "raw_data": {
         "fe_code": "10866503",
         "fe_name": "2025机器人应用场景生态大会",
@@ -425,7 +506,7 @@
         "city": "深圳",
         "content": "12月4日-5日,投资家网在深圳重磅发起“2025机器人应用场景生态大会”,本次大会以“场景为擎·生态共舞”为主题,旨在搭建一个以场景需求为驱动、以生态合作为基石的高端平台。同时,大会还将力邀近百家产业龙头,携明确需求与合作意向莅临现场,与机器人产业链各环节的精英企业共商共建,切实推动技术在工业制造、商业服务、生活等机器人核心需求领域应用实际落地。"
       },
-      "created_at": "2025-11-12T00:53:17.375603"
+      "created_at": "2025-11-13T00:53:26.196350"
     }
   ]
 }

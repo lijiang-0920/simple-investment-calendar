@@ -1,12 +1,85 @@
 {
   "date": "2025-12-10",
-  "total_events": 19,
-  "new_events": 0,
+  "total_events": 22,
+  "new_events": 3,
   "platforms": {
-    "jiuyangongshe": 1,
+    "cls": 2,
+    "jiuyangongshe": 2,
     "eastmoney": 18
   },
   "events": [
+    {
+      "platform": "cls",
+      "event_id": "cls_371638_20251210_2",
+      "original_id": "371638",
+      "event_date": "2025-12-10",
+      "event_time": "00:00:00",
+      "event_datetime": "2025-12-10 00:00:00",
+      "title": "2025中国铂族金属市场年会定于12月10日在三亚召开",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-13",
+      "raw_data": {
+        "id": 371638,
+        "calendar_time": "2025-12-10 00:00:00",
+        "data_id": 20126,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "2025中国铂族金属市场年会定于12月10日在三亚召开",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "2025中国铂族金属市场年会定于12月10日在三亚召开"
+      },
+      "created_at": "2025-11-13T00:52:57.842127"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_366026_20251210_2",
+      "original_id": "366026",
+      "event_date": "2025-12-10",
+      "event_time": "09:00:00",
+      "event_datetime": "2025-12-10 09:00:00",
+      "title": "EIA公布月度短期能源展望报告",
+      "content": null,
+      "category": "事件公告",
+      "importance": 3,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-13",
+      "raw_data": {
+        "id": 366026,
+        "calendar_time": "2025-12-10 09:00:00",
+        "data_id": 20077,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "EIA公布月度短期能源展望报告",
+          "country": "美国",
+          "country_icon": "",
+          "star": 3
+        },
+        "holiday": null,
+        "title": "EIA公布月度短期能源展望报告"
+      },
+      "created_at": "2025-11-13T00:52:57.842136"
+    },
     {
       "platform": "jiuyangongshe",
       "event_id": "jygs_a7ee8c01bd3f497fa7d423bb2afc4c6a_438e3cbf6fbf4d628da354bd7cdb69fe_20251210",
@@ -27,7 +100,7 @@
       ],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-12",
+      "discovery_date": "2025-11-13",
       "raw_data": {
         "article_id": "a7ee8c01bd3f497fa7d423bb2afc4c6a",
         "user_id": "1",
@@ -57,11 +130,56 @@
           ]
         }
       },
-      "created_at": "2025-11-12T00:53:05.014796"
+      "created_at": "2025-11-13T00:53:01.377644"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_0f2a11934d994390bdea2c1e4984ad65_0970f1bb98174e8ea8416f6acf25b6c5_20251210",
+      "original_id": "0f2a11934d994390bdea2c1e4984ad65",
+      "event_date": "2025-12-10",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025中国铂族金属市场年会",
+      "content": "",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-13",
+      "raw_data": {
+        "article_id": "0f2a11934d994390bdea2c1e4984ad65",
+        "user_id": "1",
+        "title": "2025中国铂族金属市场年会",
+        "content": "",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "0f2a11934d994390bdea2c1e4984ad65",
+          "timeline_id": "0970f1bb98174e8ea8416f6acf25b6c5",
+          "date": "2025-12-10",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-11-12 22:18:49",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-11-13T00:53:01.377652"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251210000000_7231548182630620503",
+      "event_id": "em_jjsj_20251210000000_-2242584991974198060",
       "original_id": "2025-12-10 00:00:00_美国：预测年度:大豆:产量(报告期:2025年12月)",
       "event_date": "2025-12-10",
       "event_time": null,
@@ -77,16 +195,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-12",
+      "discovery_date": "2025-11-13",
       "raw_data": {
         "Name": "美国：预测年度:大豆:产量(报告期:2025年12月)",
         "City": "美国"
       },
-      "created_at": "2025-11-12T00:53:17.374089"
+      "created_at": "2025-11-13T00:53:26.194833"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251210000000_-7790394629224857535",
+      "event_id": "em_jjsj_20251210000000_8132079531978981682",
       "original_id": "2025-12-10 00:00:00_美国：预测年度:玉米:产量(报告期:2025年12月)",
       "event_date": "2025-12-10",
       "event_time": null,
@@ -102,16 +220,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-12",
+      "discovery_date": "2025-11-13",
       "raw_data": {
         "Name": "美国：预测年度:玉米:产量(报告期:2025年12月)",
         "City": "美国"
       },
-      "created_at": "2025-11-12T00:53:17.374096"
+      "created_at": "2025-11-13T00:53:26.194841"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251210000000_-2109711965124605905",
+      "event_id": "em_jjsj_20251210000000_7352632893222038681",
       "original_id": "2025-12-10 00:00:00_美国：预测年度:棉花:产量(报告期:2025年12月)",
       "event_date": "2025-12-10",
       "event_time": null,
@@ -127,16 +245,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-12",
+      "discovery_date": "2025-11-13",
       "raw_data": {
         "Name": "美国：预测年度:棉花:产量(报告期:2025年12月)",
         "City": "美国"
       },
-      "created_at": "2025-11-12T00:53:17.374104"
+      "created_at": "2025-11-13T00:53:26.194849"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251210000000_-3374464165346720678",
+      "event_id": "em_jjsj_20251210000000_7385361788705613692",
       "original_id": "2025-12-10 00:00:00_美国：预测年度:小麦:产量(报告期:2025年12月)",
       "event_date": "2025-12-10",
       "event_time": null,
@@ -152,16 +270,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-12",
+      "discovery_date": "2025-11-13",
       "raw_data": {
         "Name": "美国：预测年度:小麦:产量(报告期:2025年12月)",
         "City": "美国"
       },
-      "created_at": "2025-11-12T00:53:17.374111"
+      "created_at": "2025-11-13T00:53:26.194856"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251210093000_-4494458015804134834",
+      "event_id": "em_jjsj_20251210093000_-7537298881020902171",
       "original_id": "2025-12-10 09:30:00_中国：CPI:累计同比(报告期:2025年11月)",
       "event_date": "2025-12-10",
       "event_time": "09:30:00",
@@ -177,16 +295,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-12",
+      "discovery_date": "2025-11-13",
       "raw_data": {
         "Name": "中国：CPI:累计同比(报告期:2025年11月)",
         "City": "中国"
       },
-      "created_at": "2025-11-12T00:53:17.374119"
+      "created_at": "2025-11-13T00:53:26.194865"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251210093000_-6893005635654417596",
+      "event_id": "em_jjsj_20251210093000_6629829102972019862",
       "original_id": "2025-12-10 09:30:00_中国：CPI:当月同比(报告期:2025年11月)",
       "event_date": "2025-12-10",
       "event_time": "09:30:00",
@@ -202,16 +320,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-12",
+      "discovery_date": "2025-11-13",
       "raw_data": {
         "Name": "中国：CPI:当月同比(报告期:2025年11月)",
         "City": "中国"
       },
-      "created_at": "2025-11-12T00:53:17.374126"
+      "created_at": "2025-11-13T00:53:26.194872"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251210093000_-748139866633583962",
+      "event_id": "em_jjsj_20251210093000_4708205665965221079",
       "original_id": "2025-12-10 09:30:00_中国：CPI:环比(报告期:2025年11月)",
       "event_date": "2025-12-10",
       "event_time": "09:30:00",
@@ -227,16 +345,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-12",
+      "discovery_date": "2025-11-13",
       "raw_data": {
         "Name": "中国：CPI:环比(报告期:2025年11月)",
         "City": "中国"
       },
-      "created_at": "2025-11-12T00:53:17.374133"
+      "created_at": "2025-11-13T00:53:26.194879"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251210093000_-1381344611193535506",
+      "event_id": "em_jjsj_20251210093000_-5515250647010357454",
       "original_id": "2025-12-10 09:30:00_中国：PPI:全部工业品:累计同比(报告期:2025年11月)",
       "event_date": "2025-12-10",
       "event_time": "09:30:00",
@@ -252,16 +370,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-12",
+      "discovery_date": "2025-11-13",
       "raw_data": {
         "Name": "中国：PPI:全部工业品:累计同比(报告期:2025年11月)",
         "City": "中国"
       },
-      "created_at": "2025-11-12T00:53:17.374141"
+      "created_at": "2025-11-13T00:53:26.194886"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251210093000_-8061931148594624899",
+      "event_id": "em_jjsj_20251210093000_-674252491608668631",
       "original_id": "2025-12-10 09:30:00_中国：PPI:全部工业品:环比(报告期:2025年11月)",
       "event_date": "2025-12-10",
       "event_time": "09:30:00",
@@ -277,16 +395,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-12",
+      "discovery_date": "2025-11-13",
       "raw_data": {
         "Name": "中国：PPI:全部工业品:环比(报告期:2025年11月)",
         "City": "中国"
       },
-      "created_at": "2025-11-12T00:53:17.374148"
+      "created_at": "2025-11-13T00:53:26.194894"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251210093000_4861880424038201802",
+      "event_id": "em_jjsj_20251210093000_-3531099256347194624",
       "original_id": "2025-12-10 09:30:00_中国：PPI:全部工业品:当月同比(报告期:2025年11月)",
       "event_date": "2025-12-10",
       "event_time": "09:30:00",
@@ -302,16 +420,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-12",
+      "discovery_date": "2025-11-13",
       "raw_data": {
         "Name": "中国：PPI:全部工业品:当月同比(报告期:2025年11月)",
         "City": "中国"
       },
-      "created_at": "2025-11-12T00:53:17.374155"
+      "created_at": "2025-11-13T00:53:26.194901"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251210200000_9125765161149481070",
+      "event_id": "em_jjsj_20251210200000_-6005689656946881958",
       "original_id": "2025-12-10 20:00:00_巴西：CPI：同比(报告期:2025年11月)",
       "event_date": "2025-12-10",
       "event_time": "20:00:00",
@@ -327,16 +445,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-12",
+      "discovery_date": "2025-11-13",
       "raw_data": {
         "Name": "巴西：CPI：同比(报告期:2025年11月)",
         "City": "巴西"
       },
-      "created_at": "2025-11-12T00:53:17.374163"
+      "created_at": "2025-11-13T00:53:26.194910"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251210213000_-589368306614265431",
+      "event_id": "em_jjsj_20251210213000_-1051951577878937305",
       "original_id": "2025-12-10 21:30:00_美国：核心CPI：当月同比(报告期:2025年11月)",
       "event_date": "2025-12-10",
       "event_time": "21:30:00",
@@ -352,16 +470,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-12",
+      "discovery_date": "2025-11-13",
       "raw_data": {
         "Name": "美国：核心CPI：当月同比(报告期:2025年11月)",
         "City": "美国"
       },
-      "created_at": "2025-11-12T00:53:17.374171"
+      "created_at": "2025-11-13T00:53:26.194945"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251210213000_6380892995738151398",
+      "event_id": "em_jjsj_20251210213000_4679065878362636149",
       "original_id": "2025-12-10 21:30:00_美国：CPI：当月同比(报告期:2025年11月)",
       "event_date": "2025-12-10",
       "event_time": "21:30:00",
@@ -377,16 +495,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-12",
+      "discovery_date": "2025-11-13",
       "raw_data": {
         "Name": "美国：CPI：当月同比(报告期:2025年11月)",
         "City": "美国"
       },
-      "created_at": "2025-11-12T00:53:17.374178"
+      "created_at": "2025-11-13T00:53:26.194953"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251210213000_7151721425149302243",
+      "event_id": "em_jjsj_20251210213000_-8087736558073417688",
       "original_id": "2025-12-10 21:30:00_美国：核心CPI：季调：当月同比(报告期:2025年11月)",
       "event_date": "2025-12-10",
       "event_time": "21:30:00",
@@ -402,16 +520,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-12",
+      "discovery_date": "2025-11-13",
       "raw_data": {
         "Name": "美国：核心CPI：季调：当月同比(报告期:2025年11月)",
         "City": "美国"
       },
-      "created_at": "2025-11-12T00:53:17.374186"
+      "created_at": "2025-11-13T00:53:26.194961"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251210213000_-8472209739239255336",
+      "event_id": "em_jjsj_20251210213000_-9161204663215676768",
       "original_id": "2025-12-10 21:30:00_美国：核心CPI(报告期:2025年11月)",
       "event_date": "2025-12-10",
       "event_time": "21:30:00",
@@ -427,16 +545,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-12",
+      "discovery_date": "2025-11-13",
       "raw_data": {
         "Name": "美国：核心CPI(报告期:2025年11月)",
         "City": "美国"
       },
-      "created_at": "2025-11-12T00:53:17.374193"
+      "created_at": "2025-11-13T00:53:26.194969"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251210213000_5218503461550917942",
+      "event_id": "em_jjsj_20251210213000_-5265385322537869159",
       "original_id": "2025-12-10 21:30:00_美国：CPI：季调：环比(报告期:2025年11月)",
       "event_date": "2025-12-10",
       "event_time": "21:30:00",
@@ -452,16 +570,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-12",
+      "discovery_date": "2025-11-13",
       "raw_data": {
         "Name": "美国：CPI：季调：环比(报告期:2025年11月)",
         "City": "美国"
       },
-      "created_at": "2025-11-12T00:53:17.374200"
+      "created_at": "2025-11-13T00:53:26.194976"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251210213000_3375815323482527776",
+      "event_id": "em_jjsj_20251210213000_-1627127179275150513",
       "original_id": "2025-12-10 21:30:00_美国：核心CPI：季调：环比(报告期:2025年11月)",
       "event_date": "2025-12-10",
       "event_time": "21:30:00",
@@ -477,16 +595,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-12",
+      "discovery_date": "2025-11-13",
       "raw_data": {
         "Name": "美国：核心CPI：季调：环比(报告期:2025年11月)",
         "City": "美国"
       },
-      "created_at": "2025-11-12T00:53:17.374207"
+      "created_at": "2025-11-13T00:53:26.194983"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251210224500_-4227951597305754609",
+      "event_id": "em_jjsj_20251210224500_-4065240566289034619",
       "original_id": "2025-12-10 22:45:00_加拿大：央行公布利率决议(报告期:2025年12月)",
       "event_date": "2025-12-10",
       "event_time": "22:45:00",
@@ -502,12 +620,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-12",
+      "discovery_date": "2025-11-13",
       "raw_data": {
         "Name": "加拿大：央行公布利率决议(报告期:2025年12月)",
         "City": "加拿大"
       },
-      "created_at": "2025-11-12T00:53:17.374215"
+      "created_at": "2025-11-13T00:53:26.194991"
     }
   ]
 }
