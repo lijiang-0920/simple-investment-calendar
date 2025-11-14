@@ -1,12 +1,11 @@
 {
   "date": "2025-12-15",
-  "total_events": 17,
-  "new_events": 3,
+  "total_events": 3,
+  "new_events": 0,
   "platforms": {
     "cls": 1,
     "jiuyangongshe": 1,
-    "tonghuashun": 1,
-    "eastmoney": 14
+    "tonghuashun": 1
   },
   "events": [
     {
@@ -26,8 +25,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-11-13",
+      "is_new": false,
+      "discovery_date": "2025-11-14",
       "raw_data": {
         "id": 371641,
         "calendar_time": "2025-12-15 00:00:00",
@@ -43,7 +42,7 @@
         "holiday": null,
         "title": "2025中国汽车软件大会将于12月15日至16日在上海嘉定召开"
       },
-      "created_at": "2025-11-13T00:52:57.842147"
+      "created_at": "2025-11-14T00:53:16.679433"
     },
     {
       "platform": "jiuyangongshe",
@@ -62,8 +61,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-11-13",
+      "is_new": false,
+      "discovery_date": "2025-11-14",
       "raw_data": {
         "article_id": "262bfb95ce3d45c4b0893a78953b0bce",
         "user_id": "1",
@@ -88,7 +87,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-13T00:53:01.377669"
+      "created_at": "2025-11-14T00:53:21.033931"
     },
     {
       "platform": "tonghuashun",
@@ -107,8 +106,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-11-13",
+      "is_new": false,
+      "discovery_date": "2025-11-14",
       "raw_data": {
         "event": [
           "2025中国汽车软件大会将于12月15日至16日在上海嘉定召开",
@@ -118,357 +117,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-11-13T00:53:04.068486"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251215075000_-6890483316013482671",
-      "original_id": "2025-12-15 07:50:00_日本：短观预测指数(报告期:2025年12月)",
-      "event_date": "2025-12-15",
-      "event_time": "07:50:00",
-      "event_datetime": "2025-12-15 07:50:00",
-      "title": "日本：短观预测指数(报告期:2025年12月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "日本",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-11-13",
-      "raw_data": {
-        "Name": "日本：短观预测指数(报告期:2025年12月)",
-        "City": "日本"
-      },
-      "created_at": "2025-11-13T00:53:26.195061"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251215100000_2634696716663882662",
-      "original_id": "2025-12-15 10:00:00_中国：工业增加值:当月同比(报告期:2025年11月)",
-      "event_date": "2025-12-15",
-      "event_time": "10:00:00",
-      "event_datetime": "2025-12-15 10:00:00",
-      "title": "中国：工业增加值:当月同比(报告期:2025年11月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-11-13",
-      "raw_data": {
-        "Name": "中国：工业增加值:当月同比(报告期:2025年11月)",
-        "City": "中国"
-      },
-      "created_at": "2025-11-13T00:53:26.195069"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251215100000_-8658158268885628605",
-      "original_id": "2025-12-15 10:00:00_中国：工业增加值:环比:季调(报告期:2025年11月)",
-      "event_date": "2025-12-15",
-      "event_time": "10:00:00",
-      "event_datetime": "2025-12-15 10:00:00",
-      "title": "中国：工业增加值:环比:季调(报告期:2025年11月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-11-13",
-      "raw_data": {
-        "Name": "中国：工业增加值:环比:季调(报告期:2025年11月)",
-        "City": "中国"
-      },
-      "created_at": "2025-11-13T00:53:26.195076"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251215100000_-4991187459349301003",
-      "original_id": "2025-12-15 10:00:00_中国：产量:天然气:累计值(报告期:2025年11月)",
-      "event_date": "2025-12-15",
-      "event_time": "10:00:00",
-      "event_datetime": "2025-12-15 10:00:00",
-      "title": "中国：产量:天然气:累计值(报告期:2025年11月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-11-13",
-      "raw_data": {
-        "Name": "中国：产量:天然气:累计值(报告期:2025年11月)",
-        "City": "中国"
-      },
-      "created_at": "2025-11-13T00:53:26.195083"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251215100000_1167947140013186544",
-      "original_id": "2025-12-15 10:00:00_中国：工业增加值:累计同比(报告期:2025年11月)",
-      "event_date": "2025-12-15",
-      "event_time": "10:00:00",
-      "event_datetime": "2025-12-15 10:00:00",
-      "title": "中国：工业增加值:累计同比(报告期:2025年11月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-11-13",
-      "raw_data": {
-        "Name": "中国：工业增加值:累计同比(报告期:2025年11月)",
-        "City": "中国"
-      },
-      "created_at": "2025-11-13T00:53:26.195090"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251215100000_1597069840853247333",
-      "original_id": "2025-12-15 10:00:00_中国：产量:平板玻璃:累计值(报告期:2025年11月)",
-      "event_date": "2025-12-15",
-      "event_time": "10:00:00",
-      "event_datetime": "2025-12-15 10:00:00",
-      "title": "中国：产量:平板玻璃:累计值(报告期:2025年11月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-11-13",
-      "raw_data": {
-        "Name": "中国：产量:平板玻璃:累计值(报告期:2025年11月)",
-        "City": "中国"
-      },
-      "created_at": "2025-11-13T00:53:26.195098"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251215100000_1963348156631897057",
-      "original_id": "2025-12-15 10:00:00_中国：产量:原油加工量:累计值(报告期:2025年11月)",
-      "event_date": "2025-12-15",
-      "event_time": "10:00:00",
-      "event_datetime": "2025-12-15 10:00:00",
-      "title": "中国：产量:原油加工量:累计值(报告期:2025年11月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-11-13",
-      "raw_data": {
-        "Name": "中国：产量:原油加工量:累计值(报告期:2025年11月)",
-        "City": "中国"
-      },
-      "created_at": "2025-11-13T00:53:26.195105"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251215100000_-1887087505909961460",
-      "original_id": "2025-12-15 10:00:00_中国：产量:生铁:累计值(报告期:2025年11月)",
-      "event_date": "2025-12-15",
-      "event_time": "10:00:00",
-      "event_datetime": "2025-12-15 10:00:00",
-      "title": "中国：产量:生铁:累计值(报告期:2025年11月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-11-13",
-      "raw_data": {
-        "Name": "中国：产量:生铁:累计值(报告期:2025年11月)",
-        "City": "中国"
-      },
-      "created_at": "2025-11-13T00:53:26.195112"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251215100000_7982575922970000006",
-      "original_id": "2025-12-15 10:00:00_中国：固定资产投资完成额:累计同比(报告期:2025年11月)",
-      "event_date": "2025-12-15",
-      "event_time": "10:00:00",
-      "event_datetime": "2025-12-15 10:00:00",
-      "title": "中国：固定资产投资完成额:累计同比(报告期:2025年11月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-11-13",
-      "raw_data": {
-        "Name": "中国：固定资产投资完成额:累计同比(报告期:2025年11月)",
-        "City": "中国"
-      },
-      "created_at": "2025-11-13T00:53:26.195120"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251215100000_6647078685096431000",
-      "original_id": "2025-12-15 10:00:00_中国：社会消费品零售总额:同比(报告期:2025年11月)",
-      "event_date": "2025-12-15",
-      "event_time": "10:00:00",
-      "event_datetime": "2025-12-15 10:00:00",
-      "title": "中国：社会消费品零售总额:同比(报告期:2025年11月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-11-13",
-      "raw_data": {
-        "Name": "中国：社会消费品零售总额:同比(报告期:2025年11月)",
-        "City": "中国"
-      },
-      "created_at": "2025-11-13T00:53:26.195128"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251215163000_3780372351356015695",
-      "original_id": "2025-12-15 16:30:00_中国香港：PPI：制造业：同比(报告期:2025年09月)",
-      "event_date": "2025-12-15",
-      "event_time": "16:30:00",
-      "event_datetime": "2025-12-15 16:30:00",
-      "title": "中国香港：PPI：制造业：同比(报告期:2025年09月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "中国香港",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-11-13",
-      "raw_data": {
-        "Name": "中国香港：PPI：制造业：同比(报告期:2025年09月)",
-        "City": "中国香港"
-      },
-      "created_at": "2025-11-13T00:53:26.195136"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251215213000_-7664975585458199910",
-      "original_id": "2025-12-15 21:30:00_加拿大：核心CPI：同比(报告期:2025年11月)",
-      "event_date": "2025-12-15",
-      "event_time": "21:30:00",
-      "event_datetime": "2025-12-15 21:30:00",
-      "title": "加拿大：核心CPI：同比(报告期:2025年11月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "加拿大",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-11-13",
-      "raw_data": {
-        "Name": "加拿大：核心CPI：同比(报告期:2025年11月)",
-        "City": "加拿大"
-      },
-      "created_at": "2025-11-13T00:53:26.195144"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251215213000_1572428270781633188",
-      "original_id": "2025-12-15 21:30:00_加拿大：CPI：同比(报告期:2025年11月)",
-      "event_date": "2025-12-15",
-      "event_time": "21:30:00",
-      "event_datetime": "2025-12-15 21:30:00",
-      "title": "加拿大：CPI：同比(报告期:2025年11月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "加拿大",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-11-13",
-      "raw_data": {
-        "Name": "加拿大：CPI：同比(报告期:2025年11月)",
-        "City": "加拿大"
-      },
-      "created_at": "2025-11-13T00:53:26.195151"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_jjsj_20251215213000_-2010714452621594893",
-      "original_id": "2025-12-15 21:30:00_加拿大：核心CPI：环比(报告期:2025年11月)",
-      "event_date": "2025-12-15",
-      "event_time": "21:30:00",
-      "event_datetime": "2025-12-15 21:30:00",
-      "title": "加拿大：核心CPI：环比(报告期:2025年11月)",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "加拿大",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-11-13",
-      "raw_data": {
-        "Name": "加拿大：核心CPI：环比(报告期:2025年11月)",
-        "City": "加拿大"
-      },
-      "created_at": "2025-11-13T00:53:26.195159"
+      "created_at": "2025-11-14T00:53:23.977545"
     }
   ]
 }
