@@ -1,11 +1,12 @@
 {
   "date": "2025-12-08",
-  "total_events": 10,
-  "new_events": 0,
+  "total_events": 21,
+  "new_events": 11,
   "platforms": {
     "cls": 2,
     "jiuyangongshe": 1,
     "tonghuashun": 1,
+    "investing": 11,
     "eastmoney": 6
   },
   "events": [
@@ -27,7 +28,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-16",
+      "discovery_date": "2025-11-17",
       "raw_data": {
         "id": 371647,
         "calendar_time": "2025-12-08 00:00:00",
@@ -43,7 +44,7 @@
         "holiday": null,
         "title": "证监会公布《证券结算风险基金管理办法》，自2025年12月8日起施行"
       },
-      "created_at": "2025-11-16T00:56:55.071883"
+      "created_at": "2025-11-17T00:54:09.616029"
     },
     {
       "platform": "cls",
@@ -63,7 +64,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-16",
+      "discovery_date": "2025-11-17",
       "raw_data": {
         "id": 360984,
         "calendar_time": "2025-12-08 08:00:00",
@@ -79,7 +80,7 @@
         "holiday": null,
         "title": "国内成品油将开启新一轮调价窗口"
       },
-      "created_at": "2025-11-16T00:56:55.071893"
+      "created_at": "2025-11-17T00:54:09.616040"
     },
     {
       "platform": "jiuyangongshe",
@@ -99,7 +100,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-16",
+      "discovery_date": "2025-11-17",
       "raw_data": {
         "article_id": "5c9a407113a94b9f85027062ae8907d0",
         "user_id": "1",
@@ -124,7 +125,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-16T00:56:59.165006"
+      "created_at": "2025-11-17T00:54:12.796029"
     },
     {
       "platform": "tonghuashun",
@@ -144,7 +145,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-16",
+      "discovery_date": "2025-11-17",
       "raw_data": {
         "event": [
           "证监会公布《证券结算风险基金管理办法》，自2025年12月8日起施行",
@@ -154,11 +155,352 @@
         ],
         "concept": []
       },
-      "created_at": "2025-11-16T00:57:02.343879"
+      "created_at": "2025-11-17T00:54:15.508184"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251208073000",
+      "original_id": "eventRowId_536066",
+      "event_date": "2025-12-08",
+      "event_time": "07:30",
+      "event_datetime": "2025/12/08 07:30:00",
+      "title": "日本雇员薪资收入总额  (十月)",
+      "content": "前值: 1.9%",
+      "category": null,
+      "importance": 1,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-17",
+      "raw_data": {
+        "event_id": "eventRowId_536066",
+        "event_attr_id": "",
+        "datetime": "2025/12/08 07:30:00",
+        "time": "07:30",
+        "country": "日本",
+        "importance": 1,
+        "event_name": "日本雇员薪资收入总额  (十月)",
+        "previous": "1.9%"
+      },
+      "created_at": "2025-11-17T00:54:19.533550"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251208073000",
+      "original_id": "eventRowId_536067",
+      "event_date": "2025-12-08",
+      "event_time": "07:30",
+      "event_datetime": "2025/12/08 07:30:00",
+      "title": "日本加班工资年率(%) (同比)  (十月)",
+      "content": "前值: 0.60%",
+      "category": null,
+      "importance": 1,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-17",
+      "raw_data": {
+        "event_id": "eventRowId_536067",
+        "event_attr_id": "",
+        "datetime": "2025/12/08 07:30:00",
+        "time": "07:30",
+        "country": "日本",
+        "importance": 1,
+        "event_name": "日本加班工资年率(%) (同比)  (十月)",
+        "previous": "0.60%"
+      },
+      "created_at": "2025-11-17T00:54:19.533685"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251208075000",
+      "original_id": "eventRowId_536070",
+      "event_date": "2025-12-08",
+      "event_time": "07:50",
+      "event_datetime": "2025/12/08 07:50:00",
+      "title": "日本季调后经常帐(日元)  (十月)",
+      "content": "前值: 434.76T",
+      "category": null,
+      "importance": 2,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-17",
+      "raw_data": {
+        "event_id": "eventRowId_536070",
+        "event_attr_id": "",
+        "datetime": "2025/12/08 07:50:00",
+        "time": "07:50",
+        "country": "日本",
+        "importance": 2,
+        "event_name": "日本季调后经常帐(日元)  (十月)",
+        "previous": "434.76T"
+      },
+      "created_at": "2025-11-17T00:54:19.533809"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251208075000",
+      "original_id": "eventRowId_536075",
+      "event_date": "2025-12-08",
+      "event_time": "07:50",
+      "event_datetime": "2025/12/08 07:50:00",
+      "title": "日本季调后银行贷款年率(%) (同比)  (十一月)",
+      "content": "前值: 4.1%",
+      "category": null,
+      "importance": 1,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-17",
+      "raw_data": {
+        "event_id": "eventRowId_536075",
+        "event_attr_id": "",
+        "datetime": "2025/12/08 07:50:00",
+        "time": "07:50",
+        "country": "日本",
+        "importance": 1,
+        "event_name": "日本季调后银行贷款年率(%) (同比)  (十一月)",
+        "previous": "4.1%"
+      },
+      "created_at": "2025-11-17T00:54:19.533929"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251208075000",
+      "original_id": "eventRowId_536076",
+      "event_date": "2025-12-08",
+      "event_time": "07:50",
+      "event_datetime": "2025/12/08 07:50:00",
+      "title": "日本未季调经常帐(日元)  (十月)",
+      "content": "前值: 4.483T",
+      "category": null,
+      "importance": 2,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-17",
+      "raw_data": {
+        "event_id": "eventRowId_536076",
+        "event_attr_id": "",
+        "datetime": "2025/12/08 07:50:00",
+        "time": "07:50",
+        "country": "日本",
+        "importance": 2,
+        "event_name": "日本未季调经常帐(日元)  (十月)",
+        "previous": "4.483T"
+      },
+      "created_at": "2025-11-17T00:54:19.534046"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251208075000",
+      "original_id": "eventRowId_536071",
+      "event_date": "2025-12-08",
+      "event_time": "07:50",
+      "event_datetime": "2025/12/08 07:50:00",
+      "title": "日本GDP季率(%) (季度环比)  (第三季度)",
+      "content": "前值: -0.4%",
+      "category": null,
+      "importance": 3,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-17",
+      "raw_data": {
+        "event_id": "eventRowId_536071",
+        "event_attr_id": "",
+        "datetime": "2025/12/08 07:50:00",
+        "time": "07:50",
+        "country": "日本",
+        "importance": 3,
+        "event_name": "日本GDP季率(%) (季度环比)  (第三季度)",
+        "previous": "-0.4%"
+      },
+      "created_at": "2025-11-17T00:54:19.534164"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251208075000",
+      "original_id": "eventRowId_536074",
+      "event_date": "2025-12-08",
+      "event_time": "07:50",
+      "event_datetime": "2025/12/08 07:50:00",
+      "title": "日本GDP年化季率 (季度环比)  (第三季度)",
+      "content": "前值: -1.8%",
+      "category": null,
+      "importance": 2,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-17",
+      "raw_data": {
+        "event_id": "eventRowId_536074",
+        "event_attr_id": "",
+        "datetime": "2025/12/08 07:50:00",
+        "time": "07:50",
+        "country": "日本",
+        "importance": 2,
+        "event_name": "日本GDP年化季率 (季度环比)  (第三季度)",
+        "previous": "-1.8%"
+      },
+      "created_at": "2025-11-17T00:54:19.534299"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251208075000",
+      "original_id": "eventRowId_536069",
+      "event_date": "2025-12-08",
+      "event_time": "07:50",
+      "event_datetime": "2025/12/08 07:50:00",
+      "title": "日本GDP企业支出季率(%) (季度环比)  (第三季度)",
+      "content": "前值: 1.0%",
+      "category": null,
+      "importance": 1,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-17",
+      "raw_data": {
+        "event_id": "eventRowId_536069",
+        "event_attr_id": "",
+        "datetime": "2025/12/08 07:50:00",
+        "time": "07:50",
+        "country": "日本",
+        "importance": 1,
+        "event_name": "日本GDP企业支出季率(%) (季度环比)  (第三季度)",
+        "previous": "1.0%"
+      },
+      "created_at": "2025-11-17T00:54:19.534419"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251208075000",
+      "original_id": "eventRowId_536073",
+      "event_date": "2025-12-08",
+      "event_time": "07:50",
+      "event_datetime": "2025/12/08 07:50:00",
+      "title": "日本GDP外部需求季率(%) (季度环比)  (第三季度)",
+      "content": "前值: -0.2%",
+      "category": null,
+      "importance": 1,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-17",
+      "raw_data": {
+        "event_id": "eventRowId_536073",
+        "event_attr_id": "",
+        "datetime": "2025/12/08 07:50:00",
+        "time": "07:50",
+        "country": "日本",
+        "importance": 1,
+        "event_name": "日本GDP外部需求季率(%) (季度环比)  (第三季度)",
+        "previous": "-0.2%"
+      },
+      "created_at": "2025-11-17T00:54:19.534535"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251208075000",
+      "original_id": "eventRowId_536068",
+      "event_date": "2025-12-08",
+      "event_time": "07:50",
+      "event_datetime": "2025/12/08 07:50:00",
+      "title": "日本GDP平减指数年率(%) (同比)  (第三季度)",
+      "content": "前值: 2.8%",
+      "category": null,
+      "importance": 2,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-17",
+      "raw_data": {
+        "event_id": "eventRowId_536068",
+        "event_attr_id": "",
+        "datetime": "2025/12/08 07:50:00",
+        "time": "07:50",
+        "country": "日本",
+        "importance": 2,
+        "event_name": "日本GDP平减指数年率(%) (同比)  (第三季度)",
+        "previous": "2.8%"
+      },
+      "created_at": "2025-11-17T00:54:19.534649"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251208075000",
+      "original_id": "eventRowId_536072",
+      "event_date": "2025-12-08",
+      "event_time": "07:50",
+      "event_datetime": "2025/12/08 07:50:00",
+      "title": "日本GDP私人消费季率(%) (季度环比)  (第三季度)",
+      "content": "前值: 0.1%",
+      "category": null,
+      "importance": 1,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-17",
+      "raw_data": {
+        "event_id": "eventRowId_536072",
+        "event_attr_id": "",
+        "datetime": "2025/12/08 07:50:00",
+        "time": "07:50",
+        "country": "日本",
+        "importance": 1,
+        "event_name": "日本GDP私人消费季率(%) (季度环比)  (第三季度)",
+        "previous": "0.1%"
+      },
+      "created_at": "2025-11-17T00:54:19.534764"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251208000000_2459556707177975732",
+      "event_id": "em_jjsj_20251208000000_-1418649935513674288",
       "original_id": "2025-12-08 00:00:00_中国：进口金额(报告期:2025年11月)",
       "event_date": "2025-12-08",
       "event_time": null,
@@ -174,16 +516,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-16",
+      "discovery_date": "2025-11-17",
       "raw_data": {
         "Name": "中国：进口金额(报告期:2025年11月)",
         "City": "中国"
       },
-      "created_at": "2025-11-16T00:57:12.569548"
+      "created_at": "2025-11-17T00:54:25.409078"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251208000000_4489786966338827827",
+      "event_id": "em_jjsj_20251208000000_-305549574269778860",
       "original_id": "2025-12-08 00:00:00_中国：出口金额(报告期:2025年11月)",
       "event_date": "2025-12-08",
       "event_time": null,
@@ -199,16 +541,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-16",
+      "discovery_date": "2025-11-17",
       "raw_data": {
         "Name": "中国：出口金额(报告期:2025年11月)",
         "City": "中国"
       },
-      "created_at": "2025-11-16T00:57:12.569555"
+      "created_at": "2025-11-17T00:54:25.409085"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251208000000_2928441432827853106",
+      "event_id": "em_jjsj_20251208000000_775568557759052055",
       "original_id": "2025-12-08 00:00:00_中国：进出口金额:当月同比(报告期:2025年11月)",
       "event_date": "2025-12-08",
       "event_time": null,
@@ -224,16 +566,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-16",
+      "discovery_date": "2025-11-17",
       "raw_data": {
         "Name": "中国：进出口金额:当月同比(报告期:2025年11月)",
         "City": "中国"
       },
-      "created_at": "2025-11-16T00:57:12.569562"
+      "created_at": "2025-11-17T00:54:25.409093"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251208000000_-3676101366145235486",
+      "event_id": "em_jjsj_20251208000000_7163397831724593602",
       "original_id": "2025-12-08 00:00:00_新加坡：国际储备(报告期:2025年11月)",
       "event_date": "2025-12-08",
       "event_time": null,
@@ -249,16 +591,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-16",
+      "discovery_date": "2025-11-17",
       "raw_data": {
         "Name": "新加坡：国际储备(报告期:2025年11月)",
         "City": "新加坡"
       },
-      "created_at": "2025-11-16T00:57:12.569569"
+      "created_at": "2025-11-17T00:54:25.409101"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251208075000_5738627655579809092",
+      "event_id": "em_jjsj_20251208075000_43290588103796780",
       "original_id": "2025-12-08 07:50:00_日本：经常项目差额(报告期:2025年10月)",
       "event_date": "2025-12-08",
       "event_time": "07:50:00",
@@ -274,12 +616,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-16",
+      "discovery_date": "2025-11-17",
       "raw_data": {
         "Name": "日本：经常项目差额(报告期:2025年10月)",
         "City": "日本"
       },
-      "created_at": "2025-11-16T00:57:12.569577"
+      "created_at": "2025-11-17T00:54:25.409109"
     },
     {
       "platform": "eastmoney",
@@ -299,7 +641,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-16",
+      "discovery_date": "2025-11-17",
       "raw_data": {
         "fe_code": "10866642",
         "fe_name": "证监会公布《证券结算风险基金管理办法》,自2025年12月8日起施行",
@@ -310,7 +652,7 @@
         "city": null,
         "content": "现公布《证券结算风险基金管理办法》,自2025年12月8日起施行。"
       },
-      "created_at": "2025-11-16T00:57:12.571079"
+      "created_at": "2025-11-17T00:54:25.410659"
     }
   ]
 }
