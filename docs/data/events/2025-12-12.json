@@ -1,14 +1,60 @@
 {
   "date": "2025-12-12",
-  "total_events": 2,
-  "new_events": 0,
+  "total_events": 3,
+  "new_events": 1,
   "platforms": {
+    "jiuyangongshe": 1,
     "eastmoney": 2
   },
   "events": [
     {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_a5ba0ba7a8dc417a9a135cc92e0b9494_18b2d31c8fda44e1a942c70c371a6961_20251212",
+      "original_id": "a5ba0ba7a8dc417a9a135cc92e0b9494",
+      "event_date": "2025-12-12",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025湖南文化旅游产业博览会",
+      "content": "",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-19",
+      "raw_data": {
+        "article_id": "a5ba0ba7a8dc417a9a135cc92e0b9494",
+        "user_id": "1",
+        "title": "2025湖南文化旅游产业博览会",
+        "content": "",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "a5ba0ba7a8dc417a9a135cc92e0b9494",
+          "timeline_id": "18b2d31c8fda44e1a942c70c371a6961",
+          "date": "2025-12-12",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-11-18 22:28:01",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-11-19T00:52:53.909126"
+    },
+    {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251212150000_-2560893128301501112",
+      "event_id": "em_jjsj_20251212150000_-1868127388589481407",
       "original_id": "2025-12-12 15:00:00_英国：贸易总额：余额：季调(报告期:2025年10月)",
       "event_date": "2025-12-12",
       "event_time": "15:00:00",
@@ -24,16 +70,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-18",
+      "discovery_date": "2025-11-19",
       "raw_data": {
         "Name": "英国：贸易总额：余额：季调(报告期:2025年10月)",
         "City": "英国"
       },
-      "created_at": "2025-11-18T00:53:00.044520"
+      "created_at": "2025-11-19T00:53:05.788629"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251212153000_6900252460062710060",
+      "event_id": "em_jjsj_20251212153000_8119799709258787979",
       "original_id": "2025-12-12 15:30:00_泰国：外汇储备(报告期:2025年11月)",
       "event_date": "2025-12-12",
       "event_time": "15:30:00",
@@ -49,12 +95,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-18",
+      "discovery_date": "2025-11-19",
       "raw_data": {
         "Name": "泰国：外汇储备(报告期:2025年11月)",
         "City": "泰国"
       },
-      "created_at": "2025-11-18T00:53:00.044528"
+      "created_at": "2025-11-19T00:53:05.788637"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
   "date": "2025-12-09",
-  "total_events": 11,
-  "new_events": 4,
+  "total_events": 21,
+  "new_events": 10,
   "platforms": {
     "jiuyangongshe": 2,
-    "investing": 5,
+    "investing": 15,
     "eastmoney": 4
   },
   "events": [
@@ -26,7 +26,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-18",
+      "discovery_date": "2025-11-19",
       "raw_data": {
         "article_id": "4e7p0r2xq9u",
         "user_id": "986cea6de54b4fb4941d8e78ff8308e8",
@@ -51,7 +51,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-18T00:52:47.471378"
+      "created_at": "2025-11-19T00:52:53.909071"
     },
     {
       "platform": "jiuyangongshe",
@@ -71,7 +71,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-18",
+      "discovery_date": "2025-11-19",
       "raw_data": {
         "article_id": "394186f7cf8243e6a37f5dc39e4d2e53",
         "user_id": "1",
@@ -96,7 +96,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-18T00:52:47.471388"
+      "created_at": "2025-11-19T00:52:53.909079"
     },
     {
       "platform": "investing",
@@ -115,8 +115,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-11-18",
+      "is_new": false,
+      "discovery_date": "2025-11-19",
       "raw_data": {
         "event_id": "eventRowId_536140",
         "event_attr_id": "",
@@ -127,7 +127,7 @@
         "event_name": "欧元区M3货币供应量(欧元)  (十一月)",
         "previous": "2,235.2B"
       },
-      "created_at": "2025-11-18T00:52:54.934110"
+      "created_at": "2025-11-19T00:53:00.811442"
     },
     {
       "platform": "investing",
@@ -146,8 +146,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-11-18",
+      "is_new": false,
+      "discovery_date": "2025-11-19",
       "raw_data": {
         "event_id": "eventRowId_536141",
         "event_attr_id": "",
@@ -158,7 +158,7 @@
         "event_name": "英国BRC零售销售监控数据年率 (同比)  (十一月)",
         "previous": "1.5%"
       },
-      "created_at": "2025-11-18T00:52:54.934236"
+      "created_at": "2025-11-19T00:53:00.811580"
     },
     {
       "platform": "investing",
@@ -177,8 +177,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-11-18",
+      "is_new": false,
+      "discovery_date": "2025-11-19",
       "raw_data": {
         "event_id": "eventRowId_536142",
         "event_attr_id": "",
@@ -189,7 +189,7 @@
         "event_name": "澳大利亚NAB商业信心指数  (十一月)",
         "previous": "6"
       },
-      "created_at": "2025-11-18T00:52:54.934353"
+      "created_at": "2025-11-19T00:53:00.811697"
     },
     {
       "platform": "investing",
@@ -208,8 +208,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-11-18",
+      "is_new": false,
+      "discovery_date": "2025-11-19",
       "raw_data": {
         "event_id": "eventRowId_536143",
         "event_attr_id": "",
@@ -220,7 +220,38 @@
         "event_name": "澳大利亚NAB商业景气指数  (十一月)",
         "previous": "9"
       },
-      "created_at": "2025-11-18T00:52:54.934465"
+      "created_at": "2025-11-19T00:53:00.811811"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251209110000",
+      "original_id": "eventRowId_536144",
+      "event_date": "2025-12-09",
+      "event_time": "11:00",
+      "event_datetime": "2025/12/09 11:00:00",
+      "title": "印度尼西亚消费者信心指数  (十一月)",
+      "content": "前值: 121.2",
+      "category": null,
+      "importance": 1,
+      "country": "印度尼西亚",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-19",
+      "raw_data": {
+        "event_id": "eventRowId_536144",
+        "event_attr_id": "",
+        "datetime": "2025/12/09 11:00:00",
+        "time": "11:00",
+        "country": "印度尼西亚",
+        "importance": 1,
+        "event_name": "印度尼西亚消费者信心指数  (十一月)",
+        "previous": "121.2"
+      },
+      "created_at": "2025-11-19T00:53:00.811941"
     },
     {
       "platform": "investing",
@@ -229,7 +260,7 @@
       "event_date": "2025-12-09",
       "event_time": "11:30",
       "event_datetime": "2025/12/09 11:30:00",
-      "title": "澳洲联储利率决议",
+      "title": "澳洲联储利率决议  (十二月)",
       "content": "前值: 3.60%",
       "category": null,
       "importance": 3,
@@ -240,7 +271,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-18",
+      "discovery_date": "2025-11-19",
       "raw_data": {
         "event_id": "eventRowId_535248",
         "event_attr_id": "",
@@ -248,14 +279,293 @@
         "time": "11:30",
         "country": "澳大利亚",
         "importance": 3,
-        "event_name": "澳洲联储利率决议",
+        "event_name": "澳洲联储利率决议  (十二月)",
         "previous": "3.60%"
       },
-      "created_at": "2025-11-18T00:52:54.934579"
+      "created_at": "2025-11-19T00:53:00.812061"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251209150000",
+      "original_id": "eventRowId_536164",
+      "event_date": "2025-12-09",
+      "event_time": "15:00",
+      "event_datetime": "2025/12/09 15:00:00",
+      "title": "德国季调后出口月率(%) (月度环比)  (十月)",
+      "content": "前值: 1.4%",
+      "category": null,
+      "importance": 1,
+      "country": "德国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-19",
+      "raw_data": {
+        "event_id": "eventRowId_536164",
+        "event_attr_id": "",
+        "datetime": "2025/12/09 15:00:00",
+        "time": "15:00",
+        "country": "德国",
+        "importance": 1,
+        "event_name": "德国季调后出口月率(%) (月度环比)  (十月)",
+        "previous": "1.4%"
+      },
+      "created_at": "2025-11-19T00:53:00.812177"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251209150000",
+      "original_id": "eventRowId_536160",
+      "event_date": "2025-12-09",
+      "event_time": "15:00",
+      "event_datetime": "2025/12/09 15:00:00",
+      "title": "德国季调后进口月率(%) (月度环比)  (十月)",
+      "content": "前值: 3.1%",
+      "category": null,
+      "importance": 1,
+      "country": "德国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-19",
+      "raw_data": {
+        "event_id": "eventRowId_536160",
+        "event_attr_id": "",
+        "datetime": "2025/12/09 15:00:00",
+        "time": "15:00",
+        "country": "德国",
+        "importance": 1,
+        "event_name": "德国季调后进口月率(%) (月度环比)  (十月)",
+        "previous": "3.1%"
+      },
+      "created_at": "2025-11-19T00:53:00.812291"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251209150000",
+      "original_id": "eventRowId_536162",
+      "event_date": "2025-12-09",
+      "event_time": "15:00",
+      "event_datetime": "2025/12/09 15:00:00",
+      "title": "德国贸易帐(欧元)  (十月)",
+      "content": "前值: 15.3B",
+      "category": null,
+      "importance": 2,
+      "country": "德国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-19",
+      "raw_data": {
+        "event_id": "eventRowId_536162",
+        "event_attr_id": "",
+        "datetime": "2025/12/09 15:00:00",
+        "time": "15:00",
+        "country": "德国",
+        "importance": 2,
+        "event_name": "德国贸易帐(欧元)  (十月)",
+        "previous": "15.3B"
+      },
+      "created_at": "2025-11-19T00:53:00.812406"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251209160000",
+      "original_id": "eventRowId_536173",
+      "event_date": "2025-12-09",
+      "event_time": "16:00",
+      "event_datetime": "2025/12/09 16:00:00",
+      "title": "中国台湾出口年率(%) (同比)  (十一月)",
+      "content": "前值: 49.7%",
+      "category": null,
+      "importance": 1,
+      "country": "中国台湾",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-19",
+      "raw_data": {
+        "event_id": "eventRowId_536173",
+        "event_attr_id": "",
+        "datetime": "2025/12/09 16:00:00",
+        "time": "16:00",
+        "country": "中国台湾",
+        "importance": 1,
+        "event_name": "中国台湾出口年率(%) (同比)  (十一月)",
+        "previous": "49.7%"
+      },
+      "created_at": "2025-11-19T00:53:00.812519"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251209160000",
+      "original_id": "eventRowId_536174",
+      "event_date": "2025-12-09",
+      "event_time": "16:00",
+      "event_datetime": "2025/12/09 16:00:00",
+      "title": "中国台湾进口年率(%) (同比)  (十一月)",
+      "content": "前值: 14.60%",
+      "category": null,
+      "importance": 1,
+      "country": "中国台湾",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-19",
+      "raw_data": {
+        "event_id": "eventRowId_536174",
+        "event_attr_id": "",
+        "datetime": "2025/12/09 16:00:00",
+        "time": "16:00",
+        "country": "中国台湾",
+        "importance": 1,
+        "event_name": "中国台湾进口年率(%) (同比)  (十一月)",
+        "previous": "14.60%"
+      },
+      "created_at": "2025-11-19T00:53:00.812629"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251209160000",
+      "original_id": "eventRowId_536172",
+      "event_date": "2025-12-09",
+      "event_time": "16:00",
+      "event_datetime": "2025/12/09 16:00:00",
+      "title": "中国台湾地区贸易帐(新台币)  (十一月)",
+      "content": "前值: 22.58B",
+      "category": null,
+      "importance": 1,
+      "country": "中国台湾",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-19",
+      "raw_data": {
+        "event_id": "eventRowId_536172",
+        "event_attr_id": "",
+        "datetime": "2025/12/09 16:00:00",
+        "time": "16:00",
+        "country": "中国台湾",
+        "importance": 1,
+        "event_name": "中国台湾地区贸易帐(新台币)  (十一月)",
+        "previous": "22.58B"
+      },
+      "created_at": "2025-11-19T00:53:00.812739"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251209190000",
+      "original_id": "eventRowId_536190",
+      "event_date": "2025-12-09",
+      "event_time": "19:00",
+      "event_datetime": "2025/12/09 19:00:00",
+      "title": "美国NFIB小型企业信心指数  (十一月)",
+      "content": "前值: 98.2",
+      "category": null,
+      "importance": 1,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-19",
+      "raw_data": {
+        "event_id": "eventRowId_536190",
+        "event_attr_id": "",
+        "datetime": "2025/12/09 19:00:00",
+        "time": "19:00",
+        "country": "美国",
+        "importance": 1,
+        "event_name": "美国NFIB小型企业信心指数  (十一月)",
+        "previous": "98.2"
+      },
+      "created_at": "2025-11-19T00:53:00.812851"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251209213000",
+      "original_id": "eventRowId_536202",
+      "event_date": "2025-12-09",
+      "event_time": "21:30",
+      "event_datetime": "2025/12/09 21:30:00",
+      "title": "美国非农生产力季率(%) (季度环比)  (第三季度)",
+      "content": "前值: 2.4%",
+      "category": null,
+      "importance": 2,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-19",
+      "raw_data": {
+        "event_id": "eventRowId_536202",
+        "event_attr_id": "",
+        "datetime": "2025/12/09 21:30:00",
+        "time": "21:30",
+        "country": "美国",
+        "importance": 2,
+        "event_name": "美国非农生产力季率(%) (季度环比)  (第三季度)",
+        "previous": "2.4%"
+      },
+      "created_at": "2025-11-19T00:53:00.812979"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251209213000",
+      "original_id": "eventRowId_536201",
+      "event_date": "2025-12-09",
+      "event_time": "21:30",
+      "event_datetime": "2025/12/09 21:30:00",
+      "title": "美国非农单位劳动力成本 (季度环比)  (第三季度)",
+      "content": "前值: 1.6%",
+      "category": null,
+      "importance": 2,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-19",
+      "raw_data": {
+        "event_id": "eventRowId_536201",
+        "event_attr_id": "",
+        "datetime": "2025/12/09 21:30:00",
+        "time": "21:30",
+        "country": "美国",
+        "importance": 2,
+        "event_name": "美国非农单位劳动力成本 (季度环比)  (第三季度)",
+        "previous": "1.6%"
+      },
+      "created_at": "2025-11-19T00:53:00.813094"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251209075000_7057904843163610878",
+      "event_id": "em_jjsj_20251209075000_-8335582717567638567",
       "original_id": "2025-12-09 07:50:00_日本：M2：实值(报告期:2025年11月)",
       "event_date": "2025-12-09",
       "event_time": "07:50:00",
@@ -271,16 +581,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-18",
+      "discovery_date": "2025-11-19",
       "raw_data": {
         "Name": "日本：M2：实值(报告期:2025年11月)",
         "City": "日本"
       },
-      "created_at": "2025-11-18T00:53:00.044303"
+      "created_at": "2025-11-19T00:53:05.788422"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251209150000_4207027442258364",
+      "event_id": "em_jjsj_20251209150000_6652412780532324584",
       "original_id": "2025-12-09 15:00:00_德国：贸易顺差：季调(报告期:2025年10月)",
       "event_date": "2025-12-09",
       "event_time": "15:00:00",
@@ -296,16 +606,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-18",
+      "discovery_date": "2025-11-19",
       "raw_data": {
         "Name": "德国：贸易顺差：季调(报告期:2025年10月)",
         "City": "德国"
       },
-      "created_at": "2025-11-18T00:53:00.044311"
+      "created_at": "2025-11-19T00:53:05.788430"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251209160000_3593856200188741410",
+      "event_id": "em_jjsj_20251209160000_-8767147337210941350",
       "original_id": "2025-12-09 16:00:00_中国台湾：进口总额：同比：美元(报告期:2025年11月)",
       "event_date": "2025-12-09",
       "event_time": "16:00:00",
@@ -321,12 +631,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-18",
+      "discovery_date": "2025-11-19",
       "raw_data": {
         "Name": "中国台湾：进口总额：同比：美元(报告期:2025年11月)",
         "City": "中国台湾"
       },
-      "created_at": "2025-11-18T00:53:00.044319"
+      "created_at": "2025-11-19T00:53:05.788438"
     },
     {
       "platform": "eastmoney",
@@ -346,7 +656,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-18",
+      "discovery_date": "2025-11-19",
       "raw_data": {
         "fe_code": "10856302",
         "fe_name": "美联储议息会议",
@@ -357,7 +667,7 @@
         "city": null,
         "content": null
       },
-      "created_at": "2025-11-18T00:53:00.045934"
+      "created_at": "2025-11-19T00:53:05.789954"
     }
   ]
 }

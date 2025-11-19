@@ -1,10 +1,10 @@
 {
   "date": "2025-11-29",
-  "total_events": 6,
-  "new_events": 0,
+  "total_events": 8,
+  "new_events": 2,
   "platforms": {
     "jiuyangongshe": 1,
-    "investing": 4,
+    "investing": 6,
     "eastmoney": 1
   },
   "events": [
@@ -26,7 +26,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-18",
+      "discovery_date": "2025-11-19",
       "raw_data": {
         "article_id": "e9789dd8633b47b98916ed8601e2d82c",
         "user_id": "1",
@@ -51,7 +51,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-18T00:52:45.682461"
+      "created_at": "2025-11-19T00:52:52.022614"
     },
     {
       "platform": "investing",
@@ -71,7 +71,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-18",
+      "discovery_date": "2025-11-19",
       "raw_data": {
         "event_id": "eventRowId_535527",
         "event_attr_id": "",
@@ -82,7 +82,7 @@
         "event_name": "加拿大预算平衡(加元)  (九月)",
         "previous": "-3.28B"
       },
-      "created_at": "2025-11-18T00:52:53.095174"
+      "created_at": "2025-11-19T00:52:59.090236"
     },
     {
       "platform": "investing",
@@ -102,7 +102,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-18",
+      "discovery_date": "2025-11-19",
       "raw_data": {
         "event_id": "eventRowId_535528",
         "event_attr_id": "",
@@ -113,7 +113,7 @@
         "event_name": "加拿大预算平衡同比变化(加元) (同比)  (九月)",
         "previous": "-11.07B"
       },
-      "created_at": "2025-11-18T00:52:53.095303"
+      "created_at": "2025-11-19T00:52:59.090372"
     },
     {
       "platform": "investing",
@@ -133,7 +133,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-18",
+      "discovery_date": "2025-11-19",
       "raw_data": {
         "event_id": "eventRowId_535538",
         "event_attr_id": "",
@@ -144,7 +144,67 @@
         "event_name": "巴西CAGED就业岗位净增长(个)  (十月)",
         "previous": "213.00K"
       },
-      "created_at": "2025-11-18T00:52:53.095421"
+      "created_at": "2025-11-19T00:52:59.090494"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251129020000",
+      "original_id": "eventRowId_536155",
+      "event_date": "2025-11-29",
+      "event_time": "02:00",
+      "event_datetime": "2025/11/29 02:00:00",
+      "title": "美国当周贝克休斯石油钻井总数(口)",
+      "content": null,
+      "category": null,
+      "importance": 2,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-19",
+      "raw_data": {
+        "event_id": "eventRowId_536155",
+        "event_attr_id": "",
+        "datetime": "2025/11/29 02:00:00",
+        "time": "02:00",
+        "country": "美国",
+        "importance": 2,
+        "event_name": "美国当周贝克休斯石油钻井总数(口)"
+      },
+      "created_at": "2025-11-19T00:52:59.090616"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251129020000",
+      "original_id": "eventRowId_536156",
+      "event_date": "2025-11-29",
+      "event_time": "02:00",
+      "event_datetime": "2025/11/29 02:00:00",
+      "title": "美国当周贝克休斯总钻井总数(口)",
+      "content": null,
+      "category": null,
+      "importance": 2,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-19",
+      "raw_data": {
+        "event_id": "eventRowId_536156",
+        "event_attr_id": "",
+        "datetime": "2025/11/29 02:00:00",
+        "time": "02:00",
+        "country": "美国",
+        "importance": 2,
+        "event_name": "美国当周贝克休斯总钻井总数(口)"
+      },
+      "created_at": "2025-11-19T00:52:59.090732"
     },
     {
       "platform": "investing",
@@ -164,7 +224,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-18",
+      "discovery_date": "2025-11-19",
       "raw_data": {
         "event_id": "eventRowId_535503",
         "event_attr_id": "",
@@ -175,11 +235,11 @@
         "event_name": "加拿大预算平衡(加元) (月度环比)  (十月)",
         "previous": "-15.36B"
       },
-      "created_at": "2025-11-18T00:52:53.095543"
+      "created_at": "2025-11-19T00:52:59.090845"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251129160000_-8497347094148286222",
+      "event_id": "em_jjsj_20251129160000_6972595395880793896",
       "original_id": "2025-11-29 16:00:00_瑞士：GDP季率(报告期:2025年09月)",
       "event_date": "2025-11-29",
       "event_time": "16:00:00",
@@ -195,12 +255,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-18",
+      "discovery_date": "2025-11-19",
       "raw_data": {
         "Name": "瑞士：GDP季率(报告期:2025年09月)",
         "City": "瑞士"
       },
-      "created_at": "2025-11-18T00:53:00.043660"
+      "created_at": "2025-11-19T00:53:05.787826"
     }
   ]
 }
