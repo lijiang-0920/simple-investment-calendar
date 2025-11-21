@@ -1,9 +1,10 @@
 {
   "date": "2025-12-12",
-  "total_events": 3,
-  "new_events": 0,
+  "total_events": 6,
+  "new_events": 3,
   "platforms": {
     "jiuyangongshe": 1,
+    "investing": 3,
     "eastmoney": 2
   },
   "events": [
@@ -25,7 +26,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-20",
+      "discovery_date": "2025-11-21",
       "raw_data": {
         "article_id": "a5ba0ba7a8dc417a9a135cc92e0b9494",
         "user_id": "1",
@@ -50,11 +51,104 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-20T00:51:54.990132"
+      "created_at": "2025-11-21T00:52:26.604834"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251212050000",
+      "original_id": "eventRowId_536536",
+      "event_date": "2025-12-12",
+      "event_time": "05:00",
+      "event_datetime": "2025/12/12 05:00:00",
+      "title": "韩国出口物价指数年率(%) (同比)  (十一月)",
+      "content": "前值: 4.8%",
+      "category": null,
+      "importance": 1,
+      "country": "韩国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-21",
+      "raw_data": {
+        "event_id": "eventRowId_536536",
+        "event_attr_id": "",
+        "datetime": "2025/12/12 05:00:00",
+        "time": "05:00",
+        "country": "韩国",
+        "importance": 1,
+        "event_name": "韩国出口物价指数年率(%) (同比)  (十一月)",
+        "previous": "4.8%"
+      },
+      "created_at": "2025-11-21T00:52:33.899696"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251212050000",
+      "original_id": "eventRowId_536535",
+      "event_date": "2025-12-12",
+      "event_time": "05:00",
+      "event_datetime": "2025/12/12 05:00:00",
+      "title": "韩国进口物价指数年率(%) (同比)  (十一月)",
+      "content": "前值: 0.5%",
+      "category": null,
+      "importance": 1,
+      "country": "韩国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-21",
+      "raw_data": {
+        "event_id": "eventRowId_536535",
+        "event_attr_id": "",
+        "datetime": "2025/12/12 05:00:00",
+        "time": "05:00",
+        "country": "韩国",
+        "importance": 1,
+        "event_name": "韩国进口物价指数年率(%) (同比)  (十一月)",
+        "previous": "0.5%"
+      },
+      "created_at": "2025-11-21T00:52:33.899832"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251212053000",
+      "original_id": "eventRowId_536537",
+      "event_date": "2025-12-12",
+      "event_time": "05:30",
+      "event_datetime": "2025/12/12 05:30:00",
+      "title": "新西兰制造业PMI  (十一月)",
+      "content": "前值: 51.4",
+      "category": null,
+      "importance": 2,
+      "country": "新西兰",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-21",
+      "raw_data": {
+        "event_id": "eventRowId_536537",
+        "event_attr_id": "",
+        "datetime": "2025/12/12 05:30:00",
+        "time": "05:30",
+        "country": "新西兰",
+        "importance": 2,
+        "event_name": "新西兰制造业PMI  (十一月)",
+        "previous": "51.4"
+      },
+      "created_at": "2025-11-21T00:52:33.899970"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251212150000_-5488088086433899105",
+      "event_id": "em_jjsj_20251212150000_-8323316132390308275",
       "original_id": "2025-12-12 15:00:00_英国：贸易总额：余额：季调(报告期:2025年10月)",
       "event_date": "2025-12-12",
       "event_time": "15:00:00",
@@ -70,16 +164,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-20",
+      "discovery_date": "2025-11-21",
       "raw_data": {
         "Name": "英国：贸易总额：余额：季调(报告期:2025年10月)",
         "City": "英国"
       },
-      "created_at": "2025-11-20T00:52:07.050253"
+      "created_at": "2025-11-21T00:52:38.978287"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251212153000_6000158920859287775",
+      "event_id": "em_jjsj_20251212153000_4116665445066682805",
       "original_id": "2025-12-12 15:30:00_泰国：外汇储备(报告期:2025年11月)",
       "event_date": "2025-12-12",
       "event_time": "15:30:00",
@@ -95,12 +189,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-20",
+      "discovery_date": "2025-11-21",
       "raw_data": {
         "Name": "泰国：外汇储备(报告期:2025年11月)",
         "City": "泰国"
       },
-      "created_at": "2025-11-20T00:52:07.050260"
+      "created_at": "2025-11-21T00:52:38.978295"
     }
   ]
 }
