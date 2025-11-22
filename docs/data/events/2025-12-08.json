@@ -1,14 +1,87 @@
 {
   "date": "2025-12-08",
-  "total_events": 30,
-  "new_events": 0,
+  "total_events": 31,
+  "new_events": 2,
   "platforms": {
+    "cls": 2,
     "jiuyangongshe": 1,
     "tonghuashun": 1,
     "investing": 22,
-    "eastmoney": 6
+    "eastmoney": 5
   },
   "events": [
+    {
+      "platform": "cls",
+      "event_id": "cls_371647_20251208_2",
+      "original_id": "371647",
+      "event_date": "2025-12-08",
+      "event_time": "00:00:00",
+      "event_datetime": "2025-12-08 00:00:00",
+      "title": "证监会公布《证券结算风险基金管理办法》，自2025年12月8日起施行",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-22",
+      "raw_data": {
+        "id": 371647,
+        "calendar_time": "2025-12-08 00:00:00",
+        "data_id": 20129,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "证监会公布《证券结算风险基金管理办法》，自2025年12月8日起施行",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "证监会公布《证券结算风险基金管理办法》，自2025年12月8日起施行"
+      },
+      "created_at": "2025-11-22T00:50:16.771657"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_360984_20251208_2",
+      "original_id": "360984",
+      "event_date": "2025-12-08",
+      "event_time": "08:00:00",
+      "event_datetime": "2025-12-08 08:00:00",
+      "title": "国内成品油将开启新一轮调价窗口",
+      "content": null,
+      "category": "事件公告",
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-22",
+      "raw_data": {
+        "id": 360984,
+        "calendar_time": "2025-12-08 08:00:00",
+        "data_id": 20069,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "国内成品油将开启新一轮调价窗口",
+          "country": "中国",
+          "country_icon": "",
+          "star": 3
+        },
+        "holiday": null,
+        "title": "国内成品油将开启新一轮调价窗口"
+      },
+      "created_at": "2025-11-22T00:50:16.771668"
+    },
     {
       "platform": "jiuyangongshe",
       "event_id": "jygs_5c9a407113a94b9f85027062ae8907d0_3c2ade2b1a14472d9dc3897671c10fe4_20251208",
@@ -27,7 +100,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-21",
+      "discovery_date": "2025-11-22",
       "raw_data": {
         "article_id": "5c9a407113a94b9f85027062ae8907d0",
         "user_id": "1",
@@ -52,7 +125,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-21T00:52:26.604748"
+      "created_at": "2025-11-22T00:50:20.152278"
     },
     {
       "platform": "tonghuashun",
@@ -72,7 +145,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-21",
+      "discovery_date": "2025-11-22",
       "raw_data": {
         "event": [
           "证监会公布《证券结算风险基金管理办法》，自2025年12月8日起施行",
@@ -82,7 +155,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-11-21T00:52:29.836641"
+      "created_at": "2025-11-22T00:50:22.920282"
     },
     {
       "platform": "investing",
@@ -102,7 +175,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-21",
+      "discovery_date": "2025-11-22",
       "raw_data": {
         "event_id": "eventRowId_536066",
         "event_attr_id": "",
@@ -113,7 +186,7 @@
         "event_name": "日本雇员薪资收入总额  (十月)",
         "previous": "1.9%"
       },
-      "created_at": "2025-11-21T00:52:33.692248"
+      "created_at": "2025-11-22T00:50:26.217988"
     },
     {
       "platform": "investing",
@@ -133,7 +206,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-21",
+      "discovery_date": "2025-11-22",
       "raw_data": {
         "event_id": "eventRowId_536067",
         "event_attr_id": "",
@@ -144,7 +217,7 @@
         "event_name": "日本加班工资年率(%) (同比)  (十月)",
         "previous": "0.60%"
       },
-      "created_at": "2025-11-21T00:52:33.692382"
+      "created_at": "2025-11-22T00:50:26.218131"
     },
     {
       "platform": "investing",
@@ -164,7 +237,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-21",
+      "discovery_date": "2025-11-22",
       "raw_data": {
         "event_id": "eventRowId_536070",
         "event_attr_id": "",
@@ -175,7 +248,7 @@
         "event_name": "日本季调后经常帐(日元)  (十月)",
         "previous": "434.76T"
       },
-      "created_at": "2025-11-21T00:52:33.692500"
+      "created_at": "2025-11-22T00:50:26.218256"
     },
     {
       "platform": "investing",
@@ -195,7 +268,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-21",
+      "discovery_date": "2025-11-22",
       "raw_data": {
         "event_id": "eventRowId_536075",
         "event_attr_id": "",
@@ -206,7 +279,7 @@
         "event_name": "日本季调后银行贷款年率(%) (同比)  (十一月)",
         "previous": "4.1%"
       },
-      "created_at": "2025-11-21T00:52:33.692616"
+      "created_at": "2025-11-22T00:50:26.218382"
     },
     {
       "platform": "investing",
@@ -226,7 +299,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-21",
+      "discovery_date": "2025-11-22",
       "raw_data": {
         "event_id": "eventRowId_536076",
         "event_attr_id": "",
@@ -237,7 +310,7 @@
         "event_name": "日本未季调经常帐(日元)  (十月)",
         "previous": "4.483T"
       },
-      "created_at": "2025-11-21T00:52:33.692732"
+      "created_at": "2025-11-22T00:50:26.218505"
     },
     {
       "platform": "investing",
@@ -257,7 +330,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-21",
+      "discovery_date": "2025-11-22",
       "raw_data": {
         "event_id": "eventRowId_536071",
         "event_attr_id": "",
@@ -268,7 +341,7 @@
         "event_name": "日本GDP季率(%) (季度环比)  (第三季度)",
         "previous": "-0.4%"
       },
-      "created_at": "2025-11-21T00:52:33.692861"
+      "created_at": "2025-11-22T00:50:26.218624"
     },
     {
       "platform": "investing",
@@ -288,7 +361,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-21",
+      "discovery_date": "2025-11-22",
       "raw_data": {
         "event_id": "eventRowId_536074",
         "event_attr_id": "",
@@ -299,7 +372,7 @@
         "event_name": "日本GDP年化季率 (季度环比)  (第三季度)",
         "previous": "-1.8%"
       },
-      "created_at": "2025-11-21T00:52:33.692978"
+      "created_at": "2025-11-22T00:50:26.218747"
     },
     {
       "platform": "investing",
@@ -319,7 +392,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-21",
+      "discovery_date": "2025-11-22",
       "raw_data": {
         "event_id": "eventRowId_536069",
         "event_attr_id": "",
@@ -330,7 +403,7 @@
         "event_name": "日本GDP企业支出季率(%) (季度环比)  (第三季度)",
         "previous": "1.0%"
       },
-      "created_at": "2025-11-21T00:52:33.693093"
+      "created_at": "2025-11-22T00:50:26.218863"
     },
     {
       "platform": "investing",
@@ -350,7 +423,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-21",
+      "discovery_date": "2025-11-22",
       "raw_data": {
         "event_id": "eventRowId_536073",
         "event_attr_id": "",
@@ -361,7 +434,7 @@
         "event_name": "日本GDP外部需求季率(%) (季度环比)  (第三季度)",
         "previous": "-0.2%"
       },
-      "created_at": "2025-11-21T00:52:33.693203"
+      "created_at": "2025-11-22T00:50:26.219044"
     },
     {
       "platform": "investing",
@@ -381,7 +454,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-21",
+      "discovery_date": "2025-11-22",
       "raw_data": {
         "event_id": "eventRowId_536068",
         "event_attr_id": "",
@@ -392,7 +465,7 @@
         "event_name": "日本GDP平减指数年率(%) (同比)  (第三季度)",
         "previous": "2.8%"
       },
-      "created_at": "2025-11-21T00:52:33.693314"
+      "created_at": "2025-11-22T00:50:26.219174"
     },
     {
       "platform": "investing",
@@ -412,7 +485,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-21",
+      "discovery_date": "2025-11-22",
       "raw_data": {
         "event_id": "eventRowId_536072",
         "event_attr_id": "",
@@ -423,7 +496,7 @@
         "event_name": "日本GDP私人消费季率(%) (季度环比)  (第三季度)",
         "previous": "0.1%"
       },
-      "created_at": "2025-11-21T00:52:33.693424"
+      "created_at": "2025-11-22T00:50:26.219295"
     },
     {
       "platform": "investing",
@@ -443,7 +516,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-21",
+      "discovery_date": "2025-11-22",
       "raw_data": {
         "event_id": "eventRowId_536081",
         "event_attr_id": "",
@@ -454,7 +527,7 @@
         "event_name": "中国进口年率-美元计价(%) (同比)  (十一月)",
         "previous": "1.0%"
       },
-      "created_at": "2025-11-21T00:52:33.693536"
+      "created_at": "2025-11-22T00:50:26.219412"
     },
     {
       "platform": "investing",
@@ -474,7 +547,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-21",
+      "discovery_date": "2025-11-22",
       "raw_data": {
         "event_id": "eventRowId_536080",
         "event_attr_id": "",
@@ -485,7 +558,7 @@
         "event_name": "中国贸易帐 (美元)  (十一月)",
         "previous": "90.07B"
       },
-      "created_at": "2025-11-21T00:52:33.693645"
+      "created_at": "2025-11-22T00:50:26.219527"
     },
     {
       "platform": "investing",
@@ -505,7 +578,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-21",
+      "discovery_date": "2025-11-22",
       "raw_data": {
         "event_id": "eventRowId_536079",
         "event_attr_id": "",
@@ -516,7 +589,7 @@
         "event_name": "澳大利亚出口月率(%)  (十一月)",
         "previous": "-0.80M"
       },
-      "created_at": "2025-11-21T00:52:33.693754"
+      "created_at": "2025-11-22T00:50:26.219640"
     },
     {
       "platform": "investing",
@@ -536,7 +609,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-21",
+      "discovery_date": "2025-11-22",
       "raw_data": {
         "event_id": "eventRowId_536078",
         "event_attr_id": "",
@@ -547,7 +620,7 @@
         "event_name": "澳大利亚进口月率(%)  (十一月)",
         "previous": "1.40M"
       },
-      "created_at": "2025-11-21T00:52:33.693878"
+      "created_at": "2025-11-22T00:50:26.219752"
     },
     {
       "platform": "investing",
@@ -567,7 +640,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-21",
+      "discovery_date": "2025-11-22",
       "raw_data": {
         "event_id": "eventRowId_536077",
         "event_attr_id": "",
@@ -578,7 +651,7 @@
         "event_name": "英国贸易帐(英镑)  (十一月)",
         "previous": "640.49B"
       },
-      "created_at": "2025-11-21T00:52:33.693992"
+      "created_at": "2025-11-22T00:50:26.219864"
     },
     {
       "platform": "investing",
@@ -598,7 +671,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-21",
+      "discovery_date": "2025-11-22",
       "raw_data": {
         "event_id": "eventRowId_536082",
         "event_attr_id": "",
@@ -609,7 +682,7 @@
         "event_name": "中国出口年率-美元计价(%) (同比)  (十一月)",
         "previous": "-1.1%"
       },
-      "created_at": "2025-11-21T00:52:33.694111"
+      "created_at": "2025-11-22T00:50:26.220027"
     },
     {
       "platform": "investing",
@@ -629,7 +702,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-21",
+      "discovery_date": "2025-11-22",
       "raw_data": {
         "event_id": "eventRowId_536093",
         "event_attr_id": "",
@@ -640,7 +713,7 @@
         "event_name": "日本经济观察家前景指数  (十一月)",
         "previous": "49.1"
       },
-      "created_at": "2025-11-21T00:52:33.694218"
+      "created_at": "2025-11-22T00:50:26.220146"
     },
     {
       "platform": "investing",
@@ -660,7 +733,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-21",
+      "discovery_date": "2025-11-22",
       "raw_data": {
         "event_id": "eventRowId_536110",
         "event_attr_id": "",
@@ -671,7 +744,7 @@
         "event_name": "德国季调后工业产出月率(%) (月度环比)  (十月)",
         "previous": "1.3%"
       },
-      "created_at": "2025-11-21T00:52:33.694329"
+      "created_at": "2025-11-22T00:50:26.220261"
     },
     {
       "platform": "investing",
@@ -691,7 +764,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-21",
+      "discovery_date": "2025-11-22",
       "raw_data": {
         "event_id": "eventRowId_536107",
         "event_attr_id": "",
@@ -702,7 +775,7 @@
         "event_name": "德国季调后工业产出月率(%) (同比)  (十月)",
         "previous": "-0.98%"
       },
-      "created_at": "2025-11-21T00:52:33.694438"
+      "created_at": "2025-11-22T00:50:26.220374"
     },
     {
       "platform": "investing",
@@ -722,7 +795,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-21",
+      "discovery_date": "2025-11-22",
       "raw_data": {
         "event_id": "eventRowId_536114",
         "event_attr_id": "",
@@ -733,7 +806,7 @@
         "event_name": "法国储备资产总值  (十一月)",
         "previous": "350,037.0M"
       },
-      "created_at": "2025-11-21T00:52:33.694561"
+      "created_at": "2025-11-22T00:50:26.220496"
     },
     {
       "platform": "investing",
@@ -753,7 +826,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-21",
+      "discovery_date": "2025-11-22",
       "raw_data": {
         "event_id": "eventRowId_536119",
         "event_attr_id": "",
@@ -764,11 +837,11 @@
         "event_name": "欧元区Sentix投资者信心指数  (十二月)",
         "previous": "-7.4"
       },
-      "created_at": "2025-11-21T00:52:33.694678"
+      "created_at": "2025-11-22T00:50:26.220613"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251208000000_-7158790008454384305",
+      "event_id": "em_jjsj_20251208000000_-4857025973496398020",
       "original_id": "2025-12-08 00:00:00_中国：进口金额(报告期:2025年11月)",
       "event_date": "2025-12-08",
       "event_time": null,
@@ -784,16 +857,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-21",
+      "discovery_date": "2025-11-22",
       "raw_data": {
         "Name": "中国：进口金额(报告期:2025年11月)",
         "City": "中国"
       },
-      "created_at": "2025-11-21T00:52:38.978039"
+      "created_at": "2025-11-22T00:50:31.161710"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251208000000_8276752151850915141",
+      "event_id": "em_jjsj_20251208000000_-2219742472674079774",
       "original_id": "2025-12-08 00:00:00_中国：出口金额(报告期:2025年11月)",
       "event_date": "2025-12-08",
       "event_time": null,
@@ -809,16 +882,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-21",
+      "discovery_date": "2025-11-22",
       "raw_data": {
         "Name": "中国：出口金额(报告期:2025年11月)",
         "City": "中国"
       },
-      "created_at": "2025-11-21T00:52:38.978046"
+      "created_at": "2025-11-22T00:50:31.161718"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251208000000_6955226294766708874",
+      "event_id": "em_jjsj_20251208000000_557779862877740216",
       "original_id": "2025-12-08 00:00:00_中国：进出口金额:当月同比(报告期:2025年11月)",
       "event_date": "2025-12-08",
       "event_time": null,
@@ -834,16 +907,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-21",
+      "discovery_date": "2025-11-22",
       "raw_data": {
         "Name": "中国：进出口金额:当月同比(报告期:2025年11月)",
         "City": "中国"
       },
-      "created_at": "2025-11-21T00:52:38.978053"
+      "created_at": "2025-11-22T00:50:31.161726"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251208000000_-7751205861710151870",
+      "event_id": "em_jjsj_20251208000000_4107803112727354455",
       "original_id": "2025-12-08 00:00:00_新加坡：国际储备(报告期:2025年11月)",
       "event_date": "2025-12-08",
       "event_time": null,
@@ -859,16 +932,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-21",
+      "discovery_date": "2025-11-22",
       "raw_data": {
         "Name": "新加坡：国际储备(报告期:2025年11月)",
         "City": "新加坡"
       },
-      "created_at": "2025-11-21T00:52:38.978061"
+      "created_at": "2025-11-22T00:50:31.161734"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251208075000_-4279544473374540031",
+      "event_id": "em_jjsj_20251208075000_-7112625940787269899",
       "original_id": "2025-12-08 07:50:00_日本：经常项目差额(报告期:2025年10月)",
       "event_date": "2025-12-08",
       "event_time": "07:50:00",
@@ -884,43 +957,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-21",
+      "discovery_date": "2025-11-22",
       "raw_data": {
         "Name": "日本：经常项目差额(报告期:2025年10月)",
         "City": "日本"
       },
-      "created_at": "2025-11-21T00:52:38.978069"
-    },
-    {
-      "platform": "eastmoney",
-      "event_id": "em_hyhy_10866642",
-      "original_id": "10866642",
-      "event_date": "2025-12-08",
-      "event_time": null,
-      "event_datetime": null,
-      "title": "证监会公布《证券结算风险基金管理办法》,自2025年12月8日起施行",
-      "content": "现公布《证券结算风险基金管理办法》,自2025年12月8日起施行。",
-      "category": "行业会议",
-      "importance": 3,
-      "country": "中国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-11-21",
-      "raw_data": {
-        "fe_code": "10866642",
-        "fe_name": "证监会公布《证券结算风险基金管理办法》,自2025年12月8日起施行",
-        "start_date": "2025-12-08",
-        "end_date": "2025-12-08",
-        "fe_type": "其他会议",
-        "sponsor": null,
-        "city": null,
-        "content": "现公布《证券结算风险基金管理办法》,自2025年12月8日起施行。"
-      },
-      "created_at": "2025-11-21T00:52:38.979533"
+      "created_at": "2025-11-22T00:50:31.161742"
     }
   ]
 }

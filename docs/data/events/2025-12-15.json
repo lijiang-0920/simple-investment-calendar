@@ -1,13 +1,50 @@
 {
   "date": "2025-12-15",
-  "total_events": 17,
-  "new_events": 0,
+  "total_events": 18,
+  "new_events": 1,
   "platforms": {
+    "cls": 1,
     "jiuyangongshe": 1,
     "tonghuashun": 1,
     "eastmoney": 15
   },
   "events": [
+    {
+      "platform": "cls",
+      "event_id": "cls_371641_20251215_2",
+      "original_id": "371641",
+      "event_date": "2025-12-15",
+      "event_time": "00:00:00",
+      "event_datetime": "2025-12-15 00:00:00",
+      "title": "2025中国汽车软件大会将于12月15日至16日在上海嘉定召开",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-22",
+      "raw_data": {
+        "id": 371641,
+        "calendar_time": "2025-12-15 00:00:00",
+        "data_id": 20127,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "2025中国汽车软件大会将于12月15日至16日在上海嘉定召开",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "2025中国汽车软件大会将于12月15日至16日在上海嘉定召开"
+      },
+      "created_at": "2025-11-22T00:50:16.771701"
+    },
     {
       "platform": "jiuyangongshe",
       "event_id": "jygs_262bfb95ce3d45c4b0893a78953b0bce_423ba26942fd49fca02d0bc77fe72d5f_20251215",
@@ -26,7 +63,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-21",
+      "discovery_date": "2025-11-22",
       "raw_data": {
         "article_id": "262bfb95ce3d45c4b0893a78953b0bce",
         "user_id": "1",
@@ -51,7 +88,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-21T00:52:26.604903"
+      "created_at": "2025-11-22T00:50:20.152363"
     },
     {
       "platform": "tonghuashun",
@@ -71,7 +108,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-21",
+      "discovery_date": "2025-11-22",
       "raw_data": {
         "event": [
           "2025中国汽车软件大会将于12月15日至16日在上海嘉定召开",
@@ -81,11 +118,11 @@
         ],
         "concept": []
       },
-      "created_at": "2025-11-21T00:52:29.836708"
+      "created_at": "2025-11-22T00:50:22.920364"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251215075000_7163427226524499128",
+      "event_id": "em_jjsj_20251215075000_-5502209662558899301",
       "original_id": "2025-12-15 07:50:00_日本：短观预测指数(报告期:2025年12月)",
       "event_date": "2025-12-15",
       "event_time": "07:50:00",
@@ -101,16 +138,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-21",
+      "discovery_date": "2025-11-22",
       "raw_data": {
         "Name": "日本：短观预测指数(报告期:2025年12月)",
         "City": "日本"
       },
-      "created_at": "2025-11-21T00:52:38.978303"
+      "created_at": "2025-11-22T00:50:31.161995"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251215100000_5881258616483211582",
+      "event_id": "em_jjsj_20251215100000_-4247159847478850776",
       "original_id": "2025-12-15 10:00:00_中国：工业增加值:当月同比(报告期:2025年11月)",
       "event_date": "2025-12-15",
       "event_time": "10:00:00",
@@ -126,16 +163,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-21",
+      "discovery_date": "2025-11-22",
       "raw_data": {
         "Name": "中国：工业增加值:当月同比(报告期:2025年11月)",
         "City": "中国"
       },
-      "created_at": "2025-11-21T00:52:38.978311"
+      "created_at": "2025-11-22T00:50:31.162003"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251215100000_-2008628680746568554",
+      "event_id": "em_jjsj_20251215100000_2175619292801037390",
       "original_id": "2025-12-15 10:00:00_中国：工业增加值:环比:季调(报告期:2025年11月)",
       "event_date": "2025-12-15",
       "event_time": "10:00:00",
@@ -151,16 +188,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-21",
+      "discovery_date": "2025-11-22",
       "raw_data": {
         "Name": "中国：工业增加值:环比:季调(报告期:2025年11月)",
         "City": "中国"
       },
-      "created_at": "2025-11-21T00:52:38.978318"
+      "created_at": "2025-11-22T00:50:31.162010"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251215100000_-1165667586440087119",
+      "event_id": "em_jjsj_20251215100000_-6091084025514425710",
       "original_id": "2025-12-15 10:00:00_中国：产量:天然气:累计值(报告期:2025年11月)",
       "event_date": "2025-12-15",
       "event_time": "10:00:00",
@@ -176,16 +213,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-21",
+      "discovery_date": "2025-11-22",
       "raw_data": {
         "Name": "中国：产量:天然气:累计值(报告期:2025年11月)",
         "City": "中国"
       },
-      "created_at": "2025-11-21T00:52:38.978326"
+      "created_at": "2025-11-22T00:50:31.162017"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251215100000_-8775437676514528612",
+      "event_id": "em_jjsj_20251215100000_-5465391403660453477",
       "original_id": "2025-12-15 10:00:00_中国：工业增加值:累计同比(报告期:2025年11月)",
       "event_date": "2025-12-15",
       "event_time": "10:00:00",
@@ -201,16 +238,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-21",
+      "discovery_date": "2025-11-22",
       "raw_data": {
         "Name": "中国：工业增加值:累计同比(报告期:2025年11月)",
         "City": "中国"
       },
-      "created_at": "2025-11-21T00:52:38.978333"
+      "created_at": "2025-11-22T00:50:31.162025"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251215100000_3017919535013507186",
+      "event_id": "em_jjsj_20251215100000_-5151719725768844469",
       "original_id": "2025-12-15 10:00:00_中国：产量:平板玻璃:累计值(报告期:2025年11月)",
       "event_date": "2025-12-15",
       "event_time": "10:00:00",
@@ -226,16 +263,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-21",
+      "discovery_date": "2025-11-22",
       "raw_data": {
         "Name": "中国：产量:平板玻璃:累计值(报告期:2025年11月)",
         "City": "中国"
       },
-      "created_at": "2025-11-21T00:52:38.978340"
+      "created_at": "2025-11-22T00:50:31.162037"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251215100000_-3174994576469945220",
+      "event_id": "em_jjsj_20251215100000_3338736314776366541",
       "original_id": "2025-12-15 10:00:00_中国：产量:原油加工量:累计值(报告期:2025年11月)",
       "event_date": "2025-12-15",
       "event_time": "10:00:00",
@@ -251,16 +288,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-21",
+      "discovery_date": "2025-11-22",
       "raw_data": {
         "Name": "中国：产量:原油加工量:累计值(报告期:2025年11月)",
         "City": "中国"
       },
-      "created_at": "2025-11-21T00:52:38.978347"
+      "created_at": "2025-11-22T00:50:31.162047"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251215100000_-6153352277938809298",
+      "event_id": "em_jjsj_20251215100000_8761996645186085895",
       "original_id": "2025-12-15 10:00:00_中国：产量:生铁:累计值(报告期:2025年11月)",
       "event_date": "2025-12-15",
       "event_time": "10:00:00",
@@ -276,16 +313,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-21",
+      "discovery_date": "2025-11-22",
       "raw_data": {
         "Name": "中国：产量:生铁:累计值(报告期:2025年11月)",
         "City": "中国"
       },
-      "created_at": "2025-11-21T00:52:38.978354"
+      "created_at": "2025-11-22T00:50:31.162057"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251215100000_-5023356899268265269",
+      "event_id": "em_jjsj_20251215100000_-2308146213512263180",
       "original_id": "2025-12-15 10:00:00_中国：固定资产投资完成额:累计同比(报告期:2025年11月)",
       "event_date": "2025-12-15",
       "event_time": "10:00:00",
@@ -301,16 +338,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-21",
+      "discovery_date": "2025-11-22",
       "raw_data": {
         "Name": "中国：固定资产投资完成额:累计同比(报告期:2025年11月)",
         "City": "中国"
       },
-      "created_at": "2025-11-21T00:52:38.978362"
+      "created_at": "2025-11-22T00:50:31.162064"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251215100000_7522318094172549856",
+      "event_id": "em_jjsj_20251215100000_-8681879801372990935",
       "original_id": "2025-12-15 10:00:00_中国：社会消费品零售总额:同比(报告期:2025年11月)",
       "event_date": "2025-12-15",
       "event_time": "10:00:00",
@@ -326,16 +363,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-21",
+      "discovery_date": "2025-11-22",
       "raw_data": {
         "Name": "中国：社会消费品零售总额:同比(报告期:2025年11月)",
         "City": "中国"
       },
-      "created_at": "2025-11-21T00:52:38.978369"
+      "created_at": "2025-11-22T00:50:31.162072"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251215163000_-6344783897847955266",
+      "event_id": "em_jjsj_20251215163000_510092025259188763",
       "original_id": "2025-12-15 16:30:00_中国香港：PPI：制造业：同比(报告期:2025年09月)",
       "event_date": "2025-12-15",
       "event_time": "16:30:00",
@@ -351,16 +388,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-21",
+      "discovery_date": "2025-11-22",
       "raw_data": {
         "Name": "中国香港：PPI：制造业：同比(报告期:2025年09月)",
         "City": "中国香港"
       },
-      "created_at": "2025-11-21T00:52:38.978377"
+      "created_at": "2025-11-22T00:50:31.162079"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251215213000_-3962611963756327029",
+      "event_id": "em_jjsj_20251215213000_-731529286981774701",
       "original_id": "2025-12-15 21:30:00_加拿大：核心CPI：同比(报告期:2025年11月)",
       "event_date": "2025-12-15",
       "event_time": "21:30:00",
@@ -376,16 +413,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-21",
+      "discovery_date": "2025-11-22",
       "raw_data": {
         "Name": "加拿大：核心CPI：同比(报告期:2025年11月)",
         "City": "加拿大"
       },
-      "created_at": "2025-11-21T00:52:38.978385"
+      "created_at": "2025-11-22T00:50:31.162088"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251215213000_-1776177050737571881",
+      "event_id": "em_jjsj_20251215213000_4896161304290882952",
       "original_id": "2025-12-15 21:30:00_加拿大：CPI：同比(报告期:2025年11月)",
       "event_date": "2025-12-15",
       "event_time": "21:30:00",
@@ -401,16 +438,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-21",
+      "discovery_date": "2025-11-22",
       "raw_data": {
         "Name": "加拿大：CPI：同比(报告期:2025年11月)",
         "City": "加拿大"
       },
-      "created_at": "2025-11-21T00:52:38.978392"
+      "created_at": "2025-11-22T00:50:31.162095"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251215213000_-337254365077180882",
+      "event_id": "em_jjsj_20251215213000_-9154990046445664983",
       "original_id": "2025-12-15 21:30:00_加拿大：核心CPI：环比(报告期:2025年11月)",
       "event_date": "2025-12-15",
       "event_time": "21:30:00",
@@ -426,12 +463,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-21",
+      "discovery_date": "2025-11-22",
       "raw_data": {
         "Name": "加拿大：核心CPI：环比(报告期:2025年11月)",
         "City": "加拿大"
       },
-      "created_at": "2025-11-21T00:52:38.978399"
+      "created_at": "2025-11-22T00:50:31.162102"
     },
     {
       "platform": "eastmoney",
@@ -451,7 +488,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-21",
+      "discovery_date": "2025-11-22",
       "raw_data": {
         "fe_code": "10866643",
         "fe_name": "2025中国汽车软件大会",
@@ -462,7 +499,7 @@
         "city": "上海",
         "content": "由中国汽车工业协会和上海国际汽车城(集团)有限公司联合主办的“2025中国汽车软件大会”,将于2025年12月15日-16日在上海嘉定召开。大会以“软筑新生态·AI启未来”为主题,设置“1场闭门会议1场大会论坛、4场主题论坛、N个成果发布”,聚焦于汽车软件领域的前沿技术、标准建设、软件与数据双轮驱动等重点议题,旨在汇聚全球产业智慧,解读行业政策导向,展示前沿技术成果。"
       },
-      "created_at": "2025-11-21T00:52:38.979563"
+      "created_at": "2025-11-22T00:50:31.163171"
     }
   ]
 }
