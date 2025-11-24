@@ -1,11 +1,12 @@
 {
   "date": "2025-12-15",
-  "total_events": 18,
-  "new_events": 0,
+  "total_events": 29,
+  "new_events": 11,
   "platforms": {
     "cls": 1,
     "jiuyangongshe": 1,
     "tonghuashun": 1,
+    "investing": 11,
     "eastmoney": 15
   },
   "events": [
@@ -27,7 +28,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-23",
+      "discovery_date": "2025-11-24",
       "raw_data": {
         "id": 371641,
         "calendar_time": "2025-12-15 00:00:00",
@@ -43,7 +44,7 @@
         "holiday": null,
         "title": "2025中国汽车软件大会将于12月15日至16日在上海嘉定召开"
       },
-      "created_at": "2025-11-23T00:59:59.581099"
+      "created_at": "2025-11-24T00:56:41.317519"
     },
     {
       "platform": "jiuyangongshe",
@@ -63,7 +64,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-23",
+      "discovery_date": "2025-11-24",
       "raw_data": {
         "article_id": "262bfb95ce3d45c4b0893a78953b0bce",
         "user_id": "1",
@@ -88,7 +89,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-23T01:00:04.251471"
+      "created_at": "2025-11-24T00:56:45.986555"
     },
     {
       "platform": "tonghuashun",
@@ -108,7 +109,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-23",
+      "discovery_date": "2025-11-24",
       "raw_data": {
         "event": [
           "2025中国汽车软件大会将于12月15日至16日在上海嘉定召开",
@@ -118,11 +119,352 @@
         ],
         "concept": []
       },
-      "created_at": "2025-11-23T01:00:07.412837"
+      "created_at": "2025-11-24T00:56:49.209899"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251215075000",
+      "original_id": "eventRowId_536667",
+      "event_date": "2025-12-15",
+      "event_time": "07:50",
+      "event_datetime": "2025/12/15 07:50:00",
+      "title": "日本短观全行业大型企业资本支出年率(%)  (第四季度)",
+      "content": "前值: 12.5%",
+      "category": null,
+      "importance": 2,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-24",
+      "raw_data": {
+        "event_id": "eventRowId_536667",
+        "event_attr_id": "",
+        "datetime": "2025/12/15 07:50:00",
+        "time": "07:50",
+        "country": "日本",
+        "importance": 2,
+        "event_name": "日本短观全行业大型企业资本支出年率(%)  (第四季度)",
+        "previous": "12.5%"
+      },
+      "created_at": "2025-11-24T00:56:53.246666"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251215075000",
+      "original_id": "eventRowId_536658",
+      "event_date": "2025-12-15",
+      "event_time": "07:50",
+      "event_datetime": "2025/12/15 07:50:00",
+      "title": "日本短观全行业小型企业资本支出年率(%)  (第四季度)",
+      "content": "前值: -2.3%",
+      "category": null,
+      "importance": 1,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-24",
+      "raw_data": {
+        "event_id": "eventRowId_536658",
+        "event_attr_id": "",
+        "datetime": "2025/12/15 07:50:00",
+        "time": "07:50",
+        "country": "日本",
+        "importance": 1,
+        "event_name": "日本短观全行业小型企业资本支出年率(%)  (第四季度)",
+        "previous": "-2.3%"
+      },
+      "created_at": "2025-11-24T00:56:53.246808"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251215075000",
+      "original_id": "eventRowId_536664",
+      "event_date": "2025-12-15",
+      "event_time": "07:50",
+      "event_datetime": "2025/12/15 07:50:00",
+      "title": "日本短观大型制造业前景指数  (第四季度)",
+      "content": "前值: 12",
+      "category": null,
+      "importance": 2,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-24",
+      "raw_data": {
+        "event_id": "eventRowId_536664",
+        "event_attr_id": "",
+        "datetime": "2025/12/15 07:50:00",
+        "time": "07:50",
+        "country": "日本",
+        "importance": 2,
+        "event_name": "日本短观大型制造业前景指数  (第四季度)",
+        "previous": "12"
+      },
+      "created_at": "2025-11-24T00:56:53.246953"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251215075000",
+      "original_id": "eventRowId_536660",
+      "event_date": "2025-12-15",
+      "event_time": "07:50",
+      "event_datetime": "2025/12/15 07:50:00",
+      "title": "日本央行短观大型制造业景气判断指数  (第四季度)",
+      "content": "前值: 14",
+      "category": null,
+      "importance": 2,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-24",
+      "raw_data": {
+        "event_id": "eventRowId_536660",
+        "event_attr_id": "",
+        "datetime": "2025/12/15 07:50:00",
+        "time": "07:50",
+        "country": "日本",
+        "importance": 2,
+        "event_name": "日本央行短观大型制造业景气判断指数  (第四季度)",
+        "previous": "14"
+      },
+      "created_at": "2025-11-24T00:56:53.247084"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251215075000",
+      "original_id": "eventRowId_536663",
+      "event_date": "2025-12-15",
+      "event_time": "07:50",
+      "event_datetime": "2025/12/15 07:50:00",
+      "title": "日本央行短观大型非制造业前景指数  (第四季度)",
+      "content": "前值: 28",
+      "category": null,
+      "importance": 1,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-24",
+      "raw_data": {
+        "event_id": "eventRowId_536663",
+        "event_attr_id": "",
+        "datetime": "2025/12/15 07:50:00",
+        "time": "07:50",
+        "country": "日本",
+        "importance": 1,
+        "event_name": "日本央行短观大型非制造业前景指数  (第四季度)",
+        "previous": "28"
+      },
+      "created_at": "2025-11-24T00:56:53.247199"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251215075000",
+      "original_id": "eventRowId_536662",
+      "event_date": "2025-12-15",
+      "event_time": "07:50",
+      "event_datetime": "2025/12/15 07:50:00",
+      "title": "日本央行短观大型非制造业景气判断指数  (第四季度)",
+      "content": "前值: 34",
+      "category": null,
+      "importance": 2,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-24",
+      "raw_data": {
+        "event_id": "eventRowId_536662",
+        "event_attr_id": "",
+        "datetime": "2025/12/15 07:50:00",
+        "time": "07:50",
+        "country": "日本",
+        "importance": 2,
+        "event_name": "日本央行短观大型非制造业景气判断指数  (第四季度)",
+        "previous": "34"
+      },
+      "created_at": "2025-11-24T00:56:53.247314"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251215075000",
+      "original_id": "eventRowId_536665",
+      "event_date": "2025-12-15",
+      "event_time": "07:50",
+      "event_datetime": "2025/12/15 07:50:00",
+      "title": "日本短观小型制造业前景指数  (第四季度)",
+      "content": "前值: -1",
+      "category": null,
+      "importance": 1,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-24",
+      "raw_data": {
+        "event_id": "eventRowId_536665",
+        "event_attr_id": "",
+        "datetime": "2025/12/15 07:50:00",
+        "time": "07:50",
+        "country": "日本",
+        "importance": 1,
+        "event_name": "日本短观小型制造业前景指数  (第四季度)",
+        "previous": "-1"
+      },
+      "created_at": "2025-11-24T00:56:53.247427"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251215075000",
+      "original_id": "eventRowId_536659",
+      "event_date": "2025-12-15",
+      "event_time": "07:50",
+      "event_datetime": "2025/12/15 07:50:00",
+      "title": "日本央行短观小型制造业景气判断指数  (第四季度)",
+      "content": "前值: 1",
+      "category": null,
+      "importance": 1,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-24",
+      "raw_data": {
+        "event_id": "eventRowId_536659",
+        "event_attr_id": "",
+        "datetime": "2025/12/15 07:50:00",
+        "time": "07:50",
+        "country": "日本",
+        "importance": 1,
+        "event_name": "日本央行短观小型制造业景气判断指数  (第四季度)",
+        "previous": "1"
+      },
+      "created_at": "2025-11-24T00:56:53.247539"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251215075000",
+      "original_id": "eventRowId_536666",
+      "event_date": "2025-12-15",
+      "event_time": "07:50",
+      "event_datetime": "2025/12/15 07:50:00",
+      "title": "日本短观小型非制造业前景指数  (第四季度)",
+      "content": "前值: 10",
+      "category": null,
+      "importance": 1,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-24",
+      "raw_data": {
+        "event_id": "eventRowId_536666",
+        "event_attr_id": "",
+        "datetime": "2025/12/15 07:50:00",
+        "time": "07:50",
+        "country": "日本",
+        "importance": 1,
+        "event_name": "日本短观小型非制造业前景指数  (第四季度)",
+        "previous": "10"
+      },
+      "created_at": "2025-11-24T00:56:53.247652"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251215075000",
+      "original_id": "eventRowId_536661",
+      "event_date": "2025-12-15",
+      "event_time": "07:50",
+      "event_datetime": "2025/12/15 07:50:00",
+      "title": "日本央行短观小型非制造业景气判断指数  (第四季度)",
+      "content": "前值: 14",
+      "category": null,
+      "importance": 1,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-24",
+      "raw_data": {
+        "event_id": "eventRowId_536661",
+        "event_attr_id": "",
+        "datetime": "2025/12/15 07:50:00",
+        "time": "07:50",
+        "country": "日本",
+        "importance": 1,
+        "event_name": "日本央行短观小型非制造业景气判断指数  (第四季度)",
+        "previous": "14"
+      },
+      "created_at": "2025-11-24T00:56:53.247765"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251215080100",
+      "original_id": "eventRowId_536668",
+      "event_date": "2025-12-15",
+      "event_time": "08:01",
+      "event_datetime": "2025/12/15 08:01:00",
+      "title": "英国Rightmove平均房屋要价指数月率(%) (同比)  (十二月)",
+      "content": "前值: -0.5%",
+      "category": null,
+      "importance": 1,
+      "country": "英国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-24",
+      "raw_data": {
+        "event_id": "eventRowId_536668",
+        "event_attr_id": "",
+        "datetime": "2025/12/15 08:01:00",
+        "time": "08:01",
+        "country": "英国",
+        "importance": 1,
+        "event_name": "英国Rightmove平均房屋要价指数月率(%) (同比)  (十二月)",
+        "previous": "-0.5%"
+      },
+      "created_at": "2025-11-24T00:56:53.247897"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251215075000_3982176435643391079",
+      "event_id": "em_jjsj_20251215075000_284504281195087884",
       "original_id": "2025-12-15 07:50:00_日本：短观预测指数(报告期:2025年12月)",
       "event_date": "2025-12-15",
       "event_time": "07:50:00",
@@ -138,16 +480,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-23",
+      "discovery_date": "2025-11-24",
       "raw_data": {
         "Name": "日本：短观预测指数(报告期:2025年12月)",
         "City": "日本"
       },
-      "created_at": "2025-11-23T01:00:15.535747"
+      "created_at": "2025-11-24T00:56:57.394794"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251215100000_820253037221501813",
+      "event_id": "em_jjsj_20251215100000_3979284805992498820",
       "original_id": "2025-12-15 10:00:00_中国：工业增加值:当月同比(报告期:2025年11月)",
       "event_date": "2025-12-15",
       "event_time": "10:00:00",
@@ -163,16 +505,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-23",
+      "discovery_date": "2025-11-24",
       "raw_data": {
         "Name": "中国：工业增加值:当月同比(报告期:2025年11月)",
         "City": "中国"
       },
-      "created_at": "2025-11-23T01:00:15.535755"
+      "created_at": "2025-11-24T00:56:57.394802"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251215100000_-6250327097388694952",
+      "event_id": "em_jjsj_20251215100000_-8804578098894763819",
       "original_id": "2025-12-15 10:00:00_中国：工业增加值:环比:季调(报告期:2025年11月)",
       "event_date": "2025-12-15",
       "event_time": "10:00:00",
@@ -188,16 +530,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-23",
+      "discovery_date": "2025-11-24",
       "raw_data": {
         "Name": "中国：工业增加值:环比:季调(报告期:2025年11月)",
         "City": "中国"
       },
-      "created_at": "2025-11-23T01:00:15.535763"
+      "created_at": "2025-11-24T00:56:57.394809"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251215100000_760382820403966069",
+      "event_id": "em_jjsj_20251215100000_-6049363883430059156",
       "original_id": "2025-12-15 10:00:00_中国：产量:天然气:累计值(报告期:2025年11月)",
       "event_date": "2025-12-15",
       "event_time": "10:00:00",
@@ -213,16 +555,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-23",
+      "discovery_date": "2025-11-24",
       "raw_data": {
         "Name": "中国：产量:天然气:累计值(报告期:2025年11月)",
         "City": "中国"
       },
-      "created_at": "2025-11-23T01:00:15.535770"
+      "created_at": "2025-11-24T00:56:57.394817"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251215100000_5896075088712808074",
+      "event_id": "em_jjsj_20251215100000_3058007351225231788",
       "original_id": "2025-12-15 10:00:00_中国：工业增加值:累计同比(报告期:2025年11月)",
       "event_date": "2025-12-15",
       "event_time": "10:00:00",
@@ -238,16 +580,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-23",
+      "discovery_date": "2025-11-24",
       "raw_data": {
         "Name": "中国：工业增加值:累计同比(报告期:2025年11月)",
         "City": "中国"
       },
-      "created_at": "2025-11-23T01:00:15.535777"
+      "created_at": "2025-11-24T00:56:57.394824"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251215100000_4170312978702661208",
+      "event_id": "em_jjsj_20251215100000_6273811172885707137",
       "original_id": "2025-12-15 10:00:00_中国：产量:平板玻璃:累计值(报告期:2025年11月)",
       "event_date": "2025-12-15",
       "event_time": "10:00:00",
@@ -263,16 +605,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-23",
+      "discovery_date": "2025-11-24",
       "raw_data": {
         "Name": "中国：产量:平板玻璃:累计值(报告期:2025年11月)",
         "City": "中国"
       },
-      "created_at": "2025-11-23T01:00:15.535784"
+      "created_at": "2025-11-24T00:56:57.394831"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251215100000_-8725395498140615876",
+      "event_id": "em_jjsj_20251215100000_-3331309817631536943",
       "original_id": "2025-12-15 10:00:00_中国：产量:原油加工量:累计值(报告期:2025年11月)",
       "event_date": "2025-12-15",
       "event_time": "10:00:00",
@@ -288,16 +630,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-23",
+      "discovery_date": "2025-11-24",
       "raw_data": {
         "Name": "中国：产量:原油加工量:累计值(报告期:2025年11月)",
         "City": "中国"
       },
-      "created_at": "2025-11-23T01:00:15.535791"
+      "created_at": "2025-11-24T00:56:57.394839"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251215100000_5291705800525359880",
+      "event_id": "em_jjsj_20251215100000_3515368028318568701",
       "original_id": "2025-12-15 10:00:00_中国：产量:生铁:累计值(报告期:2025年11月)",
       "event_date": "2025-12-15",
       "event_time": "10:00:00",
@@ -313,16 +655,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-23",
+      "discovery_date": "2025-11-24",
       "raw_data": {
         "Name": "中国：产量:生铁:累计值(报告期:2025年11月)",
         "City": "中国"
       },
-      "created_at": "2025-11-23T01:00:15.535798"
+      "created_at": "2025-11-24T00:56:57.394846"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251215100000_-6144072331197919890",
+      "event_id": "em_jjsj_20251215100000_-7790786614196168275",
       "original_id": "2025-12-15 10:00:00_中国：固定资产投资完成额:累计同比(报告期:2025年11月)",
       "event_date": "2025-12-15",
       "event_time": "10:00:00",
@@ -338,16 +680,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-23",
+      "discovery_date": "2025-11-24",
       "raw_data": {
         "Name": "中国：固定资产投资完成额:累计同比(报告期:2025年11月)",
         "City": "中国"
       },
-      "created_at": "2025-11-23T01:00:15.535806"
+      "created_at": "2025-11-24T00:56:57.394853"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251215100000_6830946094034582614",
+      "event_id": "em_jjsj_20251215100000_-894370179139458825",
       "original_id": "2025-12-15 10:00:00_中国：社会消费品零售总额:同比(报告期:2025年11月)",
       "event_date": "2025-12-15",
       "event_time": "10:00:00",
@@ -363,16 +705,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-23",
+      "discovery_date": "2025-11-24",
       "raw_data": {
         "Name": "中国：社会消费品零售总额:同比(报告期:2025年11月)",
         "City": "中国"
       },
-      "created_at": "2025-11-23T01:00:15.535813"
+      "created_at": "2025-11-24T00:56:57.394872"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251215163000_-2787683122535125752",
+      "event_id": "em_jjsj_20251215163000_-7792656389746625938",
       "original_id": "2025-12-15 16:30:00_中国香港：PPI：制造业：同比(报告期:2025年09月)",
       "event_date": "2025-12-15",
       "event_time": "16:30:00",
@@ -388,16 +730,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-23",
+      "discovery_date": "2025-11-24",
       "raw_data": {
         "Name": "中国香港：PPI：制造业：同比(报告期:2025年09月)",
         "City": "中国香港"
       },
-      "created_at": "2025-11-23T01:00:15.535820"
+      "created_at": "2025-11-24T00:56:57.394882"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251215213000_7542014740347475836",
+      "event_id": "em_jjsj_20251215213000_6149918344742040535",
       "original_id": "2025-12-15 21:30:00_加拿大：核心CPI：同比(报告期:2025年11月)",
       "event_date": "2025-12-15",
       "event_time": "21:30:00",
@@ -413,16 +755,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-23",
+      "discovery_date": "2025-11-24",
       "raw_data": {
         "Name": "加拿大：核心CPI：同比(报告期:2025年11月)",
         "City": "加拿大"
       },
-      "created_at": "2025-11-23T01:00:15.535828"
+      "created_at": "2025-11-24T00:56:57.394890"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251215213000_4204860773297993546",
+      "event_id": "em_jjsj_20251215213000_6767985047322011384",
       "original_id": "2025-12-15 21:30:00_加拿大：CPI：同比(报告期:2025年11月)",
       "event_date": "2025-12-15",
       "event_time": "21:30:00",
@@ -438,16 +780,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-23",
+      "discovery_date": "2025-11-24",
       "raw_data": {
         "Name": "加拿大：CPI：同比(报告期:2025年11月)",
         "City": "加拿大"
       },
-      "created_at": "2025-11-23T01:00:15.535836"
+      "created_at": "2025-11-24T00:56:57.394897"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251215213000_-6495679092881164230",
+      "event_id": "em_jjsj_20251215213000_-6831199995959474092",
       "original_id": "2025-12-15 21:30:00_加拿大：核心CPI：环比(报告期:2025年11月)",
       "event_date": "2025-12-15",
       "event_time": "21:30:00",
@@ -463,12 +805,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-23",
+      "discovery_date": "2025-11-24",
       "raw_data": {
         "Name": "加拿大：核心CPI：环比(报告期:2025年11月)",
         "City": "加拿大"
       },
-      "created_at": "2025-11-23T01:00:15.535843"
+      "created_at": "2025-11-24T00:56:57.394905"
     },
     {
       "platform": "eastmoney",
@@ -488,7 +830,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-23",
+      "discovery_date": "2025-11-24",
       "raw_data": {
         "fe_code": "10866643",
         "fe_name": "2025中国汽车软件大会",
@@ -499,7 +841,7 @@
         "city": "上海",
         "content": "由中国汽车工业协会和上海国际汽车城(集团)有限公司联合主办的“2025中国汽车软件大会”,将于2025年12月15日-16日在上海嘉定召开。大会以“软筑新生态·AI启未来”为主题,设置“1场闭门会议1场大会论坛、4场主题论坛、N个成果发布”,聚焦于汽车软件领域的前沿技术、标准建设、软件与数据双轮驱动等重点议题,旨在汇聚全球产业智慧,解读行业政策导向,展示前沿技术成果。"
       },
-      "created_at": "2025-11-23T01:00:15.536853"
+      "created_at": "2025-11-24T00:56:57.395883"
     }
   ]
 }
