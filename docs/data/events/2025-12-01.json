@@ -1,12 +1,13 @@
 {
   "date": "2025-12-01",
-  "total_events": 61,
-  "new_events": 10,
+  "total_events": 75,
+  "new_events": 16,
   "platforms": {
     "cls": 5,
     "jiuyangongshe": 1,
     "tonghuashun": 4,
-    "investing": 51
+    "investing": 52,
+    "eastmoney": 13
   },
   "events": [
     {
@@ -26,8 +27,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-11-25",
+      "is_new": false,
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "id": 396942,
         "calendar_time": "2025-12-01 00:00:00",
@@ -43,7 +44,7 @@
         "holiday": null,
         "title": "2025“人工智能+”产业生态大会将于12月1日至3日在北京举办"
       },
-      "created_at": "2025-11-25T00:52:09.621325"
+      "created_at": "2025-11-26T00:53:19.521340"
     },
     {
       "platform": "cls",
@@ -62,8 +63,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-11-25",
+      "is_new": false,
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "id": 396988,
         "calendar_time": "2025-12-01 00:00:00",
@@ -79,7 +80,7 @@
         "holiday": null,
         "title": "《校园配餐服务企业管理指南》国家标准将于12月1日将正式实施"
       },
-      "created_at": "2025-11-25T00:52:09.621336"
+      "created_at": "2025-11-26T00:53:19.521351"
     },
     {
       "platform": "cls",
@@ -98,8 +99,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-11-25",
+      "is_new": false,
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "id": 396992,
         "calendar_time": "2025-12-01 00:00:00",
@@ -115,7 +116,7 @@
         "holiday": null,
         "title": "《陈年白酒流通鉴定规范》团体标准将于12月1日正式实施"
       },
-      "created_at": "2025-11-25T00:52:09.621347"
+      "created_at": "2025-11-26T00:53:19.521362"
     },
     {
       "platform": "cls",
@@ -134,8 +135,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-11-25",
+      "is_new": false,
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "id": 396995,
         "calendar_time": "2025-12-01 00:00:00",
@@ -151,7 +152,7 @@
         "holiday": null,
         "title": "12月1日至5日，新疆阿勒泰地区将试行首个“雪假”"
       },
-      "created_at": "2025-11-25T00:52:09.621359"
+      "created_at": "2025-11-26T00:53:19.521372"
     },
     {
       "platform": "cls",
@@ -170,8 +171,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-11-25",
+      "is_new": false,
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "id": 396999,
         "calendar_time": "2025-12-01 00:00:00",
@@ -187,7 +188,7 @@
         "holiday": null,
         "title": "《期货做市交易业务管理规则》将于12月1日起实施"
       },
-      "created_at": "2025-11-25T00:52:09.621372"
+      "created_at": "2025-11-26T00:53:19.521382"
     },
     {
       "platform": "jiuyangongshe",
@@ -207,7 +208,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-25",
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "article_id": "1d709dbbbed04be9a4c1b4e8b82e0f8d",
         "user_id": "1",
@@ -232,7 +233,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-25T00:52:13.528290"
+      "created_at": "2025-11-26T00:53:23.853150"
     },
     {
       "platform": "tonghuashun",
@@ -248,11 +249,16 @@
       "country": "中国",
       "city": null,
       "stocks": [],
-      "concepts": [],
+      "concepts": [
+        {
+          "code": "885570",
+          "name": "期货概念"
+        }
+      ],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-11-25",
+      "is_new": false,
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "event": [
           "《期货做市交易业务管理规则》将于12月1日起实施",
@@ -260,9 +266,15 @@
           "",
           ""
         ],
-        "concept": []
+        "concept": [
+          {
+            "code": "885570",
+            "name": "期货概念",
+            "py": "qhgn"
+          }
+        ]
       },
-      "created_at": "2025-11-25T00:52:16.352273"
+      "created_at": "2025-11-26T00:53:27.060242"
     },
     {
       "platform": "tonghuashun",
@@ -278,11 +290,16 @@
       "country": "中国",
       "city": null,
       "stocks": [],
-      "concepts": [],
+      "concepts": [
+        {
+          "code": "885728",
+          "name": "人工智能"
+        }
+      ],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-11-25",
+      "is_new": false,
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "event": [
           "2025“人工智能+”产业生态大会将于12月1日至3日在北京举办",
@@ -290,9 +307,15 @@
           "",
           ""
         ],
-        "concept": []
+        "concept": [
+          {
+            "code": "885728",
+            "name": "人工智能",
+            "py": "rgzn"
+          }
+        ]
       },
-      "created_at": "2025-11-25T00:52:16.352303"
+      "created_at": "2025-11-26T00:53:27.060277"
     },
     {
       "platform": "tonghuashun",
@@ -308,11 +331,16 @@
       "country": "中国",
       "city": null,
       "stocks": [],
-      "concepts": [],
+      "concepts": [
+        {
+          "code": "885825",
+          "name": "冰雪产业"
+        }
+      ],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-11-25",
+      "is_new": false,
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "event": [
           "12月1日至5日，新疆阿勒泰地区将试行首个“雪假”",
@@ -320,9 +348,15 @@
           "",
           ""
         ],
-        "concept": []
+        "concept": [
+          {
+            "code": "885825",
+            "name": "冰雪产业",
+            "py": "bxcy"
+          }
+        ]
       },
-      "created_at": "2025-11-25T00:52:16.352314"
+      "created_at": "2025-11-26T00:53:27.060292"
     },
     {
       "platform": "tonghuashun",
@@ -338,11 +372,16 @@
       "country": "中国",
       "city": null,
       "stocks": [],
-      "concepts": [],
+      "concepts": [
+        {
+          "code": "885525",
+          "name": "白酒概念"
+        }
+      ],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-11-25",
+      "is_new": false,
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "event": [
           "《陈年白酒流通鉴定规范》团体标准将于12月1日正式实施",
@@ -350,9 +389,15 @@
           "",
           ""
         ],
-        "concept": []
+        "concept": [
+          {
+            "code": "885525",
+            "name": "白酒概念",
+            "py": "bjgn"
+          }
+        ]
       },
-      "created_at": "2025-11-25T00:52:16.352323"
+      "created_at": "2025-11-26T00:53:27.060305"
     },
     {
       "platform": "investing",
@@ -372,7 +417,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-25",
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "event_id": "eventRowId_535572",
         "event_attr_id": "",
@@ -383,7 +428,7 @@
         "event_name": "新西兰建筑许可月率(%) (月度环比)  (十月)",
         "previous": "7.2%"
       },
-      "created_at": "2025-11-25T00:52:18.710005"
+      "created_at": "2025-11-26T00:53:28.656199"
     },
     {
       "platform": "investing",
@@ -403,7 +448,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-25",
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "event_id": "eventRowId_535573",
         "event_attr_id": "",
@@ -414,7 +459,7 @@
         "event_name": "澳大利亚制造业PMI  (十一月)",
         "previous": "51.6"
       },
-      "created_at": "2025-11-25T00:52:18.710152"
+      "created_at": "2025-11-26T00:53:28.656340"
     },
     {
       "platform": "investing",
@@ -434,7 +479,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-25",
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "event_id": "eventRowId_535574",
         "event_attr_id": "",
@@ -445,7 +490,7 @@
         "event_name": "日本企业资本支出年率(%) (同比)  (第三季度)",
         "previous": "7.6%"
       },
-      "created_at": "2025-11-25T00:52:18.710291"
+      "created_at": "2025-11-26T00:53:28.656470"
     },
     {
       "platform": "investing",
@@ -465,7 +510,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-25",
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "event_id": "eventRowId_535576",
         "event_attr_id": "",
@@ -476,7 +521,7 @@
         "event_name": "韩国出口额年率(%) (同比)  (十一月)",
         "previous": "3.5%"
       },
-      "created_at": "2025-11-25T00:52:18.710412"
+      "created_at": "2025-11-26T00:53:28.656591"
     },
     {
       "platform": "investing",
@@ -496,7 +541,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-25",
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "event_id": "eventRowId_535575",
         "event_attr_id": "",
@@ -507,7 +552,7 @@
         "event_name": "韩国进口额年率(%) (同比)  (十一月)",
         "previous": "-1.5%"
       },
-      "created_at": "2025-11-25T00:52:18.710534"
+      "created_at": "2025-11-26T00:53:28.656708"
     },
     {
       "platform": "investing",
@@ -527,7 +572,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-25",
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "event_id": "eventRowId_535577",
         "event_attr_id": "",
@@ -538,7 +583,7 @@
         "event_name": "韩国贸易帐(韩元)  (十一月)",
         "previous": "6.00B"
       },
-      "created_at": "2025-11-25T00:52:18.710652"
+      "created_at": "2025-11-26T00:53:28.656847"
     },
     {
       "platform": "investing",
@@ -558,7 +603,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-25",
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "event_id": "eventRowId_535582",
         "event_attr_id": "",
@@ -569,7 +614,7 @@
         "event_name": "韩国汇丰制造业PMI  (十一月)",
         "previous": "49.4"
       },
-      "created_at": "2025-11-25T00:52:18.710769"
+      "created_at": "2025-11-26T00:53:28.656963"
     },
     {
       "platform": "investing",
@@ -589,7 +634,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-25",
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "event_id": "eventRowId_535588",
         "event_attr_id": "",
@@ -600,7 +645,7 @@
         "event_name": "澳大利亚季调后企业库存季率(%) (月度环比)  (第三季度)",
         "previous": "0.1%"
       },
-      "created_at": "2025-11-25T00:52:18.710884"
+      "created_at": "2025-11-26T00:53:28.657077"
     },
     {
       "platform": "investing",
@@ -620,7 +665,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-25",
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "event_id": "eventRowId_535579",
         "event_attr_id": "",
@@ -631,7 +676,7 @@
         "event_name": "澳大利亚企业获利季率(%) (季度环比)  (第三季度)",
         "previous": "-2.4%"
       },
-      "created_at": "2025-11-25T00:52:18.711000"
+      "created_at": "2025-11-26T00:53:28.657225"
     },
     {
       "platform": "investing",
@@ -651,7 +696,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-25",
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "event_id": "eventRowId_535578",
         "event_attr_id": "",
@@ -662,7 +707,7 @@
         "event_name": "澳大利亚企业税前利润季率(%) (季度环比)  (第三季度)",
         "previous": "2.1%"
       },
-      "created_at": "2025-11-25T00:52:18.711116"
+      "created_at": "2025-11-26T00:53:28.657368"
     },
     {
       "platform": "investing",
@@ -682,7 +727,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-25",
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "event_id": "eventRowId_535581",
         "event_attr_id": "",
@@ -693,7 +738,7 @@
         "event_name": "日本日经/Markit制造业PMI  (十一月)",
         "previous": "48.8"
       },
-      "created_at": "2025-11-25T00:52:18.711265"
+      "created_at": "2025-11-26T00:53:28.657484"
     },
     {
       "platform": "investing",
@@ -713,7 +758,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-25",
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "event_id": "eventRowId_535585",
         "event_attr_id": "",
@@ -724,7 +769,7 @@
         "event_name": "制造业PMI  (十一月)",
         "previous": "56.60"
       },
-      "created_at": "2025-11-25T00:52:18.711393"
+      "created_at": "2025-11-26T00:53:28.657596"
     },
     {
       "platform": "investing",
@@ -744,7 +789,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-25",
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "event_id": "eventRowId_535584",
         "event_attr_id": "",
@@ -755,7 +800,7 @@
         "event_name": "制造业PMI  (十一月)",
         "previous": "49.50"
       },
-      "created_at": "2025-11-25T00:52:18.711511"
+      "created_at": "2025-11-26T00:53:28.657713"
     },
     {
       "platform": "investing",
@@ -775,7 +820,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-25",
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "event_id": "eventRowId_535586",
         "event_attr_id": "",
@@ -786,7 +831,7 @@
         "event_name": "中国台湾日经/Markit制造业PMI  (十一月)",
         "previous": "47.70"
       },
-      "created_at": "2025-11-25T00:52:18.711623"
+      "created_at": "2025-11-26T00:53:28.657842"
     },
     {
       "platform": "investing",
@@ -806,7 +851,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-25",
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "event_id": "eventRowId_535580",
         "event_attr_id": "",
@@ -817,7 +862,7 @@
         "event_name": "印度尼西亚汇丰制造业PMI  (十一月)",
         "previous": "51.2"
       },
-      "created_at": "2025-11-25T00:52:18.711734"
+      "created_at": "2025-11-26T00:53:28.657955"
     },
     {
       "platform": "investing",
@@ -837,7 +882,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-25",
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "event_id": "eventRowId_535587",
         "event_attr_id": "",
@@ -848,7 +893,7 @@
         "event_name": "越南日经制造业PMI  (十一月)",
         "previous": "54.5"
       },
-      "created_at": "2025-11-25T00:52:18.711846"
+      "created_at": "2025-11-26T00:53:28.658070"
     },
     {
       "platform": "investing",
@@ -868,7 +913,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-25",
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "event_id": "eventRowId_535590",
         "event_attr_id": "",
@@ -879,7 +924,7 @@
         "event_name": "中国财新制造业PMI (月度环比)  (十一月)",
         "previous": "50.6"
       },
-      "created_at": "2025-11-25T00:52:18.712071"
+      "created_at": "2025-11-26T00:53:28.658180"
     },
     {
       "platform": "investing",
@@ -899,7 +944,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-25",
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "event_id": "eventRowId_535592",
         "event_attr_id": "",
@@ -910,7 +955,7 @@
         "event_name": "印度尼西亚核心通胀年率(%) (同比)  (十一月)",
         "previous": "2.36%"
       },
-      "created_at": "2025-11-25T00:52:18.712308"
+      "created_at": "2025-11-26T00:53:28.658290"
     },
     {
       "platform": "investing",
@@ -930,7 +975,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-25",
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "event_id": "eventRowId_535591",
         "event_attr_id": "",
@@ -941,7 +986,7 @@
         "event_name": "印度尼西亚出口增长年率(%) (同比)  (十月)",
         "previous": "11.41%"
       },
-      "created_at": "2025-11-25T00:52:18.712475"
+      "created_at": "2025-11-26T00:53:28.658401"
     },
     {
       "platform": "investing",
@@ -961,7 +1006,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-25",
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "event_id": "eventRowId_535595",
         "event_attr_id": "",
@@ -972,7 +1017,7 @@
         "event_name": "印度尼西亚进口增长年率(%) (同比)  (十月)",
         "previous": "7.17%"
       },
-      "created_at": "2025-11-25T00:52:18.712601"
+      "created_at": "2025-11-26T00:53:28.658519"
     },
     {
       "platform": "investing",
@@ -992,7 +1037,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-25",
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "event_id": "eventRowId_535593",
         "event_attr_id": "",
@@ -1003,7 +1048,7 @@
         "event_name": "印度尼西亚通胀指数年率(%) (同比)  (十一月)",
         "previous": "2.86%"
       },
-      "created_at": "2025-11-25T00:52:18.712717"
+      "created_at": "2025-11-26T00:53:28.658628"
     },
     {
       "platform": "investing",
@@ -1023,7 +1068,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-25",
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "event_id": "eventRowId_535596",
         "event_attr_id": "",
@@ -1034,7 +1079,7 @@
         "event_name": "印度尼西亚通胀指数月率(%) (月度环比)  (十一月)",
         "previous": "0.28%"
       },
-      "created_at": "2025-11-25T00:52:18.712831"
+      "created_at": "2025-11-26T00:53:28.658739"
     },
     {
       "platform": "investing",
@@ -1054,7 +1099,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-25",
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "event_id": "eventRowId_535594",
         "event_attr_id": "",
@@ -1065,7 +1110,7 @@
         "event_name": "印度尼西亚贸易帐(卢比)  (十月)",
         "previous": "4.34B"
       },
-      "created_at": "2025-11-25T00:52:18.712942"
+      "created_at": "2025-11-26T00:53:28.658881"
     },
     {
       "platform": "investing",
@@ -1085,7 +1130,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-25",
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "event_id": "eventRowId_535598",
         "event_attr_id": "",
@@ -1096,69 +1141,7 @@
         "event_name": "印度汇丰S&P Global制造业PMI  (十一月)",
         "previous": "57.4"
       },
-      "created_at": "2025-11-25T00:52:18.713057"
-    },
-    {
-      "platform": "investing",
-      "event_id": "inv__20251201150000",
-      "original_id": "eventRowId_536301",
-      "event_date": "2025-12-01",
-      "event_time": "15:00",
-      "event_datetime": "2025/12/01 15:00:00",
-      "title": "英国Nationwide房价指数年率(%) (同比)  (十一月)",
-      "content": "前值: 2.4%",
-      "category": null,
-      "importance": 2,
-      "country": "英国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-11-25",
-      "raw_data": {
-        "event_id": "eventRowId_536301",
-        "event_attr_id": "",
-        "datetime": "2025/12/01 15:00:00",
-        "time": "15:00",
-        "country": "英国",
-        "importance": 2,
-        "event_name": "英国Nationwide房价指数年率(%) (同比)  (十一月)",
-        "previous": "2.4%"
-      },
-      "created_at": "2025-11-25T00:52:18.713192"
-    },
-    {
-      "platform": "investing",
-      "event_id": "inv__20251201150000",
-      "original_id": "eventRowId_536300",
-      "event_date": "2025-12-01",
-      "event_time": "15:00",
-      "event_datetime": "2025/12/01 15:00:00",
-      "title": "英国Nationwide房价指数月率(%) (月度环比)  (十一月)",
-      "content": "前值: 0.3%",
-      "category": null,
-      "importance": 2,
-      "country": "英国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-11-25",
-      "raw_data": {
-        "event_id": "eventRowId_536300",
-        "event_attr_id": "",
-        "datetime": "2025/12/01 15:00:00",
-        "time": "15:00",
-        "country": "英国",
-        "importance": 2,
-        "event_name": "英国Nationwide房价指数月率(%) (月度环比)  (十一月)",
-        "previous": "0.3%"
-      },
-      "created_at": "2025-11-25T00:52:18.713318"
+      "created_at": "2025-11-26T00:53:28.658994"
     },
     {
       "platform": "investing",
@@ -1178,7 +1161,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-25",
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "event_id": "eventRowId_536302",
         "event_attr_id": "",
@@ -1189,7 +1172,7 @@
         "event_name": "瑞士零售销售年率(%) (同比)  (十月)",
         "previous": "1.5%"
       },
-      "created_at": "2025-11-25T00:52:18.713434"
+      "created_at": "2025-11-26T00:53:28.659104"
     },
     {
       "platform": "investing",
@@ -1209,7 +1192,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-25",
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "event_id": "eventRowId_535612",
         "event_attr_id": "",
@@ -1220,7 +1203,7 @@
         "event_name": "西班牙Markit制造业PMI  (十一月)",
         "previous": "52.1"
       },
-      "created_at": "2025-11-25T00:52:18.713546"
+      "created_at": "2025-11-26T00:53:28.659219"
     },
     {
       "platform": "investing",
@@ -1240,7 +1223,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-25",
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "event_id": "eventRowId_535615",
         "event_attr_id": "",
@@ -1251,7 +1234,7 @@
         "event_name": "瑞士procure.ch PMI  (十一月)",
         "previous": "48.2"
       },
-      "created_at": "2025-11-25T00:52:18.713664"
+      "created_at": "2025-11-26T00:53:28.659338"
     },
     {
       "platform": "investing",
@@ -1271,7 +1254,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-25",
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "event_id": "eventRowId_535613",
         "event_attr_id": "",
@@ -1282,7 +1265,7 @@
         "event_name": "中国香港零售销售年率(%) (同比)  (十月)",
         "previous": "5.9%"
       },
-      "created_at": "2025-11-25T00:52:18.713775"
+      "created_at": "2025-11-26T00:53:28.659450"
     },
     {
       "platform": "investing",
@@ -1302,7 +1285,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-25",
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "event_id": "eventRowId_535616",
         "event_attr_id": "",
@@ -1313,7 +1296,7 @@
         "event_name": "意大利Markit制造业PMI  (十一月)",
         "previous": "49.9"
       },
-      "created_at": "2025-11-25T00:52:18.713886"
+      "created_at": "2025-11-26T00:53:28.659560"
     },
     {
       "platform": "investing",
@@ -1333,7 +1316,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-25",
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "event_id": "eventRowId_535617",
         "event_attr_id": "",
@@ -1344,7 +1327,7 @@
         "event_name": "法国制造业PMI  (十一月)",
         "previous": "47.8"
       },
-      "created_at": "2025-11-25T00:52:18.714000"
+      "created_at": "2025-11-26T00:53:28.659689"
     },
     {
       "platform": "investing",
@@ -1364,7 +1347,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-25",
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "event_id": "eventRowId_535618",
         "event_attr_id": "",
@@ -1375,7 +1358,7 @@
         "event_name": "德国制造业PMI月率(%)  (十一月)",
         "previous": "48.4"
       },
-      "created_at": "2025-11-25T00:52:18.714114"
+      "created_at": "2025-11-26T00:53:28.659823"
     },
     {
       "platform": "investing",
@@ -1395,7 +1378,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-25",
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "event_id": "eventRowId_535621",
         "event_attr_id": "",
@@ -1406,7 +1389,7 @@
         "event_name": "欧元区Markit制造业PMI  (十一月)",
         "previous": "49.7"
       },
-      "created_at": "2025-11-25T00:52:18.714247"
+      "created_at": "2025-11-26T00:53:28.659937"
     },
     {
       "platform": "investing",
@@ -1426,7 +1409,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-25",
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "event_id": "eventRowId_535630",
         "event_attr_id": "",
@@ -1437,7 +1420,7 @@
         "event_name": "英国央行消费信贷(英镑)  (十月)",
         "previous": "1.491B"
       },
-      "created_at": "2025-11-25T00:52:18.714359"
+      "created_at": "2025-11-26T00:53:28.660047"
     },
     {
       "platform": "investing",
@@ -1457,7 +1440,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-25",
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "event_id": "eventRowId_535631",
         "event_attr_id": "",
@@ -1468,7 +1451,7 @@
         "event_name": "欧元区货币供应M3年率(%)  (十月)",
         "previous": "3,180.8B"
       },
-      "created_at": "2025-11-25T00:52:18.714468"
+      "created_at": "2025-11-26T00:53:28.660161"
     },
     {
       "platform": "investing",
@@ -1488,7 +1471,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-25",
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "event_id": "eventRowId_535628",
         "event_attr_id": "",
@@ -1499,7 +1482,7 @@
         "event_name": "英国M4货币供应月率(%) (月度环比)  (十月)",
         "previous": "0.6%"
       },
-      "created_at": "2025-11-25T00:52:18.714577"
+      "created_at": "2025-11-26T00:53:28.660312"
     },
     {
       "platform": "investing",
@@ -1519,7 +1502,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-25",
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "event_id": "eventRowId_535627",
         "event_attr_id": "",
@@ -1530,7 +1513,7 @@
         "event_name": "英国Markit制造业PMI  (十一月)",
         "previous": "50.2"
       },
-      "created_at": "2025-11-25T00:52:18.714691"
+      "created_at": "2025-11-26T00:53:28.660427"
     },
     {
       "platform": "investing",
@@ -1550,7 +1533,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-25",
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "event_id": "eventRowId_535626",
         "event_attr_id": "",
@@ -1561,7 +1544,7 @@
         "event_name": "英国央行抵押贷款许可(件)  (十月)",
         "previous": "65.94K"
       },
-      "created_at": "2025-11-25T00:52:18.714800"
+      "created_at": "2025-11-26T00:53:28.660545"
     },
     {
       "platform": "investing",
@@ -1581,7 +1564,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-25",
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "event_id": "eventRowId_535629",
         "event_attr_id": "",
@@ -1592,38 +1575,7 @@
         "event_name": "英国央行抵押贷款(英镑)  (十月)",
         "previous": "5.49B"
       },
-      "created_at": "2025-11-25T00:52:18.714914"
-    },
-    {
-      "platform": "investing",
-      "event_id": "inv__20251201190000",
-      "original_id": "eventRowId_535633",
-      "event_date": "2025-12-01",
-      "event_time": "19:00",
-      "event_datetime": "2025/12/01 19:00:00",
-      "title": "英国新车登记数月率 (月度环比)  (十一月)",
-      "content": "前值: 13.60%",
-      "category": null,
-      "importance": 1,
-      "country": "西班牙",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-11-25",
-      "raw_data": {
-        "event_id": "eventRowId_535633",
-        "event_attr_id": "",
-        "datetime": "2025/12/01 19:00:00",
-        "time": "19:00",
-        "country": "西班牙",
-        "importance": 1,
-        "event_name": "英国新车登记数月率 (月度环比)  (十一月)",
-        "previous": "13.60%"
-      },
-      "created_at": "2025-11-25T00:52:18.715032"
+      "created_at": "2025-11-26T00:53:28.660659"
     },
     {
       "platform": "investing",
@@ -1643,7 +1595,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-25",
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "event_id": "eventRowId_535634",
         "event_attr_id": "",
@@ -1654,7 +1606,38 @@
         "event_name": "英国新车登记数月率 (同比)  (十一月)",
         "previous": "15.90%"
       },
-      "created_at": "2025-11-25T00:52:18.715142"
+      "created_at": "2025-11-26T00:53:28.660793"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251201190000",
+      "original_id": "eventRowId_535633",
+      "event_date": "2025-12-01",
+      "event_time": "19:00",
+      "event_datetime": "2025/12/01 19:00:00",
+      "title": "英国新车登记数月率 (月度环比)  (十一月)",
+      "content": "前值: 13.60%",
+      "category": null,
+      "importance": 1,
+      "country": "西班牙",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": false,
+      "discovery_date": "2025-11-26",
+      "raw_data": {
+        "event_id": "eventRowId_535633",
+        "event_attr_id": "",
+        "datetime": "2025/12/01 19:00:00",
+        "time": "19:00",
+        "country": "西班牙",
+        "importance": 1,
+        "event_name": "英国新车登记数月率 (月度环比)  (十一月)",
+        "previous": "13.60%"
+      },
+      "created_at": "2025-11-26T00:53:28.660907"
     },
     {
       "platform": "investing",
@@ -1673,8 +1656,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-11-25",
+      "is_new": false,
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "event_id": "eventRowId_536708",
         "event_attr_id": "",
@@ -1684,7 +1667,7 @@
         "importance": 1,
         "event_name": "巴西央行焦点市场报告"
       },
-      "created_at": "2025-11-25T00:52:18.715269"
+      "created_at": "2025-11-26T00:53:28.661017"
     },
     {
       "platform": "investing",
@@ -1704,7 +1687,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-25",
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "event_id": "eventRowId_535639",
         "event_attr_id": "",
@@ -1715,7 +1698,100 @@
         "event_name": "巴西汇丰制造业PMI  (十一月)",
         "previous": "48.2"
       },
-      "created_at": "2025-11-25T00:52:18.715380"
+      "created_at": "2025-11-26T00:53:28.661128"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251201220000",
+      "original_id": "eventRowId_536784",
+      "event_date": "2025-12-01",
+      "event_time": "22:00",
+      "event_datetime": "2025/12/01 22:00:00",
+      "title": "法国12个月期BTF国债拍卖平均收益率(%)",
+      "content": "前值: 2.078%",
+      "category": null,
+      "importance": 1,
+      "country": "法国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-26",
+      "raw_data": {
+        "event_id": "eventRowId_536784",
+        "event_attr_id": "",
+        "datetime": "2025/12/01 22:00:00",
+        "time": "22:00",
+        "country": "法国",
+        "importance": 1,
+        "event_name": "法国12个月期BTF国债拍卖平均收益率(%)",
+        "previous": "2.078%"
+      },
+      "created_at": "2025-11-26T00:53:28.661238"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251201220000",
+      "original_id": "eventRowId_536785",
+      "event_date": "2025-12-01",
+      "event_time": "22:00",
+      "event_datetime": "2025/12/01 22:00:00",
+      "title": "法国3个月期BTF国债拍卖平均收益率(%)",
+      "content": "前值: 2.041%",
+      "category": null,
+      "importance": 1,
+      "country": "法国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-26",
+      "raw_data": {
+        "event_id": "eventRowId_536785",
+        "event_attr_id": "",
+        "datetime": "2025/12/01 22:00:00",
+        "time": "22:00",
+        "country": "法国",
+        "importance": 1,
+        "event_name": "法国3个月期BTF国债拍卖平均收益率(%)",
+        "previous": "2.041%"
+      },
+      "created_at": "2025-11-26T00:53:28.661356"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251201220000",
+      "original_id": "eventRowId_536786",
+      "event_date": "2025-12-01",
+      "event_time": "22:00",
+      "event_datetime": "2025/12/01 22:00:00",
+      "title": "法国6个月期BTF国债拍卖平均收益率(%)",
+      "content": "前值: 2.053%",
+      "category": null,
+      "importance": 1,
+      "country": "法国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-26",
+      "raw_data": {
+        "event_id": "eventRowId_536786",
+        "event_attr_id": "",
+        "datetime": "2025/12/01 22:00:00",
+        "time": "22:00",
+        "country": "法国",
+        "importance": 1,
+        "event_name": "法国6个月期BTF国债拍卖平均收益率(%)",
+        "previous": "2.053%"
+      },
+      "created_at": "2025-11-26T00:53:28.661469"
     },
     {
       "platform": "investing",
@@ -1735,7 +1811,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-25",
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "event_id": "eventRowId_535643",
         "event_attr_id": "",
@@ -1746,7 +1822,7 @@
         "event_name": "加拿大制造业PMI  (十一月)",
         "previous": "49.6"
       },
-      "created_at": "2025-11-25T00:52:18.715491"
+      "created_at": "2025-11-26T00:53:28.661580"
     },
     {
       "platform": "investing",
@@ -1766,7 +1842,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-25",
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "event_id": "eventRowId_535644",
         "event_attr_id": "",
@@ -1777,7 +1853,7 @@
         "event_name": "美国Markit制造业PMI  (十一月)",
         "previous": "51.9"
       },
-      "created_at": "2025-11-25T00:52:18.715600"
+      "created_at": "2025-11-26T00:53:28.661692"
     },
     {
       "platform": "investing",
@@ -1797,7 +1873,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-25",
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "event_id": "eventRowId_536206",
         "event_attr_id": "",
@@ -1808,7 +1884,7 @@
         "event_name": "美国营建支出月率(%) (月度环比)  (九月)",
         "previous": "0.2%"
       },
-      "created_at": "2025-11-25T00:52:18.715710"
+      "created_at": "2025-11-26T00:53:28.661842"
     },
     {
       "platform": "investing",
@@ -1828,7 +1904,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-25",
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "event_id": "eventRowId_535647",
         "event_attr_id": "",
@@ -1839,7 +1915,7 @@
         "event_name": "美国ISM制造业就业指数  (十一月)",
         "previous": "46.0"
       },
-      "created_at": "2025-11-25T00:52:18.715829"
+      "created_at": "2025-11-26T00:53:28.661954"
     },
     {
       "platform": "investing",
@@ -1859,7 +1935,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-25",
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "event_id": "eventRowId_535645",
         "event_attr_id": "",
@@ -1870,7 +1946,7 @@
         "event_name": "美国ISM制造业新订单指数  (十一月)",
         "previous": "49.4"
       },
-      "created_at": "2025-11-25T00:52:18.715939"
+      "created_at": "2025-11-26T00:53:28.662064"
     },
     {
       "platform": "investing",
@@ -1890,7 +1966,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-25",
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "event_id": "eventRowId_535646",
         "event_attr_id": "",
@@ -1901,7 +1977,7 @@
         "event_name": "美国ISM制造业PMI  (十一月)",
         "previous": "48.7"
       },
-      "created_at": "2025-11-25T00:52:18.716049"
+      "created_at": "2025-11-26T00:53:28.662186"
     },
     {
       "platform": "investing",
@@ -1921,7 +1997,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-25",
+      "discovery_date": "2025-11-26",
       "raw_data": {
         "event_id": "eventRowId_535648",
         "event_attr_id": "",
@@ -1932,7 +2008,356 @@
         "event_name": "美国ISM制造业物价支付指数  (十一月)",
         "previous": "58.0"
       },
-      "created_at": "2025-11-25T00:52:18.716165"
+      "created_at": "2025-11-26T00:53:28.662308"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251201180000_1975531396626900281",
+      "original_id": "2025-12-01 18:00:00_中国香港：零售业总销货:数量指数:当月同比(报告期:2025年10月)",
+      "event_date": "2025-12-01",
+      "event_time": "18:00:00",
+      "event_datetime": "2025-12-01 18:00:00",
+      "title": "中国香港：零售业总销货:数量指数:当月同比(报告期:2025年10月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "中国香港",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-26",
+      "raw_data": {
+        "Name": "中国香港：零售业总销货:数量指数:当月同比(报告期:2025年10月)",
+        "City": "中国香港"
+      },
+      "created_at": "2025-11-26T00:53:35.327947"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251201180000_-6595877744253075131",
+      "original_id": "2025-12-01 18:00:00_中国香港：零售业总销货:价值指数:当月同比(报告期:2025年10月)",
+      "event_date": "2025-12-01",
+      "event_time": "18:00:00",
+      "event_datetime": "2025-12-01 18:00:00",
+      "title": "中国香港：零售业总销货:价值指数:当月同比(报告期:2025年10月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "中国香港",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-26",
+      "raw_data": {
+        "Name": "中国香港：零售业总销货:价值指数:当月同比(报告期:2025年10月)",
+        "City": "中国香港"
+      },
+      "created_at": "2025-11-26T00:53:35.327955"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251201230000_6822568718844068200",
+      "original_id": "2025-12-01 23:00:00_美国：ISM：制造业PMI：供应商交付(报告期:2025年11月)",
+      "event_date": "2025-12-01",
+      "event_time": "23:00:00",
+      "event_datetime": "2025-12-01 23:00:00",
+      "title": "美国：ISM：制造业PMI：供应商交付(报告期:2025年11月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-26",
+      "raw_data": {
+        "Name": "美国：ISM：制造业PMI：供应商交付(报告期:2025年11月)",
+        "City": "美国"
+      },
+      "created_at": "2025-11-26T00:53:35.327963"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251201230000_-5199888119305320791",
+      "original_id": "2025-12-01 23:00:00_美国：ISM：制造业PMI：自有库存(报告期:2025年11月)",
+      "event_date": "2025-12-01",
+      "event_time": "23:00:00",
+      "event_datetime": "2025-12-01 23:00:00",
+      "title": "美国：ISM：制造业PMI：自有库存(报告期:2025年11月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-26",
+      "raw_data": {
+        "Name": "美国：ISM：制造业PMI：自有库存(报告期:2025年11月)",
+        "City": "美国"
+      },
+      "created_at": "2025-11-26T00:53:35.327971"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251201230000_-4608810556646688811",
+      "original_id": "2025-12-01 23:00:00_美国：ISM：制造业PMI：产出(报告期:2025年11月)",
+      "event_date": "2025-12-01",
+      "event_time": "23:00:00",
+      "event_datetime": "2025-12-01 23:00:00",
+      "title": "美国：ISM：制造业PMI：产出(报告期:2025年11月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-26",
+      "raw_data": {
+        "Name": "美国：ISM：制造业PMI：产出(报告期:2025年11月)",
+        "City": "美国"
+      },
+      "created_at": "2025-11-26T00:53:35.327978"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251201230000_355430015438720807",
+      "original_id": "2025-12-01 23:00:00_美国：ISM：制造业PMI：新订单(报告期:2025年11月)",
+      "event_date": "2025-12-01",
+      "event_time": "23:00:00",
+      "event_datetime": "2025-12-01 23:00:00",
+      "title": "美国：ISM：制造业PMI：新订单(报告期:2025年11月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-26",
+      "raw_data": {
+        "Name": "美国：ISM：制造业PMI：新订单(报告期:2025年11月)",
+        "City": "美国"
+      },
+      "created_at": "2025-11-26T00:53:35.327986"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251201230000_2707839463854124100",
+      "original_id": "2025-12-01 23:00:00_美国：ISM：制造业PMI：物价(报告期:2025年11月)",
+      "event_date": "2025-12-01",
+      "event_time": "23:00:00",
+      "event_datetime": "2025-12-01 23:00:00",
+      "title": "美国：ISM：制造业PMI：物价(报告期:2025年11月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-26",
+      "raw_data": {
+        "Name": "美国：ISM：制造业PMI：物价(报告期:2025年11月)",
+        "City": "美国"
+      },
+      "created_at": "2025-11-26T00:53:35.327994"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251201230000_-8531770529349627016",
+      "original_id": "2025-12-01 23:00:00_美国：ISM:制造业PMI(报告期:2025年11月)",
+      "event_date": "2025-12-01",
+      "event_time": "23:00:00",
+      "event_datetime": "2025-12-01 23:00:00",
+      "title": "美国：ISM:制造业PMI(报告期:2025年11月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-26",
+      "raw_data": {
+        "Name": "美国：ISM:制造业PMI(报告期:2025年11月)",
+        "City": "美国"
+      },
+      "created_at": "2025-11-26T00:53:35.328001"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251201230000_1583352288271159434",
+      "original_id": "2025-12-01 23:00:00_美国：ISM：制造业PMI：就业(报告期:2025年11月)",
+      "event_date": "2025-12-01",
+      "event_time": "23:00:00",
+      "event_datetime": "2025-12-01 23:00:00",
+      "title": "美国：ISM：制造业PMI：就业(报告期:2025年11月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-26",
+      "raw_data": {
+        "Name": "美国：ISM：制造业PMI：就业(报告期:2025年11月)",
+        "City": "美国"
+      },
+      "created_at": "2025-11-26T00:53:35.328008"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_hyhy_10866844",
+      "original_id": "10866844",
+      "event_date": "2025-12-01",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "《期货做市交易业务管理规则》将于12月1日起实施",
+      "content": "为落实《关于加强监管防范风险促进期货市场高质量发展的意见》的有关要求,进一步加强期货做市交易业务自律管理,中国期货业协会(以下简称协会)经广泛征求行业意见,制定了《期货做市交易业务管理规则》,经协会第六届理事会第二十三次会议审议通过,现予发布,并自2025年12月1日起实施。",
+      "category": "行业会议",
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-26",
+      "raw_data": {
+        "fe_code": "10866844",
+        "fe_name": "《期货做市交易业务管理规则》将于12月1日起实施",
+        "start_date": "2025-12-01",
+        "end_date": "2025-12-01",
+        "fe_type": "其他会议",
+        "sponsor": null,
+        "city": null,
+        "content": "为落实《关于加强监管防范风险促进期货市场高质量发展的意见》的有关要求,进一步加强期货做市交易业务自律管理,中国期货业协会(以下简称协会)经广泛征求行业意见,制定了《期货做市交易业务管理规则》,经协会第六届理事会第二十三次会议审议通过,现予发布,并自2025年12月1日起实施。"
+      },
+      "created_at": "2025-11-26T00:53:35.329923"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_hyhy_10866845",
+      "original_id": "10866845",
+      "event_date": "2025-12-01",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025“人工智能+”产业生态大会",
+      "content": "2025“人工智能+”产业生态大会是由中国互联网协会主办的人工智能行业会议,于2025年12月1日至3日在北京市海淀区中关村国家自主创新示范区展示中心举办。大会以“智赋链动生态共鸣”为主题,采用“1+12+赛+展+链”模式,包含开幕大会、12场行业论坛、大赛成果发布及创新应用生态展等活动。期间发布《2025“人工智能+”产业发展报告》,举办覆盖智能体、数字人等领域的专题论坛,并展示“AI领航杯”大赛成果(涉及2000余支团队和20个赛道)。同期开展人工智能+政务、交通等分论坛,发布《政务智能体发展研究报告(2025年)》及交通运输领域成果推广目录,设置技术应用案例展区,组织项目路演、人才对接等系列生态活动。",
+      "category": "行业会议",
+      "importance": 3,
+      "country": "中国",
+      "city": "北京市",
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-26",
+      "raw_data": {
+        "fe_code": "10866845",
+        "fe_name": "2025“人工智能+”产业生态大会",
+        "start_date": "2025-12-01",
+        "end_date": "2025-12-03",
+        "fe_type": "行业会议",
+        "sponsor": "中国互联网协会",
+        "city": "北京市",
+        "content": "2025“人工智能+”产业生态大会是由中国互联网协会主办的人工智能行业会议,于2025年12月1日至3日在北京市海淀区中关村国家自主创新示范区展示中心举办。大会以“智赋链动生态共鸣”为主题,采用“1+12+赛+展+链”模式,包含开幕大会、12场行业论坛、大赛成果发布及创新应用生态展等活动。期间发布《2025“人工智能+”产业发展报告》,举办覆盖智能体、数字人等领域的专题论坛,并展示“AI领航杯”大赛成果(涉及2000余支团队和20个赛道)。同期开展人工智能+政务、交通等分论坛,发布《政务智能体发展研究报告(2025年)》及交通运输领域成果推广目录,设置技术应用案例展区,组织项目路演、人才对接等系列生态活动。"
+      },
+      "created_at": "2025-11-26T00:53:35.329932"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_hyhy_10866846",
+      "original_id": "10866846",
+      "event_date": "2025-12-01",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "12月1日至5日,新疆阿勒泰地区将试行首个“雪假”",
+      "content": "为深入贯彻落实国家及自治区关于推动冰雪经济与教育融合发展的决策部署,充分释放阿勒泰地区得天独厚的冰雪资源优势,阿勒泰地区2025年试行“雪假”,放假时间为2025年12月1日至5日,覆盖全地区义务教育阶段在校生7.3万人。",
+      "category": "行业会议",
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-26",
+      "raw_data": {
+        "fe_code": "10866846",
+        "fe_name": "12月1日至5日,新疆阿勒泰地区将试行首个“雪假”",
+        "start_date": "2025-12-01",
+        "end_date": "2025-12-05",
+        "fe_type": "其他会议",
+        "sponsor": null,
+        "city": null,
+        "content": "为深入贯彻落实国家及自治区关于推动冰雪经济与教育融合发展的决策部署,充分释放阿勒泰地区得天独厚的冰雪资源优势,阿勒泰地区2025年试行“雪假”,放假时间为2025年12月1日至5日,覆盖全地区义务教育阶段在校生7.3万人。"
+      },
+      "created_at": "2025-11-26T00:53:35.329941"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_hyhy_10866847",
+      "original_id": "10866847",
+      "event_date": "2025-12-01",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "《陈年白酒流通鉴定规范》团体标准将于12月1日正式实施",
+      "content": "中国酒类流通协会在南京召开团体标准解读会议。会上发布公告:《放心酒工程单位建设和管理规范》《陈年白酒流通鉴定规范》《酒类零售连锁经营管理规范》《酒类星级门店评价规范》《酒类零售店长职业要求》等五项团体标准,将于2025年12月1日正式实施。",
+      "category": "行业会议",
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-26",
+      "raw_data": {
+        "fe_code": "10866847",
+        "fe_name": "《陈年白酒流通鉴定规范》团体标准将于12月1日正式实施",
+        "start_date": "2025-12-01",
+        "end_date": "2025-12-01",
+        "fe_type": "其他会议",
+        "sponsor": null,
+        "city": null,
+        "content": "中国酒类流通协会在南京召开团体标准解读会议。会上发布公告:《放心酒工程单位建设和管理规范》《陈年白酒流通鉴定规范》《酒类零售连锁经营管理规范》《酒类星级门店评价规范》《酒类零售店长职业要求》等五项团体标准,将于2025年12月1日正式实施。"
+      },
+      "created_at": "2025-11-26T00:53:35.329950"
     }
   ]
 }
