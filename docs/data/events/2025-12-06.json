@@ -1,10 +1,10 @@
 {
   "date": "2025-12-06",
-  "total_events": 5,
-  "new_events": 1,
+  "total_events": 12,
+  "new_events": 7,
   "platforms": {
     "jiuyangongshe": 1,
-    "investing": 3,
+    "investing": 10,
     "eastmoney": 1
   },
   "events": [
@@ -26,7 +26,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-26",
+      "discovery_date": "2025-11-27",
       "raw_data": {
         "article_id": "03f813d62b6f42ee8017d93af06650f5",
         "user_id": "1",
@@ -51,7 +51,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-26T00:53:23.853357"
+      "created_at": "2025-11-27T00:52:21.981468"
     },
     {
       "platform": "investing",
@@ -71,7 +71,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-26",
+      "discovery_date": "2025-11-27",
       "raw_data": {
         "event_id": "eventRowId_536709",
         "event_attr_id": "",
@@ -81,7 +81,7 @@
         "importance": 2,
         "event_name": "美国当周贝克休斯石油钻井总数(口)"
       },
-      "created_at": "2025-11-26T00:53:29.167842"
+      "created_at": "2025-11-27T00:52:27.113453"
     },
     {
       "platform": "investing",
@@ -101,7 +101,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-26",
+      "discovery_date": "2025-11-27",
       "raw_data": {
         "event_id": "eventRowId_536710",
         "event_attr_id": "",
@@ -111,7 +111,7 @@
         "importance": 2,
         "event_name": "美国当周贝克休斯总钻井总数(口)"
       },
-      "created_at": "2025-11-26T00:53:29.167982"
+      "created_at": "2025-11-27T00:52:27.113586"
     },
     {
       "platform": "investing",
@@ -131,7 +131,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-26",
+      "discovery_date": "2025-11-27",
       "raw_data": {
         "event_id": "eventRowId_536041",
         "event_attr_id": "",
@@ -142,11 +142,228 @@
         "event_name": "美国消费信贷(美元)  (十月)",
         "previous": "13.09B"
       },
-      "created_at": "2025-11-26T00:53:29.168110"
+      "created_at": "2025-11-27T00:52:27.113705"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251206075000",
+      "original_id": "eventRowId_536939",
+      "event_date": "2025-12-06",
+      "event_time": "07:50",
+      "event_datetime": "2025/12/06 07:50:00",
+      "title": "日本外汇储备(美元)  (十一月)",
+      "content": "前值: 1,347.4B",
+      "category": null,
+      "importance": 1,
+      "country": "日本",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-27",
+      "raw_data": {
+        "event_id": "eventRowId_536939",
+        "event_attr_id": "",
+        "datetime": "2025/12/06 07:50:00",
+        "time": "07:50",
+        "country": "日本",
+        "importance": 1,
+        "event_name": "日本外汇储备(美元)  (十一月)",
+        "previous": "1,347.4B"
+      },
+      "created_at": "2025-11-27T00:52:27.113821"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251206100000",
+      "original_id": "eventRowId_536940",
+      "event_date": "2025-12-06",
+      "event_time": "10:00",
+      "event_datetime": "2025/12/06 10:00:00",
+      "title": "越南CPI年率 (同比)  (十一月)",
+      "content": "前值: 3.25%",
+      "category": null,
+      "importance": 1,
+      "country": "越南",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-27",
+      "raw_data": {
+        "event_id": "eventRowId_536940",
+        "event_attr_id": "",
+        "datetime": "2025/12/06 10:00:00",
+        "time": "10:00",
+        "country": "越南",
+        "importance": 1,
+        "event_name": "越南CPI年率 (同比)  (十一月)",
+        "previous": "3.25%"
+      },
+      "created_at": "2025-11-27T00:52:27.113933"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251206100000",
+      "original_id": "eventRowId_536941",
+      "event_date": "2025-12-06",
+      "event_time": "10:00",
+      "event_datetime": "2025/12/06 10:00:00",
+      "title": "越南CPI年率 (月度环比)  (十一月)",
+      "content": "前值: 0.20%",
+      "category": null,
+      "importance": 1,
+      "country": "越南",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-27",
+      "raw_data": {
+        "event_id": "eventRowId_536941",
+        "event_attr_id": "",
+        "datetime": "2025/12/06 10:00:00",
+        "time": "10:00",
+        "country": "越南",
+        "importance": 1,
+        "event_name": "越南CPI年率 (月度环比)  (十一月)",
+        "previous": "0.20%"
+      },
+      "created_at": "2025-11-27T00:52:27.114044"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251206100000",
+      "original_id": "eventRowId_536944",
+      "event_date": "2025-12-06",
+      "event_time": "10:00",
+      "event_datetime": "2025/12/06 10:00:00",
+      "title": "越南外商直接投资(美元)  (十一月)",
+      "content": "前值: 21.30B",
+      "category": null,
+      "importance": 1,
+      "country": "越南",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-27",
+      "raw_data": {
+        "event_id": "eventRowId_536944",
+        "event_attr_id": "",
+        "datetime": "2025/12/06 10:00:00",
+        "time": "10:00",
+        "country": "越南",
+        "importance": 1,
+        "event_name": "越南外商直接投资(美元)  (十一月)",
+        "previous": "21.30B"
+      },
+      "created_at": "2025-11-27T00:52:27.114159"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251206100000",
+      "original_id": "eventRowId_536942",
+      "event_date": "2025-12-06",
+      "event_time": "10:00",
+      "event_datetime": "2025/12/06 10:00:00",
+      "title": "越南工业产出年率 (同比)  (十一月)",
+      "content": "前值: 10.8%",
+      "category": null,
+      "importance": 1,
+      "country": "越南",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-27",
+      "raw_data": {
+        "event_id": "eventRowId_536942",
+        "event_attr_id": "",
+        "datetime": "2025/12/06 10:00:00",
+        "time": "10:00",
+        "country": "越南",
+        "importance": 1,
+        "event_name": "越南工业产出年率 (同比)  (十一月)",
+        "previous": "10.8%"
+      },
+      "created_at": "2025-11-27T00:52:27.114277"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251206100000",
+      "original_id": "eventRowId_536943",
+      "event_date": "2025-12-06",
+      "event_time": "10:00",
+      "event_datetime": "2025/12/06 10:00:00",
+      "title": "越南零售销售年率 (同比)  (十一月)",
+      "content": "前值: 7.2%",
+      "category": null,
+      "importance": 1,
+      "country": "越南",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-27",
+      "raw_data": {
+        "event_id": "eventRowId_536943",
+        "event_attr_id": "",
+        "datetime": "2025/12/06 10:00:00",
+        "time": "10:00",
+        "country": "越南",
+        "importance": 1,
+        "event_name": "越南零售销售年率 (同比)  (十一月)",
+        "previous": "7.2%"
+      },
+      "created_at": "2025-11-27T00:52:27.114427"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251206100000",
+      "original_id": "eventRowId_536945",
+      "event_date": "2025-12-06",
+      "event_time": "10:00",
+      "event_datetime": "2025/12/06 10:00:00",
+      "title": "越南贸易帐(越南盾)  (十一月)",
+      "content": "前值: 2,600M",
+      "category": null,
+      "importance": 1,
+      "country": "越南",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-27",
+      "raw_data": {
+        "event_id": "eventRowId_536945",
+        "event_attr_id": "",
+        "datetime": "2025/12/06 10:00:00",
+        "time": "10:00",
+        "country": "越南",
+        "importance": 1,
+        "event_name": "越南贸易帐(越南盾)  (十一月)",
+        "previous": "2,600M"
+      },
+      "created_at": "2025-11-27T00:52:27.114547"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251206040000_5603254465429300700",
+      "event_id": "em_jjsj_20251206040000_-2270833218445897637",
       "original_id": "2025-12-06 04:00:00_美国：消费信贷总计：折年率：季调(报告期:2025年10月)",
       "event_date": "2025-12-06",
       "event_time": "04:00:00",
@@ -161,13 +378,13 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-11-26",
+      "is_new": false,
+      "discovery_date": "2025-11-27",
       "raw_data": {
         "Name": "美国：消费信贷总计：折年率：季调(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-11-26T00:53:35.328500"
+      "created_at": "2025-11-27T00:52:32.061711"
     }
   ]
 }

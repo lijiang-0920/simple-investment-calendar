@@ -1,11 +1,49 @@
 {
   "date": "2025-12-28",
-  "total_events": 1,
-  "new_events": 0,
+  "total_events": 3,
+  "new_events": 2,
   "platforms": {
-    "jiuyangongshe": 1
+    "cls": 1,
+    "jiuyangongshe": 1,
+    "tonghuashun": 1
   },
   "events": [
+    {
+      "platform": "cls",
+      "event_id": "cls_400439_20251228_2",
+      "original_id": "400439",
+      "event_date": "2025-12-28",
+      "event_time": "00:00:00",
+      "event_datetime": "2025-12-28 00:00:00",
+      "title": "第五届脑科学前沿与产业大会暨2025深圳脑机接口与人机交互技术博览会将于12月28日至29日在深圳举办",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-27",
+      "raw_data": {
+        "id": 400439,
+        "calendar_time": "2025-12-28 00:00:00",
+        "data_id": 20360,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "第五届脑科学前沿与产业大会暨2025深圳脑机接口与人机交互技术博览会将于12月28日至29日在深圳举办",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "第五届脑科学前沿与产业大会暨2025深圳脑机接口与人机交互技术博览会将于12月28日至29日在深圳举办"
+      },
+      "created_at": "2025-11-27T00:52:17.449038"
+    },
     {
       "platform": "jiuyangongshe",
       "event_id": "jygs_47badf532b0340d697a22e11a8a090a4_3b9f6a29dcc64bde93c1cf3e5e8e26d3_20251228",
@@ -26,7 +64,7 @@
       ],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-26",
+      "discovery_date": "2025-11-27",
       "raw_data": {
         "article_id": "47badf532b0340d697a22e11a8a090a4",
         "user_id": "1",
@@ -56,7 +94,37 @@
           ]
         }
       },
-      "created_at": "2025-11-26T00:53:23.853600"
+      "created_at": "2025-11-27T00:52:21.981760"
+    },
+    {
+      "platform": "tonghuashun",
+      "event_id": "ths_20251228_0_aacb5e33",
+      "original_id": "2025-12-28_0",
+      "event_date": "2025-12-28",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "第五届脑科学前沿与产业大会暨2025深圳脑机接口与人机交互技术博览会将于12月28日至29日在深圳举办",
+      "content": null,
+      "category": null,
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-27",
+      "raw_data": {
+        "event": [
+          "第五届脑科学前沿与产业大会暨2025深圳脑机接口与人机交互技术博览会将于12月28日至29日在深圳举办",
+          "",
+          "",
+          ""
+        ],
+        "concept": []
+      },
+      "created_at": "2025-11-27T00:52:24.644616"
     }
   ]
 }
