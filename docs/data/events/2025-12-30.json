@@ -1,9 +1,10 @@
 {
   "date": "2025-12-30",
-  "total_events": 1,
-  "new_events": 0,
+  "total_events": 4,
+  "new_events": 3,
   "platforms": {
-    "cls": 1
+    "cls": 1,
+    "investing": 3
   },
   "events": [
     {
@@ -24,7 +25,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-28",
+      "discovery_date": "2025-11-29",
       "raw_data": {
         "id": 400436,
         "calendar_time": "2025-12-30 00:00:00",
@@ -40,7 +41,100 @@
         "holiday": null,
         "title": "2025中国绿氢产业大会将于12月30日在北京举行"
       },
-      "created_at": "2025-11-28T00:51:22.764558"
+      "created_at": "2025-11-29T00:51:41.493905"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251230160000",
+      "original_id": "eventRowId_537144",
+      "event_date": "2025-12-30",
+      "event_time": "16:00",
+      "event_datetime": "2025/12/30 16:00:00",
+      "title": "西班牙CPI月率(%) (月度环比)  (十一月)",
+      "content": "前值: 0.7%",
+      "category": null,
+      "importance": 1,
+      "country": "西班牙",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-29",
+      "raw_data": {
+        "event_id": "eventRowId_537144",
+        "event_attr_id": "",
+        "datetime": "2025/12/30 16:00:00",
+        "time": "16:00",
+        "country": "西班牙",
+        "importance": 1,
+        "event_name": "西班牙CPI月率(%) (月度环比)  (十一月)",
+        "previous": "0.7%"
+      },
+      "created_at": "2025-11-29T00:51:54.787346"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251230160000",
+      "original_id": "eventRowId_537142",
+      "event_date": "2025-12-30",
+      "event_time": "16:00",
+      "event_datetime": "2025/12/30 16:00:00",
+      "title": "西班牙调和CPI月率(%) (月度环比)  (十二月)",
+      "content": "前值: 0.5%",
+      "category": null,
+      "importance": 1,
+      "country": "西班牙",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-29",
+      "raw_data": {
+        "event_id": "eventRowId_537142",
+        "event_attr_id": "",
+        "datetime": "2025/12/30 16:00:00",
+        "time": "16:00",
+        "country": "西班牙",
+        "importance": 1,
+        "event_name": "西班牙调和CPI月率(%) (月度环比)  (十二月)",
+        "previous": "0.5%"
+      },
+      "created_at": "2025-11-29T00:51:54.787498"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251230160000",
+      "original_id": "eventRowId_537143",
+      "event_date": "2025-12-30",
+      "event_time": "16:00",
+      "event_datetime": "2025/12/30 16:00:00",
+      "title": "西班牙调和CPI年率(%) (同比)  (十二月)",
+      "content": "前值: 3.2%",
+      "category": null,
+      "importance": 2,
+      "country": "西班牙",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-29",
+      "raw_data": {
+        "event_id": "eventRowId_537143",
+        "event_attr_id": "",
+        "datetime": "2025/12/30 16:00:00",
+        "time": "16:00",
+        "country": "西班牙",
+        "importance": 2,
+        "event_name": "西班牙调和CPI年率(%) (同比)  (十二月)",
+        "previous": "3.2%"
+      },
+      "created_at": "2025-11-29T00:51:54.787647"
     }
   ]
 }
