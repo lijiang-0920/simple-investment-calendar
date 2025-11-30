@@ -1,10 +1,10 @@
 {
   "date": "2025-12-06",
-  "total_events": 13,
-  "new_events": 0,
+  "total_events": 14,
+  "new_events": 1,
   "platforms": {
     "jiuyangongshe": 2,
-    "investing": 10,
+    "investing": 11,
     "eastmoney": 1
   },
   "events": [
@@ -26,7 +26,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-29",
+      "discovery_date": "2025-11-30",
       "raw_data": {
         "article_id": "03f813d62b6f42ee8017d93af06650f5",
         "user_id": "1",
@@ -51,7 +51,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-29T00:51:46.108175"
+      "created_at": "2025-11-30T00:59:49.048002"
     },
     {
       "platform": "jiuyangongshe",
@@ -71,7 +71,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-29",
+      "discovery_date": "2025-11-30",
       "raw_data": {
         "article_id": "c8b0a09d1ea64264aaaf3bb7ce1c707c",
         "user_id": "1",
@@ -96,7 +96,37 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-11-29T00:51:46.108185"
+      "created_at": "2025-11-30T00:59:49.048012"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251206002000",
+      "original_id": "eventRowId_537222",
+      "event_date": "2025-12-06",
+      "event_time": "00:20",
+      "event_datetime": "2025/12/06 00:20:00",
+      "title": "德国央行执委Sabine Mauderer讲话",
+      "content": null,
+      "category": null,
+      "importance": 2,
+      "country": "德国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-11-30",
+      "raw_data": {
+        "event_id": "eventRowId_537222",
+        "event_attr_id": "",
+        "datetime": "2025/12/06 00:20:00",
+        "time": "00:20",
+        "country": "德国",
+        "importance": 2,
+        "event_name": "德国央行执委Sabine Mauderer讲话"
+      },
+      "created_at": "2025-11-30T00:59:53.582009"
     },
     {
       "platform": "investing",
@@ -116,7 +146,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-29",
+      "discovery_date": "2025-11-30",
       "raw_data": {
         "event_id": "eventRowId_536709",
         "event_attr_id": "",
@@ -127,7 +157,7 @@
         "event_name": "美国当周贝克休斯石油钻井总数(口)",
         "previous": "407"
       },
-      "created_at": "2025-11-29T00:51:51.529140"
+      "created_at": "2025-11-30T00:59:53.582157"
     },
     {
       "platform": "investing",
@@ -147,7 +177,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-29",
+      "discovery_date": "2025-11-30",
       "raw_data": {
         "event_id": "eventRowId_536710",
         "event_attr_id": "",
@@ -158,7 +188,7 @@
         "event_name": "美国当周贝克休斯总钻井总数(口)",
         "previous": "544"
       },
-      "created_at": "2025-11-29T00:51:51.529307"
+      "created_at": "2025-11-30T00:59:53.582298"
     },
     {
       "platform": "investing",
@@ -168,7 +198,7 @@
       "event_time": "04:00",
       "event_datetime": "2025/12/06 04:00:00",
       "title": "美国消费信贷(美元)  (十月)",
-      "content": "前值: 13.09B",
+      "content": "预测值: 14.40B | 前值: 13.09B",
       "category": null,
       "importance": 1,
       "country": "美国",
@@ -178,7 +208,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-29",
+      "discovery_date": "2025-11-30",
       "raw_data": {
         "event_id": "eventRowId_536041",
         "event_attr_id": "",
@@ -187,9 +217,10 @@
         "country": "美国",
         "importance": 1,
         "event_name": "美国消费信贷(美元)  (十月)",
+        "forecast": "14.40B",
         "previous": "13.09B"
       },
-      "created_at": "2025-11-29T00:51:51.529443"
+      "created_at": "2025-11-30T00:59:53.582418"
     },
     {
       "platform": "investing",
@@ -209,7 +240,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-29",
+      "discovery_date": "2025-11-30",
       "raw_data": {
         "event_id": "eventRowId_536939",
         "event_attr_id": "",
@@ -220,7 +251,7 @@
         "event_name": "日本外汇储备(美元)  (十一月)",
         "previous": "1,347.4B"
       },
-      "created_at": "2025-11-29T00:51:51.529571"
+      "created_at": "2025-11-30T00:59:53.582539"
     },
     {
       "platform": "investing",
@@ -240,7 +271,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-29",
+      "discovery_date": "2025-11-30",
       "raw_data": {
         "event_id": "eventRowId_536940",
         "event_attr_id": "",
@@ -251,7 +282,7 @@
         "event_name": "越南CPI年率 (同比)  (十一月)",
         "previous": "3.25%"
       },
-      "created_at": "2025-11-29T00:51:51.529720"
+      "created_at": "2025-11-30T00:59:53.582694"
     },
     {
       "platform": "investing",
@@ -271,7 +302,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-29",
+      "discovery_date": "2025-11-30",
       "raw_data": {
         "event_id": "eventRowId_536941",
         "event_attr_id": "",
@@ -282,7 +313,7 @@
         "event_name": "越南CPI年率 (月度环比)  (十一月)",
         "previous": "0.20%"
       },
-      "created_at": "2025-11-29T00:51:51.529851"
+      "created_at": "2025-11-30T00:59:53.582810"
     },
     {
       "platform": "investing",
@@ -302,7 +333,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-29",
+      "discovery_date": "2025-11-30",
       "raw_data": {
         "event_id": "eventRowId_536944",
         "event_attr_id": "",
@@ -313,7 +344,7 @@
         "event_name": "越南外商直接投资(美元)  (十一月)",
         "previous": "21.30B"
       },
-      "created_at": "2025-11-29T00:51:51.529974"
+      "created_at": "2025-11-30T00:59:53.582929"
     },
     {
       "platform": "investing",
@@ -333,7 +364,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-29",
+      "discovery_date": "2025-11-30",
       "raw_data": {
         "event_id": "eventRowId_536942",
         "event_attr_id": "",
@@ -344,7 +375,7 @@
         "event_name": "越南工业产出年率 (同比)  (十一月)",
         "previous": "10.8%"
       },
-      "created_at": "2025-11-29T00:51:51.530098"
+      "created_at": "2025-11-30T00:59:53.583044"
     },
     {
       "platform": "investing",
@@ -364,7 +395,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-29",
+      "discovery_date": "2025-11-30",
       "raw_data": {
         "event_id": "eventRowId_536943",
         "event_attr_id": "",
@@ -375,7 +406,7 @@
         "event_name": "越南零售销售年率 (同比)  (十一月)",
         "previous": "7.2%"
       },
-      "created_at": "2025-11-29T00:51:51.530220"
+      "created_at": "2025-11-30T00:59:53.583167"
     },
     {
       "platform": "investing",
@@ -395,7 +426,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-29",
+      "discovery_date": "2025-11-30",
       "raw_data": {
         "event_id": "eventRowId_536945",
         "event_attr_id": "",
@@ -406,11 +437,11 @@
         "event_name": "越南贸易帐(越南盾)  (十一月)",
         "previous": "2,600M"
       },
-      "created_at": "2025-11-29T00:51:51.530342"
+      "created_at": "2025-11-30T00:59:53.583298"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251206040000_-8036831531152510256",
+      "event_id": "em_jjsj_20251206040000_3294914697447323502",
       "original_id": "2025-12-06 04:00:00_美国：消费信贷总计：折年率：季调(报告期:2025年10月)",
       "event_date": "2025-12-06",
       "event_time": "04:00:00",
@@ -426,12 +457,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-29",
+      "discovery_date": "2025-11-30",
       "raw_data": {
         "Name": "美国：消费信贷总计：折年率：季调(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-11-29T00:51:56.525131"
+      "created_at": "2025-11-30T00:59:59.464616"
     }
   ]
 }
