@@ -1,14 +1,46 @@
 {
   "date": "2025-12-22",
-  "total_events": 8,
-  "new_events": 0,
+  "total_events": 9,
+  "new_events": 1,
   "platforms": {
+    "investing": 1,
     "eastmoney": 8
   },
   "events": [
     {
+      "platform": "investing",
+      "event_id": "inv__20251222090000",
+      "original_id": "eventRowId_537228",
+      "event_date": "2025-12-22",
+      "event_time": "09:00",
+      "event_datetime": "2025/12/22 09:00:00",
+      "title": "中国央行贷款市场报价利率(LPR)  (十二月)",
+      "content": "前值: 3.50%",
+      "category": null,
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-01",
+      "raw_data": {
+        "event_id": "eventRowId_537228",
+        "event_attr_id": "",
+        "datetime": "2025/12/22 09:00:00",
+        "time": "09:00",
+        "country": "中国",
+        "importance": 3,
+        "event_name": "中国央行贷款市场报价利率(LPR)  (十二月)",
+        "previous": "3.50%"
+      },
+      "created_at": "2025-12-01T01:04:09.102800"
+    },
+    {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251222000000_3769901006409483271",
+      "event_id": "em_jjsj_20251222000000_8700991539629290775",
       "original_id": "2025-12-22 00:00:00_俄罗斯：M2(报告期:2025年12月)",
       "event_date": "2025-12-22",
       "event_time": null,
@@ -24,16 +56,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-30",
+      "discovery_date": "2025-12-01",
       "raw_data": {
         "Name": "俄罗斯：M2(报告期:2025年12月)",
         "City": "俄罗斯"
       },
-      "created_at": "2025-11-30T00:59:59.465630"
+      "created_at": "2025-12-01T01:04:13.057206"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251222090000_-8509380995727873886",
+      "event_id": "em_jjsj_20251222090000_2268657504717419899",
       "original_id": "2025-12-22 09:00:00_中国：贷款市场报价利率(LPR):1年:月(报告期:2025年12月)",
       "event_date": "2025-12-22",
       "event_time": "09:00:00",
@@ -49,16 +81,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-30",
+      "discovery_date": "2025-12-01",
       "raw_data": {
         "Name": "中国：贷款市场报价利率(LPR):1年:月(报告期:2025年12月)",
         "City": "中国"
       },
-      "created_at": "2025-11-30T00:59:59.465638"
+      "created_at": "2025-12-01T01:04:13.057214"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251222090000_4139708708503503684",
+      "event_id": "em_jjsj_20251222090000_-4264330041469565450",
       "original_id": "2025-12-22 09:00:00_中国：贷款市场报价利率(LPR):5年:月(报告期:2025年12月)",
       "event_date": "2025-12-22",
       "event_time": "09:00:00",
@@ -74,16 +106,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-30",
+      "discovery_date": "2025-12-01",
       "raw_data": {
         "Name": "中国：贷款市场报价利率(LPR):5年:月(报告期:2025年12月)",
         "City": "中国"
       },
-      "created_at": "2025-11-30T00:59:59.465646"
+      "created_at": "2025-12-01T01:04:13.057221"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251222120000_-7542735199402394698",
+      "event_id": "em_jjsj_20251222120000_-3434162272087400763",
       "original_id": "2025-12-22 12:00:00_马来西亚：CPI：同比(报告期:2025年11月)",
       "event_date": "2025-12-22",
       "event_time": "12:00:00",
@@ -99,16 +131,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-30",
+      "discovery_date": "2025-12-01",
       "raw_data": {
         "Name": "马来西亚：CPI：同比(报告期:2025年11月)",
         "City": "马来西亚"
       },
-      "created_at": "2025-11-30T00:59:59.465654"
+      "created_at": "2025-12-01T01:04:13.057229"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251222150000_-4472435463210625974",
+      "event_id": "em_jjsj_20251222150000_-2130719499296691725",
       "original_id": "2025-12-22 15:00:00_英国：GDP：不变价：季调：环比(报告期:2025年09月)",
       "event_date": "2025-12-22",
       "event_time": "15:00:00",
@@ -124,16 +156,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-30",
+      "discovery_date": "2025-12-01",
       "raw_data": {
         "Name": "英国：GDP：不变价：季调：环比(报告期:2025年09月)",
         "City": "英国"
       },
-      "created_at": "2025-11-30T00:59:59.465662"
+      "created_at": "2025-12-01T01:04:13.057237"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251222150000_552585186707055559",
+      "event_id": "em_jjsj_20251222150000_-119882902946427241",
       "original_id": "2025-12-22 15:00:00_英国：GDP：现价：季调：同比(修正值)(报告期:2025年09月)",
       "event_date": "2025-12-22",
       "event_time": "15:00:00",
@@ -149,16 +181,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-30",
+      "discovery_date": "2025-12-01",
       "raw_data": {
         "Name": "英国：GDP：现价：季调：同比(修正值)(报告期:2025年09月)",
         "City": "英国"
       },
-      "created_at": "2025-11-30T00:59:59.465670"
+      "created_at": "2025-12-01T01:04:13.057245"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251222163000_4744176940458793577",
+      "event_id": "em_jjsj_20251222163000_-604976339589167533",
       "original_id": "2025-12-22 16:30:00_中国香港：CPI:综合类:当月同比(报告期:2025年11月)",
       "event_date": "2025-12-22",
       "event_time": "16:30:00",
@@ -174,16 +206,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-30",
+      "discovery_date": "2025-12-01",
       "raw_data": {
         "Name": "中国香港：CPI:综合类:当月同比(报告期:2025年11月)",
         "City": "中国香港"
       },
-      "created_at": "2025-11-30T00:59:59.465678"
+      "created_at": "2025-12-01T01:04:13.057253"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251222163000_1726159847327155439",
+      "event_id": "em_jjsj_20251222163000_-3561341244975384226",
       "original_id": "2025-12-22 16:30:00_中国香港：CPI:综合类(报告期:2025年11月)",
       "event_date": "2025-12-22",
       "event_time": "16:30:00",
@@ -199,12 +231,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-11-30",
+      "discovery_date": "2025-12-01",
       "raw_data": {
         "Name": "中国香港：CPI:综合类(报告期:2025年11月)",
         "City": "中国香港"
       },
-      "created_at": "2025-11-30T00:59:59.465685"
+      "created_at": "2025-12-01T01:04:13.057261"
     }
   ]
 }
