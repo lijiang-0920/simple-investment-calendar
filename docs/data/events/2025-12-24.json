@@ -1,11 +1,11 @@
 {
   "date": "2025-12-24",
-  "total_events": 9,
-  "new_events": 0,
+  "total_events": 10,
+  "new_events": 1,
   "platforms": {
     "cls": 1,
     "jiuyangongshe": 1,
-    "investing": 1,
+    "investing": 2,
     "eastmoney": 6
   },
   "events": [
@@ -27,7 +27,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-02",
+      "discovery_date": "2025-12-03",
       "raw_data": {
         "id": 396962,
         "calendar_time": "2025-12-24 00:00:00",
@@ -43,7 +43,7 @@
         "holiday": null,
         "title": "第二十三届中国食品安全大会暨2025全国食品工业科技进步大会将于12月24日至28日举办"
       },
-      "created_at": "2025-12-02T00:54:14.383573"
+      "created_at": "2025-12-03T00:54:21.988184"
     },
     {
       "platform": "jiuyangongshe",
@@ -63,7 +63,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-02",
+      "discovery_date": "2025-12-03",
       "raw_data": {
         "article_id": "f18193f32aaf480fa92e694573a9c442",
         "user_id": "1",
@@ -88,7 +88,38 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-12-02T00:54:15.922372"
+      "created_at": "2025-12-03T00:54:23.945390"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251224050000",
+      "original_id": "eventRowId_537366",
+      "event_date": "2025-12-24",
+      "event_time": "05:00",
+      "event_datetime": "2025/12/24 05:00:00",
+      "title": "韩国消费者信心指数  (十二月)",
+      "content": "前值: 112.4",
+      "category": null,
+      "importance": 1,
+      "country": "韩国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-03",
+      "raw_data": {
+        "event_id": "eventRowId_537366",
+        "event_attr_id": "",
+        "datetime": "2025/12/24 05:00:00",
+        "time": "05:00",
+        "country": "韩国",
+        "importance": 1,
+        "event_name": "韩国消费者信心指数  (十二月)",
+        "previous": "112.4"
+      },
+      "created_at": "2025-12-03T00:54:30.304110"
     },
     {
       "platform": "investing",
@@ -108,7 +139,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-02",
+      "discovery_date": "2025-12-03",
       "raw_data": {
         "event_id": "eventRowId_532302",
         "event_attr_id": "",
@@ -118,11 +149,11 @@
         "importance": 2,
         "event_name": "亚特兰大联储GDPNow经济增长预测  (第四季度)"
       },
-      "created_at": "2025-12-02T00:54:22.214067"
+      "created_at": "2025-12-03T00:54:30.304241"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_xsap_20251224_-8672794892520113764",
+      "event_id": "em_xsap_20251224_-8246656743451731364",
       "original_id": "xsap_港股通(沪)、港股通(深)_2025-12-24",
       "event_date": "2025-12-24",
       "event_time": null,
@@ -138,7 +169,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-02",
+      "discovery_date": "2025-12-03",
       "raw_data": {
         "MKT": "港股通(沪)、港股通(深)",
         "HOLIDAY": "圣诞前夕(13:00收市)",
@@ -147,11 +178,11 @@
         "XS": null,
         "FIRST_LETTER": "G"
       },
-      "created_at": "2025-12-02T00:54:25.555337"
+      "created_at": "2025-12-03T00:54:33.171092"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_xsap_20251224_-8672794892520113764",
+      "event_id": "em_xsap_20251224_-8246656743451731364",
       "original_id": "xsap_港股_2025-12-24",
       "event_date": "2025-12-24",
       "event_time": null,
@@ -167,7 +198,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-02",
+      "discovery_date": "2025-12-03",
       "raw_data": {
         "MKT": "港股",
         "HOLIDAY": "圣诞前夕(13:00收市)",
@@ -176,11 +207,11 @@
         "XS": "1",
         "FIRST_LETTER": "G"
       },
-      "created_at": "2025-12-02T00:54:25.555345"
+      "created_at": "2025-12-03T00:54:33.171100"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251224020000_6212772364106486926",
+      "event_id": "em_jjsj_20251224020000_319169536603605927",
       "original_id": "2025-12-24 02:00:00_美国：M2：季调(报告期:2025年11月)",
       "event_date": "2025-12-24",
       "event_time": "02:00:00",
@@ -196,16 +227,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-02",
+      "discovery_date": "2025-12-03",
       "raw_data": {
         "Name": "美国：M2：季调(报告期:2025年11月)",
         "City": "美国"
       },
-      "created_at": "2025-12-02T00:54:25.559090"
+      "created_at": "2025-12-03T00:54:33.174879"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251224020000_7508612278030770747",
+      "event_id": "em_jjsj_20251224020000_-7814838518868144625",
       "original_id": "2025-12-24 02:00:00_美国：M1：季调(报告期:2025年11月)",
       "event_date": "2025-12-24",
       "event_time": "02:00:00",
@@ -221,16 +252,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-02",
+      "discovery_date": "2025-12-03",
       "raw_data": {
         "Name": "美国：M1：季调(报告期:2025年11月)",
         "City": "美国"
       },
-      "created_at": "2025-12-02T00:54:25.559098"
+      "created_at": "2025-12-03T00:54:33.174886"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251224213000_-3631709286743779438",
+      "event_id": "em_jjsj_20251224213000_-3670207107718182717",
       "original_id": "2025-12-24 21:30:00_美国：耐用品订单月率(报告期:2025年11月)",
       "event_date": "2025-12-24",
       "event_time": "21:30:00",
@@ -246,16 +277,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-02",
+      "discovery_date": "2025-12-03",
       "raw_data": {
         "Name": "美国：耐用品订单月率(报告期:2025年11月)",
         "City": "美国"
       },
-      "created_at": "2025-12-02T00:54:25.559105"
+      "created_at": "2025-12-03T00:54:33.174893"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251224213000_7486056328317503883",
+      "event_id": "em_jjsj_20251224213000_964837097027160992",
       "original_id": "2025-12-24 21:30:00_美国：耐用品：新增订单(报告期:2025年11月)",
       "event_date": "2025-12-24",
       "event_time": "21:30:00",
@@ -271,12 +302,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-02",
+      "discovery_date": "2025-12-03",
       "raw_data": {
         "Name": "美国：耐用品：新增订单(报告期:2025年11月)",
         "City": "美国"
       },
-      "created_at": "2025-12-02T00:54:25.559112"
+      "created_at": "2025-12-03T00:54:33.174901"
     }
   ]
 }
