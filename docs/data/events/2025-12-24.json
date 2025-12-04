@@ -1,11 +1,11 @@
 {
   "date": "2025-12-24",
-  "total_events": 10,
-  "new_events": 1,
+  "total_events": 15,
+  "new_events": 5,
   "platforms": {
     "cls": 1,
     "jiuyangongshe": 1,
-    "investing": 2,
+    "investing": 7,
     "eastmoney": 6
   },
   "events": [
@@ -27,7 +27,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-03",
+      "discovery_date": "2025-12-04",
       "raw_data": {
         "id": 396962,
         "calendar_time": "2025-12-24 00:00:00",
@@ -43,7 +43,7 @@
         "holiday": null,
         "title": "第二十三届中国食品安全大会暨2025全国食品工业科技进步大会将于12月24日至28日举办"
       },
-      "created_at": "2025-12-03T00:54:21.988184"
+      "created_at": "2025-12-04T00:54:17.027006"
     },
     {
       "platform": "jiuyangongshe",
@@ -63,7 +63,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-03",
+      "discovery_date": "2025-12-04",
       "raw_data": {
         "article_id": "f18193f32aaf480fa92e694573a9c442",
         "user_id": "1",
@@ -88,7 +88,7 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-12-03T00:54:23.945390"
+      "created_at": "2025-12-04T00:54:18.586776"
     },
     {
       "platform": "investing",
@@ -107,8 +107,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-03",
+      "is_new": false,
+      "discovery_date": "2025-12-04",
       "raw_data": {
         "event_id": "eventRowId_537366",
         "event_attr_id": "",
@@ -119,7 +119,162 @@
         "event_name": "韩国消费者信心指数  (十二月)",
         "previous": "112.4"
       },
-      "created_at": "2025-12-03T00:54:30.304110"
+      "created_at": "2025-12-04T00:54:23.846575"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251224160000",
+      "original_id": "eventRowId_537471",
+      "event_date": "2025-12-24",
+      "event_time": "16:00",
+      "event_datetime": "2025/12/24 16:00:00",
+      "title": "中国台湾地区工业产出指数年率(%) (同比)  (十一月)",
+      "content": "前值: 14.50%",
+      "category": null,
+      "importance": 1,
+      "country": "中国台湾",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-04",
+      "raw_data": {
+        "event_id": "eventRowId_537471",
+        "event_attr_id": "",
+        "datetime": "2025/12/24 16:00:00",
+        "time": "16:00",
+        "country": "中国台湾",
+        "importance": 1,
+        "event_name": "中国台湾地区工业产出指数年率(%) (同比)  (十一月)",
+        "previous": "14.50%"
+      },
+      "created_at": "2025-12-04T00:54:23.846705"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251224213000",
+      "original_id": "eventRowId_537482",
+      "event_date": "2025-12-24",
+      "event_time": "21:30",
+      "event_datetime": "2025/12/24 21:30:00",
+      "title": "美国扣除运输耐用品订单月率(%) (月度环比)  (十月)",
+      "content": "前值: 0.5%",
+      "category": null,
+      "importance": 2,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-04",
+      "raw_data": {
+        "event_id": "eventRowId_537482",
+        "event_attr_id": "",
+        "datetime": "2025/12/24 21:30:00",
+        "time": "21:30",
+        "country": "美国",
+        "importance": 2,
+        "event_name": "美国扣除运输耐用品订单月率(%) (月度环比)  (十月)",
+        "previous": "0.5%"
+      },
+      "created_at": "2025-12-04T00:54:23.846832"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251224213000",
+      "original_id": "eventRowId_537485",
+      "event_date": "2025-12-24",
+      "event_time": "21:30",
+      "event_datetime": "2025/12/24 21:30:00",
+      "title": "美国耐用品订单月率(%) (月度环比)  (十月)",
+      "content": "前值: 3.0%",
+      "category": null,
+      "importance": 2,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-04",
+      "raw_data": {
+        "event_id": "eventRowId_537485",
+        "event_attr_id": "",
+        "datetime": "2025/12/24 21:30:00",
+        "time": "21:30",
+        "country": "美国",
+        "importance": 2,
+        "event_name": "美国耐用品订单月率(%) (月度环比)  (十月)",
+        "previous": "3.0%"
+      },
+      "created_at": "2025-12-04T00:54:23.846967"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251224213000",
+      "original_id": "eventRowId_537483",
+      "event_date": "2025-12-24",
+      "event_time": "21:30",
+      "event_datetime": "2025/12/24 21:30:00",
+      "title": "美国扣除国防耐用品订单月率(%) (月度环比)  (十月)",
+      "content": "前值: 1.9%",
+      "category": null,
+      "importance": 1,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-04",
+      "raw_data": {
+        "event_id": "eventRowId_537483",
+        "event_attr_id": "",
+        "datetime": "2025/12/24 21:30:00",
+        "time": "21:30",
+        "country": "美国",
+        "importance": 1,
+        "event_name": "美国扣除国防耐用品订单月率(%) (月度环比)  (十月)",
+        "previous": "1.9%"
+      },
+      "created_at": "2025-12-04T00:54:23.847091"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251224213000",
+      "original_id": "eventRowId_537484",
+      "event_date": "2025-12-24",
+      "event_time": "21:30",
+      "event_datetime": "2025/12/24 21:30:00",
+      "title": "美国扣除飞机非国防资本耐用品订单月率(%) (月度环比)  (十月)",
+      "content": "前值: 0.9%",
+      "category": null,
+      "importance": 1,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-04",
+      "raw_data": {
+        "event_id": "eventRowId_537484",
+        "event_attr_id": "",
+        "datetime": "2025/12/24 21:30:00",
+        "time": "21:30",
+        "country": "美国",
+        "importance": 1,
+        "event_name": "美国扣除飞机非国防资本耐用品订单月率(%) (月度环比)  (十月)",
+        "previous": "0.9%"
+      },
+      "created_at": "2025-12-04T00:54:23.847208"
     },
     {
       "platform": "investing",
@@ -139,7 +294,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-03",
+      "discovery_date": "2025-12-04",
       "raw_data": {
         "event_id": "eventRowId_532302",
         "event_attr_id": "",
@@ -149,11 +304,11 @@
         "importance": 2,
         "event_name": "亚特兰大联储GDPNow经济增长预测  (第四季度)"
       },
-      "created_at": "2025-12-03T00:54:30.304241"
+      "created_at": "2025-12-04T00:54:23.847323"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_xsap_20251224_-8246656743451731364",
+      "event_id": "em_xsap_20251224_-7413899291029887887",
       "original_id": "xsap_港股通(沪)、港股通(深)_2025-12-24",
       "event_date": "2025-12-24",
       "event_time": null,
@@ -169,7 +324,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-03",
+      "discovery_date": "2025-12-04",
       "raw_data": {
         "MKT": "港股通(沪)、港股通(深)",
         "HOLIDAY": "圣诞前夕(13:00收市)",
@@ -178,11 +333,11 @@
         "XS": null,
         "FIRST_LETTER": "G"
       },
-      "created_at": "2025-12-03T00:54:33.171092"
+      "created_at": "2025-12-04T00:54:26.047013"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_xsap_20251224_-8246656743451731364",
+      "event_id": "em_xsap_20251224_-7413899291029887887",
       "original_id": "xsap_港股_2025-12-24",
       "event_date": "2025-12-24",
       "event_time": null,
@@ -198,7 +353,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-03",
+      "discovery_date": "2025-12-04",
       "raw_data": {
         "MKT": "港股",
         "HOLIDAY": "圣诞前夕(13:00收市)",
@@ -207,11 +362,11 @@
         "XS": "1",
         "FIRST_LETTER": "G"
       },
-      "created_at": "2025-12-03T00:54:33.171100"
+      "created_at": "2025-12-04T00:54:26.047021"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251224020000_319169536603605927",
+      "event_id": "em_jjsj_20251224020000_-5260412956232729730",
       "original_id": "2025-12-24 02:00:00_美国：M2：季调(报告期:2025年11月)",
       "event_date": "2025-12-24",
       "event_time": "02:00:00",
@@ -227,16 +382,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-03",
+      "discovery_date": "2025-12-04",
       "raw_data": {
         "Name": "美国：M2：季调(报告期:2025年11月)",
         "City": "美国"
       },
-      "created_at": "2025-12-03T00:54:33.174879"
+      "created_at": "2025-12-04T00:54:26.048856"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251224020000_-7814838518868144625",
+      "event_id": "em_jjsj_20251224020000_-5314246999120844856",
       "original_id": "2025-12-24 02:00:00_美国：M1：季调(报告期:2025年11月)",
       "event_date": "2025-12-24",
       "event_time": "02:00:00",
@@ -252,16 +407,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-03",
+      "discovery_date": "2025-12-04",
       "raw_data": {
         "Name": "美国：M1：季调(报告期:2025年11月)",
         "City": "美国"
       },
-      "created_at": "2025-12-03T00:54:33.174886"
+      "created_at": "2025-12-04T00:54:26.048864"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251224213000_-3670207107718182717",
+      "event_id": "em_jjsj_20251224213000_8047531761535041452",
       "original_id": "2025-12-24 21:30:00_美国：耐用品订单月率(报告期:2025年11月)",
       "event_date": "2025-12-24",
       "event_time": "21:30:00",
@@ -277,16 +432,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-03",
+      "discovery_date": "2025-12-04",
       "raw_data": {
         "Name": "美国：耐用品订单月率(报告期:2025年11月)",
         "City": "美国"
       },
-      "created_at": "2025-12-03T00:54:33.174893"
+      "created_at": "2025-12-04T00:54:26.048872"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251224213000_964837097027160992",
+      "event_id": "em_jjsj_20251224213000_-8743073877562264563",
       "original_id": "2025-12-24 21:30:00_美国：耐用品：新增订单(报告期:2025年11月)",
       "event_date": "2025-12-24",
       "event_time": "21:30:00",
@@ -302,12 +457,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-03",
+      "discovery_date": "2025-12-04",
       "raw_data": {
         "Name": "美国：耐用品：新增订单(报告期:2025年11月)",
         "City": "美国"
       },
-      "created_at": "2025-12-03T00:54:33.174901"
+      "created_at": "2025-12-04T00:54:26.048880"
     }
   ]
 }
