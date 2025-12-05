@@ -1,11 +1,11 @@
 {
   "date": "2025-12-07",
-  "total_events": 6,
-  "new_events": 0,
+  "total_events": 8,
+  "new_events": 2,
   "platforms": {
-    "jiuyangongshe": 1,
+    "jiuyangongshe": 2,
     "investing": 1,
-    "eastmoney": 4
+    "eastmoney": 5
   },
   "events": [
     {
@@ -26,7 +26,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-04",
+      "discovery_date": "2025-12-05",
       "raw_data": {
         "article_id": "b33f1965cdc04b8b8a71f0cf09e62569",
         "user_id": "1",
@@ -51,7 +51,52 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-12-04T00:54:18.586448"
+      "created_at": "2025-12-05T00:54:49.367392"
+    },
+    {
+      "platform": "jiuyangongshe",
+      "event_id": "jygs_8bb46c8d0cab457cb458ce1cec05cfda_01fd59a6f8324e638dbfca1c485c5f11_20251207",
+      "original_id": "8bb46c8d0cab457cb458ce1cec05cfda",
+      "event_date": "2025-12-07",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "长春国际医药健康产业博览会暨长白山人参产业高质量发展大会",
+      "content": "",
+      "category": null,
+      "importance": 1,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-05",
+      "raw_data": {
+        "article_id": "8bb46c8d0cab457cb458ce1cec05cfda",
+        "user_id": "1",
+        "title": "长春国际医药健康产业博览会暨长白山人参产业高质量发展大会",
+        "content": "",
+        "like_count": 0,
+        "comment_count": 0,
+        "forward_count": 0,
+        "is_like": 0,
+        "is_step": 0,
+        "user": {
+          "user_id": "1",
+          "nickname": "韭菜团子"
+        },
+        "timeline": {
+          "article_id": "8bb46c8d0cab457cb458ce1cec05cfda",
+          "timeline_id": "01fd59a6f8324e638dbfca1c485c5f11",
+          "date": "2025-12-07",
+          "grade": 6,
+          "source": "2",
+          "create_time": "2025-12-04 21:57:54",
+          "theme_list": []
+        }
+      },
+      "created_at": "2025-12-05T00:54:49.367401"
     },
     {
       "platform": "investing",
@@ -71,7 +116,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-04",
+      "discovery_date": "2025-12-05",
       "raw_data": {
         "event_id": "eventRowId_536064",
         "event_attr_id": "",
@@ -82,11 +127,11 @@
         "event_name": "中国外汇储备(美元)  (十一月)",
         "previous": "3.343T"
       },
-      "created_at": "2025-12-04T00:54:21.377924"
+      "created_at": "2025-12-05T00:54:52.551674"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251207000000_8422986258348628513",
+      "event_id": "em_jjsj_20251207000000_8010259747159929382",
       "original_id": "2025-12-07 00:00:00_中国：外汇储备(报告期:2025年11月)",
       "event_date": "2025-12-07",
       "event_time": null,
@@ -102,16 +147,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-04",
+      "discovery_date": "2025-12-05",
       "raw_data": {
         "Name": "中国：外汇储备(报告期:2025年11月)",
         "City": "中国"
       },
-      "created_at": "2025-12-04T00:54:26.047701"
+      "created_at": "2025-12-05T00:54:57.803594"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251207213000_5490806344922237165",
+      "event_id": "em_jjsj_20251207213000_8555006978532372504",
       "original_id": "2025-12-07 21:30:00_美国：货物进口金额：当月值(报告期:2025年10月)",
       "event_date": "2025-12-07",
       "event_time": "21:30:00",
@@ -127,16 +172,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-04",
+      "discovery_date": "2025-12-05",
       "raw_data": {
         "Name": "美国：货物进口金额：当月值(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-12-04T00:54:26.047708"
+      "created_at": "2025-12-05T00:54:57.803602"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251207213000_-1505819812397970104",
+      "event_id": "em_jjsj_20251207213000_-4847509619625873462",
       "original_id": "2025-12-07 21:30:00_美国：货物出口金额：当月值(报告期:2025年10月)",
       "event_date": "2025-12-07",
       "event_time": "21:30:00",
@@ -152,16 +197,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-04",
+      "discovery_date": "2025-12-05",
       "raw_data": {
         "Name": "美国：货物出口金额：当月值(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-12-04T00:54:26.047715"
+      "created_at": "2025-12-05T00:54:57.803609"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251207213000_-3529077541993728549",
+      "event_id": "em_jjsj_20251207213000_-5831759908682369840",
       "original_id": "2025-12-07 21:30:00_美国：对外贸易差额(报告期:2025年10月)",
       "event_date": "2025-12-07",
       "event_time": "21:30:00",
@@ -177,12 +222,43 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-04",
+      "discovery_date": "2025-12-05",
       "raw_data": {
         "Name": "美国：对外贸易差额(报告期:2025年10月)",
         "City": "美国"
       },
-      "created_at": "2025-12-04T00:54:26.047723"
+      "created_at": "2025-12-05T00:54:57.803616"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_hyhy_10867025",
+      "original_id": "10867025",
+      "event_date": "2025-12-07",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "和讯财经中国2025年会",
+      "content": "12月7日,“和讯财经中国2025年会”在北京举行,主题为“寻找中国经济破局之路”。",
+      "category": "行业会议",
+      "importance": 3,
+      "country": "中国",
+      "city": "北京市",
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-05",
+      "raw_data": {
+        "fe_code": "10867025",
+        "fe_name": "和讯财经中国2025年会",
+        "start_date": "2025-12-07",
+        "end_date": "2025-12-07",
+        "fe_type": "行业会议",
+        "sponsor": "和讯",
+        "city": "北京市",
+        "content": "12月7日,“和讯财经中国2025年会”在北京举行,主题为“寻找中国经济破局之路”。"
+      },
+      "created_at": "2025-12-05T00:54:57.805311"
     }
   ]
 }
