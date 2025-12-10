@@ -1,14 +1,139 @@
 {
   "date": "2025-12-31",
-  "total_events": 8,
-  "new_events": 0,
+  "total_events": 12,
+  "new_events": 4,
   "platforms": {
+    "investing": 4,
     "eastmoney": 8
   },
   "events": [
     {
+      "platform": "investing",
+      "event_id": "inv__20251231070000",
+      "original_id": "eventRowId_537741",
+      "event_date": "2025-12-31",
+      "event_time": "07:00",
+      "event_datetime": "2025/12/31 07:00:00",
+      "title": "韩国CPI年率 (同比)  (十二月)",
+      "content": "前值: 2.4%",
+      "category": null,
+      "importance": 1,
+      "country": "韩国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-10",
+      "raw_data": {
+        "event_id": "eventRowId_537741",
+        "event_attr_id": "",
+        "datetime": "2025/12/31 07:00:00",
+        "time": "07:00",
+        "country": "韩国",
+        "importance": 1,
+        "event_name": "韩国CPI年率 (同比)  (十二月)",
+        "previous": "2.4%"
+      },
+      "created_at": "2025-12-10T00:56:11.537924"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251231070000",
+      "original_id": "eventRowId_537742",
+      "event_date": "2025-12-31",
+      "event_time": "07:00",
+      "event_datetime": "2025/12/31 07:00:00",
+      "title": "韩国CPI月率(%) (月度环比)  (十二月)",
+      "content": "前值: -0.2%",
+      "category": null,
+      "importance": 1,
+      "country": "韩国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-10",
+      "raw_data": {
+        "event_id": "eventRowId_537742",
+        "event_attr_id": "",
+        "datetime": "2025/12/31 07:00:00",
+        "time": "07:00",
+        "country": "韩国",
+        "importance": 1,
+        "event_name": "韩国CPI月率(%) (月度环比)  (十二月)",
+        "previous": "-0.2%"
+      },
+      "created_at": "2025-12-10T00:56:11.538054"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251231083000",
+      "original_id": "eventRowId_537744",
+      "event_date": "2025-12-31",
+      "event_time": "08:30",
+      "event_datetime": "2025/12/31 08:30:00",
+      "title": "澳大利亚住房贷款月率(%)  (十一月)",
+      "content": "前值: 0.6%",
+      "category": null,
+      "importance": 1,
+      "country": "澳大利亚",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-10",
+      "raw_data": {
+        "event_id": "eventRowId_537744",
+        "event_attr_id": "",
+        "datetime": "2025/12/31 08:30:00",
+        "time": "08:30",
+        "country": "澳大利亚",
+        "importance": 1,
+        "event_name": "澳大利亚住房贷款月率(%)  (十一月)",
+        "previous": "0.6%"
+      },
+      "created_at": "2025-12-10T00:56:11.538169"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251231083000",
+      "original_id": "eventRowId_537743",
+      "event_date": "2025-12-31",
+      "event_time": "08:30",
+      "event_datetime": "2025/12/31 08:30:00",
+      "title": "澳大利亚私营企业贷款月率(%) (月度环比)  (十一月)",
+      "content": "前值: 0.7%",
+      "category": null,
+      "importance": 1,
+      "country": "澳大利亚",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-10",
+      "raw_data": {
+        "event_id": "eventRowId_537743",
+        "event_attr_id": "",
+        "datetime": "2025/12/31 08:30:00",
+        "time": "08:30",
+        "country": "澳大利亚",
+        "importance": 1,
+        "event_name": "澳大利亚私营企业贷款月率(%) (月度环比)  (十一月)",
+        "previous": "0.7%"
+      },
+      "created_at": "2025-12-10T00:56:11.538283"
+    },
+    {
       "platform": "eastmoney",
-      "event_id": "em_xsap_20251231_-3438505599608749001",
+      "event_id": "em_xsap_20251231_-13800198828725088",
       "original_id": "xsap_港股通(沪)、港股通(深)_2025-12-31",
       "event_date": "2025-12-31",
       "event_time": null,
@@ -24,7 +149,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-09",
+      "discovery_date": "2025-12-10",
       "raw_data": {
         "MKT": "港股通(沪)、港股通(深)",
         "HOLIDAY": "新年前夕半日市",
@@ -33,11 +158,11 @@
         "XS": null,
         "FIRST_LETTER": "G"
       },
-      "created_at": "2025-12-09T00:54:40.279845"
+      "created_at": "2025-12-10T00:56:13.657858"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_xsap_20251231_-1969872350483431537",
+      "event_id": "em_xsap_20251231_-3232819021189891572",
       "original_id": "xsap_港股_2025-12-31",
       "event_date": "2025-12-31",
       "event_time": null,
@@ -53,7 +178,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-09",
+      "discovery_date": "2025-12-10",
       "raw_data": {
         "MKT": "港股",
         "HOLIDAY": "元旦前夕(13:00收市)",
@@ -62,11 +187,11 @@
         "XS": "1",
         "FIRST_LETTER": "G"
       },
-      "created_at": "2025-12-09T00:54:40.279878"
+      "created_at": "2025-12-10T00:56:13.657889"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251231000000_-2193325791682013305",
+      "event_id": "em_jjsj_20251231000000_-3937086739454821584",
       "original_id": "2025-12-31 00:00:00_韩国：CPI：同比(报告期:2025年12月)",
       "event_date": "2025-12-31",
       "event_time": null,
@@ -82,16 +207,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-09",
+      "discovery_date": "2025-12-10",
       "raw_data": {
         "Name": "韩国：CPI：同比(报告期:2025年12月)",
         "City": "韩国"
       },
-      "created_at": "2025-12-09T00:54:40.281878"
+      "created_at": "2025-12-10T00:56:13.659741"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251231092000_4628097463455470429",
+      "event_id": "em_jjsj_20251231092000_-3989648810240675082",
       "original_id": "2025-12-31 09:20:00_中国：人民币汇率(报告期:2025年12月)",
       "event_date": "2025-12-31",
       "event_time": "09:20:00",
@@ -107,16 +232,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-09",
+      "discovery_date": "2025-12-10",
       "raw_data": {
         "Name": "中国：人民币汇率(报告期:2025年12月)",
         "City": "中国"
       },
-      "created_at": "2025-12-09T00:54:40.281890"
+      "created_at": "2025-12-10T00:56:13.659748"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251231093000_7645082442020968550",
+      "event_id": "em_jjsj_20251231093000_-9076639637888419506",
       "original_id": "2025-12-31 09:30:00_中国：制造业PMI(报告期:2025年12月)",
       "event_date": "2025-12-31",
       "event_time": "09:30:00",
@@ -132,16 +257,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-09",
+      "discovery_date": "2025-12-10",
       "raw_data": {
         "Name": "中国：制造业PMI(报告期:2025年12月)",
         "City": "中国"
       },
-      "created_at": "2025-12-09T00:54:40.281901"
+      "created_at": "2025-12-10T00:56:13.659756"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251231093000_4437096926135169345",
+      "event_id": "em_jjsj_20251231093000_-2005375556005407276",
       "original_id": "2025-12-31 09:30:00_中国：PMI(报告期:2025年12月)",
       "event_date": "2025-12-31",
       "event_time": "09:30:00",
@@ -157,16 +282,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-09",
+      "discovery_date": "2025-12-10",
       "raw_data": {
         "Name": "中国：PMI(报告期:2025年12月)",
         "City": "中国"
       },
-      "created_at": "2025-12-09T00:54:40.281908"
+      "created_at": "2025-12-10T00:56:13.659763"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251231093000_4782713703720067716",
+      "event_id": "em_jjsj_20251231093000_8687731293122755117",
       "original_id": "2025-12-31 09:30:00_中国：非制造业PMI(报告期:2025年12月)",
       "event_date": "2025-12-31",
       "event_time": "09:30:00",
@@ -182,16 +307,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-09",
+      "discovery_date": "2025-12-10",
       "raw_data": {
         "Name": "中国：非制造业PMI(报告期:2025年12月)",
         "City": "中国"
       },
-      "created_at": "2025-12-09T00:54:40.281916"
+      "created_at": "2025-12-10T00:56:13.659770"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251231160000_-3697388597247495175",
+      "event_id": "em_jjsj_20251231160000_3560410422946194676",
       "original_id": "2025-12-31 16:00:00_土耳其：出口金额(报告期:2025年11月)",
       "event_date": "2025-12-31",
       "event_time": "16:00:00",
@@ -207,12 +332,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-09",
+      "discovery_date": "2025-12-10",
       "raw_data": {
         "Name": "土耳其：出口金额(报告期:2025年11月)",
         "City": "土耳其"
       },
-      "created_at": "2025-12-09T00:54:40.281924"
+      "created_at": "2025-12-10T00:56:13.659777"
     }
   ]
 }
