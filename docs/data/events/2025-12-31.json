@@ -1,9 +1,9 @@
 {
   "date": "2025-12-31",
-  "total_events": 12,
-  "new_events": 4,
+  "total_events": 23,
+  "new_events": 11,
   "platforms": {
-    "investing": 4,
+    "investing": 15,
     "eastmoney": 8
   },
   "events": [
@@ -24,8 +24,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-10",
+      "is_new": false,
+      "discovery_date": "2025-12-11",
       "raw_data": {
         "event_id": "eventRowId_537741",
         "event_attr_id": "",
@@ -36,7 +36,7 @@
         "event_name": "韩国CPI年率 (同比)  (十二月)",
         "previous": "2.4%"
       },
-      "created_at": "2025-12-10T00:56:11.537924"
+      "created_at": "2025-12-11T00:56:42.590910"
     },
     {
       "platform": "investing",
@@ -55,8 +55,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-10",
+      "is_new": false,
+      "discovery_date": "2025-12-11",
       "raw_data": {
         "event_id": "eventRowId_537742",
         "event_attr_id": "",
@@ -67,7 +67,7 @@
         "event_name": "韩国CPI月率(%) (月度环比)  (十二月)",
         "previous": "-0.2%"
       },
-      "created_at": "2025-12-10T00:56:11.538054"
+      "created_at": "2025-12-11T00:56:42.591045"
     },
     {
       "platform": "investing",
@@ -86,8 +86,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-10",
+      "is_new": false,
+      "discovery_date": "2025-12-11",
       "raw_data": {
         "event_id": "eventRowId_537744",
         "event_attr_id": "",
@@ -98,7 +98,7 @@
         "event_name": "澳大利亚住房贷款月率(%)  (十一月)",
         "previous": "0.6%"
       },
-      "created_at": "2025-12-10T00:56:11.538169"
+      "created_at": "2025-12-11T00:56:42.591165"
     },
     {
       "platform": "investing",
@@ -117,8 +117,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-10",
+      "is_new": false,
+      "discovery_date": "2025-12-11",
       "raw_data": {
         "event_id": "eventRowId_537743",
         "event_attr_id": "",
@@ -129,11 +129,352 @@
         "event_name": "澳大利亚私营企业贷款月率(%) (月度环比)  (十一月)",
         "previous": "0.7%"
       },
-      "created_at": "2025-12-10T00:56:11.538283"
+      "created_at": "2025-12-11T00:56:42.591282"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251231093000",
+      "original_id": "eventRowId_537745",
+      "event_date": "2025-12-31",
+      "event_time": "09:30",
+      "event_datetime": "2025/12/31 09:30:00",
+      "title": "中国官方综合PMI  (十二月)",
+      "content": "前值: 49.7",
+      "category": null,
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-11",
+      "raw_data": {
+        "event_id": "eventRowId_537745",
+        "event_attr_id": "",
+        "datetime": "2025/12/31 09:30:00",
+        "time": "09:30",
+        "country": "中国",
+        "importance": 2,
+        "event_name": "中国官方综合PMI  (十二月)",
+        "previous": "49.7"
+      },
+      "created_at": "2025-12-11T00:56:42.591398"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251231093000",
+      "original_id": "eventRowId_537747",
+      "event_date": "2025-12-31",
+      "event_time": "09:30",
+      "event_datetime": "2025/12/31 09:30:00",
+      "title": "中国官方制造业PMI  (十二月)",
+      "content": "前值: 49.2",
+      "category": null,
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-11",
+      "raw_data": {
+        "event_id": "eventRowId_537747",
+        "event_attr_id": "",
+        "datetime": "2025/12/31 09:30:00",
+        "time": "09:30",
+        "country": "中国",
+        "importance": 3,
+        "event_name": "中国官方制造业PMI  (十二月)",
+        "previous": "49.2"
+      },
+      "created_at": "2025-12-11T00:56:42.591512"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251231093000",
+      "original_id": "eventRowId_537746",
+      "event_date": "2025-12-31",
+      "event_time": "09:30",
+      "event_datetime": "2025/12/31 09:30:00",
+      "title": "中国官方非制造业PMI  (十二月)",
+      "content": "前值: 49.5",
+      "category": null,
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-11",
+      "raw_data": {
+        "event_id": "eventRowId_537746",
+        "event_attr_id": "",
+        "datetime": "2025/12/31 09:30:00",
+        "time": "09:30",
+        "country": "中国",
+        "importance": 3,
+        "event_name": "中国官方非制造业PMI  (十二月)",
+        "previous": "49.5"
+      },
+      "created_at": "2025-12-11T00:56:42.591625"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251231140000",
+      "original_id": "eventRowId_537787",
+      "event_date": "2025-12-31",
+      "event_time": "14:00",
+      "event_datetime": "2025/12/31 14:00:00",
+      "title": "南非M3货币供应量年率(%) (同比)  (十一月)",
+      "content": "前值: 7.52%",
+      "category": null,
+      "importance": 1,
+      "country": "南非",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-11",
+      "raw_data": {
+        "event_id": "eventRowId_537787",
+        "event_attr_id": "",
+        "datetime": "2025/12/31 14:00:00",
+        "time": "14:00",
+        "country": "南非",
+        "importance": 1,
+        "event_name": "南非M3货币供应量年率(%) (同比)  (十一月)",
+        "previous": "7.52%"
+      },
+      "created_at": "2025-12-11T00:56:42.591742"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251231140000",
+      "original_id": "eventRowId_537786",
+      "event_date": "2025-12-31",
+      "event_time": "14:00",
+      "event_datetime": "2025/12/31 14:00:00",
+      "title": "南非私营部门信贷年率(%)  (十一月)",
+      "content": "前值: 7.26%",
+      "category": null,
+      "importance": 1,
+      "country": "南非",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-11",
+      "raw_data": {
+        "event_id": "eventRowId_537786",
+        "event_attr_id": "",
+        "datetime": "2025/12/31 14:00:00",
+        "time": "14:00",
+        "country": "南非",
+        "importance": 1,
+        "event_name": "南非私营部门信贷年率(%)  (十一月)",
+        "previous": "7.26%"
+      },
+      "created_at": "2025-12-11T00:56:42.591858"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251231150000",
+      "original_id": "eventRowId_537802",
+      "event_date": "2025-12-31",
+      "event_time": "15:00",
+      "event_datetime": "2025/12/31 15:00:00",
+      "title": "马来西亚货币供应年率(%) (同比)  (十一月)",
+      "content": "前值: 4.5%",
+      "category": null,
+      "importance": 1,
+      "country": "马来西亚",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-11",
+      "raw_data": {
+        "event_id": "eventRowId_537802",
+        "event_attr_id": "",
+        "datetime": "2025/12/31 15:00:00",
+        "time": "15:00",
+        "country": "马来西亚",
+        "importance": 1,
+        "event_name": "马来西亚货币供应年率(%) (同比)  (十一月)",
+        "previous": "4.5%"
+      },
+      "created_at": "2025-12-11T00:56:42.591991"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251231160000",
+      "original_id": "eventRowId_537804",
+      "event_date": "2025-12-31",
+      "event_time": "16:00",
+      "event_datetime": "2025/12/31 16:00:00",
+      "title": "官方储备资产  (十一月)",
+      "content": "前值: 844.8B",
+      "category": null,
+      "importance": 1,
+      "country": "瑞士",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-11",
+      "raw_data": {
+        "event_id": "eventRowId_537804",
+        "event_attr_id": "",
+        "datetime": "2025/12/31 16:00:00",
+        "time": "16:00",
+        "country": "瑞士",
+        "importance": 1,
+        "event_name": "官方储备资产  (十一月)",
+        "previous": "844.8B"
+      },
+      "created_at": "2025-12-11T00:56:42.592107"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251231163000",
+      "original_id": "eventRowId_537805",
+      "event_date": "2025-12-31",
+      "event_time": "16:30",
+      "event_datetime": "2025/12/31 16:30:00",
+      "title": "香港M3货币供应量年率(%)  (十一月)",
+      "content": "前值: 3.5%",
+      "category": null,
+      "importance": 1,
+      "country": "香港",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-11",
+      "raw_data": {
+        "event_id": "eventRowId_537805",
+        "event_attr_id": "",
+        "datetime": "2025/12/31 16:30:00",
+        "time": "16:30",
+        "country": "香港",
+        "importance": 1,
+        "event_name": "香港M3货币供应量年率(%)  (十一月)",
+        "previous": "3.5%"
+      },
+      "created_at": "2025-12-11T00:56:42.592220"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251231180000",
+      "original_id": "eventRowId_537834",
+      "event_date": "2025-12-31",
+      "event_time": "18:00",
+      "event_datetime": "2025/12/31 18:00:00",
+      "title": "印度联邦财政赤字(印度卢比)  (十一月)",
+      "content": "前值: 8,251.44B",
+      "category": null,
+      "importance": 1,
+      "country": "印度",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-11",
+      "raw_data": {
+        "event_id": "eventRowId_537834",
+        "event_attr_id": "",
+        "datetime": "2025/12/31 18:00:00",
+        "time": "18:00",
+        "country": "印度",
+        "importance": 1,
+        "event_name": "印度联邦财政赤字(印度卢比)  (十一月)",
+        "previous": "8,251.44B"
+      },
+      "created_at": "2025-12-11T00:56:42.592337"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251231200000",
+      "original_id": "eventRowId_537843",
+      "event_date": "2025-12-31",
+      "event_time": "20:00",
+      "event_datetime": "2025/12/31 20:00:00",
+      "title": "南非贸易帐(南非兰特)  (十一月)",
+      "content": "前值: 15.58B",
+      "category": null,
+      "importance": 1,
+      "country": "南非",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-11",
+      "raw_data": {
+        "event_id": "eventRowId_537843",
+        "event_attr_id": "",
+        "datetime": "2025/12/31 20:00:00",
+        "time": "20:00",
+        "country": "南非",
+        "importance": 1,
+        "event_name": "南非贸易帐(南非兰特)  (十一月)",
+        "previous": "15.58B"
+      },
+      "created_at": "2025-12-11T00:56:42.592453"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251231224500",
+      "original_id": "eventRowId_537844",
+      "event_date": "2025-12-31",
+      "event_time": "22:45",
+      "event_datetime": "2025/12/31 22:45:00",
+      "title": "美国芝加哥PMI  (十二月)",
+      "content": "前值: 36.3",
+      "category": null,
+      "importance": 2,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-11",
+      "raw_data": {
+        "event_id": "eventRowId_537844",
+        "event_attr_id": "",
+        "datetime": "2025/12/31 22:45:00",
+        "time": "22:45",
+        "country": "美国",
+        "importance": 2,
+        "event_name": "美国芝加哥PMI  (十二月)",
+        "previous": "36.3"
+      },
+      "created_at": "2025-12-11T00:56:42.592569"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_xsap_20251231_-13800198828725088",
+      "event_id": "em_xsap_20251231_-4318818656507263321",
       "original_id": "xsap_港股通(沪)、港股通(深)_2025-12-31",
       "event_date": "2025-12-31",
       "event_time": null,
@@ -149,7 +490,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-10",
+      "discovery_date": "2025-12-11",
       "raw_data": {
         "MKT": "港股通(沪)、港股通(深)",
         "HOLIDAY": "新年前夕半日市",
@@ -158,11 +499,11 @@
         "XS": null,
         "FIRST_LETTER": "G"
       },
-      "created_at": "2025-12-10T00:56:13.657858"
+      "created_at": "2025-12-11T00:56:50.610163"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_xsap_20251231_-3232819021189891572",
+      "event_id": "em_xsap_20251231_-7508286809907207415",
       "original_id": "xsap_港股_2025-12-31",
       "event_date": "2025-12-31",
       "event_time": null,
@@ -178,7 +519,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-10",
+      "discovery_date": "2025-12-11",
       "raw_data": {
         "MKT": "港股",
         "HOLIDAY": "元旦前夕(13:00收市)",
@@ -187,11 +528,11 @@
         "XS": "1",
         "FIRST_LETTER": "G"
       },
-      "created_at": "2025-12-10T00:56:13.657889"
+      "created_at": "2025-12-11T00:56:50.610192"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251231000000_-3937086739454821584",
+      "event_id": "em_jjsj_20251231000000_-3479083276462646327",
       "original_id": "2025-12-31 00:00:00_韩国：CPI：同比(报告期:2025年12月)",
       "event_date": "2025-12-31",
       "event_time": null,
@@ -207,16 +548,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-10",
+      "discovery_date": "2025-12-11",
       "raw_data": {
         "Name": "韩国：CPI：同比(报告期:2025年12月)",
         "City": "韩国"
       },
-      "created_at": "2025-12-10T00:56:13.659741"
+      "created_at": "2025-12-11T00:56:50.611812"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251231092000_-3989648810240675082",
+      "event_id": "em_jjsj_20251231092000_8027020588667043394",
       "original_id": "2025-12-31 09:20:00_中国：人民币汇率(报告期:2025年12月)",
       "event_date": "2025-12-31",
       "event_time": "09:20:00",
@@ -232,16 +573,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-10",
+      "discovery_date": "2025-12-11",
       "raw_data": {
         "Name": "中国：人民币汇率(报告期:2025年12月)",
         "City": "中国"
       },
-      "created_at": "2025-12-10T00:56:13.659748"
+      "created_at": "2025-12-11T00:56:50.611821"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251231093000_-9076639637888419506",
+      "event_id": "em_jjsj_20251231093000_4177814102462085666",
       "original_id": "2025-12-31 09:30:00_中国：制造业PMI(报告期:2025年12月)",
       "event_date": "2025-12-31",
       "event_time": "09:30:00",
@@ -257,16 +598,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-10",
+      "discovery_date": "2025-12-11",
       "raw_data": {
         "Name": "中国：制造业PMI(报告期:2025年12月)",
         "City": "中国"
       },
-      "created_at": "2025-12-10T00:56:13.659756"
+      "created_at": "2025-12-11T00:56:50.611829"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251231093000_-2005375556005407276",
+      "event_id": "em_jjsj_20251231093000_5951498149600163070",
       "original_id": "2025-12-31 09:30:00_中国：PMI(报告期:2025年12月)",
       "event_date": "2025-12-31",
       "event_time": "09:30:00",
@@ -282,16 +623,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-10",
+      "discovery_date": "2025-12-11",
       "raw_data": {
         "Name": "中国：PMI(报告期:2025年12月)",
         "City": "中国"
       },
-      "created_at": "2025-12-10T00:56:13.659763"
+      "created_at": "2025-12-11T00:56:50.611837"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251231093000_8687731293122755117",
+      "event_id": "em_jjsj_20251231093000_-7373247117824011551",
       "original_id": "2025-12-31 09:30:00_中国：非制造业PMI(报告期:2025年12月)",
       "event_date": "2025-12-31",
       "event_time": "09:30:00",
@@ -307,16 +648,16 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-10",
+      "discovery_date": "2025-12-11",
       "raw_data": {
         "Name": "中国：非制造业PMI(报告期:2025年12月)",
         "City": "中国"
       },
-      "created_at": "2025-12-10T00:56:13.659770"
+      "created_at": "2025-12-11T00:56:50.611844"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251231160000_3560410422946194676",
+      "event_id": "em_jjsj_20251231160000_6274892634522801424",
       "original_id": "2025-12-31 16:00:00_土耳其：出口金额(报告期:2025年11月)",
       "event_date": "2025-12-31",
       "event_time": "16:00:00",
@@ -332,12 +673,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-10",
+      "discovery_date": "2025-12-11",
       "raw_data": {
         "Name": "土耳其：出口金额(报告期:2025年11月)",
         "City": "土耳其"
       },
-      "created_at": "2025-12-10T00:56:13.659777"
+      "created_at": "2025-12-11T00:56:50.611852"
     }
   ]
 }
