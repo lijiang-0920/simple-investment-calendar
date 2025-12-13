@@ -1,9 +1,10 @@
 {
   "date": "2025-12-20",
-  "total_events": 5,
-  "new_events": 0,
+  "total_events": 6,
+  "new_events": 1,
   "platforms": {
-    "investing": 5
+    "investing": 5,
+    "eastmoney": 1
   },
   "events": [
     {
@@ -24,7 +25,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-12",
+      "discovery_date": "2025-12-13",
       "raw_data": {
         "event_id": "eventRowId_532301",
         "event_attr_id": "",
@@ -34,7 +35,7 @@
         "importance": 2,
         "event_name": "亚特兰大联储GDPNow经济增长预测  (第四季度)"
       },
-      "created_at": "2025-12-12T00:55:43.529418"
+      "created_at": "2025-12-13T00:52:40.907637"
     },
     {
       "platform": "investing",
@@ -54,7 +55,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-12",
+      "discovery_date": "2025-12-13",
       "raw_data": {
         "event_id": "eventRowId_537673",
         "event_attr_id": "",
@@ -64,7 +65,7 @@
         "importance": 2,
         "event_name": "美国当周贝克休斯石油钻井总数(口)"
       },
-      "created_at": "2025-12-12T00:55:43.529564"
+      "created_at": "2025-12-13T00:52:40.907801"
     },
     {
       "platform": "investing",
@@ -84,7 +85,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-12",
+      "discovery_date": "2025-12-13",
       "raw_data": {
         "event_id": "eventRowId_537674",
         "event_attr_id": "",
@@ -94,7 +95,7 @@
         "importance": 2,
         "event_name": "美国当周贝克休斯总钻井总数(口)"
       },
-      "created_at": "2025-12-12T00:55:43.529809"
+      "created_at": "2025-12-13T00:52:40.907926"
     },
     {
       "platform": "investing",
@@ -114,7 +115,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-12",
+      "discovery_date": "2025-12-13",
       "raw_data": {
         "event_id": "eventRowId_537798",
         "event_attr_id": "",
@@ -125,7 +126,7 @@
         "event_name": "中国央行贷款市场报价利率(LPR)  (十二月)",
         "previous": "3.50%"
       },
-      "created_at": "2025-12-12T00:55:43.529970"
+      "created_at": "2025-12-13T00:52:40.908046"
     },
     {
       "platform": "investing",
@@ -145,7 +146,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-12",
+      "discovery_date": "2025-12-13",
       "raw_data": {
         "event_id": "eventRowId_537799",
         "event_attr_id": "",
@@ -156,7 +157,38 @@
         "event_name": "中国央行贷款市场报价利率(LPR)",
         "previous": "3.00%"
       },
-      "created_at": "2025-12-12T00:55:43.530093"
+      "created_at": "2025-12-13T00:52:40.908161"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_hyhy_10867581",
+      "original_id": "10867581",
+      "event_date": "2025-12-20",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "DSMC 2025第六届中国制造业华北数智峰会",
+      "content": "",
+      "category": "行业会议",
+      "importance": 3,
+      "country": "中国",
+      "city": "北京市",
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-13",
+      "raw_data": {
+        "fe_code": "10867581",
+        "fe_name": "DSMC 2025第六届中国制造业华北数智峰会",
+        "start_date": "2025-12-20",
+        "end_date": "2025-12-20",
+        "fe_type": "行业会议",
+        "sponsor": "信息侠",
+        "city": "北京市",
+        "content": null
+      },
+      "created_at": "2025-12-13T00:52:43.789565"
     }
   ]
 }
