@@ -1,11 +1,12 @@
 {
   "date": "2025-12-25",
-  "total_events": 21,
-  "new_events": 1,
+  "total_events": 26,
+  "new_events": 9,
   "platforms": {
-    "cls": 1,
+    "cls": 6,
     "jiuyangongshe": 1,
-    "investing": 15,
+    "tonghuashun": 4,
+    "investing": 11,
     "eastmoney": 4
   },
   "events": [
@@ -27,7 +28,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-22",
+      "discovery_date": "2025-12-23",
       "raw_data": {
         "id": 400443,
         "calendar_time": "2025-12-25 00:00:00",
@@ -43,7 +44,191 @@
         "holiday": null,
         "title": "第十六届物联网产业与智慧城市发展年会将于12月25日举办"
       },
-      "created_at": "2025-12-22T00:58:49.080684"
+      "created_at": "2025-12-23T00:55:51.030989"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_449505_20251225_2",
+      "original_id": "449505",
+      "event_date": "2025-12-25",
+      "event_time": "00:00:00",
+      "event_datetime": "2025-12-25 00:00:00",
+      "title": "昇思人工智能框架峰会将于12月25日在杭州举办",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-23",
+      "raw_data": {
+        "id": 449505,
+        "calendar_time": "2025-12-25 00:00:00",
+        "data_id": 20646,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "昇思人工智能框架峰会将于12月25日在杭州举办",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "昇思人工智能框架峰会将于12月25日在杭州举办"
+      },
+      "created_at": "2025-12-23T00:55:51.030999"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_449508_20251225_2",
+      "original_id": "449508",
+      "event_date": "2025-12-25",
+      "event_time": "00:00:00",
+      "event_datetime": "2025-12-25 00:00:00",
+      "title": "2025粤港澳大湾区低空经济高质量发展大会将于12月25日在广州举办",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-23",
+      "raw_data": {
+        "id": 449508,
+        "calendar_time": "2025-12-25 00:00:00",
+        "data_id": 20647,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "2025粤港澳大湾区低空经济高质量发展大会将于12月25日在广州举办",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "2025粤港澳大湾区低空经济高质量发展大会将于12月25日在广州举办"
+      },
+      "created_at": "2025-12-23T00:55:51.031010"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_398089_20251225_3",
+      "original_id": "398089",
+      "event_date": "2025-12-25",
+      "event_time": "08:00:00",
+      "event_datetime": "2025-12-25 08:00:00",
+      "title": "【美国】纽交所，休市一日",
+      "content": null,
+      "category": "假日",
+      "importance": 3,
+      "country": null,
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-23",
+      "raw_data": {
+        "id": 398089,
+        "calendar_time": "2025-12-25 08:00:00",
+        "data_id": 1073,
+        "type": 3,
+        "economic": null,
+        "event": null,
+        "holiday": {
+          "title": "休市一日",
+          "country": "美国",
+          "country_icon": "",
+          "star": 3,
+          "name": "圣诞节",
+          "exchange_name": "纽交所"
+        },
+        "title": "【美国】纽交所，休市一日"
+      },
+      "created_at": "2025-12-23T00:55:51.031019"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_398090_20251225_3",
+      "original_id": "398090",
+      "event_date": "2025-12-25",
+      "event_time": "08:00:00",
+      "event_datetime": "2025-12-25 08:00:00",
+      "title": "【中国】香港交易所，休市一日，南、北向交易关闭",
+      "content": null,
+      "category": "假日",
+      "importance": 3,
+      "country": null,
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-23",
+      "raw_data": {
+        "id": 398090,
+        "calendar_time": "2025-12-25 08:00:00",
+        "data_id": 1074,
+        "type": 3,
+        "economic": null,
+        "event": null,
+        "holiday": {
+          "title": "休市一日，南、北向交易关闭",
+          "country": "中国",
+          "country_icon": "",
+          "star": 3,
+          "name": "圣诞节",
+          "exchange_name": "香港交易所"
+        },
+        "title": "【中国】香港交易所，休市一日，南、北向交易关闭"
+      },
+      "created_at": "2025-12-23T00:55:51.031029"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_449502_20251225_2",
+      "original_id": "449502",
+      "event_date": "2025-12-25",
+      "event_time": "19:00:00",
+      "event_datetime": "2025-12-25 19:00:00",
+      "title": "小米集团：小米17 Ultra发布会定档12月25日19:00",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-23",
+      "raw_data": {
+        "id": 449502,
+        "calendar_time": "2025-12-25 19:00:00",
+        "data_id": 20645,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "小米集团：小米17 Ultra发布会定档12月25日19:00",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "小米集团：小米17 Ultra发布会定档12月25日19:00"
+      },
+      "created_at": "2025-12-23T00:55:51.031039"
     },
     {
       "platform": "jiuyangongshe",
@@ -62,14 +247,14 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-22",
+      "is_new": false,
+      "discovery_date": "2025-12-23",
       "raw_data": {
         "article_id": "2yw1gxgm388",
         "user_id": "ceb69fef477947768edb2a19708bcd38",
         "title": "第十六届物联网产业与智慧城市发展年会",
         "content": " ",
-        "like_count": 0,
+        "like_count": 1,
         "comment_count": 0,
         "forward_count": 0,
         "is_like": 0,
@@ -88,7 +273,127 @@
           "theme_list": []
         }
       },
-      "created_at": "2025-12-22T00:58:51.270658"
+      "created_at": "2025-12-23T00:55:53.466845"
+    },
+    {
+      "platform": "tonghuashun",
+      "event_id": "ths_20251225_0_eb08a75d",
+      "original_id": "2025-12-25_0",
+      "event_date": "2025-12-25",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "第十六届物联网产业与智慧城市发展年会将于12月25日举办",
+      "content": null,
+      "category": null,
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-23",
+      "raw_data": {
+        "event": [
+          "第十六届物联网产业与智慧城市发展年会将于12月25日举办",
+          "",
+          "",
+          ""
+        ],
+        "concept": []
+      },
+      "created_at": "2025-12-23T00:55:55.431673"
+    },
+    {
+      "platform": "tonghuashun",
+      "event_id": "ths_20251225_1_2117693e",
+      "original_id": "2025-12-25_1",
+      "event_date": "2025-12-25",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "小米集团：小米17 Ultra发布会定档12月25日19:00",
+      "content": null,
+      "category": null,
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-23",
+      "raw_data": {
+        "event": [
+          "小米集团：小米17 Ultra发布会定档12月25日19:00",
+          "",
+          "",
+          ""
+        ],
+        "concept": []
+      },
+      "created_at": "2025-12-23T00:55:55.431683"
+    },
+    {
+      "platform": "tonghuashun",
+      "event_id": "ths_20251225_2_27432b13",
+      "original_id": "2025-12-25_2",
+      "event_date": "2025-12-25",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "思人工智能框架峰会将于12月25日在杭州举办",
+      "content": null,
+      "category": null,
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-23",
+      "raw_data": {
+        "event": [
+          "思人工智能框架峰会将于12月25日在杭州举办",
+          "",
+          "",
+          ""
+        ],
+        "concept": []
+      },
+      "created_at": "2025-12-23T00:55:55.431692"
+    },
+    {
+      "platform": "tonghuashun",
+      "event_id": "ths_20251225_3_3ba0f716",
+      "original_id": "2025-12-25_3",
+      "event_date": "2025-12-25",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "2025粤港澳大湾区低空经济高质量发展大会将于12月25日在广州举办",
+      "content": null,
+      "category": null,
+      "importance": 3,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-23",
+      "raw_data": {
+        "event": [
+          "2025粤港澳大湾区低空经济高质量发展大会将于12月25日在广州举办",
+          "",
+          "",
+          ""
+        ],
+        "concept": []
+      },
+      "created_at": "2025-12-23T00:55:55.431722"
     },
     {
       "platform": "investing",
@@ -108,7 +413,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-22",
+      "discovery_date": "2025-12-23",
       "raw_data": {
         "event_id": "eventRowId_537487",
         "event_attr_id": "",
@@ -119,7 +424,7 @@
         "event_name": "加拿大预算平衡(加元)  (十月)",
         "previous": "-5.02B"
       },
-      "created_at": "2025-12-22T00:58:54.226372"
+      "created_at": "2025-12-23T00:55:56.691582"
     },
     {
       "platform": "investing",
@@ -139,7 +444,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-22",
+      "discovery_date": "2025-12-23",
       "raw_data": {
         "event_id": "eventRowId_537486",
         "event_attr_id": "",
@@ -150,7 +455,7 @@
         "event_name": "加拿大预算平衡同比变化(加元) (同比)  (十月)",
         "previous": "-16.09B"
       },
-      "created_at": "2025-12-22T00:58:54.226518"
+      "created_at": "2025-12-23T00:55:56.691752"
     },
     {
       "platform": "investing",
@@ -170,7 +475,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-22",
+      "discovery_date": "2025-12-23",
       "raw_data": {
         "event_id": "eventRowId_538374",
         "event_attr_id": "",
@@ -181,7 +486,7 @@
         "event_name": "美国四周期国债拍卖",
         "previous": "3.585%"
       },
-      "created_at": "2025-12-22T00:58:54.226660"
+      "created_at": "2025-12-23T00:55:56.691883"
     },
     {
       "platform": "investing",
@@ -201,7 +506,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-22",
+      "discovery_date": "2025-12-23",
       "raw_data": {
         "event_id": "eventRowId_538375",
         "event_attr_id": "",
@@ -212,38 +517,7 @@
         "event_name": "美国8周期国库券拍卖利率(%)",
         "previous": "3.580%"
       },
-      "created_at": "2025-12-22T00:58:54.226782"
-    },
-    {
-      "platform": "investing",
-      "event_id": "inv__20251225010000",
-      "original_id": "eventRowId_538377",
-      "event_date": "2025-12-25",
-      "event_time": "01:00",
-      "event_datetime": "2025/12/25 01:00:00",
-      "title": "美国7年期国债拍卖利率(%)",
-      "content": "前值: 3.781%",
-      "category": null,
-      "importance": 2,
-      "country": "美国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-12-22",
-      "raw_data": {
-        "event_id": "eventRowId_538377",
-        "event_attr_id": "",
-        "datetime": "2025/12/25 01:00:00",
-        "time": "01:00",
-        "country": "美国",
-        "importance": 2,
-        "event_name": "美国7年期国债拍卖利率(%)",
-        "previous": "3.781%"
-      },
-      "created_at": "2025-12-22T00:58:54.226904"
+      "created_at": "2025-12-23T00:55:56.692008"
     },
     {
       "platform": "investing",
@@ -263,7 +537,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-22",
+      "discovery_date": "2025-12-23",
       "raw_data": {
         "event_id": "eventRowId_538376",
         "event_attr_id": "",
@@ -274,7 +548,7 @@
         "event_name": "美国EIA天然气库存(立方英尺)",
         "previous": "-167B"
       },
-      "created_at": "2025-12-22T00:58:54.227024"
+      "created_at": "2025-12-23T00:55:56.692130"
     },
     {
       "platform": "investing",
@@ -294,7 +568,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-22",
+      "discovery_date": "2025-12-23",
       "raw_data": {
         "event_id": "eventRowId_538299",
         "event_attr_id": "",
@@ -305,7 +579,7 @@
         "event_name": "日本当周买进外国债券(日元)",
         "previous": "356.4B"
       },
-      "created_at": "2025-12-22T00:58:54.227142"
+      "created_at": "2025-12-23T00:55:56.692252"
     },
     {
       "platform": "investing",
@@ -325,7 +599,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-22",
+      "discovery_date": "2025-12-23",
       "raw_data": {
         "event_id": "eventRowId_538300",
         "event_attr_id": "",
@@ -336,7 +610,7 @@
         "event_name": "外国投资者对日本股票持仓",
         "previous": "528.3B"
       },
-      "created_at": "2025-12-22T00:58:54.227258"
+      "created_at": "2025-12-23T00:55:56.692370"
     },
     {
       "platform": "investing",
@@ -356,7 +630,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-22",
+      "discovery_date": "2025-12-23",
       "raw_data": {
         "event_id": "eventRowId_538449",
         "event_attr_id": "",
@@ -366,100 +640,7 @@
         "importance": 1,
         "event_name": "日本央行行长植田和男讲话"
       },
-      "created_at": "2025-12-22T00:58:54.227375"
-    },
-    {
-      "platform": "investing",
-      "event_id": "inv__20251225103000",
-      "original_id": "eventRowId_538062",
-      "event_date": "2025-12-25",
-      "event_time": "10:30",
-      "event_datetime": "2025/12/25 10:30:00",
-      "title": "泰国海关出口年率(%)  (十一月)",
-      "content": "前值: 5.70%",
-      "category": null,
-      "importance": 1,
-      "country": "泰国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-12-22",
-      "raw_data": {
-        "event_id": "eventRowId_538062",
-        "event_attr_id": "",
-        "datetime": "2025/12/25 10:30:00",
-        "time": "10:30",
-        "country": "泰国",
-        "importance": 1,
-        "event_name": "泰国海关出口年率(%)  (十一月)",
-        "previous": "5.70%"
-      },
-      "created_at": "2025-12-22T00:58:54.227491"
-    },
-    {
-      "platform": "investing",
-      "event_id": "inv__20251225103000",
-      "original_id": "eventRowId_538060",
-      "event_date": "2025-12-25",
-      "event_time": "10:30",
-      "event_datetime": "2025/12/25 10:30:00",
-      "title": "泰国海关进口年率(%)  (十一月)",
-      "content": "前值: 16.30%",
-      "category": null,
-      "importance": 1,
-      "country": "泰国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-12-22",
-      "raw_data": {
-        "event_id": "eventRowId_538060",
-        "event_attr_id": "",
-        "datetime": "2025/12/25 10:30:00",
-        "time": "10:30",
-        "country": "泰国",
-        "importance": 1,
-        "event_name": "泰国海关进口年率(%)  (十一月)",
-        "previous": "16.30%"
-      },
-      "created_at": "2025-12-22T00:58:54.227621"
-    },
-    {
-      "platform": "investing",
-      "event_id": "inv__20251225103000",
-      "original_id": "eventRowId_538061",
-      "event_date": "2025-12-25",
-      "event_time": "10:30",
-      "event_datetime": "2025/12/25 10:30:00",
-      "title": "泰国海关贸易帐(美元)  (十一月)",
-      "content": "前值: -3.440B",
-      "category": null,
-      "importance": 1,
-      "country": "泰国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2025-12-22",
-      "raw_data": {
-        "event_id": "eventRowId_538061",
-        "event_attr_id": "",
-        "datetime": "2025/12/25 10:30:00",
-        "time": "10:30",
-        "country": "泰国",
-        "importance": 1,
-        "event_name": "泰国海关贸易帐(美元)  (十一月)",
-        "previous": "-3.440B"
-      },
-      "created_at": "2025-12-22T00:58:54.227736"
+      "created_at": "2025-12-23T00:55:56.692487"
     },
     {
       "platform": "investing",
@@ -479,7 +660,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-22",
+      "discovery_date": "2025-12-23",
       "raw_data": {
         "event_id": "eventRowId_538381",
         "event_attr_id": "",
@@ -490,7 +671,7 @@
         "event_name": "2年期日本国债拍卖",
         "previous": "0.932%"
       },
-      "created_at": "2025-12-22T00:58:54.227849"
+      "created_at": "2025-12-23T00:55:56.692603"
     },
     {
       "platform": "investing",
@@ -510,7 +691,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-22",
+      "discovery_date": "2025-12-23",
       "raw_data": {
         "event_id": "eventRowId_537493",
         "event_attr_id": "",
@@ -521,7 +702,7 @@
         "event_name": "日本营建订单年率(%) (同比)  (十一月)",
         "previous": "-10.1%"
       },
-      "created_at": "2025-12-22T00:58:54.227964"
+      "created_at": "2025-12-23T00:55:56.692734"
     },
     {
       "platform": "investing",
@@ -541,7 +722,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-22",
+      "discovery_date": "2025-12-23",
       "raw_data": {
         "event_id": "eventRowId_537492",
         "event_attr_id": "",
@@ -553,11 +734,11 @@
         "forecast": "0.7%",
         "previous": "3.2%"
       },
-      "created_at": "2025-12-22T00:58:54.228080"
+      "created_at": "2025-12-23T00:55:56.692856"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_xsap_20251225_1503544676456154647",
+      "event_id": "em_xsap_20251225_4652512618770501330",
       "original_id": "xsap_港股通(沪)、港股通(深)_2025-12-25",
       "event_date": "2025-12-25",
       "event_time": null,
@@ -573,7 +754,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-22",
+      "discovery_date": "2025-12-23",
       "raw_data": {
         "MKT": "港股通(沪)、港股通(深)",
         "HOLIDAY": "圣诞节",
@@ -582,11 +763,11 @@
         "XS": null,
         "FIRST_LETTER": "G"
       },
-      "created_at": "2025-12-22T00:58:56.602816"
+      "created_at": "2025-12-23T00:55:59.506357"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_xsap_20251225_1503544676456154647",
+      "event_id": "em_xsap_20251225_4652512618770501330",
       "original_id": "xsap_港股_2025-12-25",
       "event_date": "2025-12-25",
       "event_time": null,
@@ -602,7 +783,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-22",
+      "discovery_date": "2025-12-23",
       "raw_data": {
         "MKT": "港股",
         "HOLIDAY": "圣诞节",
@@ -611,11 +792,11 @@
         "XS": null,
         "FIRST_LETTER": "G"
       },
-      "created_at": "2025-12-22T00:58:56.602827"
+      "created_at": "2025-12-23T00:55:59.506366"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_xsap_20251225_1503544676456154647",
+      "event_id": "em_xsap_20251225_4652512618770501330",
       "original_id": "xsap_沪股通、深股通_2025-12-25",
       "event_date": "2025-12-25",
       "event_time": null,
@@ -631,7 +812,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-22",
+      "discovery_date": "2025-12-23",
       "raw_data": {
         "MKT": "沪股通、深股通",
         "HOLIDAY": "圣诞节",
@@ -640,11 +821,11 @@
         "XS": null,
         "FIRST_LETTER": "H"
       },
-      "created_at": "2025-12-22T00:58:56.602840"
+      "created_at": "2025-12-23T00:55:59.506374"
     },
     {
       "platform": "eastmoney",
-      "event_id": "em_jjsj_20251225000000_-7451731696282018175",
+      "event_id": "em_jjsj_20251225000000_3876555056970619572",
       "original_id": "2025-12-25 00:00:00_中国：库存:电解铝:保税区(报告期:2025年12月)",
       "event_date": "2025-12-25",
       "event_time": null,
@@ -660,12 +841,12 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-22",
+      "discovery_date": "2025-12-23",
       "raw_data": {
         "Name": "中国：库存:电解铝:保税区(报告期:2025年12月)",
         "City": "中国"
       },
-      "created_at": "2025-12-22T00:58:56.603395"
+      "created_at": "2025-12-23T00:55:59.506891"
     }
   ]
 }
