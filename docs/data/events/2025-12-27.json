@@ -1,9 +1,10 @@
 {
   "date": "2025-12-27",
-  "total_events": 4,
-  "new_events": 0,
+  "total_events": 7,
+  "new_events": 3,
   "platforms": {
-    "investing": 4
+    "investing": 4,
+    "eastmoney": 3
   },
   "events": [
     {
@@ -24,7 +25,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-25",
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "event_id": "eventRowId_538488",
         "event_attr_id": "",
@@ -35,7 +36,7 @@
         "event_name": "巴西跨境资本流动",
         "previous": "-1.601B"
       },
-      "created_at": "2025-12-25T00:55:57.930884"
+      "created_at": "2025-12-26T00:56:27.564117"
     },
     {
       "platform": "investing",
@@ -55,7 +56,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-25",
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "event_id": "eventRowId_538390",
         "event_attr_id": "",
@@ -66,7 +67,7 @@
         "event_name": "美国当周贝克休斯石油钻井总数(口)",
         "previous": "406"
       },
-      "created_at": "2025-12-25T00:55:57.931020"
+      "created_at": "2025-12-26T00:56:27.564260"
     },
     {
       "platform": "investing",
@@ -86,7 +87,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-25",
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "event_id": "eventRowId_538391",
         "event_attr_id": "",
@@ -97,7 +98,7 @@
         "event_name": "美国当周贝克休斯总钻井总数(口)",
         "previous": "542"
       },
-      "created_at": "2025-12-25T00:55:57.931144"
+      "created_at": "2025-12-26T00:56:27.564383"
     },
     {
       "platform": "investing",
@@ -117,7 +118,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-25",
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "event_id": "eventRowId_537638",
         "event_attr_id": "",
@@ -128,7 +129,88 @@
         "event_name": "中国年初至今规模以上工业企业利润年率(%)  (十一月)",
         "previous": "1.9%"
       },
-      "created_at": "2025-12-25T00:55:57.931264"
+      "created_at": "2025-12-26T00:56:27.564504"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251227093000_-6239662522163950729",
+      "original_id": "2025-12-27 09:30:00_中国：工业企业:利润总额:累计值(报告期:2025年11月)",
+      "event_date": "2025-12-27",
+      "event_time": "09:30:00",
+      "event_datetime": "2025-12-27 09:30:00",
+      "title": "中国：工业企业:利润总额:累计值(报告期:2025年11月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-26",
+      "raw_data": {
+        "Name": "中国：工业企业:利润总额:累计值(报告期:2025年11月)",
+        "City": "中国"
+      },
+      "created_at": "2025-12-26T00:56:35.804245"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_jjsj_20251227093000_122494784448083549",
+      "original_id": "2025-12-27 09:30:00_中国：工业企业:利润总额:累计同比(报告期:2025年11月)",
+      "event_date": "2025-12-27",
+      "event_time": "09:30:00",
+      "event_datetime": "2025-12-27 09:30:00",
+      "title": "中国：工业企业:利润总额:累计同比(报告期:2025年11月)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-26",
+      "raw_data": {
+        "Name": "中国：工业企业:利润总额:累计同比(报告期:2025年11月)",
+        "City": "中国"
+      },
+      "created_at": "2025-12-26T00:56:35.804252"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_hyhy_10868327",
+      "original_id": "10868327",
+      "event_date": "2025-12-27",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "三亚财经国际论坛暨第五届三亚财富管理大会",
+      "content": "三亚?财经国际论坛暨第五届三亚财富管理大会12月27日在海南三亚举办,主题为海南自贸港未来定位及三亚新机遇。",
+      "category": "行业会议",
+      "importance": 3,
+      "country": "中国",
+      "city": "三亚市",
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-26",
+      "raw_data": {
+        "fe_code": "10868327",
+        "fe_name": "三亚财经国际论坛暨第五届三亚财富管理大会",
+        "start_date": "2025-12-27",
+        "end_date": "2025-12-27",
+        "fe_type": "高峰论坛",
+        "sponsor": "财经杂志",
+        "city": "三亚市",
+        "content": "三亚?财经国际论坛暨第五届三亚财富管理大会12月27日在海南三亚举办,主题为海南自贸港未来定位及三亚新机遇。"
+      },
+      "created_at": "2025-12-26T00:56:35.804526"
     }
   ]
 }

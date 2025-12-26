@@ -1,9 +1,9 @@
 {
   "date": "2026-01-20",
-  "total_events": 1,
-  "new_events": 0,
+  "total_events": 2,
+  "new_events": 1,
   "platforms": {
-    "cls": 1
+    "cls": 2
   },
   "events": [
     {
@@ -24,7 +24,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-25",
+      "discovery_date": "2025-12-26",
       "raw_data": {
         "id": 448994,
         "calendar_time": "2026-01-20 00:00:00",
@@ -40,7 +40,43 @@
         "holiday": null,
         "title": "央行发布《金融机构客户受益所有人识别管理办法》，自2026年1月20日起施行"
       },
-      "created_at": "2025-12-25T00:55:52.592042"
+      "created_at": "2025-12-26T00:56:21.898093"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_455012_20260120_2",
+      "original_id": "455012",
+      "event_date": "2026-01-20",
+      "event_time": "00:00:00",
+      "event_datetime": "2026-01-20 00:00:00",
+      "title": "2026阿里云PolarDB开发者大会将于1月20日举办",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-26",
+      "raw_data": {
+        "id": 455012,
+        "calendar_time": "2026-01-20 00:00:00",
+        "data_id": 20675,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "2026阿里云PolarDB开发者大会将于1月20日举办",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "2026阿里云PolarDB开发者大会将于1月20日举办"
+      },
+      "created_at": "2025-12-26T00:56:21.898103"
     }
   ]
 }
