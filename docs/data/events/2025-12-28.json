@@ -1,12 +1,13 @@
 {
   "date": "2025-12-28",
-  "total_events": 6,
-  "new_events": 0,
+  "total_events": 20,
+  "new_events": 14,
   "platforms": {
     "cls": 1,
     "jiuyangongshe": 1,
     "tonghuashun": 2,
-    "eastmoney": 2
+    "investing": 3,
+    "eastmoney": 13
   },
   "events": [
     {
@@ -27,7 +28,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-27",
+      "discovery_date": "2025-12-28",
       "raw_data": {
         "id": 400439,
         "calendar_time": "2025-12-28 00:00:00",
@@ -43,7 +44,7 @@
         "holiday": null,
         "title": "第五届脑科学前沿与产业大会暨2025深圳脑机接口与人机交互技术博览会将于12月28日至29日在深圳举办"
       },
-      "created_at": "2025-12-27T00:54:34.587730"
+      "created_at": "2025-12-28T01:02:58.843952"
     },
     {
       "platform": "jiuyangongshe",
@@ -65,7 +66,7 @@
       ],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-27",
+      "discovery_date": "2025-12-28",
       "raw_data": {
         "article_id": "47badf532b0340d697a22e11a8a090a4",
         "user_id": "1",
@@ -95,7 +96,7 @@
           ]
         }
       },
-      "created_at": "2025-12-27T00:54:36.915446"
+      "created_at": "2025-12-28T01:03:00.886815"
     },
     {
       "platform": "tonghuashun",
@@ -115,7 +116,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-27",
+      "discovery_date": "2025-12-28",
       "raw_data": {
         "event": [
           "第五届脑科学前沿与产业大会暨2025深圳脑机接口与人机交互技术博览会将于12月28日至29日在深圳举办",
@@ -125,7 +126,7 @@
         ],
         "concept": []
       },
-      "created_at": "2025-12-27T00:54:38.816014"
+      "created_at": "2025-12-28T01:03:02.910963"
     },
     {
       "platform": "tonghuashun",
@@ -150,7 +151,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-27",
+      "discovery_date": "2025-12-28",
       "raw_data": {
         "event": [
           "第五届脑科学前沿与产业大会暨2025深圳脑机接口与人机交互技术博览会将于12月28日至29日在深圳举办",
@@ -166,7 +167,408 @@
           }
         ]
       },
-      "created_at": "2025-12-27T00:54:38.816042"
+      "created_at": "2025-12-28T01:03:02.910991"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251228183000",
+      "original_id": "eventRowId_538833",
+      "event_date": "2025-12-28",
+      "event_time": "18:30",
+      "event_datetime": "2025/12/28 18:30:00",
+      "title": "印度累计工业生产指数年率(%)  (十一月)",
+      "content": "前值: 2.70%",
+      "category": null,
+      "importance": 1,
+      "country": "印度",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-28",
+      "raw_data": {
+        "event_id": "eventRowId_538833",
+        "event_attr_id": "",
+        "datetime": "2025/12/28 18:30:00",
+        "time": "18:30",
+        "country": "印度",
+        "importance": 1,
+        "event_name": "印度累计工业生产指数年率(%)  (十一月)",
+        "previous": "2.70%"
+      },
+      "created_at": "2025-12-28T01:03:04.341869"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251228183000",
+      "original_id": "eventRowId_538832",
+      "event_date": "2025-12-28",
+      "event_time": "18:30",
+      "event_datetime": "2025/12/28 18:30:00",
+      "title": "印度工业生产指数年率(%) (同比)  (十一月)",
+      "content": "前值: 0.4%",
+      "category": null,
+      "importance": 1,
+      "country": "印度",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-28",
+      "raw_data": {
+        "event_id": "eventRowId_538832",
+        "event_attr_id": "",
+        "datetime": "2025/12/28 18:30:00",
+        "time": "18:30",
+        "country": "印度",
+        "importance": 1,
+        "event_name": "印度工业生产指数年率(%) (同比)  (十一月)",
+        "previous": "0.4%"
+      },
+      "created_at": "2025-12-28T01:03:04.342009"
+    },
+    {
+      "platform": "investing",
+      "event_id": "inv__20251228183000",
+      "original_id": "eventRowId_538828",
+      "event_date": "2025-12-28",
+      "event_time": "18:30",
+      "event_datetime": "2025/12/28 18:30:00",
+      "title": "印度制造业产出月率(%) (月度环比)  (十一月)",
+      "content": "前值: 1.8%",
+      "category": null,
+      "importance": 1,
+      "country": "印度",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-28",
+      "raw_data": {
+        "event_id": "eventRowId_538828",
+        "event_attr_id": "",
+        "datetime": "2025/12/28 18:30:00",
+        "time": "18:30",
+        "country": "印度",
+        "importance": 1,
+        "event_name": "印度制造业产出月率(%) (月度环比)  (十一月)",
+        "previous": "1.8%"
+      },
+      "created_at": "2025-12-28T01:03:04.342134"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_002822_20251228_0",
+      "original_id": "002822",
+      "event_date": "2025-12-28",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "*ST中装停复牌",
+      "content": "股票代码: 002822, 股票名称: *ST中装",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "002822"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-28",
+      "raw_data": {
+        "stock_code": "002822",
+        "stock_name": "*ST中装",
+        "date": "2025-12-28"
+      },
+      "created_at": "2025-12-28T01:03:06.428989"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_300379_20251228_1",
+      "original_id": "300379",
+      "event_date": "2025-12-28",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "*ST东通停复牌",
+      "content": "股票代码: 300379, 股票名称: *ST东通",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "300379"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-28",
+      "raw_data": {
+        "stock_code": "300379",
+        "stock_name": "*ST东通",
+        "date": "2025-12-28"
+      },
+      "created_at": "2025-12-28T01:03:06.428998"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_600721_20251228_2",
+      "original_id": "600721",
+      "event_date": "2025-12-28",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "百花医药停复牌",
+      "content": "股票代码: 600721, 股票名称: 百花医药",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "600721"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-28",
+      "raw_data": {
+        "stock_code": "600721",
+        "stock_name": "百花医药",
+        "date": "2025-12-28"
+      },
+      "created_at": "2025-12-28T01:03:06.429006"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_600337_20251228_3",
+      "original_id": "600337",
+      "event_date": "2025-12-28",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "美克家居停复牌",
+      "content": "股票代码: 600337, 股票名称: 美克家居",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "600337"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-28",
+      "raw_data": {
+        "stock_code": "600337",
+        "stock_name": "美克家居",
+        "date": "2025-12-28"
+      },
+      "created_at": "2025-12-28T01:03:06.429013"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_000691_20251228_4",
+      "original_id": "000691",
+      "event_date": "2025-12-28",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "*ST亚太停复牌",
+      "content": "股票代码: 000691, 股票名称: *ST亚太",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "000691"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-28",
+      "raw_data": {
+        "stock_code": "000691",
+        "stock_name": "*ST亚太",
+        "date": "2025-12-28"
+      },
+      "created_at": "2025-12-28T01:03:06.429020"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_002713_20251228_5",
+      "original_id": "002713",
+      "event_date": "2025-12-28",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "*ST东易停复牌",
+      "content": "股票代码: 002713, 股票名称: *ST东易",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "002713"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-28",
+      "raw_data": {
+        "stock_code": "002713",
+        "stock_name": "*ST东易",
+        "date": "2025-12-28"
+      },
+      "created_at": "2025-12-28T01:03:06.429028"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_300486_20251228_6",
+      "original_id": "300486",
+      "event_date": "2025-12-28",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "东杰智能停复牌",
+      "content": "股票代码: 300486, 股票名称: 东杰智能",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "300486"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-28",
+      "raw_data": {
+        "stock_code": "300486",
+        "stock_name": "东杰智能",
+        "date": "2025-12-28"
+      },
+      "created_at": "2025-12-28T01:03:06.429035"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_688012_20251228_7",
+      "original_id": "688012",
+      "event_date": "2025-12-28",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "中微公司停复牌",
+      "content": "股票代码: 688012, 股票名称: 中微公司",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "688012"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-28",
+      "raw_data": {
+        "stock_code": "688012",
+        "stock_name": "中微公司",
+        "date": "2025-12-28"
+      },
+      "created_at": "2025-12-28T01:03:06.429043"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_301213_20251228_8",
+      "original_id": "301213",
+      "event_date": "2025-12-28",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "观想科技停复牌",
+      "content": "股票代码: 301213, 股票名称: 观想科技",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "301213"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-28",
+      "raw_data": {
+        "stock_code": "301213",
+        "stock_name": "观想科技",
+        "date": "2025-12-28"
+      },
+      "created_at": "2025-12-28T01:03:06.429050"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_300955_20251228_9",
+      "original_id": "300955",
+      "event_date": "2025-12-28",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "嘉亨家化停复牌",
+      "content": "股票代码: 300955, 股票名称: 嘉亨家化",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "300955"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-28",
+      "raw_data": {
+        "stock_code": "300955",
+        "stock_name": "嘉亨家化",
+        "date": "2025-12-28"
+      },
+      "created_at": "2025-12-28T01:03:06.429057"
+    },
+    {
+      "platform": "eastmoney",
+      "event_id": "em_tfpxx_002718_20251228_10",
+      "original_id": "002718",
+      "event_date": "2025-12-28",
+      "event_time": null,
+      "event_datetime": null,
+      "title": "友邦吊顶停复牌",
+      "content": "股票代码: 002718, 股票名称: 友邦吊顶",
+      "category": "停复牌信息",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [
+        "002718"
+      ],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-28",
+      "raw_data": {
+        "stock_code": "002718",
+        "stock_name": "友邦吊顶",
+        "date": "2025-12-28"
+      },
+      "created_at": "2025-12-28T01:03:06.429065"
     },
     {
       "platform": "eastmoney",
@@ -186,7 +588,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-27",
+      "discovery_date": "2025-12-28",
       "raw_data": {
         "fe_code": "10866899",
         "fe_name": "第五届脑科学前沿与产业大会暨2025深圳脑机接口与人机交互技术博览会",
@@ -197,7 +599,7 @@
         "city": "深圳市",
         "content": "随着脑科学研究不断深入,脑机接口在医疗健康领域的应用前景广阔,未来发展仍需加强政、产、学、研、医的通力协作,进一步促进脑机接口技术发展和创新应用,让更多使用者受益。2025大湾区脑科学与类脑智能产业大会、BCI-2025深圳国际脑机接口创新技术展览会(简称:BCI-EXPO2025深圳脑博会)将于2025年12月28-30日在深圳会展中心举办,展示我国在脑机接口技术及脑科学产业应用方面的创新成果。展会将聚集“科技+资本+产业”的行业翘楚,针对脑科学、脑技术、脑健康、脑智能、脑疾病与脑康复科技领域(脑科技领域)的前沿科技与产业发展现状、未来超势及产业生态建设进行全方位展示与研讨。邀请脑科学领域国内外著名科学家、商业领袖及投资机构代表,围绕脑与健康领域的技术创新、产业转化、资本融合等,探讨脑与健康医学的发展现状、未来超势及产业路线。"
       },
-      "created_at": "2025-12-27T00:54:41.669307"
+      "created_at": "2025-12-28T01:03:06.429354"
     },
     {
       "platform": "eastmoney",
@@ -217,7 +619,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-27",
+      "discovery_date": "2025-12-28",
       "raw_data": {
         "fe_code": "10868165",
         "fe_name": "第十届中国制造强国年会",
@@ -228,7 +630,7 @@
         "city": "北京市",
         "content": "12月28日,“第十届中国制造强国年会”在北京举行,主题为“实体为根,向新而行”。"
       },
-      "created_at": "2025-12-27T00:54:41.669316"
+      "created_at": "2025-12-28T01:03:06.429364"
     }
   ]
 }
