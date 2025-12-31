@@ -1,9 +1,9 @@
 {
   "date": "2026-01-02",
-  "total_events": 3,
+  "total_events": 4,
   "new_events": 1,
   "platforms": {
-    "cls": 3
+    "cls": 4
   },
   "events": [
     {
@@ -23,8 +23,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2025-12-30",
+      "is_new": false,
+      "discovery_date": "2025-12-31",
       "raw_data": {
         "id": 463781,
         "calendar_time": "2026-01-02 00:00:00",
@@ -40,7 +40,7 @@
         "holiday": null,
         "title": "“港股GPU第一股”壁仞科技1月2日港股上市交易"
       },
-      "created_at": "2025-12-30T00:56:20.179422"
+      "created_at": "2025-12-31T00:57:45.803407"
     },
     {
       "platform": "cls",
@@ -60,7 +60,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-30",
+      "discovery_date": "2025-12-31",
       "raw_data": {
         "id": 452653,
         "calendar_time": "2026-01-02 08:00:00",
@@ -78,7 +78,7 @@
         },
         "title": "【中国】沪深及北交所、国内期货交易所，休市一日"
       },
-      "created_at": "2025-12-30T00:56:20.179432"
+      "created_at": "2025-12-31T00:57:45.803416"
     },
     {
       "platform": "cls",
@@ -98,7 +98,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2025-12-30",
+      "discovery_date": "2025-12-31",
       "raw_data": {
         "id": 452662,
         "calendar_time": "2026-01-02 08:00:00",
@@ -116,7 +116,52 @@
         },
         "title": "【中国】香港交易所，正常开市，南、北向交易关闭"
       },
-      "created_at": "2025-12-30T00:56:20.179442"
+      "created_at": "2025-12-31T00:57:45.803425"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_457821_20260102_1",
+      "original_id": "457821",
+      "event_date": "2026-01-02",
+      "event_time": "17:00:00",
+      "event_datetime": "2026-01-02 17:00:00",
+      "title": "欧元区12月制造业PMI终值",
+      "content": null,
+      "category": "经济数据",
+      "importance": 3,
+      "country": "欧元区",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2025-12-31",
+      "raw_data": {
+        "id": 457821,
+        "calendar_time": "2026-01-02 17:00:00",
+        "data_id": 57450,
+        "type": 1,
+        "economic": {
+          "title": "欧元区12月制造业PMI终值",
+          "country": "欧元区",
+          "country_icon": "",
+          "star": 3,
+          "indicator_id": 424,
+          "front": "0",
+          "fix": "--",
+          "consensus": "--",
+          "actual": "--",
+          "unit": "",
+          "flag": "--",
+          "interpret": "",
+          "interpret_img": []
+        },
+        "event": null,
+        "holiday": null,
+        "title": "欧元区12月制造业PMI终值"
+      },
+      "created_at": "2025-12-31T00:57:45.803436"
     }
   ]
 }
