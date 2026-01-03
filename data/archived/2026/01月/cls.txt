@@ -2,10 +2,10 @@
   "platform": "cls",
   "year": 2026,
   "month": 1,
-  "total_events": 19,
+  "total_events": 22,
   "data_status": "ARCHIVED",
   "date_type": "HISTORICAL",
-  "last_update": "2026-01-02T00:57:46.989045",
+  "last_update": "2026-01-03T00:54:01.259814",
   "immutable": true,
   "events": [
     {
@@ -706,6 +706,118 @@
         "title": "【中国】沪深及北交所、国内期货交易所，休市一日"
       },
       "created_at": "2026-01-01T01:03:00.397575"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_463781_20260102_2",
+      "original_id": "463781",
+      "event_date": "2026-01-02",
+      "event_time": "00:00:00",
+      "event_datetime": "2026-01-02 00:00:00",
+      "title": "“港股GPU第一股”壁仞科技1月2日港股上市交易",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ARCHIVED",
+      "is_new": false,
+      "discovery_date": "2026-01-02",
+      "raw_data": {
+        "id": 463781,
+        "calendar_time": "2026-01-02 00:00:00",
+        "data_id": 20739,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "“港股GPU第一股”壁仞科技1月2日港股上市交易",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "“港股GPU第一股”壁仞科技1月2日港股上市交易"
+      },
+      "created_at": "2026-01-02T00:57:48.701203"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_452653_20260102_3",
+      "original_id": "452653",
+      "event_date": "2026-01-02",
+      "event_time": "08:00:00",
+      "event_datetime": "2026-01-02 08:00:00",
+      "title": "【中国】沪深及北交所、国内期货交易所，休市一日",
+      "content": null,
+      "category": "假日",
+      "importance": 3,
+      "country": null,
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ARCHIVED",
+      "is_new": false,
+      "discovery_date": "2026-01-02",
+      "raw_data": {
+        "id": 452653,
+        "calendar_time": "2026-01-02 08:00:00",
+        "data_id": 1122,
+        "type": 3,
+        "economic": null,
+        "event": null,
+        "holiday": {
+          "title": "休市一日",
+          "country": "中国",
+          "country_icon": "",
+          "star": 3,
+          "name": "元旦假期",
+          "exchange_name": "沪深及北交所、国内期货交易所"
+        },
+        "title": "【中国】沪深及北交所、国内期货交易所，休市一日"
+      },
+      "created_at": "2026-01-02T00:57:48.701223"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_452662_20260102_3",
+      "original_id": "452662",
+      "event_date": "2026-01-02",
+      "event_time": "08:00:00",
+      "event_datetime": "2026-01-02 08:00:00",
+      "title": "【中国】香港交易所，正常开市，南、北向交易关闭",
+      "content": null,
+      "category": "假日",
+      "importance": 3,
+      "country": null,
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ARCHIVED",
+      "is_new": false,
+      "discovery_date": "2026-01-02",
+      "raw_data": {
+        "id": 452662,
+        "calendar_time": "2026-01-02 08:00:00",
+        "data_id": 1131,
+        "type": 3,
+        "economic": null,
+        "event": null,
+        "holiday": {
+          "title": "正常开市，南、北向交易关闭",
+          "country": "中国",
+          "country_icon": "",
+          "star": 3,
+          "name": "元旦次日",
+          "exchange_name": "香港交易所"
+        },
+        "title": "【中国】香港交易所，正常开市，南、北向交易关闭"
+      },
+      "created_at": "2026-01-02T00:57:48.701234"
     }
   ]
 }
