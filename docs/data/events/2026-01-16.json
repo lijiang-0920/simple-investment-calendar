@@ -1,9 +1,9 @@
 {
   "date": "2026-01-16",
-  "total_events": 2,
-  "new_events": 0,
+  "total_events": 3,
+  "new_events": 1,
   "platforms": {
-    "cls": 2
+    "cls": 3
   },
   "events": [
     {
@@ -24,7 +24,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-01-12",
+      "discovery_date": "2026-01-13",
       "raw_data": {
         "id": 453460,
         "calendar_time": "2026-01-16 00:00:00",
@@ -40,7 +40,7 @@
         "holiday": null,
         "title": "中国汽车供应链出海高峰论坛暨采购商大会将于1月16日举办"
       },
-      "created_at": "2026-01-12T01:00:48.250864"
+      "created_at": "2026-01-13T00:53:41.219183"
     },
     {
       "platform": "cls",
@@ -60,7 +60,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-01-12",
+      "discovery_date": "2026-01-13",
       "raw_data": {
         "id": 463761,
         "calendar_time": "2026-01-16 00:00:00",
@@ -76,7 +76,52 @@
         "holiday": null,
         "title": "2026核聚变能科技与产业大会将于1月16日至17日举办"
       },
-      "created_at": "2026-01-12T01:00:48.250874"
+      "created_at": "2026-01-13T00:53:41.219194"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_489356_20260116_1",
+      "original_id": "489356",
+      "event_date": "2026-01-16",
+      "event_time": "23:00:00",
+      "event_datetime": "2026-01-16 23:00:00",
+      "title": "美国1月NAHB房产市场指数",
+      "content": null,
+      "category": "经济数据",
+      "importance": 3,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-01-13",
+      "raw_data": {
+        "id": 489356,
+        "calendar_time": "2026-01-16 23:00:00",
+        "data_id": 58057,
+        "type": 1,
+        "economic": {
+          "title": "美国1月NAHB房产市场指数",
+          "country": "美国",
+          "country_icon": "",
+          "star": 3,
+          "indicator_id": 181,
+          "front": "0",
+          "fix": "--",
+          "consensus": "--",
+          "actual": "--",
+          "unit": "",
+          "flag": "--",
+          "interpret": "",
+          "interpret_img": []
+        },
+        "event": null,
+        "holiday": null,
+        "title": "美国1月NAHB房产市场指数"
+      },
+      "created_at": "2026-01-13T00:53:41.219205"
     }
   ]
 }
