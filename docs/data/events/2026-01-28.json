@@ -1,9 +1,9 @@
 {
   "date": "2026-01-28",
-  "total_events": 2,
-  "new_events": 0,
+  "total_events": 3,
+  "new_events": 1,
   "platforms": {
-    "cls": 2
+    "cls": 3
   },
   "events": [
     {
@@ -24,7 +24,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-01-26",
+      "discovery_date": "2026-01-27",
       "raw_data": {
         "id": 514375,
         "calendar_time": "2026-01-28 10:00:00",
@@ -40,7 +40,7 @@
         "holiday": null,
         "title": "国新办定于1月28日举行新闻发布会，介绍2025年国资央企高质量发展情况"
       },
-      "created_at": "2026-01-26T01:02:58.554437"
+      "created_at": "2026-01-27T01:01:29.512347"
     },
     {
       "platform": "cls",
@@ -60,7 +60,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-01-26",
+      "discovery_date": "2026-01-27",
       "raw_data": {
         "id": 462983,
         "calendar_time": "2026-01-28 15:50:00",
@@ -76,7 +76,52 @@
         "holiday": null,
         "title": "日本央行公布12月货币政策会议纪要"
       },
-      "created_at": "2026-01-26T01:02:58.554448"
+      "created_at": "2026-01-27T01:01:29.512358"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_515398_20260128_1",
+      "original_id": "515398",
+      "event_date": "2026-01-28",
+      "event_time": "23:30:00",
+      "event_datetime": "2026-01-28 23:30:00",
+      "title": "美国至1月23日当周EIA原油库存(万桶)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-01-27",
+      "raw_data": {
+        "id": 515398,
+        "calendar_time": "2026-01-28 23:30:00",
+        "data_id": 58414,
+        "type": 1,
+        "economic": {
+          "title": "美国至1月23日当周EIA原油库存(万桶)",
+          "country": "美国",
+          "country_icon": "",
+          "star": 4,
+          "indicator_id": 111,
+          "front": "0",
+          "fix": "--",
+          "consensus": "--",
+          "actual": "--",
+          "unit": "万桶",
+          "flag": "--",
+          "interpret": "",
+          "interpret_img": []
+        },
+        "event": null,
+        "holiday": null,
+        "title": "美国至1月23日当周EIA原油库存(万桶)"
+      },
+      "created_at": "2026-01-27T01:01:29.512367"
     }
   ]
 }
