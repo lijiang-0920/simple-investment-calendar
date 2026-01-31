@@ -1,9 +1,9 @@
 {
   "date": "2026-02-02",
-  "total_events": 2,
-  "new_events": 0,
+  "total_events": 4,
+  "new_events": 2,
   "platforms": {
-    "cls": 2
+    "cls": 4
   },
   "events": [
     {
@@ -24,7 +24,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-01-30",
+      "discovery_date": "2026-01-31",
       "raw_data": {
         "id": 519810,
         "calendar_time": "2026-02-02 00:00:00",
@@ -40,7 +40,7 @@
         "holiday": null,
         "title": "2026年春运将自2月2日启动，至3月13日结束"
       },
-      "created_at": "2026-01-30T01:06:55.059208"
+      "created_at": "2026-01-31T01:04:01.438039"
     },
     {
       "platform": "cls",
@@ -60,7 +60,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-01-30",
+      "discovery_date": "2026-01-31",
       "raw_data": {
         "id": 519879,
         "calendar_time": "2026-02-02 00:00:00",
@@ -76,7 +76,88 @@
         "holiday": null,
         "title": "亚洲虚拟现实XR产业展览会（AWE Asia 2026）将于2月2日至4日在新加坡举办"
       },
-      "created_at": "2026-01-30T01:06:55.059218"
+      "created_at": "2026-01-31T01:04:01.438049"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_528536_20260202_2",
+      "original_id": "528536",
+      "event_date": "2026-02-02",
+      "event_time": "00:00:00",
+      "event_datetime": "2026-02-02 00:00:00",
+      "title": "山西省第十四届人民代表大会第五次会议将于2月2日召开",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-01-31",
+      "raw_data": {
+        "id": 528536,
+        "calendar_time": "2026-02-02 00:00:00",
+        "data_id": 21151,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "山西省第十四届人民代表大会第五次会议将于2月2日召开",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "山西省第十四届人民代表大会第五次会议将于2月2日召开"
+      },
+      "created_at": "2026-01-31T01:04:01.438059"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_526559_20260202_1",
+      "original_id": "526559",
+      "event_date": "2026-02-02",
+      "event_time": "23:00:00",
+      "event_datetime": "2026-02-02 23:00:00",
+      "title": "美国1月ISM制造业PMI",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-01-31",
+      "raw_data": {
+        "id": 526559,
+        "calendar_time": "2026-02-02 23:00:00",
+        "data_id": 58636,
+        "type": 1,
+        "economic": {
+          "title": "美国1月ISM制造业PMI",
+          "country": "美国",
+          "country_icon": "",
+          "star": 4,
+          "indicator_id": 129,
+          "front": "0",
+          "fix": "--",
+          "consensus": "--",
+          "actual": "--",
+          "unit": "",
+          "flag": "--",
+          "interpret": "",
+          "interpret_img": []
+        },
+        "event": null,
+        "holiday": null,
+        "title": "美国1月ISM制造业PMI"
+      },
+      "created_at": "2026-01-31T01:04:01.438069"
     }
   ]
 }

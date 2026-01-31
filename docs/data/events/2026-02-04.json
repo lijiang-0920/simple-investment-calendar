@@ -1,9 +1,9 @@
 {
   "date": "2026-02-04",
-  "total_events": 1,
-  "new_events": 0,
+  "total_events": 3,
+  "new_events": 2,
   "platforms": {
-    "cls": 1
+    "cls": 3
   },
   "events": [
     {
@@ -24,7 +24,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-01-30",
+      "discovery_date": "2026-01-31",
       "raw_data": {
         "id": 512797,
         "calendar_time": "2026-02-04 00:00:00",
@@ -40,7 +40,97 @@
         "holiday": null,
         "title": "思科将于2月4日北京时间凌晨在美国旧金山举办2026人工智能大会，并以线上形式面向全球直播"
       },
-      "created_at": "2026-01-30T01:06:55.059281"
+      "created_at": "2026-01-31T01:04:01.438142"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_526605_20260204_1",
+      "original_id": "526605",
+      "event_date": "2026-02-04",
+      "event_time": "17:00:00",
+      "event_datetime": "2026-02-04 17:00:00",
+      "title": "欧元区1月服务业PMI终值",
+      "content": null,
+      "category": "经济数据",
+      "importance": 3,
+      "country": "欧元区",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-01-31",
+      "raw_data": {
+        "id": 526605,
+        "calendar_time": "2026-02-04 17:00:00",
+        "data_id": 58680,
+        "type": 1,
+        "economic": {
+          "title": "欧元区1月服务业PMI终值",
+          "country": "欧元区",
+          "country_icon": "",
+          "star": 3,
+          "indicator_id": 425,
+          "front": "0",
+          "fix": "--",
+          "consensus": "--",
+          "actual": "--",
+          "unit": "",
+          "flag": "--",
+          "interpret": "",
+          "interpret_img": []
+        },
+        "event": null,
+        "holiday": null,
+        "title": "欧元区1月服务业PMI终值"
+      },
+      "created_at": "2026-01-31T01:04:01.438152"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_526609_20260204_1",
+      "original_id": "526609",
+      "event_date": "2026-02-04",
+      "event_time": "18:00:00",
+      "event_datetime": "2026-02-04 18:00:00",
+      "title": "欧元区1月CPI月率初值",
+      "content": null,
+      "category": "经济数据",
+      "importance": 3,
+      "country": "欧元区",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-01-31",
+      "raw_data": {
+        "id": 526609,
+        "calendar_time": "2026-02-04 18:00:00",
+        "data_id": 58681,
+        "type": 1,
+        "economic": {
+          "title": "欧元区1月CPI月率初值",
+          "country": "欧元区",
+          "country_icon": "",
+          "star": 3,
+          "indicator_id": 413,
+          "front": "--",
+          "fix": "--",
+          "consensus": "--",
+          "actual": "--",
+          "unit": "%",
+          "flag": "--",
+          "interpret": "",
+          "interpret_img": []
+        },
+        "event": null,
+        "holiday": null,
+        "title": "欧元区1月CPI月率初值"
+      },
+      "created_at": "2026-01-31T01:04:01.438162"
     }
   ]
 }

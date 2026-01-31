@@ -1,9 +1,9 @@
 {
   "date": "2026-02-05",
-  "total_events": 1,
-  "new_events": 0,
+  "total_events": 3,
+  "new_events": 2,
   "platforms": {
-    "cls": 1
+    "cls": 3
   },
   "events": [
     {
@@ -24,7 +24,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-01-30",
+      "discovery_date": "2026-01-31",
       "raw_data": {
         "id": 519814,
         "calendar_time": "2026-02-05 00:00:00",
@@ -40,7 +40,97 @@
         "holiday": null,
         "title": "光伏行业2025年发展回顾与2026年形势展望研讨会将于2月5日举办"
       },
-      "created_at": "2026-01-30T01:06:55.059291"
+      "created_at": "2026-01-31T01:04:01.438172"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_480574_20260205_1",
+      "original_id": "480574",
+      "event_date": "2026-02-05",
+      "event_time": "21:30:00",
+      "event_datetime": "2026-02-05 21:30:00",
+      "title": "美国12月贸易帐(亿美元)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 3,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-01-31",
+      "raw_data": {
+        "id": 480574,
+        "calendar_time": "2026-02-05 21:30:00",
+        "data_id": 58737,
+        "type": 1,
+        "economic": {
+          "title": "美国12月贸易帐(亿美元)",
+          "country": "美国",
+          "country_icon": "",
+          "star": 3,
+          "indicator_id": 80,
+          "front": "0",
+          "fix": "--",
+          "consensus": "--",
+          "actual": "--",
+          "unit": "亿美元",
+          "flag": "--",
+          "interpret": "",
+          "interpret_img": []
+        },
+        "event": null,
+        "holiday": null,
+        "title": "美国12月贸易帐(亿美元)"
+      },
+      "created_at": "2026-01-31T01:04:01.438182"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_526706_20260205_1",
+      "original_id": "526706",
+      "event_date": "2026-02-05",
+      "event_time": "21:30:00",
+      "event_datetime": "2026-02-05 21:30:00",
+      "title": "美国至1月31日当周初请失业金人数(万人)",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-01-31",
+      "raw_data": {
+        "id": 526706,
+        "calendar_time": "2026-02-05 21:30:00",
+        "data_id": 58739,
+        "type": 1,
+        "economic": {
+          "title": "美国至1月31日当周初请失业金人数(万人)",
+          "country": "美国",
+          "country_icon": "",
+          "star": 4,
+          "indicator_id": 79,
+          "front": "0",
+          "fix": "--",
+          "consensus": "--",
+          "actual": "--",
+          "unit": "万人",
+          "flag": "--",
+          "interpret": "",
+          "interpret_img": []
+        },
+        "event": null,
+        "holiday": null,
+        "title": "美国至1月31日当周初请失业金人数(万人)"
+      },
+      "created_at": "2026-01-31T01:04:01.438192"
     }
   ]
 }
