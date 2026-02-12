@@ -1,9 +1,9 @@
 {
   "date": "2026-02-13",
-  "total_events": 2,
-  "new_events": 0,
+  "total_events": 3,
+  "new_events": 2,
   "platforms": {
-    "cls": 2
+    "cls": 3
   },
   "events": [
     {
@@ -24,7 +24,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-02-11",
+      "discovery_date": "2026-02-12",
       "raw_data": {
         "id": 519928,
         "calendar_time": "2026-02-13 00:00:00",
@@ -40,43 +40,88 @@
         "holiday": null,
         "title": "恒生指数公司将于2月13日宣布2025年第四季度恒生指数系列检讨结果并于3月9日正式生效"
       },
-      "created_at": "2026-02-11T01:19:23.540038"
+      "created_at": "2026-02-12T01:12:07.138804"
     },
     {
       "platform": "cls",
-      "event_id": "cls_494305_20260213_2",
-      "original_id": "494305",
+      "event_id": "cls_545146_20260213_2",
+      "original_id": "545146",
       "event_date": "2026-02-13",
-      "event_time": "01:00:00",
-      "event_datetime": "2026-02-13 01:00:00",
-      "title": "IEA公布月度原油市场报告",
+      "event_time": "17:20:00",
+      "event_datetime": "2026-02-13 17:20:00",
+      "title": "今日有315亿元7天期逆回购到期",
       "content": null,
       "category": "事件公告",
-      "importance": 3,
-      "country": "法国",
+      "importance": 2,
+      "country": "中国",
       "city": null,
       "stocks": [],
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2026-02-11",
+      "is_new": true,
+      "discovery_date": "2026-02-12",
       "raw_data": {
-        "id": 494305,
-        "calendar_time": "2026-02-13 01:00:00",
-        "data_id": 20889,
+        "id": 545146,
+        "calendar_time": "2026-02-13 17:20:00",
+        "data_id": 20896,
         "type": 2,
         "economic": null,
         "event": {
-          "title": "IEA公布月度原油市场报告",
-          "country": "法国",
+          "title": "今日有315亿元7天期逆回购到期",
+          "country": "中国",
           "country_icon": "",
-          "star": 3
+          "star": 2
         },
         "holiday": null,
-        "title": "IEA公布月度原油市场报告"
+        "title": "今日有315亿元7天期逆回购到期"
       },
-      "created_at": "2026-02-11T01:19:23.540048"
+      "created_at": "2026-02-12T01:12:07.138815"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_545114_20260213_1",
+      "original_id": "545114",
+      "event_date": "2026-02-13",
+      "event_time": "21:30:00",
+      "event_datetime": "2026-02-13 21:30:00",
+      "title": "美国1月未季调CPI年率",
+      "content": null,
+      "category": "经济数据",
+      "importance": 5,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-02-12",
+      "raw_data": {
+        "id": 545114,
+        "calendar_time": "2026-02-13 21:30:00",
+        "data_id": 59869,
+        "type": 1,
+        "economic": {
+          "title": "美国1月未季调CPI年率",
+          "country": "美国",
+          "country_icon": "",
+          "star": 5,
+          "indicator_id": 234,
+          "front": "--",
+          "fix": "--",
+          "consensus": "--",
+          "actual": "--",
+          "unit": "%",
+          "flag": "--",
+          "interpret": "",
+          "interpret_img": []
+        },
+        "event": null,
+        "holiday": null,
+        "title": "美国1月未季调CPI年率"
+      },
+      "created_at": "2026-02-12T01:12:07.138825"
     }
   ]
 }
