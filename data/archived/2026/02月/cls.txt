@@ -2,10 +2,10 @@
   "platform": "cls",
   "year": 2026,
   "month": 2,
-  "total_events": 80,
+  "total_events": 82,
   "data_status": "ARCHIVED",
   "date_type": "HISTORICAL",
-  "last_update": "2026-02-17T01:10:44.299157",
+  "last_update": "2026-02-18T01:13:11.867752",
   "immutable": true,
   "events": [
     {
@@ -3031,6 +3031,87 @@
         "title": "加拿大1月CPI月率"
       },
       "created_at": "2026-02-16T01:11:48.609582"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_556058_20260217_2",
+      "original_id": "556058",
+      "event_date": "2026-02-17",
+      "event_time": "00:00:00",
+      "event_datetime": "2026-02-17 00:00:00",
+      "title": "2026年春节档将于2月17日（大年初一）正式开启",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ARCHIVED",
+      "is_new": false,
+      "discovery_date": "2026-02-17",
+      "raw_data": {
+        "id": 556058,
+        "calendar_time": "2026-02-17 00:00:00",
+        "data_id": 21314,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "2026年春节档将于2月17日（大年初一）正式开启",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "2026年春节档将于2月17日（大年初一）正式开启"
+      },
+      "created_at": "2026-02-17T01:10:45.624845"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_515983_20260217_1",
+      "original_id": "515983",
+      "event_date": "2026-02-17",
+      "event_time": "21:30:00",
+      "event_datetime": "2026-02-17 21:30:00",
+      "title": "美国1月零售销售月率",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ARCHIVED",
+      "is_new": false,
+      "discovery_date": "2026-02-17",
+      "raw_data": {
+        "id": 515983,
+        "calendar_time": "2026-02-17 21:30:00",
+        "data_id": 59079,
+        "type": 1,
+        "economic": {
+          "title": "美国1月零售销售月率",
+          "country": "美国",
+          "country_icon": "",
+          "star": 4,
+          "indicator_id": 194,
+          "front": "--",
+          "fix": "--",
+          "consensus": "--",
+          "actual": "--",
+          "unit": "%",
+          "flag": "--",
+          "interpret": "",
+          "interpret_img": []
+        },
+        "event": null,
+        "holiday": null,
+        "title": "美国1月零售销售月率"
+      },
+      "created_at": "2026-02-17T01:10:45.624868"
     }
   ]
 }
