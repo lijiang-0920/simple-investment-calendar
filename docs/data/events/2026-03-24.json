@@ -1,11 +1,47 @@
 {
   "date": "2026-03-24",
-  "total_events": 1,
+  "total_events": 2,
   "new_events": 1,
   "platforms": {
-    "cls": 1
+    "cls": 2
   },
   "events": [
+    {
+      "platform": "cls",
+      "event_id": "cls_579857_20260324_2",
+      "original_id": "579857",
+      "event_date": "2026-03-24",
+      "event_time": "00:00:00",
+      "event_datetime": "2026-03-24 00:00:00",
+      "title": "博鳌亚洲论坛2026年年会将于3月24日至27日举办",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-02-26",
+      "raw_data": {
+        "id": 579857,
+        "calendar_time": "2026-03-24 00:00:00",
+        "data_id": 21450,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "博鳌亚洲论坛2026年年会将于3月24日至27日举办",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "博鳌亚洲论坛2026年年会将于3月24日至27日举办"
+      },
+      "created_at": "2026-02-26T01:07:58.186430"
+    },
     {
       "platform": "cls",
       "event_id": "cls_573968_20260324_1",
@@ -23,8 +59,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-02-25",
+      "is_new": false,
+      "discovery_date": "2026-02-26",
       "raw_data": {
         "id": 573968,
         "calendar_time": "2026-03-24 07:30:00",
@@ -49,7 +85,7 @@
         "holiday": null,
         "title": "日本2月核心CPI年率"
       },
-      "created_at": "2026-02-25T01:14:52.276378"
+      "created_at": "2026-02-26T01:07:58.186440"
     }
   ]
 }
