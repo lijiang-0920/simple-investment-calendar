@@ -1,11 +1,47 @@
 {
   "date": "2026-03-20",
-  "total_events": 2,
-  "new_events": 0,
+  "total_events": 3,
+  "new_events": 1,
   "platforms": {
-    "cls": 2
+    "cls": 3
   },
   "events": [
+    {
+      "platform": "cls",
+      "event_id": "cls_582337_20260320_2",
+      "original_id": "582337",
+      "event_date": "2026-03-20",
+      "event_time": "00:00:00",
+      "event_datetime": "2026-03-20 00:00:00",
+      "title": "深圳国际商用车生态博览会将于3月20日至23日举办",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-02-27",
+      "raw_data": {
+        "id": 582337,
+        "calendar_time": "2026-03-20 00:00:00",
+        "data_id": 21476,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "深圳国际商用车生态博览会将于3月20日至23日举办",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "深圳国际商用车生态博览会将于3月20日至23日举办"
+      },
+      "created_at": "2026-02-27T01:07:30.334209"
+    },
     {
       "platform": "cls",
       "event_id": "cls_565088_20260320_1",
@@ -24,7 +60,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-02-26",
+      "discovery_date": "2026-02-27",
       "raw_data": {
         "id": 565088,
         "calendar_time": "2026-03-20 09:00:00",
@@ -49,7 +85,7 @@
         "holiday": null,
         "title": "中国至3月20日一年期贷款市场报价利率"
       },
-      "created_at": "2026-02-26T01:07:58.186399"
+      "created_at": "2026-02-27T01:07:30.334219"
     },
     {
       "platform": "cls",
@@ -69,7 +105,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-02-26",
+      "discovery_date": "2026-02-27",
       "raw_data": {
         "id": 565101,
         "calendar_time": "2026-03-20 09:00:00",
@@ -94,7 +130,7 @@
         "holiday": null,
         "title": "中国至3月20日五年期贷款市场报价利率"
       },
-      "created_at": "2026-02-26T01:07:58.186409"
+      "created_at": "2026-02-27T01:07:30.334230"
     }
   ]
 }
