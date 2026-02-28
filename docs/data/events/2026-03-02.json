@@ -1,9 +1,9 @@
 {
   "date": "2026-03-02",
-  "total_events": 3,
-  "new_events": 1,
+  "total_events": 5,
+  "new_events": 2,
   "platforms": {
-    "cls": 3
+    "cls": 5
   },
   "events": [
     {
@@ -24,7 +24,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-02-27",
+      "discovery_date": "2026-02-28",
       "raw_data": {
         "id": 577590,
         "calendar_time": "2026-03-02 00:00:00",
@@ -40,7 +40,7 @@
         "holiday": null,
         "title": "江西铜业收购索尔黄金方案将于3月2日经英国法院进行裁决庭审"
       },
-      "created_at": "2026-02-27T01:07:30.333934"
+      "created_at": "2026-02-28T01:01:55.201595"
     },
     {
       "platform": "cls",
@@ -60,7 +60,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-02-27",
+      "discovery_date": "2026-02-28",
       "raw_data": {
         "id": 577607,
         "calendar_time": "2026-03-02 00:00:00",
@@ -76,7 +76,7 @@
         "holiday": null,
         "title": "芝加哥商品交易所（CME）计划于3月2日推出四款南亚食用油期货合约"
       },
-      "created_at": "2026-02-27T01:07:30.333944"
+      "created_at": "2026-02-28T01:01:55.201606"
     },
     {
       "platform": "cls",
@@ -95,8 +95,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-02-27",
+      "is_new": false,
+      "discovery_date": "2026-02-28",
       "raw_data": {
         "id": 582318,
         "calendar_time": "2026-03-02 00:00:00",
@@ -112,7 +112,88 @@
         "holiday": null,
         "title": "巴塞罗那世界移动通信大会（MWC 2026）将于3月2日至5日在西班牙巴塞罗那开幕"
       },
-      "created_at": "2026-02-27T01:07:30.333954"
+      "created_at": "2026-02-28T01:01:55.201617"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_584472_20260302_2",
+      "original_id": "584472",
+      "event_date": "2026-03-02",
+      "event_time": "00:00:00",
+      "event_datetime": "2026-03-02 00:00:00",
+      "title": "阿里千问将在2026年世界移动通信大会（MWC）上发布AI眼镜，并于3月2日开启线上线下全渠道预约",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-02-28",
+      "raw_data": {
+        "id": 584472,
+        "calendar_time": "2026-03-02 00:00:00",
+        "data_id": 21490,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "阿里千问将在2026年世界移动通信大会（MWC）上发布AI眼镜，并于3月2日开启线上线下全渠道预约",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "阿里千问将在2026年世界移动通信大会（MWC）上发布AI眼镜，并于3月2日开启线上线下全渠道预约"
+      },
+      "created_at": "2026-02-28T01:01:55.201628"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_583293_20260302_1",
+      "original_id": "583293",
+      "event_date": "2026-03-02",
+      "event_time": "17:00:00",
+      "event_datetime": "2026-03-02 17:00:00",
+      "title": "欧元区2月制造业PMI终值",
+      "content": null,
+      "category": "经济数据",
+      "importance": 3,
+      "country": "欧元区",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-02-28",
+      "raw_data": {
+        "id": 583293,
+        "calendar_time": "2026-03-02 17:00:00",
+        "data_id": 59693,
+        "type": 1,
+        "economic": {
+          "title": "欧元区2月制造业PMI终值",
+          "country": "欧元区",
+          "country_icon": "",
+          "star": 3,
+          "indicator_id": 424,
+          "front": "0",
+          "fix": "--",
+          "consensus": "--",
+          "actual": "--",
+          "unit": "",
+          "flag": "--",
+          "interpret": "",
+          "interpret_img": []
+        },
+        "event": null,
+        "holiday": null,
+        "title": "欧元区2月制造业PMI终值"
+      },
+      "created_at": "2026-02-28T01:01:55.201640"
     }
   ]
 }
