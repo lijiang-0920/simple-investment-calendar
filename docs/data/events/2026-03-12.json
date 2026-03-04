@@ -1,9 +1,9 @@
 {
   "date": "2026-03-12",
-  "total_events": 2,
-  "new_events": 0,
+  "total_events": 3,
+  "new_events": 2,
   "platforms": {
-    "cls": 2
+    "cls": 3
   },
   "events": [
     {
@@ -24,7 +24,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-03-03",
+      "discovery_date": "2026-03-04",
       "raw_data": {
         "id": 579805,
         "calendar_time": "2026-03-12 00:00:00",
@@ -40,52 +40,79 @@
         "holiday": null,
         "title": "中国家电及消费电子博览会将于3月12日至15日在上海举办"
       },
-      "created_at": "2026-03-03T01:11:19.735438"
+      "created_at": "2026-03-04T01:07:31.168203"
     },
     {
       "platform": "cls",
-      "event_id": "cls_551327_20260312_1",
-      "original_id": "551327",
+      "event_id": "cls_593719_20260312_2",
+      "original_id": "593719",
       "event_date": "2026-03-12",
-      "event_time": "20:30:00",
-      "event_datetime": "2026-03-12 20:30:00",
-      "title": "美国至3月7日当周初请失业金人数(万人)",
+      "event_time": "00:00:00",
+      "event_datetime": "2026-03-12 00:00:00",
+      "title": "2026上海商业航天大会暨展览会将于3月12日至14日举办",
       "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "美国",
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
       "city": null,
       "stocks": [],
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2026-03-03",
+      "is_new": true,
+      "discovery_date": "2026-03-04",
       "raw_data": {
-        "id": 551327,
-        "calendar_time": "2026-03-12 20:30:00",
-        "data_id": 60022,
-        "type": 1,
-        "economic": {
-          "title": "美国至3月7日当周初请失业金人数(万人)",
-          "country": "美国",
+        "id": 593719,
+        "calendar_time": "2026-03-12 00:00:00",
+        "data_id": 21559,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "2026上海商业航天大会暨展览会将于3月12日至14日举办",
+          "country": "中国",
           "country_icon": "",
-          "star": 4,
-          "indicator_id": 79,
-          "front": "0",
-          "fix": "--",
-          "consensus": "--",
-          "actual": "--",
-          "unit": "万人",
-          "flag": "--",
-          "interpret": "",
-          "interpret_img": []
+          "star": 5
         },
-        "event": null,
         "holiday": null,
-        "title": "美国至3月7日当周初请失业金人数(万人)"
+        "title": "2026上海商业航天大会暨展览会将于3月12日至14日举办"
       },
-      "created_at": "2026-03-03T01:11:19.735448"
+      "created_at": "2026-03-04T01:07:31.168214"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_593721_20260312_2",
+      "original_id": "593721",
+      "event_date": "2026-03-12",
+      "event_time": "00:00:00",
+      "event_datetime": "2026-03-12 00:00:00",
+      "title": "GAIC全球人工智能大会将于3月12日至14日在杭州举行",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-03-04",
+      "raw_data": {
+        "id": 593721,
+        "calendar_time": "2026-03-12 00:00:00",
+        "data_id": 21560,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "GAIC全球人工智能大会将于3月12日至14日在杭州举行",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "GAIC全球人工智能大会将于3月12日至14日在杭州举行"
+      },
+      "created_at": "2026-03-04T01:07:31.168224"
     }
   ]
 }
