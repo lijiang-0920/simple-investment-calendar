@@ -1,55 +1,55 @@
 {
   "date": "2026-03-18",
   "total_events": 1,
-  "new_events": 0,
+  "new_events": 1,
   "platforms": {
     "cls": 1
   },
   "events": [
     {
       "platform": "cls",
-      "event_id": "cls_562120_20260318_1",
-      "original_id": "562120",
+      "event_id": "cls_594896_20260318_1",
+      "original_id": "594896",
       "event_date": "2026-03-18",
-      "event_time": "22:30:00",
-      "event_datetime": "2026-03-18 22:30:00",
-      "title": "美国至3月13日当周EIA原油库存(万桶)",
+      "event_time": "20:30:00",
+      "event_datetime": "2026-03-18 20:30:00",
+      "title": "美国2月PPI年率",
       "content": null,
       "category": "经济数据",
-      "importance": 4,
+      "importance": 3,
       "country": "美国",
       "city": null,
       "stocks": [],
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2026-03-03",
+      "is_new": true,
+      "discovery_date": "2026-03-05",
       "raw_data": {
-        "id": 562120,
-        "calendar_time": "2026-03-18 22:30:00",
-        "data_id": 60221,
+        "id": 594896,
+        "calendar_time": "2026-03-18 20:30:00",
+        "data_id": 60767,
         "type": 1,
         "economic": {
-          "title": "美国至3月13日当周EIA原油库存(万桶)",
+          "title": "美国2月PPI年率",
           "country": "美国",
           "country_icon": "",
-          "star": 4,
-          "indicator_id": 111,
-          "front": "0",
+          "star": 3,
+          "indicator_id": 178,
+          "front": "--",
           "fix": "--",
           "consensus": "--",
           "actual": "--",
-          "unit": "万桶",
+          "unit": "%",
           "flag": "--",
           "interpret": "",
           "interpret_img": []
         },
         "event": null,
         "holiday": null,
-        "title": "美国至3月13日当周EIA原油库存(万桶)"
+        "title": "美国2月PPI年率"
       },
-      "created_at": "2026-03-03T01:11:19.735518"
+      "created_at": "2026-03-05T01:10:08.773825"
     }
   ]
 }
