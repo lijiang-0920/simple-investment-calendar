@@ -1,9 +1,9 @@
 {
   "date": "2026-03-13",
-  "total_events": 2,
-  "new_events": 2,
+  "total_events": 1,
+  "new_events": 0,
   "platforms": {
-    "cls": 2
+    "cls": 1
   },
   "events": [
     {
@@ -23,8 +23,8 @@
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-03-05",
+      "is_new": false,
+      "discovery_date": "2026-03-06",
       "raw_data": {
         "id": 551352,
         "calendar_time": "2026-03-13 01:00:00",
@@ -40,52 +40,7 @@
         "holiday": null,
         "title": "IEA公布月度原油市场报告"
       },
-      "created_at": "2026-03-05T01:10:08.773753"
-    },
-    {
-      "platform": "cls",
-      "event_id": "cls_594782_20260313_1",
-      "original_id": "594782",
-      "event_date": "2026-03-13",
-      "event_time": "20:30:00",
-      "event_datetime": "2026-03-13 20:30:00",
-      "title": "美国1月核心PCE物价指数年率",
-      "content": null,
-      "category": "经济数据",
-      "importance": 4,
-      "country": "美国",
-      "city": null,
-      "stocks": [],
-      "concepts": [],
-      "themes": [],
-      "data_status": "ACTIVE",
-      "is_new": true,
-      "discovery_date": "2026-03-05",
-      "raw_data": {
-        "id": 594782,
-        "calendar_time": "2026-03-13 20:30:00",
-        "data_id": 60706,
-        "type": 1,
-        "economic": {
-          "title": "美国1月核心PCE物价指数年率",
-          "country": "美国",
-          "country_icon": "",
-          "star": 4,
-          "indicator_id": 211,
-          "front": "--",
-          "fix": "--",
-          "consensus": "--",
-          "actual": "--",
-          "unit": "%",
-          "flag": "--",
-          "interpret": "",
-          "interpret_img": []
-        },
-        "event": null,
-        "holiday": null,
-        "title": "美国1月核心PCE物价指数年率"
-      },
-      "created_at": "2026-03-05T01:10:08.773763"
+      "created_at": "2026-03-06T01:13:38.953968"
     }
   ]
 }
