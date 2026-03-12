@@ -1,46 +1,127 @@
 {
   "date": "2026-03-13",
-  "total_events": 1,
-  "new_events": 0,
+  "total_events": 3,
+  "new_events": 3,
   "platforms": {
-    "cls": 1
+    "cls": 3
   },
   "events": [
     {
       "platform": "cls",
-      "event_id": "cls_551352_20260313_2",
-      "original_id": "551352",
+      "event_id": "cls_608383_20260313_2",
+      "original_id": "608383",
       "event_date": "2026-03-13",
-      "event_time": "01:00:00",
-      "event_datetime": "2026-03-13 01:00:00",
-      "title": "IEA公布月度原油市场报告",
+      "event_time": "00:00:00",
+      "event_datetime": "2026-03-13 00:00:00",
+      "title": "2026中国国际新能源汽车技术、零部件及服务展览会将于3月13日至16日在北京举办",
       "content": null,
       "category": "事件公告",
-      "importance": 3,
-      "country": "法国",
+      "importance": 5,
+      "country": "中国",
       "city": null,
       "stocks": [],
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
-      "is_new": false,
-      "discovery_date": "2026-03-11",
+      "is_new": true,
+      "discovery_date": "2026-03-12",
       "raw_data": {
-        "id": 551352,
-        "calendar_time": "2026-03-13 01:00:00",
-        "data_id": 21280,
+        "id": 608383,
+        "calendar_time": "2026-03-13 00:00:00",
+        "data_id": 21676,
         "type": 2,
         "economic": null,
         "event": {
-          "title": "IEA公布月度原油市场报告",
-          "country": "法国",
+          "title": "2026中国国际新能源汽车技术、零部件及服务展览会将于3月13日至16日在北京举办",
+          "country": "中国",
           "country_icon": "",
-          "star": 3
+          "star": 5
         },
         "holiday": null,
-        "title": "IEA公布月度原油市场报告"
+        "title": "2026中国国际新能源汽车技术、零部件及服务展览会将于3月13日至16日在北京举办"
       },
-      "created_at": "2026-03-11T01:05:27.952032"
+      "created_at": "2026-03-12T01:02:53.283088"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_608388_20260313_2",
+      "original_id": "608388",
+      "event_date": "2026-03-13",
+      "event_time": "00:00:00",
+      "event_datetime": "2026-03-13 00:00:00",
+      "title": "科创50、科创100等科创板指数样本每季度进行定期调整，本次调整将于3月13日收市后实施",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-03-12",
+      "raw_data": {
+        "id": 608388,
+        "calendar_time": "2026-03-13 00:00:00",
+        "data_id": 21677,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "科创50、科创100等科创板指数样本每季度进行定期调整，本次调整将于3月13日收市后实施",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "科创50、科创100等科创板指数样本每季度进行定期调整，本次调整将于3月13日收市后实施"
+      },
+      "created_at": "2026-03-12T01:02:53.283099"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_598727_20260313_1",
+      "original_id": "598727",
+      "event_date": "2026-03-13",
+      "event_time": "20:30:00",
+      "event_datetime": "2026-03-13 20:30:00",
+      "title": "美国1月核心PCE物价指数年率",
+      "content": null,
+      "category": "经济数据",
+      "importance": 4,
+      "country": "美国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-03-12",
+      "raw_data": {
+        "id": 598727,
+        "calendar_time": "2026-03-13 20:30:00",
+        "data_id": 60706,
+        "type": 1,
+        "economic": {
+          "title": "美国1月核心PCE物价指数年率",
+          "country": "美国",
+          "country_icon": "",
+          "star": 4,
+          "indicator_id": 211,
+          "front": "--",
+          "fix": "--",
+          "consensus": "--",
+          "actual": "--",
+          "unit": "%",
+          "flag": "--",
+          "interpret": "",
+          "interpret_img": []
+        },
+        "event": null,
+        "holiday": null,
+        "title": "美国1月核心PCE物价指数年率"
+      },
+      "created_at": "2026-03-12T01:02:53.283110"
     }
   ]
 }
