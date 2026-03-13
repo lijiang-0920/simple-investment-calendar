@@ -1,55 +1,82 @@
 {
   "date": "2026-03-18",
-  "total_events": 1,
-  "new_events": 1,
+  "total_events": 2,
+  "new_events": 2,
   "platforms": {
-    "cls": 1
+    "cls": 2
   },
   "events": [
     {
       "platform": "cls",
-      "event_id": "cls_594896_20260318_1",
-      "original_id": "594896",
+      "event_id": "cls_610670_20260318_2",
+      "original_id": "610670",
       "event_date": "2026-03-18",
-      "event_time": "20:30:00",
-      "event_datetime": "2026-03-18 20:30:00",
-      "title": "美国2月PPI年率",
+      "event_time": "00:00:00",
+      "event_datetime": "2026-03-18 00:00:00",
+      "title": "腾讯将于3月18日召开董事会会议，以批准全年业绩及公告",
       "content": null,
-      "category": "经济数据",
-      "importance": 3,
-      "country": "美国",
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
       "city": null,
       "stocks": [],
       "concepts": [],
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": true,
-      "discovery_date": "2026-03-05",
+      "discovery_date": "2026-03-13",
       "raw_data": {
-        "id": 594896,
-        "calendar_time": "2026-03-18 20:30:00",
-        "data_id": 60767,
-        "type": 1,
-        "economic": {
-          "title": "美国2月PPI年率",
-          "country": "美国",
+        "id": 610670,
+        "calendar_time": "2026-03-18 00:00:00",
+        "data_id": 21703,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "腾讯将于3月18日召开董事会会议，以批准全年业绩及公告",
+          "country": "中国",
           "country_icon": "",
-          "star": 3,
-          "indicator_id": 178,
-          "front": "--",
-          "fix": "--",
-          "consensus": "--",
-          "actual": "--",
-          "unit": "%",
-          "flag": "--",
-          "interpret": "",
-          "interpret_img": []
+          "star": 5
         },
-        "event": null,
         "holiday": null,
-        "title": "美国2月PPI年率"
+        "title": "腾讯将于3月18日召开董事会会议，以批准全年业绩及公告"
       },
-      "created_at": "2026-03-05T01:10:08.773825"
+      "created_at": "2026-03-13T01:08:35.190581"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_609382_20260318_2",
+      "original_id": "609382",
+      "event_date": "2026-03-18",
+      "event_time": "17:20:00",
+      "event_datetime": "2026-03-18 17:20:00",
+      "title": "今日有265亿元7天期逆回购到期",
+      "content": null,
+      "category": "事件公告",
+      "importance": 2,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-03-13",
+      "raw_data": {
+        "id": 609382,
+        "calendar_time": "2026-03-18 17:20:00",
+        "data_id": 21688,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "今日有265亿元7天期逆回购到期",
+          "country": "中国",
+          "country_icon": "",
+          "star": 2
+        },
+        "holiday": null,
+        "title": "今日有265亿元7天期逆回购到期"
+      },
+      "created_at": "2026-03-13T01:08:35.190591"
     }
   ]
 }
