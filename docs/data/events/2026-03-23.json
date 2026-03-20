@@ -1,9 +1,9 @@
 {
   "date": "2026-03-23",
-  "total_events": 1,
-  "new_events": 0,
+  "total_events": 2,
+  "new_events": 1,
   "platforms": {
-    "cls": 1
+    "cls": 2
   },
   "events": [
     {
@@ -24,7 +24,7 @@
       "themes": [],
       "data_status": "ACTIVE",
       "is_new": false,
-      "discovery_date": "2026-03-19",
+      "discovery_date": "2026-03-20",
       "raw_data": {
         "id": 610724,
         "calendar_time": "2026-03-23 00:00:00",
@@ -40,7 +40,43 @@
         "holiday": null,
         "title": "谷歌将于3月23日在谷歌营销平台推出Gemini Advantage"
       },
-      "created_at": "2026-03-19T01:14:27.414599"
+      "created_at": "2026-03-20T01:09:51.870597"
+    },
+    {
+      "platform": "cls",
+      "event_id": "cls_623749_20260323_2",
+      "original_id": "623749",
+      "event_date": "2026-03-23",
+      "event_time": "00:00:00",
+      "event_datetime": "2026-03-23 00:00:00",
+      "title": "西门子首届科技大会将于3月23日至24日举办",
+      "content": null,
+      "category": "事件公告",
+      "importance": 5,
+      "country": "中国",
+      "city": null,
+      "stocks": [],
+      "concepts": [],
+      "themes": [],
+      "data_status": "ACTIVE",
+      "is_new": true,
+      "discovery_date": "2026-03-20",
+      "raw_data": {
+        "id": 623749,
+        "calendar_time": "2026-03-23 00:00:00",
+        "data_id": 21778,
+        "type": 2,
+        "economic": null,
+        "event": {
+          "title": "西门子首届科技大会将于3月23日至24日举办",
+          "country": "中国",
+          "country_icon": "",
+          "star": 5
+        },
+        "holiday": null,
+        "title": "西门子首届科技大会将于3月23日至24日举办"
+      },
+      "created_at": "2026-03-20T01:09:51.870607"
     }
   ]
 }
